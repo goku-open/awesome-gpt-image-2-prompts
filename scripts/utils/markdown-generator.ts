@@ -212,7 +212,7 @@ function generateDatasetSection(total: number, locale: string): string {
 
 <div align="center">
 
-[![🤗 HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-${t("datasetDownload", locale)}-blue)](${HF_DATASET_URL})
+[![🤗 HuggingFace](https://img.shields.io/badge/${encodeURIComponent("🤗 HuggingFace")}-${encodeURIComponent(t("datasetDownload", locale))}-blue)](${HF_DATASET_URL})
 
 </div>
 
