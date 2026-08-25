@@ -50,25 +50,25 @@
 | 指标 | 数量 |
 |--------|-------|
 | 📝 提示词总数 | **17271** |
-| 🔄 最后更新 | **2026年8月24日星期一 UTC 00:33:16** |
+| 🔄 最后更新 | **2026年8月25日星期二 UTC 00:32:31** |
 
 </div>
 
 ---
 ## 📋 所有提示词
 
-### No. 1: AI时尚杂志封面
+### No. 1: 超写实奢侈时尚肖像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一本写实的高端时尚杂志封面，顶部用大白色衬线字体写实，标题为“{argument name=”magazine title“ default=”LUMINA“}。封面上有一幅肖像，描绘了{argument name=“subject description” 默认=“美丽年轻女子，肩长波浪棕色头发”}，穿着{argu…
+超写实奢侈时尚肖像，描绘一名{argument name=“subject” default=“young woman”}身穿{argument name=“clothing” default=“定制炭黑色细条纹西装”}，站在{argument name=“furniture” default=“雕塑性木质设计师椅”…
 
 #### 📝 提示词
 
 ```
-一本写实的高端时尚杂志封面，顶部用大白色衬线字体写实，标题为“{argument name=”magazine title“ default=”LUMINA“}。封面上有一幅肖像，描绘了{argument name=“subject description” 默认=“美丽年轻女子，肩长波浪棕色头发”}，穿着{argument name=“outfit” 默认=“白色西装外套配黑色丝绸吊带”}，配饰为金色圈耳环和精致金项链。她直视镜头，表情自信优雅，背景是质感温暖的灰色演播室。左侧黑色文字写着“人工智能美的新时代”和一个更大的标题“{argument name=”main headline“ default=”STYLE EVOLUTION“}”。右侧白色文字写着“未来时尚”和“接下来是什么？”。底部白色文字写着“BEAUTY SECRETS OF TOMORROW”和“{argument name=”bottom text“ default=”ELEGANT & CHIC“}”。专业的影棚灯光，柔和的阴影，细节丰富。
+超写实奢侈时尚肖像，描绘一名{argument name=“subject” default=“young woman”}身穿{argument name=“clothing” default=“定制炭黑色细条纹西装”}，站在{argument name=“furniture” default=“雕塑性木质设计师椅”}旁边，地点在一家极简主义摄影工作室。她随意地靠在椅子上，一只手搭在靠背上，另一只手插在裤兜里。西装外套下是黑色丝绸衬衫，低调的奢华手表也可见。中长波浪发，柔和蓬松，自然妆容，自信冷静的表情，直视镜头。采用高端时尚广告摄影风格拍摄，黑白单色调色，永恒的编辑美学，奢侈杂志封面的质量，细腻的胶片质感，丰富的色调对比，深邃的黑色，平滑的灰阶过渡。专业工作室灯光，配备大型柔光箱从左侧开始，柔和的阴影衰减，受伦勃朗启发的灯光，干净的渐变背景，中等至全身构图，眼平视角，85mm镜头，f/4，超清晰的面部细节，高级剪裁纹理可见，电影般的深度，极简奢华品牌美学，瑞士手表广告风格，Vogue编辑，迪奥广告，完美造型，照片级写实，8K。
 ```
 
 #### 🖼️ 生成图片
@@ -76,620 +76,66 @@
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04634_0.jpg" width="600" alt="AI时尚杂志封面 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 2: 旅行指南制作秘籍
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-为{argument name=“country” default=“infographic-style travelguide”}制作一份详尽且极具吸引力的{argument name=“country” default=“[country]”}的作品应当像高端设计师旅行海报与有趣的漫画插画混合。包括：- 一个吸引…
-
-#### 📝 提示词
-
-```
-为{argument name=“country” default=“infographic-style travelguide”}制作一份详尽且极具吸引力的{argument name=“country” default=“[country]”}的作品应当像高端设计师旅行海报与有趣的漫画插画混合。包括：- 一个吸引人的标题和简短副标题 - 推荐景点（具体地点，非泛泛而谈）- 推荐美食（当地菜，真实姓名，而非“街头小吃”）- 活动内容（混合游客+本地+独特体验）- 本地氛围（文化、行为、氛围）- 快速实用建议（交通、预算、应避免的错误）
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01766_0.jpg" width="600" alt="旅行指南制作秘籍 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02353_0.jpg" width="600" alt="超写实奢侈时尚肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01766_1.jpg" width="600" alt="旅行指南制作秘籍 - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02353_1.jpg" width="600" alt="超写实奢侈时尚肖像 - Image 2">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 3: 街头漫画人像
+### No. 2: 商业领袖奢华肖像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-将上传的肖像作为被摄者面部、发型、面部结构和整体印象的身份参考。 创作一张高质量的生活方式编辑肖像，描绘同一个人坐在户外，旁边是一幅色彩斑斓的街头风格漫画肖像。 真实人物和漫画形象必须明显相似。 场景： - 该人坐在一把简单的木制折叠椅上 - 旁边有一个木制画架，上面摆着一幅大型漫画画 - 背景是一个感伤的城市艺术市…
+一位高地位商业领袖的强有力肖像，他穿着高级定制奢华正装（剪裁完美的深色西装、干净的白色衬衫、优雅的领带）。 面部特征锐利，仪容整洁，超现实细节。 表情与氛围： 冷静、自信且极具权威的表情——专注的目光象征着智慧、掌控力和全球影响力。 姿势与构图： 半身肖像（胸部以上） 轻微对角线电影感角度，增加深度和强度 强有力的执…
 
 #### 📝 提示词
 
 ```
-将上传的肖像作为被摄者面部、发型、面部结构和整体印象的身份参考。
+一位高地位商业领袖的强有力肖像，他穿着高级定制奢华正装（剪裁完美的深色西装、干净的白色衬衫、优雅的领带）。
 
-创作一张高质量的生活方式编辑肖像，描绘同一个人坐在户外，旁边是一幅色彩斑斓的街头风格漫画肖像。
+面部特征锐利，仪容整洁，超现实细节。
 
-真实人物和漫画形象必须明显相似。
+表情与氛围：
+冷静、自信且极具权威的表情——专注的目光象征着智慧、掌控力和全球影响力。
 
-场景：
-- 该人坐在一把简单的木制折叠椅上
-- 旁边有一个木制画架，上面摆着一幅大型漫画画
-- 背景是一个感伤的城市艺术市场
-- 包括插画摊位、手工手工艺摊位、素描展示、海报、温馨的创意店面，以及几处柔和模糊的行人
-- 热闹但不拥挤
-- 明亮柔和的日光，温暖的自然色调，浅景深
-- 为人物和环境拍摄的逼真摄影
-- 竖向构图清晰展现人物和漫画形象
-
-主题：
-- 保留上传者可识别的身份
-- 自然姿势
-- 平静、放松、略带戏谑的表情
-- 适合主题的时尚休闲装扮
-- 干净的编辑生活方式摄影
-- 不要强迫每个受试者都采用相同的姿势或表情
-
-漫画导演：
-- 画架上的画必须是真正的街头观察漫画，而非普通的可爱卡通
-- 漫画艺术家应夸张描绘被摄者最显著的面部特征
-
-- 分析上传的面部，并仅夸大2到4个显著特征，如眼形、眉毛、鼻子、嘴唇、脸颊、下颌线、下巴、耳朵、发型或面部比例
-- 每个漫画形象都应为该特定人物量身定制
-- 避免为每个人使用相同的默认可爱脸孔
-- 避免泛泛的大眼睛和舌头外露的表情
-- 漫画应当有趣，因为它捕捉了人物独特的特征，而不是因为使用了随机的滑稽姿势
-
-漫画风格：
-- 头部过大，身体更小且简化
-- 俏皮但易于辨认的面部比例
-- 粗体手绘标记线
-- 快速的草笔笔画
-- 彩色铅笔纹理
-- 充满活力的街头艺术家能量
-- 幽默但讨喜
-- 机智、富有表现力且个性鲜明
-- 迷人的手工瑕疵
-- 可以添加色彩丰富的点缀涂鸦，但焦点应保持在脸部
-
-漫画中的表情：
-- 选择自然且有趣的表情，与个人面部特征相符
-- 可能的表情：挑眉、害羞的微笑、惊讶的眼神、自信的微笑、尴尬的礼貌微笑、夸张的平静表情、嘟嘴唇、困惑的可爱表情，或温柔的空洞凝视
-- 表达应根据主题而异
-- 不要总是使用舌头外露的脸
-- 不要总是用同样的可爱表情
-
-漫画画布：
-- 大型垂直绘图板或画布放在木制画架上
-- 漫画形象应清晰可见，占据图像的主要部分
-- 它应该立刻被当作一个有趣的街头漫画
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08655_0.jpg" width="600" alt="街头漫画人像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 4: 待处理内容
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-$dd
-
-#### 📝 提示词
-
-```
-$dd
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15820_0.jpg" width="600" alt="待处理内容 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 5: 暗黑停车场超酷炫大片
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在黑暗的地下停车场中创建一个超电影化的竖直肖像：{argument name=“character description” default=“一个神秘的成年男子，短而光滑的黑发”}从画面中央直接走向镜头，身穿{argument name=“outfit” default=“合身的黑色长风衣，外面是全黑战术服和黑色战…
-
-#### 📝 提示词
-
-```
-在黑暗的地下停车场中创建一个超电影化的竖直肖像：{argument name=“character description” default=“一个神秘的成年男子，短而光滑的黑发”}从画面中央直接走向镜头，身穿{argument name=“outfit” default=“合身的黑色长风衣，外面是全黑战术服和黑色战斗靴”}。他的右手举向镜头，做出命令式，左臂自然垂下，身体全长且居中。使用超低地板视角，配合强烈的单点透视、湿润反光混凝土地面、粗糙的工业天花板、管道、混凝土柱、飘散的烟雾、雾气和尘埃颗粒。把两辆模糊的豪华跑车对称地放在他两侧，一辆左侧，一辆右侧，都朝前，配有明亮的白色大灯和亮亮的深色车身。在背景中添加三个可见的红色警告灯，角色后面有两个小红光簇，红色光芒反射在车辆和地板上。在头顶和两侧各处加装多个冷白色荧光灯管，包括角色上方一个明亮的中央天花板灯管，营造蓝白色的高光。灯光应为情绪化的青绿色、黑色和红色，搭配强烈的边缘光、体积雾、湿反射、镜头光晕覆盖下半身、浅景深、高对比、逼真的皮肤和织物质感、电影般的动作惊悚氛围、9：16的竖向构图、无文字、无标志、无水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06193_0.jpg" width="600" alt="暗黑停车场超酷炫大片 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 6: 复古橡皮管卡通变身
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-将照片中的人物转变为{argument name=“style” 默认=“复古1930年代至1940年代的卡通角色”}，灵感来自经典的“橡皮管动画”风格，如{argument name=“references” 默认=“Betty Boop， Cuphead， Steamboat Willie”}，以及老Fleisc…
-
-#### 📝 提示词
-
-```
-将照片中的人物转变为{argument name=“style” 默认=“复古1930年代至1940年代的卡通角色”}，灵感来自经典的“橡皮管动画”风格，如{argument name=“references” 默认=“Betty Boop， Cuphead， Steamboat Willie”}，以及老Fleischer Studios动画。
-
-重要提示：
-
-清晰地保留照片中人物的身份（可识别的头发、胡须、眼镜、面部表情）。
-
-夸张、弹性的卡通风格身材。
-
-大大的黑色复古派纹眼睛。
-
-大大的表情笑容。
-
-经典的白色卡通手套。
-
-超大号的1930年代风格卡通鞋。
-
-细长的橡胶软管式手臂和腿部。
-
-粗黑色轮廓和真实复古动画风格。
-
-视觉风格：
-
-黑白或复古棕褐色调。
-
-陈旧的胶片质感。
-
-细小的颗粒、划痕和像老式胶片胶卷一样的瑕疵。
-
-简单的卡通动画风格的着色。
-
-夸张但自然的比例。
-
-背景灵感来自照片的原始环境。
+姿势与构图：
+半身肖像（胸部以上）
+轻微对角线电影感角度，增加深度和强度
+强有力的执行官姿态（双手放松或整理西装）
 
 艺术风格：
-
-1930年代/1940年代的动画动画。
-
-橡皮管卡通风格。
-
-复古动画海报风格。
-
-弗莱舍工作室的美学。
-
-受《杯头》启发的复古卡通风格。
-
-墨线轮廓和夸张的表情。
-
-质量：
-
-超细致的复古动画。
-
-电影构图。
-
-面部细节高度相似。
-
-柔和的复古灯光。
-
-真实的复古动画感觉。
-
-全身角色。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00792_0.jpg" width="600" alt="复古橡皮管卡通变身 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00792_1.jpg" width="600" alt="复古橡皮管卡通变身 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00792_2.jpg" width="600" alt="复古橡皮管卡通变身 - Image 3">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 7: 未来时尚人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-使用我输入的参考照片中的脸部，不更改被摄者的面部特征。写实肖像，极高角度，动态构图，{argument name=“drink” default=“drink //”}，Outfit： {argument name=“outfit” default=“方正T恤+宽松牛仔裤+复古运动鞋”}，前景为被摄者手臂{argum…
-
-#### 📝 提示词
-
-```
-使用我输入的参考照片中的脸部，不更改被摄者的面部特征。写实肖像，极高角度，动态构图，{argument name=“drink” default=“drink //”}，Outfit： {argument name=“outfit” default=“方正T恤+宽松牛仔裤+复古运动鞋”}，前景为被摄者手臂{argument name=“gesture” default=“👊🏻/👋🏻/✋🏻 🖕🏻 🤏🏻 🫰🏻 👌🏻 🫰🏻 ✌🏻”}， 🥤 🧋 🧃 时尚2026编辑、美学、使用白色记号笔的手写，你可以在左下角看到品牌标志和服装图片、二维码和条形码。--ar 9：16， -- 8K，--原始
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06437_0.jpg" width="600" alt="未来时尚人像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 8: 蕾丝居家裙风格提案
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-请生成一张横向 4:3、高清写实摄影质感的中文版「AI蕾丝居家裙风格提案」图片。 【本张主题】 【填写：如 香槟缎面拼蕾丝 / 奶油白轻纱蕾丝 / 豆沙玫瑰柔蕾丝 / 晨雾紫轻蕾丝】 【产品名称】 【填写：原创品牌名 + 产品名】 【居家裙款式 / 颜色】 【填写：颜色、款式、吊带、外披、薄纱、缎面、蕾丝拼接等】 【…
-
-#### 📝 提示词
-
-```
-请生成一张横向 4:3、高清写实摄影质感的中文版「AI蕾丝居家裙风格提案」图片。
-
-【本张主题】
-【填写：如 香槟缎面拼蕾丝 / 奶油白轻纱蕾丝 / 豆沙玫瑰柔蕾丝 / 晨雾紫轻蕾丝】
-
-【产品名称】
-【填写：原创品牌名 + 产品名】
-
-【居家裙款式 / 颜色】
-【填写：颜色、款式、吊带、外披、薄纱、缎面、蕾丝拼接等】
-
-【面料关键词】
-【填写：蕾丝、薄纱、缎面、柔软亲肤、自然垂坠、精致刺绣、轻盈层次等】
-
-【整体风格关键词】
-轻熟、柔和、居家松弛、轻奢、精致、女性向、写实写真、品牌 lookbook、中文种草板、柔光卧室氛围。
-
-【整体定位】
-这不是低俗图片，不是情趣广告，也不是廉价电商图。
-请创作一张兼具「主视觉模特展示 + 居家裙产品拆解 + 面料细节特写 + 专业信息模块 + 搭配灵感小图 + 中文手写风标注」的高完成度产品提案板。
-整体像高端家居服 / 睡裙 / 轻奢女装品牌的社媒视觉方案，真实、清晰、有信息量、有收藏感。
-
-【版式要求】
-横向 4:3。
-顶部标题写：AI居家裙风格提案 / AI Lace Loungewear Styling Board。
-左侧：主视觉模特展示。
-中部：产品拆解 + 面料细节 + 材质互动特写。
-右侧：专业信息模块。
-底部：3 个搭配 / 场景灵感小卡片。
-背景使用暖白、浅灰白、浅香槟白、奶油白或柔和低饱和色。
-加入细线框、色卡、材质卡、箭头、评分条、中文手写风标注，布局丰满但清晰，不要杂乱。
-
-【主视觉模特】
-生成一位成年亚洲女性模特，人物写实、自然、漂亮、有辨识度，不要像 AI 克隆人。
-模特在简洁高级的卧室、床边、窗边或柔软床品上自然靠坐、半倚、侧坐或轻微回头。
-裙装主体必须清晰可见，重点展示服装结构、面料质感、整体版型和居家氛围。
-姿态自然优雅，可以整理外披、轻提裙摆、轻扶肩带、自然垂手或坐在床边。
-不要挑逗姿势，不要低俗动作，不要夸张情色表达。
-
-【产品展示】
-清晰展示同款居家裙的产品拆解：
-裙装平铺图、肩带细节、领口蕾丝细节、腰线剪裁、裙摆花边、面料纹理放大、薄纱 / 缎面 / 蕾丝拼接细节、面料垂坠小样、外披或边饰细节。
-
-【材质互动特写】
-加入 2 个干净专业的面料展示特写：
-1. 手指轻触蕾丝边缘，展示花纹、柔软度和精致感。
-2. 轻提裙摆或整理外披，展示面料垂坠、层次和轻盈感。
-画面必须是产品展示感，不要暧昧，不要恋物化，重点放在材质、设计和版型。
-
-【右侧信息模块】
-包含：
-风格主题
-色彩系统，展示 5-6 个色块
-面料构成
-柔软度评分
-轻盈感评分
-垂坠感评分
-精致度评分
-亲肤感评分
-适合场景
-搭配建议
-穿着印象
-
-【底部搭配灵感】
-保留 3 个小卡片，每张卡片展示半身到大腿的人物穿搭效果，并配简短中文说明。
-示例：
-Look 01：晨光卧室，柔和又精致
-Look 02：床边靠坐，外披增加层次
-Look 03：窗边柔光，适合品牌主视觉
-
-【中文手写风标注】
-加入适量中文手写风注释、箭头、小圈注、小星星。
-文案可以围绕：
-蕾丝细节很精致、颜色柔和很衬肤色、面料轻盈不厚重、垂坠感自然、居家氛围完整、适合做主视觉种草图、品牌感很强。
-
-【视觉要求】
-高清写实摄影质感，真实人物，真实面料，真实自然光，像高端品牌提案板、女性时尚杂志内页、居家服品牌社媒视觉。
-不要卡通，不要插画，不要低清晰度，不要廉价排版，不要强广告贴图感，不要杂乱，不要水印，不要多余 logo，不要错误文字，不要乱码，不要畸形手指，不要错误身体结构，不要塑料皮肤，不要过度磨皮。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11834_0.jpg" width="600" alt="蕾丝居家裙风格提案 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11834_1.jpg" width="600" alt="蕾丝居家裙风格提案 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 9: 奇幻女子与白公羊
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一幅照片级写实、电影感十足的竖直肖像，描绘一位中世纪或奇幻女性，{argument name=“hair color” default=“long cop-red hair”}，从胸部以上轻轻拥抱着一头巨大的白色公羊。女性穿着深苔绿色羊毛裙或长袍，袖口绣有华丽的袖口，肩披厚重的毛皮边斗篷或披肩，营造维京或高地美学。她…
-
-#### 📝 提示词
-
-```
-一幅照片级写实、电影感十足的竖直肖像，描绘一位中世纪或奇幻女性，{argument name=“hair color” default=“long cop-red hair”}，从胸部以上轻轻拥抱着一头巨大的白色公羊。女性穿着深苔绿色羊毛裙或长袍，袖口绣有华丽的袖口，肩披厚重的毛皮边斗篷或披肩，营造维京或高地美学。她的头发浓密、波浪状，略带风吹拂，头顶编织着细辫子。公羊拥有浓密的奶油白色卷毛，闭眼时表情平静，明显的螺旋角向外向前弯曲。女子的手温柔地放在公羊的脖颈上，传递着温暖、保护与陪伴。故事背景设定在崎岖多云的户外景观中，背景是柔和模糊的山丘或荒原，凉爽的灰色天空，浅景深，自然柔和的光线，头发、羊毛、毛发和织物的丰富纹理细节，泥土色调柔和的色调，亲密的构图，逼真的皮肤和动物特征。在左上角添加黑色文字，写道{argument name=“corner text” default=“GPT Image 2”}。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10365_0.jpg" width="600" alt="奇幻女子与白公羊 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 10: 港风女神致敬海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一张复古香港电影致敬海报，采用优雅的1980至1990年代杂志风格，画面为一张华丽的半身特写，{argument name=“celebrity name” default=“Rosamund Kwan”}坐在室内，背景为柔和的中性米色。她有一头浓密的深棕色波浪及肩长发，侧分，皮肤光泽，表情温柔，一只手轻轻举起靠近脸…
-
-#### 📝 提示词
-
-```
-一张复古香港电影致敬海报，采用优雅的1980至1990年代杂志风格，画面为一张华丽的半身特写，{argument name=“celebrity name” default=“Rosamund Kwan”}坐在室内，背景为柔和的中性米色。她有一头浓密的深棕色波浪及肩长发，侧分，皮肤光泽，表情温柔，一只手轻轻举起靠近脸颊，穿着奶油白色西装外套，戴着大圆珍珠耳环。采用温暖的漫射摄影棚灯光、柔焦、细腻的胶片质感、细腻的颗粒感，以及米色、象牙色、棕褐色和深李色的奢华怀旧调色。构图设计成纪念海报或星形海报，字体环绕肖像：最左侧是非常大的竖直中文书法风格姓名，深梅字，书写为{argument name=“main Chinese name” default=“关之琳”};右侧是一条细长的竖线，较小的中文文字写着{argument name=“vertical tagline” default=“绝代佳人・風華永恆”}。在左侧大标题下方，用优雅的斜体衬线体写入英文名，写道{argument name=“English name” default=“Rosamund Kwan”}。在下面，用较小衬线字体加上两行中文引语。左下角，包含3张叠放的长方形电影剧照缩略图，带有细边，每个缩略图显示同一位女演员在不同角色中的表现;每个缩略图左边有一条狭窄的竖直中文字幕条。在肖像右下角放置一个文字块，上面有大大的中文姓氏和名字，分为两行，下面是英文名，然后是出生行和另外两行中文描述文字。在右下角附近添加一个深紫色的手写签名。在底部中央，添加两行经典衬线体风格的中文标语文字，与主版面之间留出充足的负空间。整体风格：优雅、感性、高端编辑海报，地道的香港复古女演员致敬，平衡的排版，高级印刷设计，以肖像为主的版面布局。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10582_0.jpg" width="600" alt="港风女神致敬海报 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 11: 扩散寄生图解
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在宽广的16：9白色画布上绘制一幅极简的黑白概念图，展示一个扩散变换器生物寄生于自动编码器的潜在空间。使用细长的手绘黑色轮廓和简单的无衬线标签，风格简洁如文章插图。在下方三分之一处，画一条水平管道：一条长白色管子从左侧进入，中心线为虚线，经过一个标有“编码器”的小圆弧，然后变成一个白色标有“潜在”的实心黑色矩形中央方…
-
-#### 📝 提示词
-
-```
-在宽广的16：9白色画布上绘制一幅极简的黑白概念图，展示一个扩散变换器生物寄生于自动编码器的潜在空间。使用细长的手绘黑色轮廓和简单的无衬线标签，风格简洁如文章插图。在下方三分之一处，画一条水平管道：一条长白色管子从左侧进入，中心线为虚线，经过一个标有“编码器”的小圆弧，然后变成一个白色标有“潜在”的实心黑色矩形中央方块，再通过标有“解码器”的圆弧线出口，进入右侧一个带有虚线中心线的白色管子。在潜在方块上方，画一个非常大的椭圆形对话气泡或呼喊气球，带有尖尾朝向潜在方块。气球内部，稍微偏左中央，画出一个小小的类似团块的生物：柔软的变形虫身体，两个小点状眼睛，四条圆润滴水的腿，以及一个高起的触角，末端呈小圆;让它稍微诡异，但不要吓人，也不要过于可爱。在气球内生物右侧，用黑色标注“{argument name=”creature label“ default=”DiT“}”。在图中只用三个可见的文本标签：“编码器”、“潜在者”、“解码器”，再加上生物标签。保持构图简洁、单色、无阴影、无色彩、无多余图标、无水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03970_0.jpg" width="600" alt="扩散寄生图解 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 12: 世界杯足球海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-制作一张电影感极强的足球海报，内容包括{argument name=“playername” default=“PLAYER NAME”}，代表{argument name=“team” default=“TEAM/COUNTRY”}，胸前朝上头像，背对镜头，戏剧性的球队色彩轮廓灯光，漂浮的余烬，氛围烟雾，高端体育营…
-
-#### 📝 提示词
-
-```
-制作一张电影感极强的足球海报，内容包括{argument name=“playername” default=“PLAYER NAME”}，代表{argument name=“team” default=“TEAM/COUNTRY”}，胸前朝上头像，背对镜头，戏剧性的球队色彩轮廓灯光，漂浮的余烬，氛围烟雾，高端体育营销风格，写实皮肤纹理，带有队徽的高度细致球衣，左侧巨大的竖排字体显示球员姓氏， “FIFA世界杯2026”文字位于底部中央附近，豪华编辑摄影，AAA级游戏关键视觉质量，虚幻引擎5渲染，超清晰对焦，高对比度，8K杰作，智能手机壁纸构图，角色占据画面90%。
-
-组成：
-
-竖式智能手机壁纸（9：16比例）
-
-胸前肖像占据画面85–90%
-
-主体位置略偏右中心
-
-极近距离透视，视觉呈现强烈
-
-头微微侧向一边，望向镜头外
-
-英雄般专注的表情
-
-灯光：
-
-戏剧性的电影边缘灯光
-
-从摄像机左侧拍摄的强烈团队背光
-
-柔和温暖的主光灯照亮面部细节
-
-深邃的阴影，对比度高
-
-体积大气与细微雾霾
-
-高品质摄影棚摄影
-
-角色详情：
-
-超逼真的皮肤纹理
-
-锐利的眼睛，带有自然的聚光灯
-
-高度精细的发丝
-
-写实面部特征
-
-超干净职业运动员形象
-
-逼真的布料褶皱和缝线
-
-泽西：
-
-带赞助商标志的新足球球衣
-
-高级面料质地
-
-详细队徽
-
-逼真的赞助商和徽章压印
-
-细腻的反光高光
-
-比赛日精英美学
+手绘墨线草图与水彩纹理融合
+奢华风格的金色、黑色和深蓝/红色颜料飞溅
+动态抽象笔触，代表权力与创新
+高度细节的真实面部，带有细微粗糙纹理
 
 背景：
+干净的白色或柔和中性底色
+优雅的水彩飞溅（金色 + 深色调）
+主体身后柔和的发光光晕，营造高端精英感
 
-深黑至深队色渐变
+文字元素：
+主标题：“{argument name="标题" default="在此输入文字"}”（粗体手写奢华刷子风格）
+姓名：“{argument name="姓名" default="在此输入文字"}”
+额外细节：
+细微金色点缀，营造亿万富翁美学
+轻微颗粒纹理叠加，增加电影深度
+最小皇冠或抽象财富/权力符号
 
-大气烟雾和雾气
+底部签名：“在此输入文字”
+可选引言部分：“{argument name="引言" default="在此输入文字"}”
 
-漂浮的火星颗粒
-
-电影深度
-
-最小的干扰
-
-角色依然是最亮眼的焦点
-
-排版布局：
-
-左侧有巨大的垂直姓氏
-
-名字在顶部
-
-球队名称及位置，靠近左下角
-
-社交媒体账号位于中下方
-
-现代浓缩体育排版
-
-大胆的字体与光影搭配
-
-色彩调色板：
-
-深黑
-
-队色
-
-深色队色
-
-温暖的肤色
-
-高对比度电影调色
-
-质量：
-
-虚幻引擎5质量
-
-8K 超细节
-
-体育营销活动质量
-
-高级海报设计
-
-锐利对焦
-
-写实渲染
-
-专业调色
-
-屡获殊荣的体育摄影美学。
-
-画面比例：9：16
-
-球员应始终在2026年FIFA世界杯的背景下生成，使用该球员所在国家的官方国家队颜色、球衣和比赛氛围。
+氛围与色调：
+精英、强大、电影感、奢华驱动的传承美学
 ```
 
 #### 🖼️ 生成图片
@@ -697,793 +143,402 @@ Look 03：窗边柔光，适合品牌主视觉
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00981_0.jpg" width="600" alt="世界杯足球海报 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08826_0.jpg" width="600" alt="商业领袖奢华肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 3: 奢华变色龙海报
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+为{argument name=&quot;product name&quot; default=&quot;GPT Images 2.0&quot;}创作一张奢华的竖版宣传海报，采用电影级3D风格。画面中，一只细节丰富的镜面马赛克变色龙栖息在一个巨大的、闪闪发光的螺旋贝壳上，两者表面都覆盖着如同迪斯科球般闪耀的细小…
+
+#### 📝 提示词
+
+```
+为{argument name=&quot;product name&quot; default=&quot;GPT Images 2.0&quot;}创作一张奢华的竖版宣传海报，采用电影级3D风格。画面中，一只细节丰富的镜面马赛克变色龙栖息在一个巨大的、闪闪发光的螺旋贝壳上，两者表面都覆盖着如同迪斯科球般闪耀的细小反光瓷砖，反射出桃色、银色、蓝绿色和珍珠色的光泽。将贝壳置于画面下方中心位置，略微向左倾斜，螺旋面朝向左前方；变色龙横卧在贝壳顶部，面向右侧，卷曲的尾巴、珠状的眼睛、隆起的冠羽和纤细的爪子紧紧抓住贝壳。背景采用深蓝绿色到海军蓝的渐变色，并点缀以闪烁的粒子场、星芒状的光芒、点状的光迹、微妙的轨道弧线以及温暖的桃色散景，营造出浓郁的视觉效果。添加 5 个可见的文本元素：左上角醒目的大型优雅衬线字体“{argument name=&quot;main title first line&quot; default=&quot;GPT&quot;}”，其下方醒目的大型优雅衬线字体“{argument name=&quot;main title second line&quot; default=&quot;Images&quot;}”，“Images”右侧较小的衬线字体版本号“{argument name=&quot;version text&quot; default=&quot;2.0&quot;}”，左侧三行堆叠的标语“{argument name=&quot;tagline&quot; default=&quot;Words are your vision.&quot;}”，以及右下角带有粉色、橙色、紫色和蓝色渐变螺旋图标的品牌标识“{argument name=&quot;brand name&quot; default=&quot;HailuoAI&quot;}”。字体应精致、高对比度、金属质感的浅银色，笔画纤细，营造时尚杂志的编辑风格。灯光效果应光彩夺目、充满魔力，具有​​强烈的镜面反射、柔和的体积光晕、浅景深，以及高端 AI 生成的广告系列美学风格。采用竖屏比例，简洁的广告版面设计，无其他物体，无人物。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05105_0.jpg" width="600" alt="奢华变色龙海报 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 4: 外星飞碟首触T恤设计
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一个{argument name=“theme” default=“premium pop nerd culture T恤图案”}，全透明无背景，置于方形画布中央，主角为{argument name=“hero object” default=“bold 3D flying saucer”}，设计为流线型金属镀铬机身…
+
+#### 📝 提示词
+
+```
+一个{argument name=“theme” default=“premium pop nerd culture T恤图案”}，全透明无背景，置于方形画布中央，主角为{argument name=“hero object” default=“bold 3D flying saucer”}，设计为流线型金属镀铬机身，发光的青色底灯，以及一束明亮的霓虹品红色光束向下照射，形成干净的戏剧圆锥;在UFO下方，一个微小的剪影人形惊叹地仰望着天空，设计简洁简洁，便于辨认;而小型漂浮恒星和细长的轨道环碎片则为宇宙能量注入恰到好处，但不会显得杂乱;唯一的文字应是{argument name=“text title” default=“large title ”First CONTACT“}，用一个粗体的未来主义显示字体，字体过大，极易辨认，并显著地置于UFO下方;没有细小文字，没有字幕，没有额外文字，没有场景，没有帧，没有光环，没有背景元素，采用清晰锐利矢量净化的边缘，优化为直销服装印刷和周边销售，高分辨率4000x4000像素，专业的3D渲染质量，完全透明，1：1的正方比。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08936_0.jpg" width="600" alt="外星飞碟首触T恤设计 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 5: 水墨春山渔舟图
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+[中文] 新中式水墨山水海报，竖版9:16构图，东方极简美学风格， 大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。 画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面， 山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。 山峰…
+
+#### 📝 提示词
+
+```
+[中文]
+新中式水墨山水海报，竖版9:16构图，东方极简美学风格，
+大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。
+画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面，
+山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。
+山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。
+
+湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。
+中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。
+
+船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色，
+身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被雾气柔化，
+人物面部不刻画细节，仅保留轮廓与姿态（如轻扶船篷或执桨），
+红色在水面形成淡淡倒影，作为画面唯一暖色视觉焦点。
+
+岸边点缀疏林与春季新生植被，采用淡墨 + 淡青绿点染，虚实结合，增强节奏与生命气息。
+
+少量飞鸟在远空掠过，轻盈疏散分布，增强空间层次与灵动感。
+
+画面顶部居中竖排书法：“东方美学”，采用传统手写行书或行草风格（王羲之笔意），
+笔触自然起伏、提按分明，带飞白与墨韵扩散效果，避免字体感。
+书法颜色为深墨青或柔和墨黑，与整体画面统一。
+整体风格：水墨 + 现代极简设计融合，春日禅意、空灵湿润、宁静氛围，
+冷暖对比克制，电影感光影，高级艺术海报质感，8K超清细节。
+
+[English]
+Neo-Chinese ink wash landscape poster, vertical 9:16 composition, Oriental minimalist aesthetic style,
+Large area of negative space, overall color tone is spring morning atmosphere (cyan-green, misty blue, light gray, light ink), low saturation, clear and soft, high-end texture.
+The main subject of the picture is steep and majestic mountains, rising from both sides of the calm lake in the middle, occupying the left and right sides of the picture,
+The mountain bodies are expressed with ink wash blending, rich in changes of shades, dryness and wetness, partially integrated with light cyan-green rendering, reflecting the vitality of spring.
+The mountain peaks are wrapped in moist and gentle morning mist, the mist progresses layer by layer, naturally blending with the light cyan-blue sky, forming aerial perspective and spatial depth.
+The lake surface is as calm as a mirror, showing a slightly cyan-green tone, reflecting the mountains and the sky, the reflection slightly has a soft focus and atomization diffusion effect, enhancing the spring moist and dreamy atmosphere.
+In the midground, a small wooden boat with an arched canopy floats slowly, the oars lightly touch the water surface to form delicate ripples, the water patterns spread naturally, maintaining an extremely quiet state overall.
+On the boat is a fisherwoman in red, with a small volume (distant view proportion), the character is simplified into an ink wash silhouette + slight coloring,
+wearing a low-saturation cinnabar red traditional costume (not bright red), the color is slightly softened by the mist,
+no facial details are depicted for the character, only retaining the outline and posture (such as gently holding the boat canopy or holding the oar),
+the red color forms a faint reflection on the water surface, serving as the only warm color visual focus in the picture.
+The shore is dotted with sparse woods and spring newborn vegetation, using light ink + light cyan-green dot dyeing, combining virtuality and reality, enhancing rhythm and breath of life.
+A small number of flying birds skim across the distant sky, distributed lightly and loosely, enhancing the spatial layers and sense of agility.
+At the top center of the picture, vertical calligraphy: "Oriental Aesthetics", adopting traditional handwritten running script or running-cursive style (intention of Wang Xizhi's brushwork),
+brushstrokes naturally undulate, lifting and pressing are distinct, with flying white and ink rhyme diffusion effects, avoiding a sense of font.
+The calligraphy color is dark ink cyan or soft ink black, unified with the overall picture.
+Overall style: ink wash + modern minimalist design fusion, spring Zen, ethereal and moist, tranquil atmosphere,
+restrained cold and warm contrast, cinematic light and shadow, high-end art poster texture, 8K ultra-clear details.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15386_0.jpg" width="600" alt="水墨春山渔舟图 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 6: 食谱概念图生成
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+添付した完成品写真を使って、プロの料理デザイナー仕様のレシピコンセプト画像を4枚生成してください。 条件： - {argument name="比率" default="縦長4:5"}、{argument name="言語" default="日本語"} - 4枚とも同じ料理をテーマにする - ただし4枚はそれぞれ異…
+
+#### 📝 提示词
+
+```
+添付した完成品写真を使って、プロの料理デザイナー仕様のレシピコンセプト画像を4枚生成してください。
+
+条件：
+- {argument name="比率" default="縦長4:5"}、{argument name="言語" default="日本語"}
+- 4枚とも同じ料理をテーマにする
+- ただし4枚はそれぞれ異なるデザイン方向にする
+- 添付画像の完成品を主役にし、料理の種類、構成、器、盛り付け、色味、食材感を読み取って活かす
+- 写真の生活感や雑多な背景は整理し、明るく清潔感のある料理写真に再構成する
+- 実際に作った料理の良さを残しつつ、料理雑誌・カフェメニュー・SNS保存用レシピカードのような完成度にする
+- 未指定の項目は添付画像から自然に補完する
+- 料理名、人数、ジャンル、材料、手順、POINT、キャッチコピーも未指定なら画像から自然に提案する
+- 写真にない食材を勝手に主役にしない
+- 家庭で再現しやすい現実的なレシピにする
+- 加熱工程はできるだけワンパンまたは少工程に調整する
+
+構成：
+- 上部：タイトル＋短いサブコピー
+- 中央：ヒーロー料理写真
+- 下部またはサイド：「材料（◯人分）」「作り方」「POINT」
+
+4枚の方向性：
+1. 料理雑誌の特集ページ風
+2. カフェメニュー・ナチュラルレシピカード風
+3. SNS保存用・実用レシピカード風
+4. シズル感強めのフード広告風
+
+最終目標：
+添付画像をもとに、実際の料理をプロの料理デザイナーが異なる4方向で仕上げたような、高品質なレシピ画像を4枚作ること。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05528_0.jpg" width="600" alt="食谱概念图生成 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 7: 曼谷夜时尚
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+目标：为一本奢侈杂志制作高端时尚照片拼贴，标题为{argument name=“headline text” default=“VOGUE”}，副标题为{argument name=“subtitle text” default=“BANGKOK NIGHTS”}，主角是一位穿着黑色缎面西装外套的年轻年轻女孩，出现在…
+
+#### 📝 提示词
+
+```
+目标：为一本奢侈杂志制作高端时尚照片拼贴，标题为{argument name=“headline text” default=“VOGUE”}，副标题为{argument name=“subtitle text” default=“BANGKOK NIGHTS”}，主角是一位穿着黑色缎面西装外套的年轻年轻女孩，出现在高档城市夜生活之夜。
+
+画布：垂直2：3肖像拼贴，约768 x 1152像素，面板间有细黑色檐槽，采用复杂的黑、白、霓虹和湿沥青色彩。使用高端编辑摄影、电影般的夜间灯光、浅景深、光泽反射和奢华杂志风格。
+
+布局：使用恰好6个独立面板，排列成现代不对称弹匣网格：
+1. 左上方面板：女性从肩膀以上的黑白特写肖像，长而波浪状的深色头发，黑色西装外套，身后模糊的散景城市灯光;在中央面部区域放置一个柔和的矩形模糊，遮挡面部。
+2. 右上方大型分镜：夜晚曼谷霓虹灯下雨天街头的全身时尚肖像，女性自信地穿着黑色裹身西装外套裙（大腿开衩），黑色高跟凉鞋，湿漉漉的人行道映出红蓝标志，背景有出租车和店铺招牌;添加一个小而柔和的矩形面部模糊。
+3. 左中面板：屋顶鸡尾酒桌，内有3件可见物品：一个轿跑鸡尾酒杯，一个带柑橘装饰的岩石杯，以及一根带图案玻璃架的点燃蜡烛;远处曼谷天际线散景。
+4. 左下角面板：剧情化的夜景城市景观，高耸的灯光摩天大楼、高架高速公路、现代桥梁/铁路结构，以及长时间曝光的交通光线路径。
+5. 右中画面：同一女子坐着或靠得很近，身穿深黑色缎面西装外套，身后是温暖的模糊城市灯光，右侧边缘部分可见一个饮料杯;添加一个柔和的矩形模糊，遮挡面部。
+6. 右下角面板：纯黑色标题卡，中央有大号优雅的白色衬线字“VOGUE”和较小的全衬线文字“BANGKOK NIGHTS”。
+
+主题细节：该女子有长长的{argument name=“发色”默认=“波浪深色头发”}，造型精致奢华，隐含优雅自然妆容，修长的模特姿态，穿着一件光滑的黑色缎面西装外套裙。保持肖像面板的服装统一。
+
+视觉风格：高端编辑照片拼贴、受Vogue启发的排版、奢华旅行夜生活氛围、清晰的高对比灯光、逼真的镜头渲染、湿润街道、霓虹招牌、屋顶氛围、电影级景深。
+
+限制：鸡尾酒桌上必须包含恰好6个面板和3个物品。请勿在标题卡外添加额外的说明文字、标志、水印或装饰性文字。保持所有分镜边框干净且黑色，右下角的字体清晰易读。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03121_0.jpg" width="600" alt="曼谷夜时尚 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 8: 褶皱面料穿透排版
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+[CHARACTER] 的竖版编辑海报肖像，留着 [HAIR]，脸部紧凑地构图在褶皱的 [FABRIC] 后面，超大加粗紧凑型无衬线字体穿透织物，在整个图像上以堆叠音节拼写出“[SPLIT]”，眼睛、鼻子和嘴唇通过字母开口可见，侧面有小的垂直单词“[SIDE]”，右下方有一个微小的条形码块，高端时尚美容照明，真实的皮…
+
+#### 📝 提示词
+
+```
+[CHARACTER] 的竖版编辑海报肖像，留着 [HAIR]，脸部紧凑地构图在褶皱的 [FABRIC] 后面，超大加粗紧凑型无衬线字体穿透织物，在整个图像上以堆叠音节拼写出“[SPLIT]”，眼睛、鼻子和嘴唇通过字母开口可见，侧面有小的垂直单词“[SIDE]”，右下方有一个微小的条形码块，高端时尚美容照明，真实的皮肤纹理，褶皱中的柔和阴影，柔和的 [PALETTE]，干净的杂志封面构图，鲜明的排版层级，高级印刷效果，无多余文字，无混乱布局，无卡通风格，无 3D 渲染，ar 4:5
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15028_0.jpg" width="600" alt="褶皱面料穿透排版 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00981_1.jpg" width="600" alt="世界杯足球海报 - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15028_1.jpg" width="600" alt="褶皱面料穿透排版 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 9: 暗黑奇幻盗贼职业
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{“type”：“暗黑奇幻桌面角色扮演游戏子职业海报”，“format”：“方形插图海报配华丽羊皮纸和金色框架”，“main_text”：{“headline”：“{argument name=\”headline text\“ default=\”CAPER HANDLER\“}”，“subtitle”：“{arg…
+
+#### 📝 提示词
+
+```
+{“type”：“暗黑奇幻桌面角色扮演游戏子职业海报”，“format”：“方形插图海报配华丽羊皮纸和金色框架”，“main_text”：{“headline”：“{argument name=\”headline text\“ default=\”CAPER HANDLER\“}”，“subtitle”：“{argument name=\”subtitle text\“ default=\”D&D 2024\“}”，“section_title”：“{argument name=\”section title\“ default=\”小帮手\“}”，“bottom_tagline”：“{argument name=\”tagline\“ default=\”许多小爪子。一个完美的犯罪。\“}”}，“scene”：{“setting”：夜晚月光下的哥特式城市屋顶，蓝黑色的天空，满月，塔楼，烟囱，温暖的窗户，远处的尖塔，盗贼公会的氛围“，”central_subject“：”一个蹲伏在陡峭瓦屋顶上的人类盗贼，黑色皮甲，腰带，袋子，无指手套，围巾和斗篷随风飘扬，一只手撑在屋顶上， 潜行自信姿势，脸部被遮挡或阴影遮挡“，”氛围“：夜间、电影感、调皮、冒险、高细节奇幻插画”，“animal_accomplices”：{“count”：6，“物品”：[“黑猫栖息在左屋脊上，戴着小项圈或护符”，“左下前景一只嘴里叼着金钥匙的大老鼠”，“右上角有黑乌鸦栖息在木梁上，带着小马具和垂挂的小饰品”，“右侧一只小猴子挂在绳子上，举起一个小钱袋”，“右下角靠近金属桶旁的小雪貂或黄鼠狼，向上看”，“桶附近有只小老鼠或小啮齿动物，部分隐藏为额外的望风员”]}，“布局”：{“top_panel”：“占据上三分之二的大型屋顶插图动作场景， 标题位于最上方，采用大型做旧奶油金衬线大写字母，副标题置于其下方，细金色分隔线和交叉开锁图标上方“，”lower_panel“：”陈旧羊皮纸信息框占据底部三分之一，华丽的金色角落，章节标题为深栗色名牌，装饰性分隔线，正文左侧，右侧隐约的圆形水印标志“，“watermark_emblem”：淡褐色圆形钥匙孔符号，周围是小同谋动物的剪影：猫、鸟、老鼠、猴子“，”边框“：深藏青色外框，配以细金新艺术风格的角落细工和装饰规则”，“body_copy”：“有些恶棍依赖敏捷的手势。\n有些依靠谎言或魔法。\n一个行动操控者依赖小型同伙。\n\n老鼠能穿过栏杆。猫会穿越悬崖。鸟儿从上方观察。\n猴子们举起钥匙，打开门闩，携带偷来的物品，让小偷无法触及。\n\n这些生物不是士兵。他们不是守护者。\n他们不是干扰者、目击者、走私者、守望者和活生生的工具。\n\n一个行动操控者并不能掌控战场。\n他们掌控着周围的口袋、窗户、阴影、屋顶和盲区。“，”风格“：{”渲染“：精致的数字绘画，龙与地下城资料书艺术，戏剧性的边缘光影，复杂的皮革和金属细节，画家般的写实主义”，“字体”：“复古奇幻衬线字体展示字体， 奶油色和金色墨水，羊皮纸文本块，正体可辨识黑色衬线体“，”color_palette“：午夜蓝，炭黑，温暖的窗户琥珀色，陈旧羊皮纸米色，古董金色，酒红色点缀”，“质量”：高分辨率，清晰易读，海报构图平衡，无现代物品“}}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08911_0.jpg" width="600" alt="暗黑奇幻盗贼职业 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08911_1.jpg" width="600" alt="暗黑奇幻盗贼职业 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00981_2.jpg" width="600" alt="世界杯足球海报 - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08911_2.jpg" width="600" alt="暗黑奇幻盗贼职业 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00981_3.jpg" width="600" alt="世界杯足球海报 - Image 4">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08911_3.jpg" width="600" alt="暗黑奇幻盗贼职业 - Image 4">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 13: 男子骑公羊电影写真
+### No. 10: 户外景观标志施工图
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-制作一张超写实的电影肖像照片，描绘一个{argument name=“subject” default=“young adult man”}自信地骑在一只大白公羊背上。该男子正好在画面中央，面向镜头，穿着合身的深棕色短袖T恤、深蓝色牛仔裤和黑色鞋子;他的手稳稳地放在公羊两只巨大卷曲的角上，仿佛握着把手。他留着短而深色…
-
-#### 📝 提示词
-
-```
-制作一张超写实的电影肖像照片，描绘一个{argument name=“subject” default=“young adult man”}自信地骑在一只大白公羊背上。该男子正好在画面中央，面向镜头，穿着合身的深棕色短袖T恤、深蓝色牛仔裤和黑色鞋子;他的手稳稳地放在公羊两只巨大卷曲的角上，仿佛握着把手。他留着短而深色的头发，健美的体格，自然的肤色，以及沉稳自信的姿态。公羊占据画面下半部分，身披厚重的米白色羊毛皮毛，脸色苍白，耳朵警觉，以及两只巨大的肋状角，向外弯曲且向下呈宽广对称的弧线。场景设定在户外一个质朴的农场院子或林间空地，干燥的泥土、散落的稻草、温暖的棕色围栏或农舍建筑背景，背后是茂密的树木。使用左上角的黄金时光、暖散景、浅景深、柔和的电影色彩调色、逼真的纹理、自然阴影和垂直人像构图。保持图像真实、高细节且可信;没有文字，没有水印，没有奇幻盔甲，没有额外的动物或人物。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02191_0.jpg" width="600" alt="男子骑公羊电影写真 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 14: 复古木刻海洋少女明信片
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-以提供的参考图片为角色基础，将其转化为一幅怀旧的单色日本木刻插画，配在有纹理的奶油色纸上。将构图从竖直肖像改为宽阔的横向明信片布局，保持可爱的海洋主题女孩和服装概念，但将她在中心重新画得较小，面向前方，一只手友好地挥手。将蓝奶油色印刷品仅转化为黑色墨线，带有粗糙的雕刻边缘、不均匀的印章纹理、明显的纸纹和手工印刷的瑕疵…
-
-#### 📝 提示词
-
-```
-以提供的参考图片为角色基础，将其转化为一幅怀旧的单色日本木刻插画，配在有纹理的奶油色纸上。将构图从竖直肖像改为宽阔的横向明信片布局，保持可爱的海洋主题女孩和服装概念，但将她在中心重新画得较小，面向前方，一只手友好地挥手。将蓝奶油色印刷品仅转化为黑色墨线，带有粗糙的雕刻边缘、不均匀的印章纹理、明显的纸纹和手工印刷的瑕疵。
-
-布局：在整个图像周围添加粗壮的手工雕刻矩形边框。用俏皮的装饰图案填满周围空间，同时保持中心人物的可读性。
-
-新增图案：角色周围恰好有3只水母，四个角落附近绑着4个丝带蝴蝶结，5个音符，2个心形，多个气泡，底部有波浪状水线，以及以可爱手工风格散布的星星/闪光。
-
-风格：让它看起来像老式儿童绘本木刻或油印版画，简单的黑色墨水在米白色纸上，迷人、略显粗糙、怀旧，除了黑色墨水外没有其他色彩填充。避免使用逼真的阴影、渐变或现代数字润色。
-
-可选自定义：在{argument name=“ink color” default=“black”} 纸上使用{argument name=“paper color” default=“cream”} 纸张，角色采用 {argument name=“pose” 默认=“单手挥手姿势”}，涂成{argument name=“print style” default=“怀旧日本木版画”} 处理。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06828_0.jpg" width="600" alt="复古木刻海洋少女明信片 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 15: 极简艺术电影海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-极简主义艺术电影海报，{argument name="subject" default="HUMAN"} 身着 {argument name="clothing" default="CLOTHING"} 的特写肖像，侧面轮廓，部分被阴影吞没，散乱的发丝飘过脸庞。使用[色调]、抽象的明暗色块、哑光磨砂渐变背景，[场景]…
-
-#### 📝 提示词
-
-```
-极简主义艺术电影海报，{argument name="subject" default="HUMAN"} 身着 {argument name="clothing" default="CLOTHING"} 的特写肖像，侧面轮廓，部分被阴影吞没，散乱的发丝飘过脸庞。使用[色调]、抽象的明暗色块、哑光磨砂渐变背景，[场景]缩减为左下方的一个微小远景。强调诗意的张力、简洁的负空间、电影般的颗粒感、柔和的运动朦胧感、层次感和精致的排版，标题"{参数名称="电影标题" default="TITLE"}"靠近中心下方，小文本"[TEXT]"下方包含一个桂冠徽章，垂直比例为 4:5。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20585_0.jpg" width="600" alt="极简艺术电影海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20585_1.jpg" width="600" alt="极简艺术电影海报 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20585_2.jpg" width="600" alt="极简艺术电影海报 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20585_3.jpg" width="600" alt="极简艺术电影海报 - Image 4">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 16: 五十六美元
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-56美元
-
-#### 📝 提示词
-
-```
-56美元
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16610_0.jpg" width="600" alt="五十六美元 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 17: 意式萌旅拍立得
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-创建一个可爱风格化3D卡通/皮克斯灵感的优质收藏级旅行海报。 主题：[意大利] 一个迷人的[女性]乡村灵感角色正坐在大型拍立得相框底边上，用智能手机愉快地自拍，其中一条腿悬在框外，营造出有趣的3D弹出效果。 拍立得内部： 受[意大利]启发的温馨房间/旅行场景 真实的文化元素、建筑、美食、自然、手工艺和当地生活方式 温…
-
-#### 📝 提示词
-
-```
-创建一个可爱风格化3D卡通/皮克斯灵感的优质收藏级旅行海报。
-主题：[意大利]
-一个迷人的[女性]乡村灵感角色正坐在大型拍立得相框底边上，用智能手机愉快地自拍，其中一条腿悬在框外，营造出有趣的3D弹出效果。
-
-拍立得内部：
-受[意大利]启发的温馨房间/旅行场景
-真实的文化元素、建筑、美食、自然、手工艺和当地生活方式
-温暖诱人的灯光
-丰富的叙事细节
-角色穿着受该国色彩和身份启发的现代时尚
-开心的面部表情，大而富有表现力的眼睛，精细的发型，极具吸引力的设计
-像社交媒体自拍一样的相机角度
-
-拍立得外部：
-使用受[国家名称]启发的色彩，呈现柔和的高级渐变背景
-优雅的手绘单色涂鸦和与该国相关的旅行图标：地标、植物、动物、文化符号、当地美食、交通工具、地图和装饰性图案，构图简洁，留白充裕
-无杂乱感
-
-排版：
-顶部是大号时尚的手写体国家名称
-标题旁有小国旗
-下方是简短的国家标语
-拍立得边缘有鼓舞人心的手写语录
-
-艺术风格：
-高端3D插画
-收藏级海报设计
-超级可爱的角色设计
-柔和的电影级光效
-精细的纹理
-旅行纪念品审美
-鲜艳而不失品味的色彩
-高级社交媒体现成作品
-景深
-专业构图
-4K画质
-垂直海报格式 (4:5)
-
-重要提示：角色应通过环境、时尚、颜色、爱好和文化元素来体现国家精神，而不是通过刻板印象。通过视觉叙事应能立即识别出该国家。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13104_0.jpg" width="600" alt="意式萌旅拍立得 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13104_1.jpg" width="600" alt="意式萌旅拍立得 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 18: 太空电梯少女
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一幅高角度动漫风格插图，描绘一个女孩，{argument name=“hair color” 默认=“长黑发带紫色发梢”}，站在未来感十足的玻璃电梯内，仰望着巨大的太空电梯结构。她穿着{argument name=“outfit” 默认=“水手服配百褶裙和及膝袜”}。电梯驾驶室配有金属栏杆、发光的青色装饰，以及一个数…
-
-#### 📝 提示词
-
-```
-一幅高角度动漫风格插图，描绘一个女孩，{argument name=“hair color” 默认=“长黑发带紫色发梢”}，站在未来感十足的玻璃电梯内，仰望着巨大的太空电梯结构。她穿着{argument name=“outfit” 默认=“水手服配百褶裙和及膝袜”}。电梯驾驶室配有金属栏杆、发光的青色装饰，以及一个数字显示屏，显示向上箭头和文字“{argument name=”altitude text“ default=”005829 km“}”。透过大型玻璃天花板和窗户，可以看到一座庞大且细节精细的空间站，中央有柱子和大型环形结构，背景是星空和{argument name=“planet” default=“Earth”}的曲面，下面是云层。灯光戏剧性十足，突出空间结构的宏大规模和氛围透视。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05527_0.jpg" width="600" alt="太空电梯少女 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 19: 涩谷街头融合
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-以REFERENCE_1为基础场景，自然地将REFERENCE_0的女性插入繁忙的涩谷攀爬十字路口人群中，作为一个写实的路人。匹配REFERENCE_1的光线、视角、镜头感觉、比例和街头照片的真实感，同时保持她的服装、包包和整体外观与REFERENCE_0保持一致。将她放在前景稍偏左的位置，站在行人中间，身边微微向左…
-
-#### 📝 提示词
-
-```
-以REFERENCE_1为基础场景，自然地将REFERENCE_0的女性插入繁忙的涩谷攀爬十字路口人群中，作为一个写实的路人。匹配REFERENCE_1的光线、视角、镜头感觉、比例和街头照片的真实感，同时保持她的服装、包包和整体外观与REFERENCE_0保持一致。将她放在前景稍偏左的位置，站在行人中间，身边微微向左，姿态放松随意，仿佛她最初就是在这里拍摄的。将她与逼真的阴影、色彩匹配、边缘融合和部分人群遮挡整合，避免显得粘贴。保留REFERENCE_1现有的城市背景、标识和人群构成。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11361_0.jpg" width="600" alt="涩谷街头融合 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 20: 奢华黑白时尚
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-超奢华时尚编辑肖像，电影般的黑白摄影，高角度无人机视角，直视一位衣着考究的{argument name=“subject” default=“man”}自信地站在一辆流线型{“车色”默认=“black”}豪华跑车前，双手插在外套口袋里，直视镜头，剪裁合身的浅色双排扣大衣配白色高领毛衣，修身黑色长裤， 抛光黑色切尔西皮…
-
-#### 📝 提示词
-
-```
-超奢华时尚编辑肖像，电影般的黑白摄影，高角度无人机视角，直视一位衣着考究的{argument name=“subject” default=“man”}自信地站在一辆流线型{“车色”默认=“black”}豪华跑车前，双手插在外套口袋里，直视镜头，剪裁合身的浅色双排扣大衣配白色高领毛衣，修身黑色长裤， 抛光黑色切尔西皮靴，高端极简美学，戏剧性的自然阳光在路面投下大胆阴影，汽车上的光泽倒影，干净的都市街道，高对比度，浓郁的单色色调，精致的男性奢华，老钱风格，高级杂志封面构图，超写实中画幅摄影，85毫米对应镜头，f/4，锐利对焦，细腻的胶片颗粒，HDR，照片级写实，8K，优雅， 永恒、奢华生活方式、负空间、精致构图。
-否定提示：
-低质量、模糊、过饱和、卡通、CGI、面部扭曲、多余的四肢、糟糕的解剖结构、重复的人、杂乱的背景、文字、水印、标志、运动模糊、噪点、过曝高光、曝光不足、不真实的倒影、脚部裁剪、比例不佳。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04931_0.jpg" width="600" alt="奢华黑白时尚 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 21: 摩天大楼间的飞跃
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-创作一幅动态的动漫电影插画，描绘{argument name=“角色名”默认=“自信的年轻人”}高高跃过现代摩天大楼，从极低角度视角拍摄，仿佛镜头接近街道水平，向上望。他跳跃中，一膝抬起面向观众，黑色皮鞋的鞋底在前景显得很大，一只手臂张开，另一只拳头紧握，脸上带着无畏的兴奋笑容。他有一头凌乱的深色卷发，富有表现力的眼…
-
-#### 📝 提示词
-
-```
-创作一幅动态的动漫电影插画，描绘{argument name=“角色名”默认=“自信的年轻人”}高高跃过现代摩天大楼，从极低角度视角拍摄，仿佛镜头接近街道水平，向上望。他跳跃中，一膝抬起面向观众，黑色皮鞋的鞋底在前景显得很大，一只手臂张开，另一只拳头紧握，脸上带着无畏的兴奋笑容。他有一头凌乱的深色卷发，富有表现力的眼睛和英勇的年轻面容。他的服装由五件主要服装组成：一件飘逸的鲜红色敞开外套、一件深藏青色衬衫、一条随风飘扬的宽松金黄色领带、剪裁得体的蓝色裤子和擦亮的黑鞋，皮带和手腕饰品是细节。红色大衣如斗篷般蓬松飘扬。将场景设定在{argument name=“city setting” default=“密集的玻璃钢结构市中心区”}，背景是明亮的蓝天，充满明亮的积云。包含恰好6个显著环境元素：左侧高耸的玻璃摩天大楼，右侧高反光摩天大楼，左下角较矮的塔楼群，右下角远处的高楼，左下角天空中的一台建筑起重机，以及空中飞舞的金色树叶或纸片。使用强烈阳光、清晰的高光、镜头般的闪光、人物下方深影、边缘建筑的动态模糊以及戏剧性的缩短。风格：高预算日本动漫关键视觉，极细致的线条，鲜艳饱和的色彩，电影化构图，充满活力的乐观，垂直3：4画布，无文字、无标志、无水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10951_0.jpg" width="600" alt="摩天大楼间的飞跃 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 22: 印度板球之夜：十亿梦想
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在巨大的纳伦德拉·莫迪体育场内，在一场激烈的印度对阵澳大利亚的夜间板球比赛中，创作一张超现实主义的电影感运动海报拼贴画。体育场内挤满了激情的印度球迷，挥舞着发光的印度国旗，电影般的泛光灯照亮了整个赛场，细节极其丰富的草地，巨大的LED计分板显示着印度队戏剧性的获胜时刻，大气中弥漫着烟花烟雾，感人的观众能量，奢华运动纪…
-
-#### 📝 提示词
-
-```
-在巨大的纳伦德拉·莫迪体育场内，在一场激烈的印度对阵澳大利亚的夜间板球比赛中，创作一张超现实主义的电影感运动海报拼贴画。体育场内挤满了激情的印度球迷，挥舞着发光的印度国旗，电影般的泛光灯照亮了整个赛场，细节极其丰富的草地，巨大的LED计分板显示着印度队戏剧性的获胜时刻，大气中弥漫着烟花烟雾，感人的观众能量，奢华运动纪录片氛围，优质ESPN + Netflix运动电影色彩分级，深度对比，真实的皮肤纹理，大气雾霾，体积光，锐利的细节，HDR画质，橙蓝色调，爱国情绪，奢华运动广告美学。设计采用现代多面板布局的海报，左侧带有大胆的排版：“印度板球之家”“一个国家。一支球队。十亿梦想。”在下方包含较小的电影画面：— 泛光灯下发光体育场的空中鸟瞰图 — 标志性的印度击球手对阵澳大利亚打出强力封面抽击 — 观众挥舞国旗和手机闪光灯庆祝 — 戏剧性的特写运动摄影时刻。添加优质的信息图风格元素，简洁的橙白排版，时尚的图标，体育场位置文字：“纳伦德拉·莫迪体育场 — 印度艾哈迈达巴德”。使其看起来像官方ICC / IPL宣传活动，超写实，极高细节，奢华电影氛围，情感叙事，高端运动品牌，8K，真实镜头光晕，景深，IMAX风格构图，病毒式X/Twitter美学。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14870_0.jpg" width="600" alt="印度板球之夜：十亿梦想 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14870_1.jpg" width="600" alt="印度板球之夜：十亿梦想 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 23: 飞鸟遮面时尚大片
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-时尚编辑镜头，{argument name=“subject” default=“a woman”} 穿着结构化的 {argument name=“blazer color” default=“deep teal”} 西装外套，站在 {argument name=“background” default=“pale…
-
-#### 📝 提示词
-
-```
-时尚编辑镜头，{argument name=“subject” default=“a woman”} 穿着结构化的 {argument name=“blazer color” default=“deep teal”} 西装外套，站在 {argument name=“background” default=“pale blue open sky”} 下。一只鸟以沉重的动作模糊掠过她的脸庞，以纯粹的超现实主义形式遮住了她的面容。粗糙的胶片纹理，柔和的电影灯光，极简的构图。杂志封面风格，左侧有一条干净的白色竖条，带有粗体黑色文字。冷静的柔和色彩调色板，有意的模糊，35毫米模拟手感，先锋时尚氛围。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08654_0.jpg" width="600" alt="飞鸟遮面时尚大片 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08654_1.jpg" width="600" alt="飞鸟遮面时尚大片 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08654_2.jpg" width="600" alt="飞鸟遮面时尚大片 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08654_3.jpg" width="600" alt="飞鸟遮面时尚大片 - Image 4">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 24: 光影记忆梦
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一场穿越时空的电影之旅，{argument name=“themes” 默认=“童年、爱情、孤独与梦想”}模糊成一个情感故事。 电影式记忆回放蒙太奇，极其真实的情感叙事，{argument name=“subject” 默认=“thoughtful man”}的特写，融合了层叠的场景：{argument name=“…
-
-#### 📝 提示词
-
-```
-一场穿越时空的电影之旅，{argument name=“themes” 默认=“童年、爱情、孤独与梦想”}模糊成一个情感故事。
-
-电影式记忆回放蒙太奇，极其真实的情感叙事，{argument name=“subject” 默认=“thoughtful man”}的特写，融合了层叠的场景：{argument name=“scenery” default=“一个孩子在金色的夕阳田野奔跑，一对轻声笑着的情侣，一个男人独自坐在靠窗昏暗的房间里，夜晚雨天的城市街道，一个傍晚俯瞰着发光城市的人”}， 手里拿着老照片，柔和的暖冷光线混合，浅景深，双重曝光效果，胶片颗粒感，怀旧氛围，4K，戏剧性光影，无缝过渡，梦幻般的氛围。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03309_0.jpg" width="600" alt="光影记忆梦 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 25: 巴黎喷泉法式穿搭
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-优雅的{argument name=“location” 默认=“欧洲街头风格”}肖像，描绘一位年轻女性在巴黎市中心广场一座历史悠久的石头喷泉前摆姿势。她穿着一件宽松的白色宽松T恤，米色高腰宽裤，白色运动鞋，黑色袜子，肩上披着一条条纹针织毛衣，背着一个小黑色手提包。柔软的波浪棕色头发，自然妆容，淡淡的微笑，一只手遮挡…
-
-#### 📝 提示词
-
-```
-优雅的{argument name=“location” 默认=“欧洲街头风格”}肖像，描绘一位年轻女性在巴黎市中心广场一座历史悠久的石头喷泉前摆姿势。她穿着一件宽松的白色宽松T恤，米色高腰宽裤，白色运动鞋，黑色袜子，肩上披着一条条纹针织毛衣，背着一个小黑色手提包。柔软的波浪棕色头发，自然妆容，淡淡的微笑，一只手遮挡阳光。经典的欧洲建筑风格，潺潺的喷泉水，背景中有树木和古老的建筑。明亮的白天灯光，旅行摄影美学，轻松的法式时尚，极简中性色调，抓拍姿势，写实细节，照片写实，极细致，生活方式编辑摄影，35mm镜头，柔和自然色彩，奢华旅行氛围。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04745_0.jpg" width="600" alt="巴黎喷泉法式穿搭 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04745_1.jpg" width="600" alt="巴黎喷泉法式穿搭 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 26: 猫头鹰星云深空奇观
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一幅雄伟的深空场景，一只猫头鹰形状的星云漂浮在漆黑的星场中，采用中心构图，宇宙气体和尘埃自然形成了清晰的猫头鹰面部。两只巨大的发光圆形眼睛拥有明亮的电蓝色星核，中间是一个琥珀色光芒构成的尖细喙，以及由焦橙色和金棕色星云柱组成的向上延伸的长耳簇。身体由温暖的铜色、深褐色、象牙白和冷烟蓝色层叠的半透明云团构成，边缘散发柔…
-
-#### 📝 提示词
-
-```
-一幅雄伟的深空场景，一只猫头鹰形状的星云漂浮在漆黑的星场中，采用中心构图，宇宙气体和尘埃自然形成了清晰的猫头鹰面部。两只巨大的发光圆形眼睛拥有明亮的电蓝色星核，中间是一个琥珀色光芒构成的尖细喙，以及由焦橙色和金棕色星云柱组成的向上延伸的长耳簇。身体由温暖的铜色、深褐色、象牙白和冷烟蓝色层叠的半透明云团构成，边缘散发柔和光芒，并带有复杂的丝状纹理。主体周围环绕着许多大小不一的锐利恒星，包括几颗带有细微衍射光芒的亮蓝白色恒星。猫头鹰的形状清晰可辨，但完全由天文星云结构组成，呈现逼真的太空摄影美感，对比强烈，细节极其丰富，散发空灵光芒，灵感源自于由 {argument name="cosmic subject" default="nebula"} 形成的 {argument name="animal silhouette" default="owl"}，色调为 {argument name="primary glow color" default="amber and blue"}，纵向构图，居中且对称，具有电影般的震撼效果。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16668_0.jpg" width="600" alt="猫头鹰星云深空奇观 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 27: 复古水彩欧旅海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-复古水彩旅行海报插画，优雅的欧洲旅游广告美学，柔和的手绘水彩质感，详尽的城市景观，前景是迷人的咖啡馆露台，舒适的桌椅，电影般的目的地美景，背景是标志性地标，梦幻的云天，细腻的墨线勾勒，柔和的粉色与大地色调，经典的旅游海报排版，顶部有大号粗体目的地标题，细微的纸张纹理，怀旧的旅行日志感，宁静的流浪渴望氛围，舒适的生活细…
-
-#### 📝 提示词
-
-```
-复古水彩旅行海报插画，优雅的欧洲旅游广告美学，柔和的手绘水彩质感，详尽的城市景观，前景是迷人的咖啡馆露台，舒适的桌椅，电影般的目的地美景，背景是标志性地标，梦幻的云天，细腻的墨线勾勒，柔和的粉色与大地色调，经典的旅游海报排版，顶部有大号粗体目的地标题，细微的纸张纹理，怀旧的旅行日志感，宁静的流浪渴望氛围，舒适的生活细节，艺术化的水彩飞溅，童话故事插图风格，精致的建筑细节，优雅的边框设计，柔和的自然光线，浪漫的旅行心境，高级的旅行品牌美学，复古明信片构图，高细节水彩画，永恒的欧洲插画风格，Pinterest美学感，收藏级旅行版画设计，极高细节，8k
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15067_0.jpg" width="600" alt="复古水彩欧旅海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15067_1.jpg" width="600" alt="复古水彩欧旅海报 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 28: 哥特废墟战姬
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在战斗中，在一座废弃的哥特式大教堂中，创作一幅垂直2：3的高细节动漫奇幻插画，描绘{argument name=“character name” default=“a silver-haired battle maiden”}。角色以动态的低角度三分之三姿态居中，身体前倾，一只手臂向右伸出，手持巨大的半透明圆形盾牌或…
-
-#### 📝 提示词
-
-```
-在战斗中，在一座废弃的哥特式大教堂中，创作一幅垂直2：3的高细节动漫奇幻插画，描绘{argument name=“character name” default=“a silver-haired battle maiden”}。角色以动态的低角度三分之三姿态居中，身体前倾，一只手臂向右伸出，手持巨大的半透明圆形盾牌或魔法玻璃屏障，另一只手臂向左垂下，手持一门沉重的机械护臂炮，发射烟雾和橙色热量。她有一头长长的{argument name=“发色”默认=“银白色”}头发，皮肤白皙，表情平静严肃，半睁的眼睛，头戴着细致的白色花卉装饰，头上飘扬着丝带般的彩带。她的服装是一件深色、华丽、破旧的哥特式连衣裙，带有蕾丝边饰、层叠的白色内裙、黑色紧身胸衣、盔甲袖子，以及缠绕在身边的磨损布条。环境是一座巨大的坍塌石砌大教堂，尖拱、破碎的彩色玻璃窗、摇摇欲坠的墙壁、远处的废塔、尘埃、雾气、瓦砾和冷冽的日光柱。盾牌是一个超大椭圆形的晶莹玻璃状能量圆盘，带有蚀刻的同心圆和放射状图案，捕捉图像右侧明亮的高光。使用单色灰、灰、象牙和炭灰色调，配以温暖的火星和橙色发光点缀。风格应是画作般的日本动漫概念艺术，极其细致的线条，戏剧性的动作，电影般的灯光，高对比度，水彩和墨水纹理，氛围浓厚的烟雾，飞散的碎片，无可见文字，无水印，无边框。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07931_0.jpg" width="600" alt="哥特废墟战姬 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 29: 花之圣域少女骑士
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-创作一幅垂直2：3超细致的动漫奇幻插画，描绘一个精致的微型水绿色圆顶，内含{argument name=“character name” default=“Nozomu”}的世界。在一个透明椭圆形玻璃罩内，底座为华丽的白金色底座，中央恰好放置一名年轻魔法少女骑士，她面前竖立着一把超大银色宽剑，底部恰好有一块华丽的椭圆…
-
-#### 📝 提示词
-
-```
-创作一幅垂直2：3超细致的动漫奇幻插画，描绘一个精致的微型水绿色圆顶，内含{argument name=“character name” default=“Nozomu”}的世界。在一个透明椭圆形玻璃罩内，底座为华丽的白金色底座，中央恰好放置一名年轻魔法少女骑士，她面前竖立着一把超大银色宽剑，底部恰好有一块华丽的椭圆形名牌，两个细长的金烛台，以及一扇拱形教堂式背景窗。角色拥有{argument name=“hair color” default=“淡金金”}长长的双马尾辫，花环上有小白花，花朵为浅蓝色和粉红色，穿着柔软的珍珠白半透明浅蓝色连衣裙，叠叠荷叶边裙摆，花卉胸带，臂环，白手套和银金细工盔甲点缀。她的脸被一副平面肤色矩形空白面具故意遮盖，面具无面部特征，正中央覆盖面部。剑身优雅且具仪感，长长的缎银剑身，金色十字饰品，垂链，剑柄上缠绕着一束淡蓝色玫瑰和白色花朵。用一个空灵的圣地花园填满穹顶：丰富的白花、淡蓝色玫瑰、珍珠花瓣、小白蝴蝶、水晶滴、闪亮的珠子、柔和的悬挂装饰品和梦幻的散景灯。牌匾应以精致的金色字体显示{argument name=“”铭牌文字“默认=”的ぞむの花の聖域 / のむ“}。使用象牙、银、香槟金、浅蓝、淡粉和透明玻璃高光的明亮粉彩调。风格：高端日本动漫人物插画，华丽少女奇幻，柔和的电影灯光，浅景深，光泽玻璃反光，精致花卉细节，魔幻水族馆穹顶氛围，无水印，无额外字符，无现代物品。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02739_0.jpg" width="600" alt="花之圣域少女骑士 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02739_1.jpg" width="600" alt="花之圣域少女骑士 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 30: 未来动漫少年
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在宽广的16：9画布中创建一个干净的未来感动漫主视觉。展示一位中性年轻动漫角色{argument name=“character name” default=“X-07”}，以三分之三姿势稍向左，皮肤白皙，冷静的灰蓝色眼睛，冷静严肃的表情，凌乱多层的{argument name=“hair color” defaul…
-
-#### 📝 提示词
-
-```
-在宽广的16：9画布中创建一个干净的未来感动漫主视觉。展示一位中性年轻动漫角色{argument name=“character name” default=“X-07”}，以三分之三姿势稍向左，皮肤白皙，冷静的灰蓝色眼睛，冷静严肃的表情，凌乱多层的{argument name=“hair color” default=“silver-white”}头发，长刘海部分遮住一只眼睛。他穿着干净利落的白衬衫，外面是一件光滑的黑色宽大科技夹克，高领，带有淡淡的蓝紫色反光，左手抬起戴着黑色无指手套，戴着细项链、手链和小耳洞。他举起的手悬在一个发光的蓝白色圆形能量球附近。背景是明亮的白色简约，充满青绿色科幻界面图形：他左后面正好有一个巨大的变旧绿松石色字母X，左下角附近有一条横向的品红色到蓝色条形条纹，右上角正好有一个小标签写着“{argument name=”project label“ default=”X-07“}”，下面写着“PROJECT”，下面是条形码， 角色袖子上恰好有一个小型全息界面面板，带有青色X和细小且难以辨认的数据线，以及细小的点青色引导线穿过构图。使用高细节的日本动漫插画风格，细腻的线条艺术，明亮的赛璐璐渲染，柔和的渐变，锐利的面部渲染，光泽面料高光，以及冷色调的青/蓝/白配色，并带有小品红色点缀。保持构图像科幻人物海报一样精致，不要多余角色，不要水印，背景不要杂乱。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08225_0.jpg" width="600" alt="未来动漫少年 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08225_1.jpg" width="600" alt="未来动漫少年 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 31: 飞鸟越山书封设计
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-设计一本精致的极简拼贴风格，采用温暖的米白色质感纸张，带有细腻的颗粒感和淡淡的岁月感。构图高大优雅，中央右侧以大字做旧黑色书法书写的中文标题“你当像鸟飞往你的山”，排列成两列竖排，右栏写“你当像鸟”，左栏写“飞往你的山”。一只精致的靛蓝色鸟儿在顶部中央附近飞翔，一条细长的蓝色点状飞行轨迹斜斜地穿过标题，向右下方延伸，…
-
-#### 📝 提示词
-
-```
-设计一本精致的极简拼贴风格，采用温暖的米白色质感纸张，带有细腻的颗粒感和淡淡的岁月感。构图高大优雅，中央右侧以大字做旧黑色书法书写的中文标题“你当像鸟飞往你的山”，排列成两列竖排，右栏写“你当像鸟”，左栏写“飞往你的山”。一只精致的靛蓝色鸟儿在顶部中央附近飞翔，一条细长的蓝色点状飞行轨迹斜斜地穿过标题，向右下方延伸，营造出上升与自由的感觉。左下角放置一个大型三角形山形，如撕裂的纸张拼贴或彩绘楔形，山顶白色雪白，渐隐为下方深邃的群青和藏青色纹理。在山的右侧边缘加入一条淡淡的垂直条纹，仿佛山体部分由印刷纸构成。在蓝色山峰内部，用衬线字体写出原始英文标题：“Educated”（有教育），下面用白色写“A Memoir”。在左上角，添加一小块黑色中文引文，排成6行，下面有长划线，然后用柔和蓝色衬线字体写作者名“Tara Westover”，分两行，再加一道破折线。在右下角，用小字竖写字幕：作者中文，后面是蓝色英文名“Tara Westover”，下方是黑色译者和出版商行。保持布局宽敞，保持强烈的负空间、不对称的平衡和诗意的当代出版美学。只用三种主要颜色：黑色、米白色和靛蓝。整体氛围应当是理性、克制、现代且屡获殊荣，适合由{argument name=“book title” default=“Educated”} 由{argument name=“author name” default=“Tara Westover”} 制作的高级版。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07992_0.jpg" width="600" alt="飞鸟越山书封设计 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 32: 雨窗黑白肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-电影感黑白肖像，一位拥有优雅、玲珑有致身形的{argument name="年龄" default="20"}岁美丽{argument name="国籍" default="日本"}女性。她站在豪宅落地的下雨窗户旁，穿着一件{argument name="服装" default="剪裁讲究、微微打湿的白色纽扣衬衫"}…
-
-#### 📝 提示词
-
-```
-电影感黑白肖像，一位拥有优雅、玲珑有致身形的{argument name="年龄" default="20"}岁美丽{argument name="国籍" default="日本"}女性。她站在豪宅落地的下雨窗户旁，穿着一件{argument name="服装" default="剪裁讲究、微微打湿的白色纽扣衬衫"}。情绪感氛围光影，玻璃上的雨滴模糊了背景，充满故事感，专业色彩分级。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03875_0.jpg" width="600" alt="雨窗黑白肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03875_1.jpg" width="600" alt="雨窗黑白肖像 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 33: 照片转童趣插画教程
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-将参考照片转换为{argument name=“style” default=“wimsical folk flat illustration”}，并带有涂鸦元素。保留原有构图和角色，但将所有细节简化为干净、色彩鲜艳、平面的形状，带有手工制作的童真感。使用 {argument name=“color scheme”…
-
-#### 📝 提示词
-
-```
-将参考照片转换为{argument name=“style” default=“wimsical folk flat illustration”}，并带有涂鸦元素。保留原有构图和角色，但将所有细节简化为干净、色彩鲜艳、平面的形状，带有手工制作的童真感。使用 {argument name=“color scheme” 默认=“柔和鲜艳色彩”}，粉红的脸颊，俏皮的线条画，可爱的装饰符号，花卉、蝴蝶、鸟类、漩涡和温馨的都市背景细节。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03376_0.jpg" width="600" alt="照片转童趣插画教程 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03376_1.jpg" width="600" alt="照片转童趣插画教程 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03376_2.jpg" width="600" alt="照片转童趣插画教程 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03376_3.jpg" width="600" alt="照片转童趣插画教程 - Image 4">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 34: 科幻机甲基地技术图解
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “类型”：“科幻机甲基地技术规格表”， “style”：“{argument name=\”ui theme\“ default=\”技术示意图，深灰色面板和白色文字\“}”， “标题”： { “title”：“{argument name=\”base name\“ default=\”ネストベース・アウラ\“…
+{ “类型”：“建筑施工图”， “主题”：“户外景观标志”， “风格”：“黑白技术线条、精确尺寸、工程标注、中文注释” “sign_details”： { “main_text”： “{argument name=\”main sign text\“ default=\”hi Park\“}”， “sub_text”…
 
 #### 📝 提示词
 
 ```
 {
-  “类型”：“科幻机甲基地技术规格表”，
-  “style”：“{argument name=\”ui theme\“ default=\”技术示意图，深灰色面板和白色文字\“}”，
-  “标题”： {
-    “title”：“{argument name=\”base name\“ default=\”ネストベース・アウラ\“}”“，
-    “subtitle”：“专门的战术部署与维护基地 {argument name=\”mecha name\“ default=\”アークセリオン\“}”
+  “类型”：“建筑施工图”，
+  “主题”：“户外景观标志”，
+  “风格”：“黑白技术线条、精确尺寸、工程标注、中文注释”
+  “sign_details”： {
+    “main_text”： “{argument name=\”main sign text\“ default=\”hi Park\“}”，
+    “sub_text”： “{argument name=\”sub sign text\“ default=\”天府公园运动中心\“}”，
+    “english_sub_text”：“西入口”
   },
   “布局”： {
-    “结构”：“基于网格的信息图，包含3行主要水平行”，
-    “row_1”：[
+    “diagrams_count”：8，
+    “分段”： [
       {
-        “标题”：“设施概览及基本规格”，
-        “内容”：“2个文本块，包括一个包含5行的规范表”
+        “位置”：“左上角”，
+        “标题”：“（1） 立面图 1：20”，
+        “描述”：“正面立面图，显示整体尺寸及指向字母和基座的标注。”
       },
       {
-        “标题”：“基础总体截面”，
-        “内容”：“地下基地的大剖面图，显示4个不同层级（1层到4层）”
+        “位置”：“上中间”，
+        “标题”：“（2） 侧立面图 1：20”，
+        “描述”：“侧面立面图显示深度尺寸。”
       },
       {
-        “标题”：“主机库内部”
-        “内容”：“{参数名称=\”机甲配色\“ 默认=\”白蓝\“}机甲在维修区的正面视图，左侧标有4层甲板”
+        “位置”：“右上角”，
+        “元素”： [
+          {
+            “类型”：“表格”，
+            “title”：“材质与颜色表”，
+            “行数”：6，
+            “柱子”：4
+          },
+          {
+            “类型”：“text_block”，
+            “title”： “材质说明：”，
+            “points_count”：3
+          },
+          {
+            “类型”：“text_block”，
+            “title”： “结构说明：”，
+            “points_count”：3
+          }
+        ]
       },
       {
-        “标题”：“机库尺寸”，
-        “内容”：“3个正交线框风格视图（顶部、前方、侧边），带有维度线”
+        “位置”：“中间左侧”，
+        “标题”：“（3） 平面图 1：20”，
+        “描述”：“俯视平面图，水平尺寸。”
+      },
+      {
+        “位置”：“中右”，
+        “标题”：“（4） 1-1剖面图 1：20”，
+        “描述”：“地基和地面的横断面图。”
+      },
+      {
+        “位置”：“底排”，
+        “描述”：“四个详细的节点图，内含虚线框。”
+        “细节”： [
+          "⑤ 节点A 字母与基座连接详图 1:5",
+          "⑥ 节点B 基座与地面固定详图 1:5",
+          "⑦ 预埋件详图 1:10",
+          "⑧ 基础做法详图 1:15"
+        ]
       }
     ],
-    “row_2”： [
-      {
-        “标题”：“登船装备”，
-        “内容”：“机甲上半身和驾驶舱登舰臂的特写”
-      },
-      {
-        “标题”：“武器运输区”，
-        “内容”：“自动运输车辆和磁轨的详细视图”
-      },
-      {
-        “职称”：“后部单位维护”，
-        “内容”：“机甲背面，显示发光的蓝色推进器和维护框架”
-      },
-      {
-        “标题”：“能源与制冷基础设施”，
-        “内容”：“密集的机械墙，配有管道和超导设备”
-      }
-    ],
-    “row_3”：[
-      {
-        “标题”：“发射系统：脊柱发射器”，
-        “内容”：“电磁弹射隧道的远视图，加上1张小截面图”
-      },
-      {
-        “标题”：“发射序列”，
-        “内容”：“10张连续图片网格，逐步展示机甲的发射过程”
-      },
-      {
-        “标题”：“外部发射口”，
-        “内容”：“基地外部视图，嵌入{argument name=\”基地位置\“ default=\”山地堡垒\“}墙内，显示伪装装甲和防爆门”
-      }
-    ]
+    “footer”： {
+      “位置”：“底边”，
+      “方块”： [
+        {
+          “title”： “施工说明：”，
+          “points_count”：4
+        },
+        {
+          “title”： “技术要求：”，
+          “points_count”：3
+        },
+        {
+          “标题”：“标题块”，
+          “田野”： [
+            “图名： {argument name=\”项目标题\“ default=\”景观小品施工图\“}”“，
+            “图号： {参数名称=\”抽签编号\“ 默认=\”LP-01\“}”“，
+            "比例: 见图",
+            “日期： {参数名称=\”绘制日期\“ 默认=\”2024.05\“}”
+          ]
+        }
+      ]
+    }
   }
 }
 ```
@@ -1493,39 +548,25 @@ Look 03：窗边柔光，适合品牌主视觉
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00625_0.jpg" width="600" alt="科幻机甲基地技术图解 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08869_0.jpg" width="600" alt="户外景观标志施工图 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 35: 废墟少女与机器人
+### No. 11: 奢华珠宝微缩城
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-目标：制作一页黑白科幻漫画页面，展示灾难后一座废墟的未来城市，配合电影感的广角镜头和空白对话气泡，供后续字体呈现。 画布：漫画竖版，竖向，清晰的白页边框，高对比单色墨水和灰度网调，细致的碎片纹理，戏剧性的多云天空，无色彩。 布局：从上到下使用4块水平面板，中间用厚实的白色排水沟隔开。 - 第一格：一个非常宽的建立镜头…
+制作一张极其细致的奢侈品广告海报，采用电影化的微型世界风格。中央悬挂着一条巨大的皇家钻石项链，镶嵌着复杂的金丝细工和巨大的红宝石，宛如一座建筑纪念碑。在珠宝作品周围和内部构建了一个未来微型城市，包括摩天大楼、高架高速公路、桥梁、螺旋楼梯、微型人形、奢华广告牌、无人机、直升机以及电影般的城市活动。使用深红色单色背景，搭…
 
 #### 📝 提示词
 
 ```
-目标：制作一页黑白科幻漫画页面，展示灾难后一座废墟的未来城市，配合电影感的广角镜头和空白对话气泡，供后续字体呈现。
-
-画布：漫画竖版，竖向，清晰的白页边框，高对比单色墨水和灰度网调，细致的碎片纹理，戏剧性的多云天空，无色彩。
-
-布局：从上到下使用4块水平面板，中间用厚实的白色排水沟隔开。
-- 第一格：一个非常宽的建立镜头，占据了页面上三分之一。展示一座被毁灭的超级城市，摩天大楼倒塌，高架道路破碎，瓦砾、尘土飞扬，暴风雨的天空被明亮的光线分割开来。在天空中加入漂浮的残骸块。只加两个空白的白色漫画对话气泡：左上角有一个高大的圆角多边形气泡，右上角一个更大的圆角多边形气泡。
-- 面板2：下方的狭窄全景面板。低角度俯瞰一座高耸受损的建筑墙，黑暗的天空中漂浮着岩石或碎片。在右侧只加一个空白的白色对话气泡。
-- 第三格：一个狭窄的动作细节格。一双黑色战斗靴踩在破裂的地面上，周围漂浮着小石块和碎片。在左侧只加一个小白白气泡。在这行最右侧留一个大白方形的空白槽/空隙，就像画格没有延伸到整页一样。
-- 第四格：占据底部的大型最终画格。一个小女孩和一个小机器人的后视角，面对废墟城市和末日般的天空。女孩站在左侧，穿着深色夹克、短裤、及膝黑色袜子和结实的靴子，留着短短的深色短波波头。机器人站在她右侧，矮胖圆柱形，头部呈圆顶形，配备小型侧臂、履带、通风口和机械细节。背景中，破碎的建筑构成场景框架，前景是瓦砾，天空中漂浮的碎片，以及穿透浓密云层的明亮光线。
-
-主题详情：主角人类角色是{argument name=“character name” default=“a silent young girl”}，其中{argument name=“hair style” default=“短深色短发”}，穿着{argument name=“outfit” default=“深色夹克、短裤、及膝袜和黑色靴子”}。伴随者是{argument name=“robot companion” 默认=“一个带圆顶头的小型圆柱形踏纹机器人”}。设定是{argument name=“ruined city setting” default=“暴风雨天空下的倒塌的未来超级城市”}。
-
-视觉风格：严肃的青年科幻漫画，如画般的水墨，密集的建筑细节，粗糙的瓦砾，戏剧性透视，氛围朦胧，浓重的黑色，质感灰度，电影化构图，无音效，气泡内无可见字体。
-
-限制：恰好4格面板和4个空白对话框。所有对话气泡保持空白，白色底边黑色边框。请勿添加说明文字、标题、水印、标志、页码或额外字符。
+制作一张极其细致的奢侈品广告海报，采用电影化的微型世界风格。中央悬挂着一条巨大的皇家钻石项链，镶嵌着复杂的金丝细工和巨大的红宝石，宛如一座建筑纪念碑。在珠宝作品周围和内部构建了一个未来微型城市，包括摩天大楼、高架高速公路、桥梁、螺旋楼梯、微型人形、奢华广告牌、无人机、直升机以及电影般的城市活动。使用深红色单色背景，搭配金色和红宝石色点缀。添加高端时尚广告美学、超逼真纹理、光泽反射、戏剧性的摄影棚灯光、景深、倾斜微缩效果和高端商业构图。顶部加注粗体优雅的字体：“拥抱非凡”。风格灵感来自奢侈珠宝广告、超现实的城市建设概念和高级3D广告渲染图。超写实，8K，辛烷值渲染，清晰对焦，细节丰富，电影般的阴影，对称构图。
 ```
 
 #### 🖼️ 生成图片
@@ -1533,785 +574,715 @@ Look 03：窗边柔光，适合品牌主视觉
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08358_0.jpg" width="600" alt="废墟少女与机器人 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15581_0.jpg" width="600" alt="奢华珠宝微缩城 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 12: 蒸汽朋克三人肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+在一条密集的复古未来城市小巷里，制作一幅高度细致的垂直蒸汽朋克风格集体肖像，画面中只有三个坐着的角色坐在一张磨损的木凳上。三人组由一个左边男性人物、一个中间女性人物和一个右边男性人物组成，全部面向前方，面部故意无特征且柔和模糊。左边的角色是一个身材瘦削的年轻人，戴着黑色宽檐帽，深色细条纹三件套西装，白衬衫，窄黑领带，…
+
+#### 📝 提示词
+
+```
+在一条密集的复古未来城市小巷里，制作一幅高度细致的垂直蒸汽朋克风格集体肖像，画面中只有三个坐着的角色坐在一张磨损的木凳上。三人组由一个左边男性人物、一个中间女性人物和一个右边男性人物组成，全部面向前方，面部故意无特征且柔和模糊。左边的角色是一个身材瘦削的年轻人，戴着黑色宽檐帽，深色细条纹三件套西装，白衬衫，窄黑领带，佩戴小胸针和奖章，露出纹身的手，穿着短袜和棕色系带靴。中心角色是一位娇小的年轻女子，{argument name=“发色”默认=“短铂金金短发”}，穿着一件深色华丽的双排扣校服风格夹克，白色衬衫，红色图案蝴蝶结领结，装饰别针和黄铜纽扣，头发旁停着一只小红色机械鸟或玩具，短裙，奶油色及膝袜，袜子上有复杂的机械插图。 红色脚踝带和亮黑色厚底玛丽珍鞋;她的手整齐地放在膝盖上。正确的角色是一个身材瘦削的年轻人，穿着藏青色剪裁西装外套、奶油色马甲、白衬衫、花纹领带、许多别针和奖章、短裤、奶油色袜子和深棕色皮鞋，双手交握坐着。背景应被无数复古机械细节填满：大型时钟、涡轮状的圆形通风口、仪表、管道、齿轮、金属盒、招牌、电线、刻度盘、旧广告和层叠的工业面板，营造出杂乱无章、充满奇幻感的蒸汽朋克市场外观。使用柔和的电影色调，包括氧化青绿色、锈红色、黄铜、炭灰、奶油色和风化棕色。灯光是柔和的阴天日光，清晰的插画细节，复杂的线条，逼真的织物质感，古董金属包浆，对称居中构图，从头部到鞋子的全身视角，鹅卵石地面，没有现代物体，没有可读的现实品牌标识，没有额外的角色。整体氛围：古怪、时尚、神秘且怀旧，比如{argument name=“style influence” 默认=“一幅融合了维多利亚时代蒸汽朋克和复古街头时尚的丰富日本AI插画”}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10185_0.jpg" width="600" alt="蒸汽朋克三人肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 13: 定河侠影：西门探秘
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+这是一张设定在中国古代集市城市黄金时段的电影感第三人称奇幻角色扮演游戏截图，从一小群前景人物稍后方视角，俯瞰繁忙的石铺街道，远处矗立着一座宏伟的多层宝塔。场景密集，只有一位身穿华丽深红黑长袍、饰以金色盔甲的男英雄，手持向下拔出的剑，身旁则有一位身穿优雅流畅白色汉服、饰以红色边饰和金饰的女性同伴。他们周围只有四个模糊的…
+
+#### 📝 提示词
+
+```
+这是一张设定在中国古代集市城市黄金时段的电影感第三人称奇幻角色扮演游戏截图，从一小群前景人物稍后方视角，俯瞰繁忙的石铺街道，远处矗立着一座宏伟的多层宝塔。场景密集，只有一位身穿华丽深红黑长袍、饰以金色盔甲的男英雄，手持向下拔出的剑，身旁则有一位身穿优雅流畅白色汉服、饰以红色边饰和金饰的女性同伴。他们周围只有四个模糊的前景旁观者或守卫，左右各两人，街道上挤满了穿着时代服装的大批市民。传统的木结构建筑两侧排列着弯曲瓦屋顶，悬挂着灯笼、红色横幅、布质遮阳篷、市场摊位和温暖的窗灯。加入漂浮的花瓣或发光的颗粒，柔和的氛围雾气，强烈的深度，以及丰富的温暖阳光和长长的阴影。画面应当像一款打磨精致的AAA开放世界武侠动作游戏，细节丰富、戏剧性强、沉浸感强、写实且带有风格化奇幻美感。包含完整的游戏内HUD覆盖层：右上角带有图标的方形小地图，右侧任务列表，包含3条可见条目，其中1条为{argument name=“quest objective” default=“探索西门府”}，2条为重复的战斗相关任务，左下角为圆形玩家状态区，带有生命值和耐力条，位置文本{argument name=“location name” default=“定河县”}， 正下方中央的动作栏，正好有6个圆形技能图标，右下角有一行正好有8个小菜单或系统图标。采用宽广的16：9构图、极其细致的环境艺术、电影般的光影、浅前景模糊以及宏伟的中国历史奇幻氛围。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10586_0.jpg" width="600" alt="定河侠影：西门探秘 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 14: AI复古情绪拼贴
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+做一个{argument name=“format” default=“mood board”}，内容是{argument name=“subject” default=“AI”}，{argument name=“style” default=“cinematic style”}，用一些怀旧的东西，比如宝丽来 竖屏模式
+
+#### 📝 提示词
+
+```
+做一个{argument name=“format” default=“mood board”}，内容是{argument name=“subject” default=“AI”}，{argument name=“style” default=“cinematic style”}，用一些怀旧的东西，比如宝丽来
+竖屏模式
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05308_0.jpg" width="600" alt="AI复古情绪拼贴 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 15: 狼人献花小红帽
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+在阳光明媚的森林草地上，创作一幅浪漫的动漫风格奇幻插画，景色满是野花。只显示两个主要角色：一个非常高大、肌肉发达的狼人，灰色狼耳朵，银色刺猬头发，晒成古铜色皮肤，蓬松的灰白色尾巴，合身的黑色无袖背心，黑色裤子和一条棕色腰带;还有一位身材娇小、打扮成华丽小红帽的年轻女子。狼人站在左侧，轻轻倾身向她，递给她一小束手工采摘…
+
+#### 📝 提示词
+
+```
+在阳光明媚的森林草地上，创作一幅浪漫的动漫风格奇幻插画，景色满是野花。只显示两个主要角色：一个非常高大、肌肉发达的狼人，灰色狼耳朵，银色刺猬头发，晒成古铜色皮肤，蓬松的灰白色尾巴，合身的黑色无袖背心，黑色裤子和一条棕色腰带;还有一位身材娇小、打扮成华丽小红帽的年轻女子。狼人站在左侧，轻轻倾身向她，递给她一小束手工采摘的野花，显得害羞而忠诚且乐于助人。女人坐在花丛右侧，抬头看着他，带着甜蜜又惊喜的浪漫情绪，一手捧着几根花茎。她的服装是一件细节丰富的红色连帽披风，配有白色蕾丝边饰，一件藏青色花卉连衣裙，白色紧身胸衣配红色交叉系带，蓬袖，丝带，玫瑰装饰，蕾丝围裙和层叠荷叶边裙。左下角前景中必须包含一个野餐篮，内含两件可见物品：一个包裹包裹和一瓶带红色盖子的深绿色葡萄酒。环境应是一片郁郁葱葱的神奇林地空地，高大树木、斑驳的金色阳光、柔和的散景，以及密集的色彩鲜花，包括红罂粟、雏菊、薰衣草紫色花朵、细小的黄色花朵和粉色野花。采用精致的高细节日本动漫插画风格，柔和浪漫的灯光，鲜艳色彩，精致的蕾丝和花卉刺绣，电影般的构图，垂直4：5构图，无文字，无水印。自定义角色为{argument name=“狼人外观” default=“非常高大、肌肉发达、灰色狼人，银发、晒黑皮肤、狼耳朵和尾巴”}， {argument name=“girl wear” default=“华丽的小红帽连衣裙配红帽、藏青花裙、白色蕾丝束身衣和玫瑰丝带”}， {argument name=“setting” 默认=“阳光明媚的森林草地，满是野花”}， {argument name=“rommantic action” 默认=“狼人递上刚摘下的花束，女孩坐着采花”}，{argument name=“art style” default=“高细节浪漫日本动漫奇幻插画”}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06930_0.jpg" width="600" alt="狼人献花小红帽 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08358_1.jpg" width="600" alt="废墟少女与机器人 - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06930_1.jpg" width="600" alt="狼人献花小红帽 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 16: 亦菲直播互动
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+9:16 比例，生成一张抖音直播截图，画面人物为 {argument name="character" default="刘亦菲"}。她手中拿着一个标牌，上面写着 "{argument name="sign text" default="今晚直播，欢迎来和亦菲聊天！"}"
+
+#### 📝 提示词
+
+```
+9:16 比例，生成一张抖音直播截图，画面人物为 {argument name="character" default="刘亦菲"}。她手中拿着一个标牌，上面写着 "{argument name="sign text" default="今晚直播，欢迎来和亦菲聊天！"}"
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15860_0.jpg" width="600" alt="亦菲直播互动 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 17: 上海城市系统揭秘
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ "type": "complex urban systems atlas infographic", "style": "{argument name=\"color palette\" default=\"dark background with glowing blue, gold, and purple a…
+
+#### 📝 提示词
+
+```
+{
+  "type": "complex urban systems atlas infographic",
+  "style": "{argument name=\"color palette\" default=\"dark background with glowing blue, gold, and purple accents\"}, highly detailed technical illustration, 3D isometric cutaway",
+  "header": {
+    "title": "{argument name=\"chinese city name\" default=\"上海\"}城市系统剖面 {argument name=\"english city name\" default=\"SHANGHAI\"} URBAN SYSTEMS ATLAS",
+    "subtitles": [
+      "地表之上，是城市；地表之下，是秩序 {argument name=\"english subtitle\" default=\"Beneath the skyline lies the machine.\"}",
+      "一座城市如何运转 How a Megacity Actually Works"
+    ]
+  },
+  "layout": {
+    "top_left": "Compass rose and city map labeled '上海市域位置 SHANGHAI LOCATION'",
+    "top_right": "Data table titled '城市数据 CITY DATA' with 7 rows of statistics",
+    "centerpiece": {
+      "description": "{argument name=\"centerpiece style\" default=\"highly detailed 3D isometric cutaway render\"} of a megacity river landscape",
+      "layers": [
+        "地面层 SURFACE",
+        "排水层 DRAINAGE LAYER",
+        "电力层 POWER LAYER",
+        "通信层 COMMUNICATION LAYER",
+        "轨道交通层 METRO LAYER",
+        "道路隧道层 ROAD TUNNEL LAYER",
+        "管廊综合层 UTILITY CORRIDOR LAYER"
+      ]
+    },
+    "side_panels": [
+      { "id": "01", "title": "城市主骨架 URBAN SKELETON", "elements": "Map with 8 legend items" },
+      { "id": "02", "title": "排水与地下水网 DRAINAGE + STORMWATER", "elements": "Cross-section diagram '典型排水剖面 DRAINAGE SECTION' with 5 legend items" },
+      { "id": "03", "title": "电网与能源分配 POWER GRID + ENERGY", "elements": "Cross-section diagram '典型变电站剖面 SUBSTATION SECTION' with 6 legend items" },
+      { "id": "04", "title": "通信与网络骨干 TELECOM + INTERNET", "elements": "Cross-section diagram '数据中心剖面 DATA CENTER SECTION' with 6 legend items" },
+      { "id": "05", "title": "地铁与地下交通 METRO + SUBSURFACE MOBILITY", "elements": "Cross-section diagram '人民广场站剖面 PEOPLE'S SQUARE STATION' with 6 legend items" },
+      { "id": "06", "title": "道路、高架与循环 ROADS + ELEVATED MOBILITY", "elements": "Cross-section diagram '南浦大桥剖面 NANPU BRIDGE SECTION' with 6 legend items" },
+      { "id": "07", "title": "管廊与地下设施 UTILITY CORRIDORS + PLUMBING", "elements": "Cross-section diagram '综合管廊 UTILITY CORRIDOR' with 8 legend items" },
+      { "id": "08", "title": "城市流量与系统协同 URBAN FLOWS + COORDINATION", "elements": "Map diagram '城市运行指挥中心 CITY OPERATIONS CENTER' with 6 legend items" }
+    ],
+    "bottom_panels": {
+      "system_logic": {
+        "title": "城市系统协同逻辑 SYSTEM COORDINATION LOGIC",
+        "steps": 4,
+        "labels": ["感知层 SENSING LAYER", "网络层 NETWORK LAYER", "平台层 PLATFORM LAYER", "应用层 APPLICATION LAYER"]
+      },
+      "city_brain": {
+        "title": "城市大脑 CITY BRAIN",
+        "central_node": 1,
+        "peripheral_nodes": 8
+      },
+      "references": {
+        "depth_scale": { "title": "深度与尺度 DEPTH & SCALE REFERENCE", "icons": 5 },
+        "map_scale": { "title": "比例尺 SCALE", "markers": 4 }
+      }
+    }
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02524_0.jpg" width="600" alt="上海城市系统揭秘 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 18: 西装男神漫步
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+超现实的电影肖像，描绘了一个{argument name=“subject” default=“帅气的年轻人”}自信地走过{argument name=“setting” default=“广阔的绿地”}，在{argument name=“lighting” default=“golden hour”}期间，他穿着剪…
+
+#### 📝 提示词
+
+```
+超现实的电影肖像，描绘了一个{argument name=“subject” default=“帅气的年轻人”}自信地走过{argument name=“setting” default=“广阔的绿地”}，在{argument name=“lighting” default=“golden hour”}期间，他穿着剪裁得体的黑色三件套西装，白色半解开的衬衫，优雅而阳刚的美学，略显凌乱的黑发随风自然飘动， 锐利的下颌线，细腻的胡茬，镜头前的强烈眼神交流，奢华时尚编辑的氛围，自然的身体动作，浅景深，柔和温暖的阳光，柔和的绿色背景模糊，高端杂志摄影，情绪化的调色，逼真肌肤质感，富家气质的精致气质，极简构图，85mm镜头，f/1.8，超细致，写实，Vogue风格时尚活动，电影般的灯光，全身照， 走姿，高端男装广告风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03280_0.jpg" width="600" alt="西装男神漫步 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 19: 高达时尚海报
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+制作一张半写实的动漫时尚编辑海报，画面为{argument name=“character name” default=“a unknown young woman pilot”}全身坐在混凝土屋顶台阶上，面对一台高耸的RX-78-2高达机动战士。女性位于前景中央，棕色长发散散，姿态自信放松，一膝抬起，一只手搭在窗台…
+
+#### 📝 提示词
+
+```
+制作一张半写实的动漫时尚编辑海报，画面为{argument name=“character name” default=“a unknown young woman pilot”}全身坐在混凝土屋顶台阶上，面对一台高耸的RX-78-2高达机动战士。女性位于前景中央，棕色长发散散，姿态自信放松，一膝抬起，一只手搭在窗台上，面部区域作为柔和的中性身份定位，方便后续替换。服装：光泽未来感{论点名称=“夹克颜色”默认=“蓝色”}飞行员轰炸机夹克，带有军用臂章和小印花标记，素白T恤，黑色战术工装裤，配有腰带和多功能袋，黑色无指手套，黑色战斗靴，手表，袖子上有一个小型红色可拆卸飞行前标签。她身后，从低角度视角展示巨大的RX-78-2高达，极细致的白色装甲板带风化，蓝色躯干，红黄胸部装饰，V型鳍头盔，发光的眼睛，肩部标记E.F.S.F.和WB 102，机械关节、通风口、贴花、划痕，以及逼真的比例，远远超过人体。背景：明亮的电影蓝天，零星云层，屋顶栏杆下方远处现代城市天际线。在图像上叠加透明的未来感HUD海报图形和细白色技术框线：正好8个主文字/图形块，包括1个左上角大标题块“RX-78-2高达”，1个小左侧机器人规格图块，1个左飞行员侧面块，1个左下角任务/雷达块，1个中下部系统检查栏，显示四个100%条， 右上角1块地球联邦宇宙军方块，上方写有“E.F.S.F.”，右侧1块警告/状态方块，右下角1块高达蓝图方块。使用清晰的剪辑光线、强烈的阳光高光、电影般的对比、超细致的纹理、逼真的织物褶皱、金属机甲表面、细腻的镜头光晕、锐利对焦、8K画质、垂直4：5构图。保持女性和高达的主导，不加额外角色，不加水印，不加血腥，不带卡通Q版风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05641_0.jpg" width="600" alt="高达时尚海报 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 20: 梅西乐高世界杯肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+这是一张电影肖像，描绘了{argument name=“subject” default=“Lionel Messi”}（使用参考照片，忠实保留了他的面部特征、发型、胡须、体型和标志性形象），坐在一张昏暗、抛光的桌子旁，环境豪华，{argument name=“背景”默认=“黑色与深色的乐高积木墙”}。莱昂内尔·梅西…
+
+#### 📝 提示词
+
+```
+这是一张电影肖像，描绘了{argument name=“subject” default=“Lionel Messi”}（使用参考照片，忠实保留了他的面部特征、发型、胡须、体型和标志性形象），坐在一张昏暗、抛光的桌子旁，环境豪华，{argument name=“背景”默认=“黑色与深色的乐高积木墙”}。莱昂内尔·梅西穿着{argument name=“outfit” default=“官方阿根廷国家足球队球衣”}。他的表情冷静、自信且内省，传达出领导力、谦逊与伟大。
+
+在他左侧的桌子上，摆着一个由乐高精心制作的FIFA世界杯奖杯复制品，由金色乐高积木制成，比例逼真，带有细腻的绿色点缀。官方乐高标志清晰可见于奖杯底座或前景中。
+
+莱昂内尔·梅西右手精致地握着一个乐高迷你人偶，代表他自己，身穿阿根廷国家队官方球衣，包括正宗的天蓝和白色、10号球衣、队长袖标以及受真实肖像启发的面部特征。
+
+2026年世界杯标志被巧妙地融入背景或柔和嵌入桌面，略显模糊以增强层次感。
+
+画面为超高清，对梅西和前景元素的聚焦清晰，配合电影般的景深，营造出平滑且富有艺术感的背景模糊。灯光如电影般戏剧化，对比细腻，高光控制，温暖的金色调，营造出高端优雅的氛围。
+
+豪华体育纪念品室、黑色大理石桌面反光、金色装饰、高级室内设计、浅景深、写实细节、逼真的皮肤质感、专业摄影、电影级调色、8K画质。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02194_0.jpg" width="600" alt="梅西乐高世界杯肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02194_1.jpg" width="600" alt="梅西乐高世界杯肖像 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 21: 溪涧人像摄影艺术
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创作一幅高度细致的写实户外肖像，描绘一名成年{论点名=“主体描述”默认=“年轻的东亚女性”}，跪在浅浅的岩石溪流中，姿势为三分之四视角，一只手放在湿滑的岩石上，另一只手臂放松地垂在身侧。她有一头长长的黑发，自然地垂落在肩上，微微飘动，脸部被一个中央方形像素隐私遮挡。她穿着一件合身的{argument name=“sh…
+
+#### 📝 提示词
+
+```
+创作一幅高度细致的写实户外肖像，描绘一名成年{论点名=“主体描述”默认=“年轻的东亚女性”}，跪在浅浅的岩石溪流中，姿势为三分之四视角，一只手放在湿滑的岩石上，另一只手臂放松地垂在身侧。她有一头长长的黑发，自然地垂落在肩上，微微飘动，脸部被一个中央方形像素隐私遮挡。她穿着一件合身的{argument name=“shirt color” default=“white”}短袖T恤，左胸印有小巧的黑色“CK”标志，搭配浅蓝色牛仔短裤;她赤脚，膝盖和小腿浸在流动的水中。背景是一个郁郁葱葱的森林山谷，有大块光滑的河石、激流涟漪，背景是柔和模糊的林山。使用自然阴天的日光、冷色调、浅景深、逼真的皮肤纹理、湿岩石、电影化散景、垂直构图、高分辨率单反拍摄效果、85mm镜头手感、柔和对比度，以及左下角的微妙半透明{argument name=“watermark text” default=“AIonia”}水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02372_0.jpg" width="600" alt="溪涧人像摄影艺术 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 22: 厨神老妈驾到
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+14秒可爱3D风格动画喜剧短片，细节极度丰富，色彩鲜艳，温暖的电影感灯光，流畅的24fps动画，夸张的表情和物理效果，情感丰富且带有幽默感。 镜头 1 (0.00–1.00s) – 全景转场，视线高度，缓慢推入：舒适的现代公寓餐厅，灯光温暖，墙上有全家福，一张小餐桌。30岁的中国女儿（深色长发扎成凌乱发髻，身穿休闲T…
+
+#### 📝 提示词
+
+```
+14秒可爱3D风格动画喜剧短片，细节极度丰富，色彩鲜艳，温暖的电影感灯光，流畅的24fps动画，夸张的表情和物理效果，情感丰富且带有幽默感。
+
+镜头 1 (0.00–1.00s) – 全景转场，视线高度，缓慢推入：舒适的现代公寓餐厅，灯光温暖，墙上有全家福，一张小餐桌。30岁的中国女儿（深色长发扎成凌乱发髻，身穿休闲T恤和围裙，神情紧张却充满期待）站在桌旁，自豪地微笑着揭开盘盖为母亲上菜。60岁的中国母亲（短烫发带些银丝，穿着舒适的开衫和眼镜，面容慈祥）坐在桌旁，带着温暖且了然于心的微笑看着女儿。背景隐约可见开放式厨房。
+
+镜头 2 (1.00–2.00s) – 特写，高角度，固定镜头：摆盘精美但略显瑕疵的家常菜（煎鱼、炒蔬菜、米饭）盛在简约陶瓷盘中。背景可见女儿的双手。
+
+镜头 3 (2.00–3.00s) – 60岁母亲脸部大特写，视线高度：她用筷子尝了一口，眼睛惊讶地睁大，随后调皮地眯起。她一边咀嚼，一边带着慈祥且了然的眼神斜睨着女儿，一侧眉毛微挑，嘴角带着淡淡的笑意。
+
+镜头 4 (3.00–4.00s) – 30岁女儿脸部特写，视线高度，轻微推入：她自豪的笑容瞬间凝固，变成瞠目结舌的震惊，嘴巴张开，眉毛高挑。她难以置信地盯着。
+
+镜头 5 (4.00–5.00s) – 再次特写母亲脸部：她微微放下筷子，此时带着顽皮而慈爱的笑容，直视前方时眼神闪烁着恶作剧的光芒。
+
+镜头 6 (5.00–6.00s) – 家庭厨房全景，低角度：60岁的母亲现在穿着一件略显宽大的彩色围裙，自信地站在前景的灶台前。女儿站在身后的门口，神情惊讶而困惑。母亲双手叉腰，表情坚定而温暖。
+
+镜头 7 (6.00–7.00s) – 同一厨房全景，动态镜头下倾：炒锅中戏剧性地燃起橙色火焰。母亲专注地向前倾身，眼神中透出强烈而慈爱的专注，准备开始烹饪。
+
+镜头 8 (7.00–8.00s) – 动态特写，低角度：母亲戏剧性地举起一把大菜刀，神情凶悍而体贴，前景中飞舞的牛肉片和蔬菜像动作片一样衬托着她。
+
+镜头 9 (8.00–9.00s) – 大特写，低角度，节奏明快：鲜姜、大蒜和青葱被切片，汁水和碎块围绕着刀刃慢动作飞舞，还有漂浮的小白菜、圣女果和辣椒。
+
+镜头 10 (9.00–10.00s) – 厨房中景，视线高度：母亲全神贯注地用铲子翻炒滋滋作响的炒锅，蒸汽升腾，下方火焰旺盛。她的脸上展现出极致的专注与自信，带着淡淡的温暖微笑。
+
+镜头 11 (10.00–11.00s) – 特写，高角度：她的手优雅地用勺子将烹饪完美的菜肴（油亮的炒牛肉、鲜艳的蔬菜、浓郁的酱汁）从锅中盛到盘子里。
+
+镜头 12 (11.00–12.00s) – 餐桌双人中景，视线高度：母亲自豪地将做好的菜端给女儿。30岁的女儿用筷子吃了一大口，眼睛因极度喜悦和惊讶而凸起。
+
+镜头 13 (12.00–13.00s) – 双人特写：母亲身体前倾，带着巨大的满足和慈爱的微笑，用手轻轻比划，仿佛在对女儿说“看到了吧？”。
+
+镜头 14 (13.00–14.00s) – 女儿脸部特写：她突然流下了幸福的泪水，大颗漫画式的泪珠顺着脸颊滑落，手里还拿着筷子。
+
+镜头 15 (14.00s – 结束) – 最终全景，视线高度，缓慢拉远：母亲胜利地站在桌旁，双手合十，带着温暖而略显自得的满足微笑。女儿坐着，头微微低下，陷入幸福的溃败，一手戏剧性地扶着额头，依然流着喜悦的泪水。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13751_0.jpg" width="600" alt="厨神老妈驾到 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 23: 两分加密货币
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+2分币
+
+#### 📝 提示词
+
+```
+2分币
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16161_0.jpg" width="600" alt="两分加密货币 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 24: 湖畔绿发少女休憩
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一幅宁静的动漫风格插画，描绘了{argument name=“character name” default=“Enkidu”}，被重新想象成一位中性、女性化的年轻成年人，拥有极长的直发{argument name=“hair color” default=“浅绿色”}，坐在阳光明媚的湖畔公园中，靠在一棵巨大老树的宽…
+
+#### 📝 提示词
+
+```
+一幅宁静的动漫风格插画，描绘了{argument name=“character name” default=“Enkidu”}，被重新想象成一位中性、女性化的年轻成年人，拥有极长的直发{argument name=“hair color” default=“浅绿色”}，坐在阳光明媚的湖畔公园中，靠在一棵巨大老树的宽阔树干上。该角色身材苗条优雅，穿着稍显宽大的白色衬衫，衬衫有柔软褶皱，浅米色或灰褐色剪裁长裤，搭配简约的白色懒鞋。将人物摆出一个放松的休息姿势，一膝向上弯曲，另一条腿向前伸出，双手松散放在膝上，身体略微向观者左侧倾斜，长发垂落肩膀，越过腰部，散落在草地上。将场景设定在明亮的上午晚些时候或下午自然光线中，斑驳的叶影穿梭在衣物、头发、地面和树皮上。背景中，可以展示一个宁静的蓝色湖泊、沿水铺好的步道、左侧的一张木制公园长椅、长椅附近的一根黑色路灯柱，以及水面对岸的一个小凉亭或亭子，湖面映出郁郁葱葱的绿色树木，蓝天映照，白云零星点缀。在前景草地上点缀小白紫色野花，树皮细致，树上有苔藓斑块，营造宁静沉思的氛围。细节丰富，画作般的动漫插画，柔和的电影构图，清晰的树叶，头发暗示的微风，适合工作内容，无文字，无水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08681_0.jpg" width="600" alt="湖畔绿发少女休憩 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 25: 清冷镜前露背纯欲照
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+生成一张 9:16 的写实纯欲风格女性生活照。 画面主体是一位 20–28 岁年轻成年东方女性，具有自然明确的东方女性特征，不过度欧美化，不显年龄偏大，没有未成年感。人物整体气质为 清冷、克制、私密、有故事感、纯欲，同时呈现安静、柔和、克制与明显女性吸引力。她不是网红脸，不是过度精修写真脸，而是像真实生活中安静、干净…
+
+#### 📝 提示词
+
+```
+生成一张 9:16 的写实纯欲风格女性生活照。
+
+画面主体是一位 20–28 岁年轻成年东方女性，具有自然明确的东方女性特征，不过度欧美化，不显年龄偏大，没有未成年感。人物整体气质为 清冷、克制、私密、有故事感、纯欲，同时呈现安静、柔和、克制与明显女性吸引力。她不是网红脸，不是过度精修写真脸，而是像真实生活中安静、干净、自然，却具有明确身体吸引力的年轻女性。
+
+人物五官方向为 清冷淡颜。脸型偏窄鹅蛋脸或轻微长鹅蛋脸，面部轮廓干净利落；眼型偏细长杏眼或内敛凤眼感，眼神清透安静，略带轻微距离感；鼻型清秀挺直，唇形自然克制。由于人物背对镜头站在镜前，脸部主要通过落地镜中的隐约映像呈现，因此镜中侧脸需要保留清晰但克制的清冷辨识度。整体五官必须清纯干净、自然真实，不网红化，不假面感，不幼态化。
+
+人物身形方向为 腰背臀曲线感，身形吸引力强度为 中。整体比例真实协调，后背线条流畅柔和，肩背与腰背转折自然，腰窝隐约可见，腰臀比例好看，整体身体轮廓具有明确女性吸引力与柔和自然的 S 型曲线。重点突出 后颈、肩线、蝴蝶骨、腰窝、腰臀比，但必须保持克制、真实、干净，不低俗，不刻意色情化。
+
+整体风格为 电影生活剧照感，即 realistic sensual lifestyle portrait / naturalistic intimate portrait / cinematic everyday body portrait。画面像一张极简、干净、克制的写实纯欲生活照，真实、柔和、安静，带有轻微私密空间氛围与明显身体吸引力，但不是情色写真，不是廉价情趣风，不是影楼大片，也不是 CG 或 AI 插画风。
+
+场景设定在真实的 私人衣帽间 中，画面包含 落地镜、柜内暖白灯、半开的衣柜，环境干净、简洁、克制，有生活痕迹但不杂乱。半开的衣柜与镜面共同营造私密空间感，让人物的背部与腰臀线条成为视觉重点。
+
+服装为 黑色真丝露背吊带上衣，灰色低腰三角短裤，背部裸露明显。整体材质应简洁、真实、有质感，黑色真丝上衣强调肩背线条与露背结构，灰色低腰短裤自然体现腰臀比例与低腰轮廓。服装整体必须贴身、克制、干净，不低俗，不廉价，不夸张，不情趣化。
+
+姿势采用 人物背对镜头站在镜前，一只手整理头发，脸在镜中隐约可见。人物自然站立，重心轻微偏移，一侧胯部轻微放松，肩颈舒展，后颈自然露出，肩线与蝴蝶骨清晰但柔和，腰背自然收束，腰窝与腰臀比隐约显现。动作简单稳定，不复杂，不高难度摆拍，不刻意色情化。
+
+光线氛围为 柔和冷白主光 + 柜内暖白点光。整体以柔和冷白主光维持清冷、低反差、通透的画面基底，柜内暖白点光作为局部氛围补充，轻微勾勒头发边缘、背部轮廓、镜框和衣柜层次，使画面更有生活剧照感与私密情绪感。阴影轻柔，身体曲线边缘清楚但不过硬，皮肤保留真实细腻纹理与轻微柔光感。
+
+整体套用 冷白纯欲生活照滤镜 + 轻微私密生活感。画面采用低饱和冷白、柔和灰白、浅米灰和干净肤色体系，整体极简、克制、通透、安静，不要高饱和暖黄，不要明显青橙调色，不要复古偏色。整体突出清冷五官、背部与腰臀曲线，以及衣帽间私密空间里的静谧氛围。
+
+镜头为平视或轻微俯视，使用 50mm 或 35mm 真实摄影视角，避免超广角变形。构图以人物背影与镜中隐约面容共同组成画面主体，突出背部、腰背与腰臀线条，同时保证人物五官与身体比例真实协调，手臂、手指、腿部和关节结构自然准确。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14241_0.jpg" width="600" alt="清冷镜前露背纯欲照 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14241_1.jpg" width="600" alt="清冷镜前露背纯欲照 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 26: 初音箱根驿传
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{"type":"full-page Japanese sports magazine team introduction layout for a fictional Hakone Ekiden university team, anime idol crossover style","format":"portr…
+
+#### 📝 提示词
+
+```
+{"type":"full-page Japanese sports magazine team introduction layout for a fictional Hakone Ekiden university team, anime idol crossover style","format":"portrait A4 magazine page, dense editorial design, teal and white color theme, crisp print layout, many boxed panels, Japanese typography, energetic music-note graphics","main_title":{"position":"upper left","text":"{argument name=\"university name\" default=\"音速大学\"}","subtitle":"音の力で、未来へ駆ける。","issue_label":"出場大学紹介 10","reading_note":"（おんそくだいがく）","ace_label":"[エース] 初音ミク"},"hero_visual":{"position":"left half","character":"{argument name=\"ace runner name\" default=\"初音ミク\"}","description":"dynamic full-body anime girl runner sprinting toward the viewer, turquoise twin-tail hair, black headset, sleeveless teal-and-white running singlet reading 音速大学 with bib number 01, black running shorts, teal sash, athletic shoes, intense stadium-like glow, electric cyan speed lines, neon pink and yellow musical notes swirling around her","vertical_slogan":"想いを歌にのせて、タスキをつなぐ！"},"top_right_panels":[{"title":"チームスローガン","count":1,"text":"響け、想い。つなげ、未来。"},{"title":"ユニフォーム","count":2,"items":["front view of teal and white singlet and shorts with bib 音速大学 01","back view of teal and white singlet with vertical English text SONIC UNIV and shorts"]},{"title":"チームバランスチャート","count":5,"chart_type":"radar chart","labels":["スピード S","スタミナ B","山適性 B","安定感 A","爆発力 S"]}],"entry_list":{"title":"エントリー選手（全16名）","position":"center-right large table","count":16,"columns":["No.","選手名","学年","タイプ","スピード","スタミナ","山適性","メンタル","選手紹介・特徴"],"entries":["1 初音ミク, 4年, エース, grades S A B S","2 鏡音リン, 4年, スピード型, grades S B B A","3 鏡音レン, 4年, スピード型, grades A B B A","4 巡音ルカ, 3年, スタミナ型, grades A A B A","5 KAITO, 3年, バランス型, grades A A B A","6 MEIKO, 3年, パワー型, grades B A A A","7 弱音ハク, 2年, スタミナ型, grades B A B B","8 重音テト, 2年, スピード型, grades A B B A","9 GUMI, 2年, バランス型, grades B B B A","10 IA, 2年, スピード型, grades A B B B","11 結月ゆかり, 1年, スタミナ型, grades B A B A","12 紲星あかり, 1年, バランス型, grades B B B A","13 東北ずん子, 1年, 山適性型, grades B A A B","14 可不, 1年, テクニック型, grades B B B A","15 小春六花, 1年, スピード型, grades A C B B","16 花隈千冬, 1年, サポート型, grades C B B A"]},"lower_left_profile":{"title":"大学概要","text":"『音楽の力で人々をつなぐ』ことを理念に掲げる、個性派ランナー集団。リズムとチームワークを武器に、音速の走りで上位進出を狙う！","team_data_count":5,"team_data":["スピード S","スタミナ B","山適性 B","安定感 A","チームワーク S"]},"course_prediction":{"title":"区間配置予想（全10区間）","position":"lower middle","count":10,"legs":["1区 21.3km 鏡音リン スピード型","2区 23.1km 初音ミク エース","3区 21.4km 鏡音レン スピード型","4区 20.9km KAITO バランス型","5区 20.8km MEIKO パワー型","6区 20.8km 巡音ルカ スタミナ型","7区 21.3km GUMI バランス型","8区 21.4km 弱音ハク スタミナ型","9区 23.1km 重音テト スピード型","10区 23.0km 初音ミク エース"]},"bottom_panels":[{"title":"戦力分析","count":2,"sections":["強み with 3 bullet points","課題 with 3 bullet points"]},{"title":"注目選手ピックアップ","count":3,"players":["初音ミク（4年・エース） with four horizontal ability bars","巡音ルカ（3年・スタミナ型） with four horizontal ability bars","重音テト（2年・スピード型） with four horizontal ability bars"]},{"title":"監督コメント","count":1,"description":"gray silhouette coach icon with a short Japanese quote"},{"title":"編集部評価","count":1,"rating":"総合評価 A, スピードで勝負！ハマれば優勝候補筆頭！"}],"style_instructions":"Make it look like a real Japanese running magazine preview page for Hakone Ekiden, extremely information-dense but clean and legible, with anime character portraits in the tables, turquoise accent borders, small icons, radar chart, bar charts, and energetic music-themed visual effects. Use the headline university and ace runner prominently, no blank sections, high-resolution print-ready illustration."}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09940_0.jpg" width="600" alt="初音箱根驿传 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 27: 阿尔卑斯湖村绝美风光
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一幅令人屏息、超写实的风景，描绘了一个{argument name=“setting” default=“alpine lake village”}。前景中，{argument name=“前景元素” default=“木制码头，只有一张空长椅”}从左下角延伸到清澈的蓝色水面，左侧是鲜艳的{argument name…
+
+#### 📝 提示词
+
+```
+一幅令人屏息、超写实的风景，描绘了一个{argument name=“setting” default=“alpine lake village”}。前景中，{argument name=“前景元素” default=“木制码头，只有一张空长椅”}从左下角延伸到清澈的蓝色水面，左侧是鲜艳的{argument name=“flower color” default=“bright pink and red”}花朵，右侧是高大的绿色芦苇。平静的湖面完美映照着风景，左侧漂浮着一艘小红色划艇，右侧有一艘白色帆船。在右岸，有一个风景如画的欧洲村庄，拥有一座显眼的尖顶教堂尖塔和传统房屋，坐落在郁郁葱葱的绿山脚下。高耸的{argument name=“mountain type” default=“snow-capped sengled peaks”} 主导着背景，背景为{argument name=“weather” default=“晴朗晴朗的白云”}。灯光鲜艳、田园诗般且细节丰富。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07332_0.jpg" width="600" alt="阿尔卑斯湖村绝美风光 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 28: 萌娃音乐玩具广告
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张有趣的音乐儿童广告海报。一个可爱的{argument name=“subject” default=“young girl age 5”} 在一个{argument name=“product” default=“巨大的彩色音乐玩具键盘”}身高是她三倍高的旁边欢快地跳舞，键盘上用彩虹字母写着“{argument…
+
+#### 📝 提示词
+
+```
+一张有趣的音乐儿童广告海报。一个可爱的{argument name=“subject” default=“young girl age 5”} 在一个{argument name=“product” default=“巨大的彩色音乐玩具键盘”}身高是她三倍高的旁边欢快地跳舞，键盘上用彩虹字母写着“{argument name=”brand“默认=”melodykidz“}”。明亮的魔法背景，漂浮的音符、星星和五彩缤纷的彩纸散布。背景中充满了彩虹色彩的大号活泼音乐排版《MELODYKIDZ》。标语底部：“让音乐响起。”右上角的小文字用灰色写着“Designed with GPT Image 2”。照片级写实、有趣的儿童音乐玩具广告，明亮神奇的彩虹工作室灯光。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05573_0.jpg" width="600" alt="萌娃音乐玩具广告 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 29: 复古RPG少女战纪
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+目标：制作一张繁忙的1990年代日本奇幻角色扮演游戏杂志广告/游戏盒宣传海报，主题为{argument name=“game title” default=“SynClub SaGa”}，采用戏剧化的动漫女学生战士形象和复古主机营销布局。 画布：竖版整页广告，2：3比例，陈旧奶油色纸质地，印刷设计密集，略显做旧墨水，…
+
+#### 📝 提示词
+
+```
+目标：制作一张繁忙的1990年代日本奇幻角色扮演游戏杂志广告/游戏盒宣传海报，主题为{argument name=“game title” default=“SynClub SaGa”}，采用戏剧化的动漫女学生战士形象和复古主机营销布局。
+
+画布：竖版整页广告，2：3比例，陈旧奶油色纸质地，印刷设计密集，略显做旧墨水，高饱和度，黑金边框，怀旧的16位角色扮演游戏时代美学。
+
+主布局：顶部三分之二是奇幻关键视觉。在最顶部添加一条狭窄的日语标语横幅，使用 {argument name=“top tagline” default=“异世界に召喚された女子高生（きなこ）の壮大な冒険が今、始まる！！”}。在左上角下方放置一个巨大的华丽标志，写着{argument name=“game title” default=“SynClub SaGa”}：蓝金衬线字体代表“SynClub”，红金字体代表“SaGa”，装饰性奇幻花丝和一块小字幕牌。背景分为左侧明亮蓝天的城堡王国和右侧深紫色的雷电恶魔城堡。在右侧添加竖向发光日文，使用 {argument name=“vertical tagline” default=“光与闇的狭间で、少女是运命を選ぶ―”}。
+
+主角：画面中右，一名被召唤到幻想世界的日本少女，长长的黑发，脸被柔和的矩形模糊故意遮挡，穿着海军水手制服，混合抛光银色骑士盔甲：装甲胸甲、右肩护甲、金属护臂、棕色皮带、金色扣环、勋章胸针、短百褶裙、藏青领巾， 左下角斜置一把鞘中或下垂的剑。她的姿势英勇且略带倾斜，头发披散在标志区域。
+
+故事框：在标志下方左侧放置一个小羊皮纸状的故事面板，标题为英文“STORY”，随后是密集的日文正文，模仿游戏杂志的简介。保持副本小巧，主要是装饰性，但明显带有日本风格。
+
+游戏画面：在主图下方，创建一个带边框的截图面板，配有编号说明。第一格展示了一个色彩丰富的俯视世界地图，有森林、河流和微小的玩家角色。面板2展示了一个室内对话/事件场景，有两个角色和一个文本框。第三格展示了一场在火山战场上的动作战斗，伴随着明亮的剑光束。第四格展示了一场最终Boss角色扮演游戏，对手是带有状态框和HP/MP界面的大型紫色恶魔。在这些面板上方放置一个粗体的黄红相间日文标题，使用 {argument name=“feature headline” default=“美丽그래픽&重厚故事！4つの世界が君を待つ！”}。
+
+底部产品部分：将底部三分之一划分为左边的产品捆绑区和右边销售文案区。左侧必须显示3件可购买物品：一个带有相同封面设计的高大游戏盒、一个带有游戏标志标签的黑色卡带，以及一张闪亮的CD原声带光盘。下面还显示了一个小型黑色复古虚构掌机/主机设备，显然不是真实品牌。加上一个红色印章风格的标签，表示“现正促销中”，一个标注7800日元加税的价格，以及关于原声CD赠品的说明。
+
+兼容行：左下角恰好包含5个小硬件/媒体图标或徽章：1）AI电脑，2）8位系统，3）CD-ROM，4）16位，5）iOS/安卓系列兼容。使用虚构名称，避免使用任何真实公司的标志或真实的主机设计。
+
+右侧销售文案：大而粗体的日文宣传文字叠放，宣传一场宏大的冒险、感人的故事、一位挑战黑暗的少女战士，改变世界的命运。在下面，再加上一小本黑色日文说明，介绍一款16位风格的奇幻RPG，画面精美，背景音乐感人，故事沉重。在右下角添加一个假出版商标志和公司标块，上面写着“Noel Soft”，配有蓝色装饰标志、虚构地址、电话号码、版权线和小小的署名文字。
+
+视觉风格：细致的动漫插画与复古日本杂志广告设计融合，华丽的奇幻标志字体，半色调印刷质感，金色边饰，戏剧性的光影，饱和的蓝色、红色、紫色和黄色。广告应该显得有些冗长且带有玩味感，就像对经典JRPG营销的恶搞。
+
+限制：不要使用真实的公司名称、真实的主机名称、真实的标志，也不要使用真实的硬件轮廓。保持主角的脸部模糊或遮挡。包含恰好4个游戏截图面板、3个产品捆绑包物品和5个兼容性徽章。让整页文字密集且令人信服的日本风格，同时保留虚构的品牌形象。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08037_0.jpg" width="600" alt="复古RPG少女战纪 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 30: 皮克斯风影视重绘
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+皮克斯风格的电影海报，重新构想了电视剧{argument name=“tv show” default=“[TV SHOW]”}。主角们以迷人的3DCGI漫画角色出现，拥有夸张且富有表现力的五官、大大的表情眼睛和温暖光滑的皮克斯级渲染。把它画成一张真正的电影海报
+
+#### 📝 提示词
+
+```
+皮克斯风格的电影海报，重新构想了电视剧{argument name=“tv show” default=“[TV SHOW]”}。主角们以迷人的3DCGI漫画角色出现，拥有夸张且富有表现力的五官、大大的表情眼睛和温暖光滑的皮克斯级渲染。把它画成一张真正的电影海报
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06904_0.jpg" width="600" alt="皮克斯风影视重绘 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 31: 治愈系动漫日历少女
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+在柔和的晨光下，制作一个可爱的日本撕下日历的写实产品模型，放在温暖的木桌上。日历是一个A形桌面块，厚厚的奶油色纸页和顶部一条带有纹理的米白色装订条，从稍微偏左的角度看。可见的页面采用薄荷、奶油色、桃色和浅蓝色的柔和水彩动漫设计，纸质质感细腻，边缘有波浪形框，小雏菊，顶部有一个小蝴蝶结装饰。在页面右半部分，画一个可爱的…
+
+#### 📝 提示词
+
+```
+在柔和的晨光下，制作一个可爱的日本撕下日历的写实产品模型，放在温暖的木桌上。日历是一个A形桌面块，厚厚的奶油色纸页和顶部一条带有纹理的米白色装订条，从稍微偏左的角度看。可见的页面采用薄荷、奶油色、桃色和浅蓝色的柔和水彩动漫设计，纸质质感细腻，边缘有波浪形框，小雏菊，顶部有一个小蝴蝶结装饰。在页面右半部分，画一个可爱的原创动漫女孩：金色桃粉色卷曲双尾头发，大而闪亮的水绿色眼睛，红润的脸颊，温柔的微笑，双手托着下巴，穿着薄荷绿连衣裙，上面有细小的白花，带着带边的蓝白色领子，发圈手链，蓝色丝带蝴蝶结，头发上还有小花夹。页面左半部分，包含五个文本元素：顶部小标签“うちの子日めくり”，大日期“{argument name=”date“ default=”5/24“}”“，工作日”{argument name=“weekday” default=“日曜日”}“，字符名”{argument name=“character name” default=“のぞむ”}“”，以及圆润云端信息框，写有“{argument name=”daily message“ default=”你的ペースでね“}”。使用优雅的日文排版，日期用大号青绿色衬线数字表示，其他文字则用柔和的棕色和青绿色。用舒适的桌面道具环绕日历：前景斜放一支薄荷色花笔，左侧一个白色花瓶，笔下一块白色蕾丝布，右侧一个柔和模糊的玻璃容器，右下方前景有一朵小而模糊的白色花朵。保持氛围温柔、手工制作、女性化、轻盈且怀旧，采用浅景深、温暖的高光、逼真的阴影，且不加水印或额外文字。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01366_0.jpg" width="600" alt="治愈系动漫日历少女 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01366_1.jpg" width="600" alt="治愈系动漫日历少女 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08358_2.jpg" width="600" alt="废墟少女与机器人 - Image 3">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 36: 奇葩脚自拍
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在现代高层酒店房间里，拍摄一张逼真的广角智能手机照片，从地面拍摄，旁边是躺在有图案地毯上的一个人。该人穿着{argument name=“outfit color” default=“cream white”}长袖休闲服和配套裤子，横向伸展在画面上，头靠在右侧的白色枕头上。他们的脸被一团自然肤色的长方形模糊物故意遮挡…
-
-#### 📝 提示词
-
-```
-在现代高层酒店房间里，拍摄一张逼真的广角智能手机照片，从地面拍摄，旁边是躺在有图案地毯上的一个人。该人穿着{argument name=“outfit color” default=“cream white”}长袖休闲服和配套裤子，横向伸展在画面上，头靠在右侧的白色枕头上。他们的脸被一团自然肤色的长方形模糊物故意遮挡。一只赤脚在前景左上中外侧明显抬起，脚趾紧握黑色智能手机，仿佛在尝试用脚自拍;手机采用光滑黑色机壳，后置摄像头镜头面向观众。另一条腿则沿着地面伸展。只显示一个可见的抬起脚、一部黑色手机、一个枕头、左侧一张床铺着皱巴巴的白色床品、一把靠近窗户的灰色休闲椅，以及大而落地的窗户，展现出明亮的白天高楼公寓天际线。利用温暖的阳光透过窗户洒进来，在米色和蓝色地毯上投下强烈的棱角分明的阴影。视角应显得笨拙且实验性强，就像从地面拍摄的失败自拍，带有轻微的广角变形，自然室内光线，逼真的纹理，且不添加文字或水印。设置是{argument name=“room setting” default=“a luxury hotel bedroom”}，手机型号外观是{argument name=“phone appearance” default=“黑色三摄智能手机”}，外部视角是{argument name=“window view” default=“密集现代城市天际线”}。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11473_0.jpg" width="600" alt="奇葩脚自拍 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11473_1.jpg" width="600" alt="奇葩脚自拍 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 37: 商务女性等距素材
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-目标：创建一套等距矢量插图集，包含许多演示和办公室场景中的相同{argument name=“character type” default=“professional businesswoman presenter”}，排列方式如同白色背景上的干净姿势库。 画布：宽横幅16：9画布，明亮白色或非常浅灰色背景，无边框…
-
-#### 📝 提示词
-
-```
-目标：创建一套等距矢量插图集，包含许多演示和办公室场景中的相同{argument name=“character type” default=“professional businesswoman presenter”}，排列方式如同白色背景上的干净姿势库。
-
-画布：宽横幅16：9画布，明亮白色或非常浅灰色背景，无边框，无标题，无说明，无水印。每个人偶下方用柔和的椭圆形灰色地板阴影。
-
-视觉风格：现代等距人物插画精致，半平面矢量风格，带有细腻渐变和柔和阴影。该角色有简化的无脸脸，浅色皮肤，棕色头发低发髻，藏青色商务西装，白色衬衫，短裤和黑色高跟鞋。所有姿势保持比例一致，穿搭全程相同。
-
-布局：将13个独立的全身模型分为两排，保持宽敞间距，就像展示素材表一样。顶排有7个人物;最底一排有6个人物。所有人物面对略有不同的等距视角，保持独立且无重叠。
-
-姿势数量及细节：包含13个独立姿势：1）站立演讲者面向前方，一手张开示意欢迎，2）后视角演讲者用棍子指向墙上展示饼图和线条的展示板，3）站立演讲者手持小物件或遥控器并向侧面比划，4）站立演讲者一手拿着遥控器，另一手做手势， 5）行走的女商人一臂夹着灰色文件夹，6）行走的女商人手持螺旋笔记本或报告，7）站立的女商人手势，仿佛在与某人交谈，8）站立的举起食指以示观点，9）站立的举着带有图表线的螺旋报告表，10）自信地交叉双臂站立的人物， 11）坐在灰色椅子上，手持打开的笔记本电脑并做手势，12）身体前倾，指向地上的文件或图表，13）站立的人物，微微倾斜，一手叉腰，另一根食指举起。
-
-主题自定义：保持角色在每个姿势中都可识别为同一人，但允许整体角色改为{argument name=“character appearance” 默认=“浅肤色棕色发型女性低发髻”}。请使用{argument name=“outfit” default=“深藏青色西装，白色衬衫，黑色高跟鞋”}。可选道具应与{argument name=“presentation theme” default=“corporate business presentation”}相匹配。保持插图简洁、简洁且适合展示。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01541_0.jpg" width="600" alt="商务女性等距素材 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 38: 奢华夜景人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-仅将我上传的肖像照作为身份和发型的参考。准确保留人物的真实面部特征、脸型、五官、肤色、发型、发量和自然的整体神态。仅参考人物的外貌和发型，不要复制原图中的服装、背景、光影、姿势、表情或画质。 创作一张高度逼真、优雅的室内夜景人像，灵感来自拥有全景城市天际线景观的奢华高层室内。构图为1:1正方形。主体位于一间宽敞精致的…
-
-#### 📝 提示词
-
-```
-仅将我上传的肖像照作为身份和发型的参考。准确保留人物的真实面部特征、脸型、五官、肤色、发型、发量和自然的整体神态。仅参考人物的外貌和发型，不要复制原图中的服装、背景、光影、姿势、表情或画质。
-
-创作一张高度逼真、优雅的室内夜景人像，灵感来自拥有全景城市天际线景观的奢华高层室内。构图为1:1正方形。主体位于一间宽敞精致的房间内，地面铺着光洁的浅色大理石，身后是一扇巨大的落地窗。窗外是璀璨的现代海滨城市夜景，有灯火通明的摩天大楼、水面倒影和迷人的大都市氛围。环境应呈现出豪华酒店套房、顶层公寓或高级观景休息室的质感。
-
-主体应以不同的角度和动作呈现，同时保持优雅的格调。她优雅地坐在窗边的大理石地面上，姿态放松而精致。一条腿自然弯曲，另一条腿向前或斜向伸展，上半身轻微转动以营造动态美感。一只手轻搭在腿上、肩部或轻抚头发，另一只手支撑着从容自然的坐姿。她看向镜头，表情沉稳、自信、温柔且高雅。
-
-服装不要受参考图限制，而是根据人物的面部、气质和发型自动生成更合适的奢华晚装。服装可以是优雅的修身晚礼服、精致的鸡尾酒裙、轻盈的吊带裙或其他有品位的高级正装，色调如白色、香槟色、银色、黑色、米色或其他衬托肤色的颜色。造型应精致、迷人且适合室内夜景人像，不可过于露骨或显得廉价。鞋子和配饰也应搭配得当，如精致的高跟鞋、低调的项链、耳环、戒指或小手包，避免明显的品牌标识或夸张图案。
-
-在主体旁边放置一大束浅色鲜花（如白色或奶油色玫瑰），增强浪漫和奢华的氛围。旁边也可以放一个优雅的小手提包作为装饰。这些道具应自然地融入画面，不分散对主体的注意力。
-
-背景城市景观应富有氛围感：生动的夜间天际线、海港滨水区倒影，以及密集的发光高层建筑，唤起国际沿海大都市的感觉。窗户可能有轻微的自然反射，但不应遮挡主体。整体色调应平衡温暖的室内肤色与冷色调的蓝紫色夜景灯光，形成高级的视觉对比。
-
-最终效果必须像高度真实的专业摄影作品。保持皮肤自然可信，具有真实的纹理和柔和但清晰的面部细节。避免塑料感皮肤、动漫审美或过度修饰的网红滤镜感。头发应看起来顺滑自然，发丝逼真。光线应柔和且精致，清晰照亮面部，同时保留奢华的夜间氛围。构图干净、平衡且视觉优雅，主体为明确焦点。无水印，无平台标签，无额外文字，无品牌标识。
-
-负向提示词：
-无水印，无平台标签，无“豆包AI”文字，无Logo，无品牌名称，无额外文本，无随机字母，无镜像文本，无中文字符。无动漫风格，无插画风格，无卡通感，无娃娃脸，无塑料感皮肤，无硅胶感皮肤，无人体模型感，无过度磨皮，无网红滤镜感。无身份改变，无面部不匹配，无五官扭曲，无不对称眼睛，无呆板表情，无浓重妆容。无畸形手部，无多余手指，无断肢，无扭曲身体，无错误比例，无过长的脖子。无头发结块，无假发感，无断裂发丝，无凌乱不自然的辫子。无廉价服装，无庸俗造型，无过度暴露。无破碎背景，无扭曲天际线，无变形窗框，无透视错误。无曝光过度，无低分辨率，模糊，重噪点，细节模糊。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13447_0.jpg" width="600" alt="奢华夜景人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13447_1.jpg" width="600" alt="奢华夜景人像 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 39: AI网页设计冲刺
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-这是一张风格化的电影海报，设计成迪士尼皮克斯风格的动画电影单页。垂直构图，夜晚室内温暖舒适，左侧有大型阁楼窗户，可以看到夕阳时分的城市天际线，裸露的砖墙和霓虹灯闪烁的创意工作室氛围。顶部中央，大而光滑的立体字体用大白3D字体写着“Disney•PIXAR”，主标题是“AI网页设计冲刺”。正下方，较小且明亮的文字写着“…
-
-#### 📝 提示词
-
-```
-这是一张风格化的电影海报，设计成迪士尼皮克斯风格的动画电影单页。垂直构图，夜晚室内温暖舒适，左侧有大型阁楼窗户，可以看到夕阳时分的城市天际线，裸露的砖墙和霓虹灯闪烁的创意工作室氛围。顶部中央，大而光滑的立体字体用大白3D字体写着“Disney•PIXAR”，主标题是“AI网页设计冲刺”。正下方，较小且明亮的文字写着“快速建造。打破规则。大声分享。”画面中央前景，两位成年男子并肩坐在一张木桌旁，中间放着笔记本电脑，气氛轻松，一个穿着深色连帽衫，一个穿着浅色卫衣和棒球帽，两人都面向镜头，摆出友好的宣传姿势。他们的面部应当是通用且不引人注目的，强调活动海报的构图，而非肖像写实。笔记本盖上有三个可见的贴纸：紫色代码括号贴纸、黑色带有白色爆发符号的贴纸，以及一个写有“快速构建”的矩形标语贴纸。打破规则。大声分享。”场景周围有4个奇幻的动画吉祥物元素：左上角一个小型悬浮机器人无人机灯，蓝色发光，灯下有一个温暖的光锥向下照射;右上角有一个微笑的卡通太阳图标;附近漂浮着一个小红像素字符;还有一个发光的蓝咪数字吉祥物站在笔记本电脑前的桌子上。右侧垂直显示器显示暗色编码界面，显示可读文字，包括“// 欢迎回来，朱利安！”，“作品4.6”，“极简游乐场”，“Agency 976”，“赛博朋克咖啡馆”，“冲浪者（晚场）”，以及名为“冲刺计划”的清单，包含4项：“发现”、“构思”、“建造”、“飞船”。左侧有一块手写纸质招牌，上面钉着4条通知：“4个混乱与代码之夜”、“晚上7点的门”、“晚上8点演出”和“10美元广告费 / 12美元销售费”。左下前景中，一个白色咖啡杯上写着“THE SOUTH SIDE DIY 218 W. 31ST ST. CHICAGO， IL”，并配有一个小骷髅图标。在右下角前景中，一盆带绿色叶子的陶土花盆上写着“CREATIVE COLLISION”。在底部中央，大字粗写着“4月27日至30日”，下面写着“直播。只有在网上。”在底部边缘加上一小串假片尾字幕，采用经典电影海报风格，致敬朱利安·洛佩兹和哈维·斯佩克特等名字，以及《极简游乐场》、《976经纪公司》、《赛博朋克咖啡馆》和《冲浪者》等项目，并配有俏皮的制作署名。采用戏剧性的暖橙色和冷蓝色灯光，精致的动画胶片渲染，柔和的景深，光滑的表面，丰富的对比度，高度细致的海报设计，迷人的科技创业能量，以及高端的活动广告效果。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10027_0.jpg" width="600" alt="AI网页设计冲刺 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 40: AI双雄街头对峙
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一张低角度抓拍照片，两名成年男子站在一座传统的东亚木质建筑前，背景是温暖的棕色木框架和重复的绿色格子窗棂。拍摄于黄金时刻，强烈的暖色阳光投下深邃的阴影。左侧男子距离镜头较近，处于部分裁剪状态，身穿黑色拉链夹克，胸前印有醒目的白色 OpenAI 标志，袖口带有灰色拼接。他的手臂直接伸向镜头，手中夹着一支香烟，位于画面极…
-
-#### 📝 提示词
-
-```
-一张低角度抓拍照片，两名成年男子站在一座传统的东亚木质建筑前，背景是温暖的棕色木框架和重复的绿色格子窗棂。拍摄于黄金时刻，强烈的暖色阳光投下深邃的阴影。左侧男子距离镜头较近，处于部分裁剪状态，身穿黑色拉链夹克，胸前印有醒目的白色 OpenAI 标志，袖口带有灰色拼接。他的手臂直接伸向镜头，手中夹着一支香烟，位于画面极近的前景，使手部和香烟占据左下角，并因浅景深效果呈现出轻微的虚化。右侧男子站位较靠后，身穿宽松的黑色 T 恤，胸前印有醒目的白色“xAI”风格标志，一只手抬起靠近嘴边，仿佛正在抽烟或思考。两名男子的面部均被平滑的矩形模糊块遮挡，以保持匿名。采用写实纪实街拍美学，呈现自然的肤色、广角镜头带来的细微畸变、电影级对比度、浓郁的日落光影，以及强调服装品牌和伸向观众的香烟的随意对抗式构图。画面需包含 2 名男子，前景可见 1 支香烟，1 件带有 OpenAI 标志的黑色夹克，以及 1 件带有 xAI 标志的黑色 T 恤。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16517_0.jpg" width="600" alt="AI双雄街头对峙 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 41: 高端健身应用设计
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-为名为{argument name=“brand name” default=“PulseFit”}的品牌设计一个现代高端的{argument name=“app type” default=“fitness app”}落地页和产品界面。 创建一个干净的网页设计样板，看起来像真正的SaaS健身平台和移动配套应用。设计…
-
-#### 📝 提示词
-
-```
-为名为{argument name=“brand name” default=“PulseFit”}的品牌设计一个现代高端的{argument name=“app type” default=“fitness app”}落地页和产品界面。
-
-创建一个干净的网页设计样板，看起来像真正的SaaS健身平台和移动配套应用。设计应当感觉高档、激励且易用，界面/用户体验风格应当精致，类似于顶级健康与养生应用。
-
-包括：
-- 带有加粗标题、简短副标题、强有力的行动号召按钮和应用预览的英雄版块
-- 仪表盘界面显示每日活动量、消耗的卡路里、连续锻炼、心率、步数和进度环
-- 力量、有氧、灵活性和恢复的锻炼计划卡
-- 营养追踪部分，包含宏量营养素分解和水分摄入量
-- 进展图表和分析小工具
-- 培训师/社区版块，配有个人资料卡和推荐信
-- 定价部分及下载/应用商店标识
-- 移动应用界面与网页设计并列展示，打造一个连贯的产品生态系统
-
-风格方向：
-- 简洁、简洁、现代化的界面
-- 高端健身品牌美学
-- 间距平滑，层级分明，圆润的牌，柔和的阴影
-- 暗黑模式界面，带有充满活力的点缀色，如电光蓝、霓虹绿或鲜艳橙色
-- 字体清晰，图表逼真，按钮精致，入门手感极佳
-- 高度细致、值得自行操作、初创级的产品设计
-- 逼真的用户体验案例展示，而非漫画或插图
-
-组成：
-- 完整网站主页模拟版
-- 在一个精致演示中显示多个界面部分
-- 轻视或正面展示产品
-- 背景干净，渐变细腻，灯光专业
-- 极细致、清晰的文本渲染，视觉平衡的布局
-
-输出：
-一个令人惊艳、逼真的健身应用网站和仪表盘界面/用户体验设计概念，看起来已准备好开发。
-
-让它看起来像是为高端初创公司举办的真实Figma产品设计演示。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00906_0.jpg" width="600" alt="高端健身应用设计 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 42: 万物拟人化角色设计
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-生成一张《万物拟人化 · 实物成装》风格图片，4:5 竖版构图。 画面左侧放置一个真实拍摄感的实物参考物：【{{实物名称}}】。实物要像摄影照片或产品样品，材质、结构、颜色、金属反光、透明件、纹理和功能细节清晰可见。左侧实物可放在圆形参考框、设计图框或白底展示区中，并带有少量手写标注，例如：Reference、mat…
-
-#### 📝 提示词
-
-```
-生成一张《万物拟人化 · 实物成装》风格图片，4:5 竖版构图。
-
-画面左侧放置一个真实拍摄感的实物参考物：【{{实物名称}}】。实物要像摄影照片或产品样品，材质、结构、颜色、金属反光、透明件、纹理和功能细节清晰可见。左侧实物可放在圆形参考框、设计图框或白底展示区中，并带有少量手写标注，例如：Reference、material、shape、texture、key detail。
-
-画面右侧是一位由该实物拟人化而成的成年 3D 动漫风格女性角色，比例修长自然，约 7–7.5 头身，姿态优雅、有设计感，像高质量 3D 角色设定图。角色不是简单穿普通衣服，而是把左侧实物的造型、结构、材质和功能转化成服饰、发饰、武器、配件和轮廓语言。
-
-拟人化设计要求：
-1. 角色服饰必须明显呼应左侧实物的核心特征。
-2. 将实物的主要形状转化为服装大轮廓，例如帽檐、肩甲、披风、裙摆、背饰、伞状结构、环形结构、流线型外壳等。
-3. 将实物的材质转化为服装材质，例如金属银、陶瓷白、透明玻璃、水晶、橡胶、塑料、木纹、布料、流体、光泽涂层等。
-4. 将实物的功能转化为想象力元素，例如水流、光束、风、火焰、机械结构、植物生长、星轨、能量线、符咒、羽翼、飘带等。
-5. 角色的发饰、耳饰、胸针、腰封、手杖、鞋履和裙摆细节都要能看出来自实物的设计逻辑。
-6. 颜色系统统一，主色调来自左侧实物，不要颜色斑驳杂乱。
-
-画面风格：
-高级 3D 动漫角色设计，精致建模感，细腻材质，柔和棚拍光，干净白色或浅灰背景，角色与实物之间有清晰的设计关联。整体像“实物拟人化角色设定稿”，左侧是现实物品参考，右侧是由它幻想生成的角色。
-
-构图要求：
-左侧实物占画面 25%–35%，右侧角色占画面 60%–70%。左侧偏实拍，右侧偏 3D 动漫角色。两者之间可加入淡淡的设计连线、结构草图、材质标注、颜色取样点，让观众一眼看出角色服饰来源于左侧实物。
-
-角色要求：
-成年角色，五官精致但不过度幼态，眼神有互动感，可以看向镜头、看向左侧实物，或像正在展示自己的服装设计。皮肤为精致 3D 动漫质感，不要塑料感，不要低清晰度。身体比例自然，手部、腿部、脚部结构正确，服装覆盖完整，避免过度暴露。
-
-服装要求：
-高级幻想高定服饰，兼具东方神话、未来感、机械美学或精灵感。服饰层次丰富但不混乱，有清晰主轮廓、次级装饰和细节纹理。重点表现：头饰、肩部结构、胸前装饰、腰部结构、裙摆、披帛、飘带、鞋履，以及与实物对应的标志性元素。
-
-画面中可加入少量设计标注：
-LOOK 01、object reference、silhouette、material sample、ornament detail、function motif、color palette、结构转译、材质取样、轮廓来源、装饰细节。
-
-高质量，高清，精致，富有想象力，设计感强，实物拟人化，3D anime character design，fantasy couture，object-inspired costume design，clean composition，soft studio lighting。
-
-避免：普通 cosplay、简单复制实物贴在身上、服装和实物无关、低质建模、比例错误、手指畸形、腿部畸形、脸部崩坏、过度幼态、过度暴露、文字乱码、颜色杂乱、背景脏乱、实物不清晰、角色过于平面、2D 草稿感、低清晰度。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13834_0.jpg" width="600" alt="万物拟人化角色设计 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13834_1.jpg" width="600" alt="万物拟人化角色设计 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 43: 跨次元情侣日常
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-这是一幅4x4的照片拼贴，包含16张温暖、电影感十足的生活快照，展现了一位真实的成年男子和一位动漫风格的年轻女性伴侣，摆出了像随意约会照一样的姿势。男子短发黑发，皮肤浅，体型中等，穿着一件朴素的深藏青色或黑色长袖衬衫;他的脸在每一帧中都被故意遮挡并轻柔模糊。这位动漫女孩扎着长长的金色双马尾，蓝色大眼睛，皮肤白皙，身材…
-
-#### 📝 提示词
-
-```
-这是一幅4x4的照片拼贴，包含16张温暖、电影感十足的生活快照，展现了一位真实的成年男子和一位动漫风格的年轻女性伴侣，摆出了像随意约会照一样的姿势。男子短发黑发，皮肤浅，体型中等，穿着一件朴素的深藏青色或黑色长袖衬衫;他的脸在每一帧中都被故意遮挡并轻柔模糊。这位动漫女孩扎着长长的金色双马尾，蓝色大眼睛，皮肤白皙，身材苗条娇小，穿着黑色无袖上衣，戴着包括十字架吊坠在内的多层银项链，黑色手腕配饰，红色格子百褶迷你裙，以及黑白条纹及膝袜。将逼真的摄影与令人信服的2D动漫角色融合，保持她干净的卡通渲染效果，同时与场景光线、视角、对焦和调色相匹配，使她自然地出现在他身旁。使用情绪浓郁的晚色调、柔和的散景、浅景深和亲密的自然情侣氛围。16个面板分别是：1）室内紧密肖像，两人坐得很近，女孩躺在他身旁;2）夜间城市街道侧面侧面的对话，在模糊的路灯下;3）室内，两人一起看书，女孩靠在他的肩膀上;4）户外咖啡桌，两桌都放有外带咖啡杯;5）餐厅餐桌上可以看到多道菜肴，大家一起用餐;6）电梯镜像自拍，男拿着智能手机，女方比出胜利手势;7）车内公路旅行镜头，驾驶男子和副驾驶座的动漫女孩;8）海边日落，两人并肩坐着看大海;9）霓虹灯照亮的城市夜晚肖像，女孩指向镜头;10）亲密的电梯特写，闭着眼睛的女孩亲昵地靠在他身上;11）电梯内的全镜自拍，展示更多两种服装;12）背景中灯光照亮的塔楼的夜城天际线肖像;13）相机自拍特写，男性将便携相机朝向镜子或反光面;14）温馨的室内休息室时刻，男方手捧红酒，女方微笑并比划胜利手势;15）雨夜街头镜头，两人手牵手在灯光下走开;16）极近夜拍，女孩比出胜利手势。拼贴画保持紧密网格，采用细白隔板、方形整体格式、一致的琥珀棕色调色、浪漫都市写实主义以及细腻的社交媒体照片堆砌美学。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07083_0.jpg" width="600" alt="跨次元情侣日常 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 44: 可爱纸艺角色
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-可爱的[CHARACTER]，简单的纸艺风格，使用简单的形状，白色背景，3D模型，等轴视图，可爱且卡通化的角色设计，使用一个[COLOR SCHEME]配色方案，可爱的大眼睛配有黑色睫毛，小鼻子，短腿，可爱且快乐的表情，逼真
-
-#### 📝 提示词
-
-```
-可爱的[CHARACTER]，简单的纸艺风格，使用简单的形状，白色背景，3D模型，等轴视图，可爱且卡通化的角色设计，使用一个[COLOR SCHEME]配色方案，可爱的大眼睛配有黑色睫毛，小鼻子，短腿，可爱且快乐的表情，逼真
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12389_0.jpg" width="600" alt="可爱纸艺角色 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12389_1.jpg" width="600" alt="可爱纸艺角色 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 45: 虚实同屏的直播瞬间
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-提供された参照画像のキャラクターをベースデザインとして使用すること。 「{argument name="場所" default="放課後の教室"}で、学友の『踊ってみた』LIVE配信に付き合わされているアニメキャラクターが映り込んだ、配信開始直後の1フレーム」を描く。 参照画像のキャラクターのアニメイラストとしての空…
-
-#### 📝 提示词
-
-```
-提供された参照画像のキャラクターをベースデザインとして使用すること。
-
-「{argument name="場所" default="放課後の教室"}で、学友の『踊ってみた』LIVE配信に付き合わされているアニメキャラクターが映り込んだ、配信開始直後の1フレーム」を描く。
-
-参照画像のキャラクターのアニメイラストとしての空気感を正確に維持すること。
-
-顔、髪型、髪色、瞳、耳、頭身、シルエット、表情の印象を維持すること。
-
-キャラクターのアイデンティティを絶対に崩さないこと。
-
-実写人間化しないこと。
-
-キャラクター部分は高品質なアニメイラスト表現を維持すること。
-
-舞台は日本の一般的な高校の教室。
-
-放課後。
-
-机や椅子は片付けられていない。
-
-鞄、教科書、プリント、水筒、筆箱などが自然に残されている。
-
-撮影スタジオのような空間にしない。
-
-生活感のある教室として描写すること。
-
-構図は縦型スマートフォンLIVE配信画面。
-
-視点は配信カメラそのもの。
-
-視聴者が見ているLIVE配信映像のスクリーンショットである。
-
-スマートフォン、カメラ、三脚、自撮り棒などの撮影機材は画面内に描写しない。
-
-画面手前には実写の女子高校生。
-
-日本人女子高校生。
-
-実際のスマートフォンのインカメラで撮影された人物として描写すること。
-
-写真表現。
-
-フォトリアル。
-
-学友のみ実写人物である。
-
-アニメキャラクター化しない。
-
-セル画風にしない。
-
-アニメ塗りにしない。
-
-前景人物は{argument name="実写人物" default="現実世界の女子高校生"}である。
-
-前景の学友はスマートフォンのインカメラに近いため自然に大きく映り込んでいる。
-
-ただし構図の中心人物ではない。
-
-顔の半分程度がフレーム外へ切れていてもよい。
-
-肩や腕や髪が大きく見切れていてもよい。
-
-学友は画面左端または右端に寄っている。
-
-学友は配信準備中にカメラへ近づいているだけであり視線誘導の中心にならない。
-
-配信開始ボタンを押し終えた直後。
-
-これから踊るために定位置へ戻ろうとしている。
-
-一歩後ろへ下がる直前の姿勢。
-
-明るく乗り気。
-
-配信を楽しみにしている。
-
-ダンスはまだ始まっていない。
-
-参照画像のキャラクターは画面後方に配置する。
-
-制服姿。
-
-膝上〜全身フレーミング。
-
-教室中央付近に立っている。
-
-画面内の高さの30〜50％程度を占有する。
-
-後方配置だがモブサイズにしてはならない。
-
-十分な存在感と視認性を持つこと。
-
-視聴者が自然に目を向けてしまうサイズで描写すること。
-
-構図上の重心は参照画像キャラクター側に置くこと。
-
-参照画像のキャラクターは{argument name="キャラクター" default="アニメキャラクター"}のままであること。
-
-実写化しないこと。
-
-学友に付き合わされている。
-
-踊る気はあまりない。
-
-配信の中心人物ではない。
-
-無表情。
-
-少し面倒そう。
-
-軽い困惑。
-
-苦笑い。
-
-気まずそう。
-
-そのいずれか。
-
-「もう始まるの？」という雰囲気。
-
-帰宅途中で呼び止められたような空気感でもよい。
-
-LIVE配信開始直後。
-
-動画の最初の1フレーム。
-
-まだ何も始まっていない。
-
-学友だけがやる気に満ちている。
-
-キャラクターは状況に巻き込まれている。
-
-重要:
-
-前景の学友は実写人物。
-
-後景の参照画像キャラクターはアニメキャラクター。
-
-両者は異なる表現形式のまま同一空間に存在する。
-
-実写の女子高校生とアニメキャラクターが自然に共存している不思議な日常風景として描写すること。
-
-AIが両者を同じ画風へ統一してはならない。
-
-前景のみ実写。
-
-後景のみアニメ。
-
-視聴者はまず学友の存在を認識するが、その直後に後方のアニメキャラクターへ視線が移る構図にすること。
-
-画面には現代的なLIVE配信UIを表示する。
-
-LIVE表示。
-
-視聴者数。
-
-コメント欄。
-
-ハート。
-
-ギフト。
-
-共有ボタン。
-
-配信タイトル。
-
-配信開始直後らしいUIを自然に配置する。
-
-コメント内容は自然な日本語。
-
-視聴者は学友の配信に反応している。
-
-参照画像キャラクターを芸能人扱いしない。
-
-有名人扱いしない。
-
-スマートフォン配信らしい画質。
-
-軽いHDR処理。
-
-微細なセンサーノイズ。
-
-軽微なJPEG圧縮感。
-
-オート露出。
-
-高ISOノイズ。
-
-わずかな色収差。
-
-スマホ動画らしい質感。
-
-シネマティック演出禁止。
-
-ドラマチックなライティング禁止。
-
-過剰な被写界深度効果禁止。
-
-AI特有の glossy rendering を避ける。
-
-禁止事項:
-
-前景人物をアニメ化しない。
-
-前景人物を二次元イラスト化しない。
-
-登場人物全員を同一画風に統一しない。
-
-前景と後景を両方アニメにしない。
-
-前景と後景を両方実写にしない。
-
-重要:
-
-画面の主役は学友のLIVE配信である。
-
-視聴者は後方に映るアニメキャラクターにも自然と目を向けてしまう。
-
-学友は画面端で大きく見切れている。
-
-参照画像キャラクターは画面中央付近で自然に存在感を持つ。
-
-「友達の踊ってみた配信へ巻き込まれたアニメキャラクター」
-
-という奇妙な日常感を最優先する。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01461_0.jpg" width="600" alt="虚实同屏的直播瞬间 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 46: 赛博忍者手办
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在展示底座上制作一个高质量的Q版赛博忍者手办3D渲染图，拍摄时就像高级玩具产品照片一样。该角色是一个小巧的男性忍者，拥有过大的头部和无脸的光滑模糊面板，带刺的{argument name=“发色”默认=“银紫色头发带电蓝色挑染”}，站姿自信。他穿着一套未来感十足的黑色战术忍者服，配有多层盔甲、交叉胸带、腰带、小袋、手…
-
-#### 📝 提示词
-
-```
-在展示底座上制作一个高质量的Q版赛博忍者手办3D渲染图，拍摄时就像高级玩具产品照片一样。该角色是一个小巧的男性忍者，拥有过大的头部和无脸的光滑模糊面板，带刺的{argument name=“发色”默认=“银紫色头发带电蓝色挑染”}，站姿自信。他穿着一套未来感十足的黑色战术忍者服，配有多层盔甲、交叉胸带、腰带、小袋、手套、护膝、带有蓝色发光装饰的厚靴，右侧披着一条短黑围巾或披风。包含三把可见武器：一把发光的蓝色武士刀，左手持下，两把短剑柄鞘在右腰。在上袖加上一个白色日文汉字，围巾上有小青色技术标记。把他放在一个圆形光滑黑色科幻展示台上，配有细腻的面板细节、闪电、反光和蓝光点缀。在他右侧底座上，在黑色边框上放置一个带有青色日文{argument name=“sign text” default=“未来忍者”}的小竖立发光标牌。使用温暖的米色工作室背景，配以柔和渐变灯光、浅景深、电影化的产品灯光、玩具般清晰的材质、光滑的塑料和金属表面、蓝色边缘灯、逼真的阴影、居中构图，人物占据左中，右侧为空白负空间。没有水印，没有额外字符，除了袖口印和标志外没有额外的文字。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06288_0.jpg" width="600" alt="赛博忍者手办 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 47: 草原双羊航拍
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一张无人机航拍照片，展现了一片广袤无垠、平坦无垠的绿色草原，一直延伸到遥远的地平线。在近景下方，两只毛茸茸的白色绵羊正站着吃草。明亮的日光在动物身上投下清晰的阴影，向左侧延伸。地平线上方是晴朗的浅蓝色天空，点缀着几缕淡淡的云朵。构图突出了这片广袤无垠的草原与渺小动物之间的对比。
-
-#### 📝 提示词
-
-```
-一张无人机航拍照片，展现了一片广袤无垠、平坦无垠的绿色草原，一直延伸到遥远的地平线。在近景下方，两只毛茸茸的白色绵羊正站着吃草。明亮的日光在动物身上投下清晰的阴影，向左侧延伸。地平线上方是晴朗的浅蓝色天空，点缀着几缕淡淡的云朵。构图突出了这片广袤无垠的草原与渺小动物之间的对比。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16377_0.jpg" width="600" alt="草原双羊航拍 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 48: 皮克斯风格3D隐私头像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-创作一幅高质量的3D漫画肖像，从腰部以上展示，背景为干净温暖的米白色工作室背景。给他一个超大卡通头和紧凑风格化的身体，搭配光滑光滑的皮克斯风格人偶材质、柔和的环境光、细腻的阴影和抛光的粘土玩具质感。这名男子拥有{argument name=“发色” 默认=“深棕色”}浓密的雕塑状头发，向上和向后梳理，呈戏剧性的层叠波…
-
-#### 📝 提示词
-
-```
-创作一幅高质量的3D漫画肖像，从腰部以上展示，背景为干净温暖的米白色工作室背景。给他一个超大卡通头和紧凑风格化的身体，搭配光滑光滑的皮克斯风格人偶材质、柔和的环境光、细腻的阴影和抛光的粘土玩具质感。这名男子拥有{argument name=“发色” 默认=“深棕色”}浓密的雕塑状头发，向上和向后梳理，呈戏剧性的层叠波浪，侧边短而褪色，耳朵明显圆润。他的脸被一块巨大的方形隐私屏块故意遮住，遮住了整个脸，覆盖着平滑的垂直肤色，从上方较深的古铜色到底部的浅米色，边缘锐利方正。他穿着一件{argument name=“shirt color” default=“深藏青”}的长袖有领衬衫，衬衫有明显的缝线、袖口、领子和两个深色纽扣;他自信地双臂交叉在胸前，双手用简化的圆手指清晰可见。采用略微三分之三的正面姿势，友好的宣传头像构图，清晰细节，圆润比例，无文字、无标志、无多余物品，无背景景观。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06577_0.jpg" width="600" alt="皮克斯风格3D隐私头像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 49: 手绘照片注解
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-请观察照片中的元素、并为每个物件加上有意义的 手绘风注解。请填写照片中的物品。 描述规则：•使用像{argument name="画笔颜色" default="白色"}笔画的细线手绘线条•一笔画风格、随性、略带不均匀感•沿着物件外围加上描边轮廓•用箭头或虚线做出视线引导 文字规则：•手写风格字体（{argument…
-
-#### 📝 提示词
-
-```
-请观察照片中的元素、并为每个物件加上有意义的 手绘风注解。请填写照片中的物品。
-描述规则：•使用像{argument name="画笔颜色" default="白色"}笔画的细线手绘线条•一笔画风格、随性、略带不均匀感•沿着物件外围加上描边轮廓•用箭头或虚线做出视线引导
-文字规则：•手写风格字体（{argument name="字体风格" default="日系可爱感"}）•句子简短、像自言自语的小碎念•语气偏日记感、带一点情绪
-注解生成规则：不要过度装饰，保留空白空间
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00492_0.jpg" width="600" alt="手绘照片注解 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 50: 宝可梦卡牌定制生成器
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-生成一张干净的数字插画，展示一张完整的宝可梦卡牌设计，作为平面、扫描式数字资产（而非实体照片）。将上传照片中的人物变成动漫风格的宝可梦训练家，保持其形象。将它们配对成动态动作姿势，并搭配{argument name=“pokemon name” default=“Pikachu”}。背景应是与宝可梦属性相匹配的强烈元…
-
-#### 📝 提示词
-
-```
-生成一张干净的数字插画，展示一张完整的宝可梦卡牌设计，作为平面、扫描式数字资产（而非实体照片）。将上传照片中的人物变成动漫风格的宝可梦训练家，保持其形象。将它们配对成动态动作姿势，并搭配{argument name=“pokemon name” default=“Pikachu”}。背景应是与宝可梦属性相匹配的强烈元素能量......
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02896_0.jpg" width="600" alt="宝可梦卡牌定制生成器 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02896_1.jpg" width="600" alt="宝可梦卡牌定制生成器 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02896_2.jpg" width="600" alt="宝可梦卡牌定制生成器 - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01366_2.jpg" width="600" alt="治愈系动漫日历少女 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02896_3.jpg" width="600" alt="宝可梦卡牌定制生成器 - Image 4">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01366_3.jpg" width="600" alt="治愈系动漫日历少女 - Image 4">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 51: 动感体育海报
+### No. 32: 千禧辣妹时尚大片
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-动态体育海报，描绘一名肌肉男运动员在空中冲刺，强烈的动作定格，穿着黑色运动服和红黑色运动鞋，戏剧性的工业体育馆背景，带有纹理混凝土墙壁，大胆的超大白色字体“JUST DO IT.”竖立堆叠在主体后方，霓虹绿边灯勾勒出身体轮廓，电影般的对比灯光，锐利细节，高速摄影风格，尘埃颗粒和运动能量， 超写实，耐克风格的宣传美学，…
+高端时尚千禧年风格的编辑艺术作品，描绘一位自信自信的年轻东亚女性站在画面中央。她拥有光泽水润的肌肤，低调的华丽妆容，飘逸的深色头发和透透的刘海。穿搭风格融合现代韩国街头时尚美学，搭配多层时尚配饰。背景充满了大胆的实验性字体、色彩斑斓的杂志风格图形、复古流行视觉、镀铬点缀、俏皮的图标、贴纸、爱心、星星、对话气泡、界面叠…
 
 #### 📝 提示词
 
 ```
-动态体育海报，描绘一名肌肉男运动员在空中冲刺，强烈的动作定格，穿着黑色运动服和红黑色运动鞋，戏剧性的工业体育馆背景，带有纹理混凝土墙壁，大胆的超大白色字体“JUST DO IT.”竖立堆叠在主体后方，霓虹绿边灯勾勒出身体轮廓，电影般的对比灯光，锐利细节，高速摄影风格，尘埃颗粒和运动能量， 超写实，耐克风格的宣传美学，4K，高对比度，海报设计。电影般的跑步场景，一位健美的女运动员在夕阳下湿滑的路上冲刺，背景是城市天际线和群山，金色光线配蓝橙色对比，地面反射，大胆的白色字体“JUST DO IT.”，大而多层叠叠地落在主体背后，柔和的光晕和景深，动态运动配合水滴，流畅的运动服，极度逼真， 励志健身活动风格，高细节，4K，电影化构图
+高端时尚千禧年风格的编辑艺术作品，描绘一位自信自信的年轻东亚女性站在画面中央。她拥有光泽水润的肌肤，低调的华丽妆容，飘逸的深色头发和透透的刘海。穿搭风格融合现代韩国街头时尚美学，搭配多层时尚配饰。背景充满了大胆的实验性字体、色彩斑斓的杂志风格图形、复古流行视觉、镀铬点缀、俏皮的图标、贴纸、爱心、星星、对话气泡、界面叠加和条形码元素。
+设计风格像是怀旧的2000年代初时尚杂志封面，融合了当代K风格的宣传视觉效果。包含零散的日韩风格文字细节、动态层次构图、充满活力的商业海报能量、清晰的工作室闪光灯光、强烈对比、编辑摄影的写实与平面设计美学融合、高度细致的纹理、锐利的焦点、奢华印刷品质的表面处理、视觉沉浸感、超高端时尚宣传风格、电影化构图、8K分辨率。
 ```
 
 #### 🖼️ 生成图片
@@ -2319,31 +1290,40 @@ AI特有の glossy rendering を避ける。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02753_0.jpg" width="600" alt="动感体育海报 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15216_0.jpg" width="600" alt="千禧辣妹时尚大片 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02753_1.jpg" width="600" alt="动感体育海报 - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15216_1.jpg" width="600" alt="千禧辣妹时尚大片 - Image 2">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 52: 高端健身房网站设计
+### No. 33: 暗夜海岸神秘肖像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{“type”：“健身健身房网站英雄板块模型”，“style”：“超打磨现代日本落地页，高级体育品牌，深霓虹蓝调色，高对比度，电影般的广告效果，逼真的照片合成，带有光泽界面设计”，“brand”：{“name”：“{argument name=\”brand name\“ default=\”BLUE IMPACT…
+仅将上传的肖像用作身份和发型参考。准确保留该人的真实面部身份、脸型、面部特征、肤色、发型、发量和自然的现实生活外观。不要复制上传肖像中的原始衣服、背景、光影、姿势或图像质量。 在黑暗的海边或开放的户外夜晚环境附近，为同一个人创作一张超逼真的电影感夜晚肖像。主体以特写半身构图展示，越过一侧肩膀微微回头看向相机，表情冷静…
 
 #### 📝 提示词
 
 ```
-{“type”：“健身健身房网站英雄板块模型”，“style”：“超打磨现代日本落地页，高级体育品牌，深霓虹蓝调色，高对比度，电影般的广告效果，逼真的照片合成，带有光泽界面设计”，“brand”：{“name”：“{argument name=\”brand name\“ default=\”BLUE IMPACT GYM\“}”，“LOGO”：“品牌名称左侧锐利的蓝白闪电标志”}，“canvas”：{“aspect_ratio”：“16：9”，“composition”：“单一全宽第一视角网站标题”}，“背景”：{“主题”：“深色豪华健身房内部，设备模糊，带有戏剧性的蓝光条纹”，“效果”：[“电蓝色斜线”，“镜头光晕”，“发光高光”，“微妙的烟雾层感”，“金属反射”]}，“导航”：{“position”：top bar“，”count“：5，”items“：[”特征“，”プラン・料金“，”商店信息“，”资料请求“，”お問い合わせ“]，”style“：”白色日文链接居中， 右侧两个轮廓/发光的CTA按钮“}，”main_visual“：”主题“：”肌肉发达的亚洲男性私人教练，20至30多岁，右半身明显，胸部附近握着黑色哑铃，穿着合身黑色无袖运动背心，汗湿皮肤，肩膀和手臂线条分明，强烈的高端健身宣传形象“，”脸部“：“部分正面肖像，姿态自信”，“灯光”：“硬边光和冷蓝色高光强调肌肉线条”}，“标题”：{“位置”：左中“，”文本“：”{argument name=\“headline text\” default=\“限界を、超えろ。\“}”，“style”：“非常大胆的做旧日式白色字体，动态倾斜布局，粗糙纹理”，“subcopy”：{“position”：标题下方左下“，”text“：”20代→30代男性のための、本気で変わるトレーニング空間。理想のカラダづくりを最短でサポート。“，”style“：”较小的白色日文文字，两行，干净的无衬线“}，”trainer_profile“：{”position“：模型旁边右侧竖直文字”，“count”：3，“items”：[“全日本マッスル协会 副会长”，“筋肉 凄蔵”，“トレーナー歴12年・累計生徒数2000人以上”，“style”：竖直白色日文，高级编辑安排“}，”cta_area“：{”position“：左下至中”，“count”：3，“buttons”：[{“label”：“免费体验是こちら”，“style”：主发光蓝色渐变圆角矩形“}，{”label“：”料金プランを見る“，“style”：“深色透明圆角矩形带白色边框”}，{“label”：“お问合せ”，“style”：“深色透明圆角矩形带白色边框”}]}，“campaign_banner”：{“position”：“右下角覆盖主题”，“count”：3，“texts”：[“今なら”，“入会金0円”，“campaign実施中！”，“style”：粗蓝色半透明丝带横幅，超大白数字0，充满活力的促销强调“}，”feature_row“：{”position“：底部全宽”，“count”：4，“items”：[{“icon”：“24个圆圈”，“title”：“24时间営業”，“description”：“いつでも好きな時間にトレーニング。“}，{”icon“：向下箭头/叶子状圆圈徽章”，“title”：“初心者歓迎”，“description”：“首次でも安心のサポート体制。“}，{”icon“：”map pin in a circle“，”title“：”駅近3分“，”description“：”通いやすい好立地で続けやすい。“}，{”icon“：”圆圈中的领带“，”title“：”プロトレーナー在籍“，”description“：”目标達成を专门トレーナーが支援。“}]}，”palette“：{”primary“：”电蓝色“，”secondary“：”深海军“，”text“：”white“，”accent“：”glow cyan“}，”design_notes“：[”让它看起来像AI生成的高端健身房登陆页网页设计概念“，”保持版面简洁、有说服力且以转化为中心“，”强调高雅但激进的变革信息“，”所有可见界面文字应为日文“，”界面使用锐利现代无衬线字体，标题用粗体显示“]}
+仅将上传的肖像用作身份和发型参考。准确保留该人的真实面部身份、脸型、面部特征、肤色、发型、发量和自然的现实生活外观。不要复制上传肖像中的原始衣服、背景、光影、姿势或图像质量。
+
+在黑暗的海边或开放的户外夜晚环境附近，为同一个人创作一张超逼真的电影感夜晚肖像。主体以特写半身构图展示，越过一侧肩膀微微回头看向相机，表情冷静、柔和且神秘。面部清晰优雅，具有自然的皮肤纹理、真实的眼睛、柔软的双唇和细致的妆容。
+
+图像应具有强烈的实验性闪光摄影风格，带有水平彩虹棱镜光漏，额头和上脸部有明亮的白色镜头光晕，彩色蓝色、青色、橙色、红色和绿色的光条纹穿过画面。添加真实的长时间曝光运动模糊、胶片颗粒、柔光和轻微的复古数码相机质感。头发被风轻轻吹动，一些发丝捕捉到了明亮的光线。背景非常暗，略显模糊，具有忧郁的电影氛围。
+
+主体穿着一件精致的浅色无袖连衣裙，带有柔软的面料质感、细微的荷叶边细节和自然的肩线。整体氛围梦幻、电影化、神秘、高级时装且写实。垂直 9:16 构图，真实的相机视角，自然的解剖结构，优质的社论肖像质量，无水印，无徽标，无文字。
+
+反向提示词：
+水印，徽标，文字，签名，豆包水印，AI 生成标签，动漫，卡通，插画，娃娃脸，塑料皮肤，过度平滑的皮肤，假脸，改变的身份，不同的发型，错误的解剖结构，畸形的手，多余的手指，扭曲的面部，模糊的面部，低分辨率，混乱的构图，过度曝光的面部，刺眼丑陋的光影，廉价滤镜，随机物体，重复的人物，不自然的脖子，不自然的肩膀，噪点伪影。
 ```
 
 #### 🖼️ 生成图片
@@ -2351,103 +1331,236 @@ AI特有の glossy rendering を避ける。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00205_0.jpg" width="600" alt="高端健身房网站设计 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 53: 影院哥特少女选片记
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-目标：创建一个垂直的动漫漫画页面，背景设定在夜晚的现代电影院大厅内，特色是{argument name=“character name” default=“a blonde gothic punk girl”}，决定看哪部电影。 画布：高大的智能手机漫画布局，约9：16，全裸、高细节彩色插画，黑色漫画格框和略微倾斜的…
-
-#### 📝 提示词
-
-```
-目标：创建一个垂直的动漫漫画页面，背景设定在夜晚的现代电影院大厅内，特色是{argument name=“character name” default=“a blonde gothic punk girl”}，决定看哪部电影。
-
-画布：高大的智能手机漫画布局，约9：16，全裸、高细节彩色插画，黑色漫画格框和略微倾斜的分格。
-
-布局：恰好使用4个面板。第一格是一个大型主导格，占据了右侧和大部分高度，展示了女孩从大腿以上侧面侧面，若有所思地向上看，一根手指靠近嘴唇。第二格是同一个女孩的左上角特写格，脸部部分被一个扁平不透明的棕褐色审查矩形遮盖。第三格是一个小中间左侧的后视镜，显示她从背后走过电影院大厅。第四格是左下角的特写画面，显示她坐着或倚着身子，回头望着她，表情略显不确定。
-
-主题详情：角色是一个身材苗条的青少年/青少年动漫女孩，拥有非常长的{argument name=“hair color” default=“pale blonde”}双马尾，用黑色丝带绑着，柔软的刘海，皮肤白皙，红色眼睛，光泽挑染，以及精致的面容。她的服装是哥特朋克风格：黑色露肩短款上衣，配有白色骷髅和摇滚风格字母，黑色项圈配金属环，黑色腕带，黑色百褶迷你裙，带银链和戒指的皮带，黑色大腿带/吊袜带，透视深色长袜，以及小巧金属配饰。她的情绪犹豫、沉思，还有点尴尬。
-
-环境：一个时尚的多厅影院大堂，配有暖色顶灯、反光地板、海报展示、售票柜台，背景还有大型数字放映看板。公告板应包含日语界面文字，如「上映中」以及若干虚构电影列表及时间;包含恰好4行可见的电影标题行：“コードギアス 復活のロゼ”、“デューン 砂の惑星”、“バッドボーイズ RIDE OR DIE”和「陰陽師 0」。在右侧增加12：15、12：20、12：25和12：40等时间。
-
-文本内容：包含3个垂直白色对话框，黑色日语文字。左上方面板的气泡1显示{argument name=“first speech bubble” default=“どれにしようかな...”}。左中间面板的气泡2显示{argument name=“第二个对话气泡” default=“うーん...やっぱりあれかな"}.左下角面板的气泡3显示{argument name=“third speech bubble” default=“どうしたの？そんなにじっと見て...”}。
-
-视觉风格：精致的日本动漫插画、电影感光影、细致的发丝、光泽皮肤挑染、高对比黑色服装、深阴影、温暖散景灯、清晰的漫画描线、现代漫画分镜构图、戏剧性透视、丰富细节、无水印。
-
-限制：保持恰好4格格和3个对话框。不要在前景添加额外字符。尽量保持所有文字清晰可读，但远处的放映板上应有轻微的自然失真。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09044_0.jpg" width="600" alt="影院哥特少女选片记 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 54: 意式极简美食海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-这是一张极简主义的美食广告海报，采用现代意大利风格，融合日式布局美学，保持了构图结构的精确构图：两块大而圆润的垂直几何色块斜向排列，呈现食物摄影并俯视视角。左上方块是一道英雄菜：{argument name=“first dyn” default=“新鲜宽面配松露奶油和帕尔马干酪，置于轻瓷盘上”}，配有薄片黑松露、橄…
-
-#### 📝 提示词
-
-```
-这是一张极简主义的美食广告海报，采用现代意大利风格，融合日式布局美学，保持了构图结构的精确构图：两块大而圆润的垂直几何色块斜向排列，呈现食物摄影并俯视视角。左上方块是一道英雄菜：{argument name=“first dyn” default=“新鲜宽面配松露奶油和帕尔马干酪，置于轻瓷盘上”}，配有薄片黑松露、橄榄油和微型蔬菜，餐厅服务高端。右下角是第二道主角菜：{论点名称=“第二道菜”默认=“慢炖炖牛骨榴糖配藏红花烩饭，置于哑光深色盘子上”}，配有浓郁酱汁、意大利面和新鲜香草，现代作者的意大利菜。漂浮的配菜和器具整齐地摆放在每道菜周围：复古餐具、亚麻餐巾、迷迭香和百里香枝条、樱桃番茄、帕尔马干酪片、涂有橄榄油的迷你炖锅、新鲜手工佛卡夏、橄榄和香料。现代意大利风格的大字体排在右上角，文字完全用英文：餐厅名称、菜品名称和价格。每道菜旁边都会标注小文字标注价格。Airy编辑采用负空间系统，采用柔和的商业粉彩色调，色调包括奶油色、赤陶、橄榄色、鼠尾草色和石墨色。清晰的不对称视觉层级，高端餐厅品牌美学，电影般的柔和阴影，现代化的海报菜单呈现。页脚中的微妙签名自然融入了构图底部。纯粹的垂直构图，极其细致，高端品牌形象，逼真的食品造型，柔和电影般的昏绿灯光，意大利美食编辑海报设计，极简主义。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04734_0.jpg" width="600" alt="意式极简美食海报 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12208_0.jpg" width="600" alt="暗夜海岸神秘肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04734_1.jpg" width="600" alt="意式极简美食海报 - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12208_1.jpg" width="600" alt="暗夜海岸神秘肖像 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 34: 复古面包店少女
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+舒适的复古面包店外观插画，动漫风格，蓝眼睛、棕色头发扎成发髻的少女，穿着蓝色圆点连衣裙，配有白色荷叶边围裙和软帽，拿着装满新鲜面包和法棍的大柳条篮。浅蓝色木门，奶油色面包店外墙，盛开着五颜六色鲜花的花箱。
+
+#### 📝 提示词
+
+```
+舒适的复古面包店外观插画，动漫风格，蓝眼睛、棕色头发扎成发髻的少女，穿着蓝色圆点连衣裙，配有白色荷叶边围裙和软帽，拿着装满新鲜面包和法棍的大柳条篮。浅蓝色木门，奶油色面包店外墙，盛开着五颜六色鲜花的花箱。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12320_0.jpg" width="600" alt="复古面包店少女 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12320_1.jpg" width="600" alt="复古面包店少女 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 35: 谷歌字体科普
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张干净可爱的日本信息图，背景为柔和的米白色，带有圆润的粉彩抽象角落斑点和小巧的点和环，设计得像一张友好的网页设计解说海报。在顶部中央，用日文写成一个大号加粗圆头标题{argument name=“headline text” default=“Google Fontsってなに？”}，用非常深的藏青色，单词附近有一个…
+
+#### 📝 提示词
+
+```
+一张干净可爱的日本信息图，背景为柔和的米白色，带有圆润的粉彩抽象角落斑点和小巧的点和环，设计得像一张友好的网页设计解说海报。在顶部中央，用日文写成一个大号加粗圆头标题{argument name=“headline text” default=“Google Fontsってなに？”}，用非常深的藏青色，单词附近有一个小黄色重音标记。在它下方，添加一个中等大小的蓝色副标题，内容为{argument name=“subheadline text” default=“free使えるWebfont服务”}，并用虚线左右延伸。中间，整齐排列3张圆角矩形特色卡，水平排列，均匀分布。卡片1为浅蓝色，左上角有蓝色数字徽章“1”，图标显示多色Google G，旁边是重叠的字体表，写有“Aa”，粗体日文标题“Google提供的单词集”，下方有较小文字“Websiteやアプリ、资料づくりに使える”。卡2是淡薄荷绿色，带有绿色数字徽章“2”，一个粉色储蓄罐图标，上面有一枚标有“¥0”的金币和小绿色动作标记，粗体标题“免费利用できる”，以及较小的文字“个人でも企业でも使いやすい”。卡片3是淡暖奶油色，带有橙色数字徽章“3”，图标是一个简单的浏览器窗口，带有地球仪，粗体标题“Web上で読み込める”，以及较小的文字“HTMLやCSSに追加してすぐ使える”。在三张卡片下方放置一条宽阔的白色代码条，带有圆角和细微轮廓;左侧包含一个浅蓝色圆形图标，包含</>，右侧显示一行等宽代码：“<link href=\”https://fonts.googleapis.com/...\“ rel=\”stylesheet\“”>“，URL为蓝色。在下面添加一个虚线圆润的药丸形笔记框，内含蓝色星形图标和日文文字 {argument name=“example text” default=“例：Kiwi Maru 也Google Fontsで使えます”}。在左下角放置一个微笑的小盆栽插图。在右下角添加一个更大的浏览器风格示例面板，带有浅蓝色标题栏和左上角三个小红绿灯圆圈;在内侧左侧，展示粗体日文样本“やさしい文字で、伝わるデザイン。“和较小的文字”Kiwi Maru のサンプル“，右侧则是一张圆形白色插页卡，显示大黑字”あア“，字体下方写有{argument name=”font sample name“ default=”Kiwi Maru“}。在右下角散布4个小闪亮/星星点缀。采用平面矢量插画风格、清晰轮廓、柔和的粉彩色板、居中构图、宽敞的间距、圆润的无衬线字体排版，以及愉快且适合初学者的科技教育美学。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00085_0.jpg" width="600" alt="谷歌字体科普 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 36: 高端3D全家福
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+用上传的照片作为参考，创建一个垂直的4：5 {argument name=“animation style” default=“premium stylized 3D animated”}的家庭肖像。通过面部特征、发型、眼镜、年龄、表情和整体氛围，让每个家庭成员都清晰可辨，同时将他们转化为精致可爱的高端3D动画风格。…
+
+#### 📝 提示词
+
+```
+用上传的照片作为参考，创建一个垂直的4：5 {argument name=“animation style” default=“premium stylized 3D animated”}的家庭肖像。通过面部特征、发型、眼镜、年龄、表情和整体氛围，让每个家庭成员都清晰可辨，同时将他们转化为精致可爱的高端3D动画风格。使用柔和的电影色调、细致的发丝、逼真的面料质感和温暖自然的肤色。避免使用塑料、玩具状或廉价的CGI视觉效果。
+
+使用严格高高的俯角视角，从上方俯视，朝向家庭。脸部和上半身应显得略大，而全身自然向脚部收紧。让每个人头到脚都保持在画面中，保持最大空间。
+
+将家人安排成一个紧密而充满爱意的群体，充满欢乐和坦率的能量。儿童应站在中间或前方，而成年人则站在他们周围或稍后，自然地做出双臂环抱肩膀或腰部等动作。每个人都应该温暖地微笑，直视镜头。
+
+使用可爱的高端动画比例，配以富有表现力的眼睛、柔和圆润的脸庞、更浓密的头发和生动的情感，同时保持造型优雅精致。
+
+将服装打磨成协调的{argument name=“clothing” default=“现代家庭休闲时尚，如针织毛衣、开衫、牛仔夹克”}、条纹上衣、合身裤子、乐福鞋和干净的运动鞋。
+
+背景：{argument name=“background” 默认=“温馨极简室内房间”}，温暖的米色墙壁，浅色木地板，奶油色地毯配棕色几何边框，以及一盆柔和模糊的盆栽。用深棕色线条画，配上爱心、星星、火花标记、小家庭素描和手写对话框如“耶！”和“家庭！”，在家庭周围加上俏皮的手绘涂鸦。
+
+使用丰富的暖色调、柔和的室内灯光、柔和的面部高光、细微的阴影以及精致的电影化妆效。最终的形象应当让人感到温馨、欢乐、富有表现力且高贵，同时保持家庭独特的身份和安排。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01932_0.jpg" width="600" alt="高端3D全家福 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 37: 精英男士奢华肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+上传男性的超写实8K男性肖像。以他的确切面孔作为唯一的身份锚点，保持100%的面部结构、下颌线、发量、胡须质地、肤色、眼形、毛孔和自然瑕疵，绝不修饰或面部变化。 奢华 {argument name=“aesthetic” 默认=“quiet wealth”} 美学与电影般的 Instagram 男性气质相结合。紧绷的…
+
+#### 📝 提示词
+
+```
+上传男性的超写实8K男性肖像。以他的确切面孔作为唯一的身份锚点，保持100%的面部结构、下颌线、发量、胡须质地、肤色、眼形、毛孔和自然瑕疵，绝不修饰或面部变化。
+
+奢华 {argument name=“aesthetic” 默认=“quiet wealth”} 美学与电影般的 Instagram 男性气质相结合。紧绷的中心特写，直视，平静的主导表情，略显严肃，没有笑容。衣橱：{argument name=“clothing” default=“合身黑色高领毛衣配高级黑色定制西装外套”}，无配饰。
+
+背景：{argument name=“background” 默认=“深翡翠绿电影工作室渐变”}，带有柔和的氛围深度。
+
+相机：85mm镜头f/1.8，眼睛极度对焦，奶油散景，超细腻的皮肤，可见的胡须发丝，逼真的发丝，HDR动态范围，深对比阴影，头发和下颌的细微边缘光，从前左侧自然塑造面部。
+
+评分：高端GQ杂志色彩处理，奢华时尚活动氛围，超写实照片写实，戏剧性而简约的构图，浓郁的黑色，精英男性气质，现代亿万富翁气质，获奖编辑摄影。——AR 4：5
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09065_0.jpg" width="600" alt="精英男士奢华肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 38: 忧郁遮挡肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创作一幅情绪浓郁的垂直特写肖像，描绘一位{argument name=“subject” default=“young woman”}，她留着长而浓密的波浪状{argument name=“hair color” default=“black hair”}，坐在一个阴暗低调的环境中。她的脸部完全被一个中央不透明的矩形…
+
+#### 📝 提示词
+
+```
+创作一幅情绪浓郁的垂直特写肖像，描绘一位{argument name=“subject” default=“young woman”}，她留着长而浓密的波浪状{argument name=“hair color” default=“black hair”}，坐在一个阴暗低调的环境中。她的脸部完全被一个中央不透明的矩形审查块完全遮挡，采用暗棕色至灰色渐变色，从额头上方延伸到下巴下方，而肖像的其他部分则清晰可见。她裹着一条厚重的石南灰色针织毯子或披肩，边缘有细腻的深色编织图案。一只手伸进画面右上方的头发，手指部分缠绕在发间，另一只手抓着右下角的毯子。运用戏剧性的电影灯光、冷淡的蓝灰色阴影、头发和手部的柔和高光、浅景深、逼真的皮肤质感、细致的针织面料质感、亲密而忧郁的氛围、深色背景、竖向智能手机构图、写实的编辑风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11571_0.jpg" width="600" alt="忧郁遮挡肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 39: 品牌提案板设计
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+请生成一张【画幅比例】的高完成度「品牌全案概念提案板 / Brand Concept Proposal Board」。 【基础信息】 品牌中文名：【品牌中文名】 品牌英文名：【品牌英文名】 品牌所属品类：【品牌品类】（如护肤 / 香氛 / 洗护 / 彩妆 / 茶饮 / 餐饮 / 宠物 / 家居等）
+
+#### 📝 提示词
+
+```
+请生成一张【画幅比例】的高完成度「品牌全案概念提案板 / Brand Concept Proposal Board」。
+
+【基础信息】
+品牌中文名：【品牌中文名】
+品牌英文名：【品牌英文名】
+品牌所属品类：【品牌品类】（如护肤 / 香氛 / 洗护 / 彩妆 / 茶饮 / 餐饮 / 宠物 / 家居等）
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01741_0.jpg" width="600" alt="品牌提案板设计 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01741_1.jpg" width="600" alt="品牌提案板设计 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04734_2.jpg" width="600" alt="意式极简美食海报 - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01741_2.jpg" width="600" alt="品牌提案板设计 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01741_3.jpg" width="600" alt="品牌提案板设计 - Image 4">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 55: 月影神社鹤舞樱
+### No. 40: 雨中橙伞少女封面
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-创作一幅超细致的方形奇幻动漫景观插画，描绘一个梦幻般的日本神社，中心是一座发光的传统神道风格神社，红色柱子和华丽的蓝色弧形屋顶，坐落在一个漂浮的樱花覆盖的岛屿上，俯瞰月光下的海洋。在其后方放置一轮巨大的发光满月，覆盖天空大部分区域，周围可见的陨石坑和耀眼的光晕;天空是深靛蓝和紫色，满是星星、星云般的云朵和闪烁的魔法粒…
+制作一张方形1：1时尚杂志封面肖像，主角是{argument name=“character name” default=“a openful young japan woman”}，站在户外，在小雨中，手持橙色伞，温暖地对着镜头微笑。她有直直的深色双马尾发，配有柔和的刘海，配上小巧的红花发饰，自然妆容，神情温柔如偶…
 
 #### 📝 提示词
 
 ```
-创作一幅超细致的方形奇幻动漫景观插画，描绘一个梦幻般的日本神社，中心是一座发光的传统神道风格神社，红色柱子和华丽的蓝色弧形屋顶，坐落在一个漂浮的樱花覆盖的岛屿上，俯瞰月光下的海洋。在其后方放置一轮巨大的发光满月，覆盖天空大部分区域，周围可见的陨石坑和耀眼的光晕;天空是深靛蓝和紫色，满是星星、星云般的云朵和闪烁的魔法粒子。用大量{argument name=“开花树种”默认=“粉色樱花”）的枝条环绕场景，围绕着左上、右边和下角，花瓣飘散在空中。包含恰好八只可见的白鹤：左下前景一只大鹤，一只在下方中央向上飞翔的鹤，一只位于月光云朵前的左中部，一只在神社附近穿过中心的鹤，一只位于右中云层附近的鹤，右上角有一只大型鹤，以及两只远处在月亮和上方天空附近剪影的较小鹤。包含六个红色鸟居：右前景岛上一个大门，左侧雾山坡上一个小门，神社中心附近一个小门，两个向右中远处退去的小门，以及最右下角的一个小门。再加上挂在树枝和神社檐口上的温暖发光灯笼，神社台阶上的柔和金色灯光，以及一艘小船，船上有一个独坐的人物，位于底部中央闪亮的水面上，以增加规模感。海洋应为深蓝色，带有闪亮的光泽、泡沫波浪和明亮的月亮倒影，引向船只。采用高度精致的电影奇幻艺术风格，包含复杂的建筑细节、立体云朵、浪漫光影、粉色和紫色、明亮的蓝色、金色点缀、空灵的雾气，以及神圣的奇迹感。主要氛围：{argument name=“mood” 默认=“神奇、宁静且令人敬畏”}。主要设定：{argument name=“setting” 默认=“漂浮在云海之间、巨大的月亮下的日本天神社”}。避免使用文字、标志、边框、现代物件或照片级写实的粗糙感。
+制作一张方形1：1时尚杂志封面肖像，主角是{argument name=“character name” default=“a openful young japan woman”}，站在户外，在小雨中，手持橙色伞，温暖地对着镜头微笑。她有直直的深色双马尾发，配有柔和的刘海，配上小巧的红花发饰，自然妆容，神情温柔如偶像。她穿着亮面的深翡翠绿吊带旗袍上衣，带有金色云朵和花卉图案，搭配黑色蕾丝露肩袖和黑色蕾丝手套;蕾丝质地应当干净利落且华丽。她的手握着靠近胸口的伞柄。使用浅景深的雨景城市街道背景，配以模糊的行人和冷色调的柔和绿色和蓝色，与温暖的橙色伞盖形成对比。构图是一幅特写的半身肖像，略微倾斜，她的脸位于右上三分之一，伞子占据背景。添加4个可见文本元素：1）顶部写有{argument name=“masthead text” default=“AMEZON”}的巨大裁剪蓝色报头，部分隐藏在主题后方或周围;2）右上角小手写蓝色文字，写着{argument name=“small cover note” default=“cover”};3）左下角白色标志文字，显示{argument name=“左脚文字”default=“Z-IMAGE TURBO”}，并带有细划线和小副台词“自2025年以来”;4）底部中央/右侧白色标志文字，显示{argument name=“右脚文字” default=“GPT-IMAGE-2”}，带有细划线和小副台词“自2026年以来”。视觉风格：真实且高质量的AI时尚摄影，柔和的电影灯光，略微去饱和的雨天氛围，杂志编辑的润色，干净的皮肤细节，锐利的蕾丝和刺绣，无额外人物聚焦，无水印，无额外文字。
 ```
 
 #### 🖼️ 生成图片
@@ -2455,25 +1568,25 @@ AI特有の glossy rendering を避ける。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09208_0.jpg" width="600" alt="月影神社鹤舞樱 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06993_0.jpg" width="600" alt="雨中橙伞少女封面 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 56: 白发剑姬四格插画
+### No. 41: 南亚新娘肖像提示卡
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一张精致的动漫奇幻插画设定图，采用 2x2 网格布局，展示了同一位优雅女剑士的 4 个画面。角色为一位年轻女性，拥有一头极长的铂金白发，扎成高马尾并系有深海军蓝色的巨大蝴蝶结，发丝柔软卷曲且飘逸，皮肤白皙，五官精致细腻，双眸呈现明亮的红粉色。她身着华丽的白蓝配色哥特贵族裙装：带有蕾丝花边和金色刺绣的白色高领荷叶边衬衫…
+制作一张垂直的4：5社交媒体提示卡，展示一张真实的室内肖像照片，照片中一位{argument name=“subject” default=“young South Asian woman”}。画面中，女性从上半身到头部，坐在或站在一面柔和的奶油米色镶板墙前，墙面浅景深，室内灯光温暖。她的脸必须被一个中央不透明的方形…
 
 #### 📝 提示词
 
 ```
-一张精致的动漫奇幻插画设定图，采用 2x2 网格布局，展示了同一位优雅女剑士的 4 个画面。角色为一位年轻女性，拥有一头极长的铂金白发，扎成高马尾并系有深海军蓝色的巨大蝴蝶结，发丝柔软卷曲且飘逸，皮肤白皙，五官精致细腻，双眸呈现明亮的红粉色。她身着华丽的白蓝配色哥特贵族裙装：带有蕾丝花边和金色刺绣的白色高领荷叶边衬衫，胸前饰有镶嵌红色宝石胸针的巨大海军蓝蝴蝶结，泡泡袖配有丝带袖口，深海军蓝色束腰紧身胸衣带有金色细节，蓬松的海军蓝色裙摆装饰着金色花纹、层叠的荷叶边，并带有缎面光泽。她携带一把带有深色剑柄和金色装饰的武士刀。第 1 格为胸部以上的特写肖像，身体微侧，在深色闪烁的夜空背景下，头发呈现出戏剧性的轮廓光。第 2 格为动态的上半身动作镜头，角色正横向拔剑或展示剑身，头发随风狂舞，背景为电影感的城市夜景虚化效果，周围环绕着发光的花瓣。第 3 格为全身时尚肖像，她优雅地站在高耸发光建筑环绕的明亮反光大厅中，展示了裙装的完整轮廓、带蝴蝶结的高跟鞋以及身侧的佩剑。第 4 格为日落或黎明时分在波光粼粼的海边拍摄的四分之三背影，角色回眸，背景是温暖的柔和色调天空和闪烁的水面，樱花花瓣随风飘落。采用超精细动漫渲染，轻小说封面级画质，细腻的织物纹理，光泽高光，金色装饰，柔和光晕，戏剧性背光，漂浮花瓣，闪烁粒子，优雅浪漫的氛围，以及海军蓝、白、金、淡粉色的和谐配色。
+制作一张垂直的4：5社交媒体提示卡，展示一张真实的室内肖像照片，照片中一位{argument name=“subject” default=“young South Asian woman”}。画面中，女性从上半身到头部，坐在或站在一面柔和的奶油米色镶板墙前，墙面浅景深，室内灯光温暖。她的脸必须被一个中央不透明的方形审查块故意遮挡，颜色为中棕色，覆盖从额头到下巴的整张脸。她有一头长而光泽的{argument name=“发色” 默认=“深棕色到黑色”}的头发，左侧深分，松散地从右肩垂至腰部。她的头向右转三分之四，身体朝前;她的左肩披着布料，右手轻轻放在锁骨附近，手指放松。她正好戴着两只大型传统氧化银Jhumka耳环，分别戴在两只耳朵上，耳环上有珍珠状的垂挂层次。服装：整整两层可见服装，一件象牙色或奶油色无袖衬衫，绣有精致的白色花卉刺绣，腰口为波浪形心形领口，边缘镶嵌细小珍珠珠，另一件半透明的粉蓝色欧根纱丽披挂在躯干和左肩，饰有大型风格化的白莲花和细长的绿色花茎。整体氛围优雅、新娘般、柔和且真实，皮肤自然质感，柔和的高光，左下角边缘几乎看不见一把青绿色软垫椅子。在底部三分之一处添加文本叠加：恰好两个文本元素。文本元素1是一个大型白色手写文字，标题为{argument name=“title text” default=“Prompt”}，位于左下角。文本元素2是一个小巧的白色无衬线文字，位于标题下方右侧，几乎横跨整个宽度，内容如下：{argument name=“段落文本” default=“请使用我100%的面部作为参考，创作一张逼真的室内肖像照片，照片中一位年轻的南亚女性（不更改面部），她有着长而光泽的深棕色到黑色长发，左侧深分，垂至右肩垂至腰部， 她温暖的中棕色肤色，搭配柔和的自然妆容，眉毛整齐地弯曲，深棕色眼睛，涂着柔和的玫瑰粉色口红，脸部轻柔地向右转三分之三角，微微向镜头外看向左侧，带着温暖的闭嘴微笑。她穿着象牙色或奶油色无袖衬衫，质地密集，绣有复杂的白色花卉图案，心形领口边缘镶嵌着细小珍珠珠子，外面披着一件透明的粉蓝色纱丽，纱丽轻薄，表面绘有或绣有大型风格化的白色莲花和细长的绿色花茎。她的右手靠近衣领。使用柔和的短片对比，使白色文字清晰可辨，无标志或水印，采用写实式编辑肖像风格。
 ```
 
 #### 🖼️ 生成图片
@@ -2481,31 +1594,1794 @@ AI特有の glossy rendering を避ける。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16503_0.jpg" width="600" alt="白发剑姬四格插画 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08056_0.jpg" width="600" alt="南亚新娘肖像提示卡 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 57: 小恶魔复古海报
+### No. 42: 环球足球广告分镜
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-[中文] が「小悪魔リリムリリィちゃんが スーパーファミコンのゲームだったときのポスターを考えて」に 画像数枚だけで このクオリティ 細かい説明呪文なし すごいぜ！ [English] that "Think of a poster when the little devil Lilim Lily-chan was…
+目标：为一部电影级全球足球广告制作专业分镜图，采用单色马克笔和墨水概念艺术，展现动态体育动作、制作规划清晰度和手绘预可视化效果。 画布：宽幅横向分镜板，16：9宽高比。使用干净的白色背景，每帧周围用细灰色边框。将20个分镜面板排列成5列4行的网格。每个面板左上角有一个带有白色数字的小黑色方形数字标签，画作下方有一个用…
+
+#### 📝 提示词
+
+```
+目标：为一部电影级全球足球广告制作专业分镜图，采用单色马克笔和墨水概念艺术，展现动态体育动作、制作规划清晰度和手绘预可视化效果。
+
+画布：宽幅横向分镜板，16：9宽高比。使用干净的白色背景，每帧周围用细灰色边框。将20个分镜面板排列成5列4行的网格。每个面板左上角有一个带有白色数字的小黑色方形数字标签，画作下方有一个用粗体黑色分镜文字写的说明框。
+
+视觉风格：黑白素描插画、灰度马克笔阴影、墨线轮廓、电影感摄像机角度、动态模糊、速度线、观众细节、城市质感、充满活力的足球编排。这些画作应该看起来像打磨得很精致的广告分镜，而不是完成的写实。所有图像保持单色，不要用颜色点缀。
+
+主题与故事：一只足球在一个连续的商业蒙太奇中穿越世界，从巴黎的孩子们踢球开始，穿过多个国际城市和海滩/街头足球场景，然后升上天空，落在满座的世界杯决赛体育场，迎来胜利的结局。
+
+面板布局与说明：包含20个编号面板，包含这些可见场景和说明：
+1. 法国巴黎，金色夕阳，孩子们在经典巴黎建筑下踢足球，背景是埃菲尔铁塔;一个男孩把球踢向镜头。说明：“法国巴黎。金色的夕阳。孩子们在巴黎经典建筑下踢足球。一个男孩脚步灵活，将球射向镜头。”
+2. 极近距离拍摄，足球直接飞入镜头，带有径向速度线。说明：“球直接飞进了镜头。动态比赛切换。”
+3. 摩洛哥卡萨布兰卡街头足球场景，温暖的傍晚灯光下，热闹的街道上球员和观众。说明：“摩洛哥卡萨布兰卡。温暖的傍晚光线。一场热闹的街头足球比赛。球员接球。”
+4. 一名球员在拥挤的街头比赛中从两名防守者之间盘带。说明：“他以技术和速度带球突破两名防守球员。”
+5. 球员进行精准的前传;镜头跟随旋转的足球沿街走去。说明：“他精准地向前传球。镜头跟随旋转的球。”
+6. 东京，日本夜晚，霓虹灯闪烁的城市路口和高大的标志，观众观看足球比赛进入城市。说明：“球进入日本东京。夜晚霓虹灯闪烁的街道。”
+7. 一名少女在东京街头一触控球，身后有观众。说明：“一个少女只需一触就能控制球。”
+8. 她打出一记强力射门，球在画面中高速滚动，动作模糊。说明：“她打出了一记有力的射门。摄像机快速推进球。”
+9. 巴西里约热内卢，海滩足球场景，有波浪、海岸线、群山和年轻的赤脚球员。说明：“球进入巴西里约热内卢。沙滩橄榄球。海浪在附近拍打。年轻选手赤脚参赛。”
+10. 一名沙滩球员在队友观看下，慢动作完成精彩的自行车截击，球向前弧线飞出。说明：“一名球员完成了一次精彩的凌空抽射。慢动作撞击，然后加速前进。”
+11. 巴基斯坦拉合尔，尘土飞扬的社区足球场，充满欢呼的孩子们和街道细节。说明：“球进入巴基斯坦拉合尔。一个尘土飞扬的社区足球场，里面充满了欢呼的孩子们。”
+12. 一名微笑的选手在前景接球，保持接近肩膀高度，后面的孩子们在庆祝。说明：“一位微笑的球员接球。”
+13. 球员发起长距离空中传球;镜头随着球升空，飞向社区人群之上。说明：“他发出一记长传。镜头随着球升向天空。”
+14. 阿根廷布宜诺斯艾利斯，拥挤的城市街道充满了足球文化，球从上方落下。说明：“球落入阿根廷布宜诺斯艾利斯。拥挤的街道充满了足球文化。”
+15. 一名年轻球员控球，用裆击球击中对手，并强力传球向上，镜头随之跟随。说明：“一名年轻球员控球，用裆裆传给对手，并送出一记强力向上的传球。镜头跟随球。”
+16. 足球从壮丽的云层之上浮现，出现在开阔的天空中。说明：“球从云层之上出现......”
+17. 球落入一座座无虚席的世界杯决赛体育场，从高广角俯瞰，照明灯和观众的欢呼声响起。说明：“......并降临到座无虚席的国际足联世界杯决赛体育场。”
+18. 球传到一名明星球员手中，他在球门前打进制胜球;防守球员和门将在体育场沸腾时做出反应。说明：“球传到一位明星球员手中，他打进制胜球。体育场沸腾了！”
+19. 冠军庆典，来自不同国家的球员在烟花和彩纸下举起奖杯。说明：“冠军庆祝。来自不同国家的球员们举起了奖杯。”
+20. 最后一场史诗级的吊臂镜头，夜晚在巴黎上空，埃菲尔铁塔、城市灯光、烟花和庆祝活动蔓延至全城乃至全世界。说明：“镜头越来越高，展现出遍布全球各大城市的庆祝活动。史诗般的结局。”
+
+限制：使用恰好20块面板和精确的5×4网格。保持字幕清晰且英文化。始终保持统一的单色分镜风格。避免使用标志、水印、逼真色彩或额外分镜。商业主题应为{argument name=“sport theme” default=“global football unity”}，视觉媒介应感觉像{argument name=“storyboard style” default=“monochrome marker sketch”}，最终场景应强调{argument name=“final city” default=“巴黎夜晚”}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02072_0.jpg" width="600" alt="环球足球广告分镜 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 43: 三星旗舰新机海报
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+为{argument name=“product name” default=“Samsung Galaxy S26 Ultra”}制作一张高端商业广告海报，采用现代三星旗舰风格。使用竖版海报画布，背景为深邃的未来感海军黑色，柔和渐变，细腻的蓝银光晕，光泽反光，以及高端摄影棚灯光。将白色三星标志置于左上角。中央放置一…
+
+#### 📝 提示词
+
+```
+为{argument name=“product name” default=“Samsung Galaxy S26 Ultra”}制作一张高端商业广告海报，采用现代三星旗舰风格。使用竖版海报画布，背景为深邃的未来感海军黑色，柔和渐变，细腻的蓝银光晕，光泽反光，以及高端摄影棚灯光。将白色三星标志置于左上角。中央放置一个大而粗体的标题“Galaxy S26 Ultra”，下方是一个较小的发光蓝色副标题“最新AI手机”，下方标语为“Power.精准。智能。”中央显示两部直立的高级银色智能手机：左手机背面为哑光银色，左上角附近排列着多镜头摄像头群，内有5个可见的摄像头/传感器圆圈;右手机前屏为细边框，中央设有打孔摄像头，以及银色、黑色和薰衣草色调的抽象金属几何壁纸。在手机左侧斜放一枚银色S Pen。设备后方加装发光的部分蓝色光环和底部水平光晕，手机反射在光滑地面上。在下方三分之一区域，创建一个干净的规格条，两排各三项功能，中间用细细的竖屏和简单的轮廓图标分隔：1）带有“6.9”动态AMOLED显示屏的手机图标，2）带有“200MP专业级摄像头”的摄像头图标，3）芯片图标显示的“Snapdragon® 8 Elite Gen 5 for Galaxy”，4）带有“内置S笔”的笔图标，5）带有“5000mAh电池”的电池图标，6）带有“隐私显示屏”的盾牌/锁定图标。在底部中央添加“现已可用”的行动号召和配套的“Galaxy AI built for your everyday”，并配有两个小闪光符号。采用清晰的白色和浅蓝色字体，居中对齐，高级间距，逼真的产品渲染，金属边缘，且无额外文字或水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07179_0.jpg" width="600" alt="三星旗舰新机海报 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 44: 百叶窗光影人像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一尊照片级写实、电影感十足的肖像，描绘了一位坐在黑暗椅子上的年轻东亚女性。她留着及肩的短发和直刘海，颜色为{argument name=“hair color” default=“teal”}。她穿着{argument name=“top dressing” default=“navy blue tank top”}…
+
+#### 📝 提示词
+
+```
+一尊照片级写实、电影感十足的肖像，描绘了一位坐在黑暗椅子上的年轻东亚女性。她留着及肩的短发和直刘海，颜色为{argument name=“hair color” default=“teal”}。她穿着{argument name=“top dressing” default=“navy blue tank top”}和{argument name=“bottom clothing” default=“浅米色亚麻短裤”}。她微微前倾，双手放在膝盖附近，直视镜头，表情是{argument name=“expression” default=“neutral， calm”}。该场景采用{argument name=“lighting style” default=“veneth blinds的戏剧性阴影”}，投射出明显的温暖金色水平条纹，覆盖她的脸庞、身体及身后朴素的暖色调墙壁。窗框右侧可见一扇带百叶窗的关闭窗户。高对比度，氛围浓郁，细节丰富。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06652_0.jpg" width="600" alt="百叶窗光影人像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 45: IMAX级美妆拼贴肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+超写实IMAX级别的Netflix风格电影六格美妆拼贴肖像，9：16竖向构图，以上传图像作为主要面部和视觉参考，并配有高识别度......
+
+#### 📝 提示词
+
+```
+超写实IMAX级别的Netflix风格电影六格美妆拼贴肖像，9：16竖向构图，以上传图像作为主要面部和视觉参考，并配有高识别度......
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11520_0.jpg" width="600" alt="IMAX级美妆拼贴肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 46: 平成墨韵双人绘
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+人物与[XXX]，近景侧面肖像，两者朝向同一方向。以怀旧的日本平成时代风格绘制，使用浓郁的深色墨水。手绘线条艺术，带有可见的素描感笔触，优质纸张纹理，精致优雅的素描美学，轻盈通透的构图，极简视觉风格，精致且永恒的氛围。大量的留白，纯白背景，四周留有宽大的页边距。仅有微妙且极少的色彩点缀。主体居中，构图干净。无文字、标…
+
+#### 📝 提示词
+
+```
+人物与[XXX]，近景侧面肖像，两者朝向同一方向。以怀旧的日本平成时代风格绘制，使用浓郁的深色墨水。手绘线条艺术，带有可见的素描感笔触，优质纸张纹理，精致优雅的素描美学，轻盈通透的构图，极简视觉风格，精致且永恒的氛围。大量的留白，纯白背景，四周留有宽大的页边距。仅有微妙且极少的色彩点缀。主体居中，构图干净。无文字、标识、签名。超高分辨率，图标友好，方形 1:1 格式，高度细节化，细腻的线条，优质编辑插画品质。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13830_0.jpg" width="600" alt="平成墨韵双人绘 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13830_1.jpg" width="600" alt="平成墨韵双人绘 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 47: 3D科技工作空间插画
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+目标：制作一个精致的3D等角技术工作区插图，展示可重复使用的AI设计提示库和数字内容规划工具。 画布：超宽横幅，约2.5：1宽高比，深海军蓝至青绿色渐变背景，电影感十足的工作室灯光，左右两侧空白页距，方便叠加文字。 主题与布局：在画布右中放置一簇漂浮和桌面生产力元素。使用 {argument name=“primar…
+
+#### 📝 提示词
+
+```
+目标：制作一个精致的3D等角技术工作区插图，展示可重复使用的AI设计提示库和数字内容规划工具。
+
+画布：超宽横幅，约2.5：1宽高比，深海军蓝至青绿色渐变背景，电影感十足的工作室灯光，左右两侧空白页距，方便叠加文字。
+
+主题与布局：在画布右中放置一簇漂浮和桌面生产力元素。使用 {argument name=“primary color palette” 默认=“深海军蓝、青绿色、白色、紫罗兰和暖金色点缀”}。场景应当有高级SaaS/生产力英雄形象的感觉，拥有柔和阴影、光泽斜面、细腻反光和圆润的角落。
+
+离散可见元素：包含恰好13个主要对象：1个大型中央桌面浏览器窗口，顶部有深色条和线框布局块;左侧后方有一块深色网格仪表盘面板，配有九块方形瓷砖;前面有一个小白色分析/卡片面板，左侧有列表点和底部的小按钮;右侧有一张青绿色UI卡，包含四个主要内容块和三排狭窄侧行;右侧有一张紫色UI卡，带有五个圆角模块;前景左侧平放1个电子表格/日历板，顶部为绿松石色排头和紫色顶部横条;前景中央有1个开放式报告/文档板，配有四个彩色图表块;前景右侧堆放一叠文件或文件夹，顶部是一张空白白纸;前景有一小叠圆角方形应用瓷砖;底部中央放着1台深色智能手机或纤细的矩形设备;右后方竖立着一大叠深色活页夹或文件夹，边缘为青绿色和金色;右上角有1个漂浮云朵图标，边缘为金色灯光;最右侧有一个深色圆柱形笔杯，内含三件书写工具。
+
+背景点缀：在面板上方添加细长的金色轨道连接线，弧形排列，并有三个小金色节点，右上方有一个小青色立方体，主窗后方则是半透明的玻璃状面板轮廓。保持这些口音细腻且次要。
+
+风格：高端3D渲染，圆润的粘土状UI组件，玻璃形态，柔和的环境遮挡，斜边，金属金色高光，现代创作工具美学，无人物。使用 {argument name=“lighting mood” default=“情绪化的电影蓝色工作室灯光配明亮青色边缘高光”} 以及 {argument name=“render style” default=“premium 3D 等距 SaaS 插画”}。
+
+文本限制：无可读文字，无标志，无水印。任何界面标记应仅为抽象线条、点、网格和空白卡片。
+
+构图限制：保持主簇略偏右居中，保持从平面前景平板到悬浮背景面板的强烈层次感，云朵保持在右上角，最左背景基本保持简洁。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10518_0.jpg" width="600" alt="3D科技工作空间插画 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 48: 654美元揭秘
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+654美元
+
+#### 📝 提示词
+
+```
+654美元
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16739_0.jpg" width="600" alt="654美元揭秘 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 49: 跨海大桥影视级标题
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+①场景 {argument name="场景描述" default="跨海大桥的侧面"}，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 {argument name="文字内容" default="跨海大桥"}」painted onto the su…
+
+#### 📝 提示词
+
+```
+①场景 {argument name="场景描述" default="跨海大桥的侧面"}，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 {argument name="文字内容" default="跨海大桥"}」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 {argument name="文字颜色与样式" default="Oversized bright yellow + sharp orange outline"}，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06373_0.jpg" width="600" alt="跨海大桥影视级标题 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 50: 阳光双马尾少女时尚立绘
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创作一幅精致的动漫风格全身时尚插画，描绘一位可爱的年轻女性站在温暖阳光下，站在米色瓷砖混凝土墙边。她有{argument name=“hair color” default=“glossy black”}高高的双马尾，短刘海和松散卷曲的发梢，每个马尾都系着鲜艳的蓝色蝴蝶结。她的表情调皮且略带调皮，柔和的红棕色眼睛，带…
+
+#### 📝 提示词
+
+```
+创作一幅精致的动漫风格全身时尚插画，描绘一位可爱的年轻女性站在温暖阳光下，站在米色瓷砖混凝土墙边。她有{argument name=“hair color” default=“glossy black”}高高的双马尾，短刘海和松散卷曲的发梢，每个马尾都系着鲜艳的蓝色蝴蝶结。她的表情调皮且略带调皮，柔和的红棕色眼睛，带着一丝微笑，轻轻歪头。她穿着黑色铆钉颈圈，浅蓝色牛仔连体裤，带有结构感的胸片，荷叶边肩带，心形领口，黑色系带前襟细节，腰带环，以及带有一处做旧破补丁的短裤。一侧是不对称的蓝白格子格子裙板，裙摆有白色磨损的褶边、悬挂的丝带和层叠的织物。她还穿着白色小腿中袜和厚重黑色系带厚底战斗靴。摆出她随意倾斜的姿势，一侧臀部弯曲，一膝内弯，双臂放松垂在身侧，双脚分开，身体在墙上投下清晰的影子。采用2：3竖屏构图，全身居中，细致干净的线条艺术，流畅的卡通渲染动漫渲染，头发和靴子上的光泽高光，柔和的肤色阴影，高细节的衣物折叠，温暖的下午灯光，细腻的墙面污渍和剥落，无文字，无水印，无额外字符。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07031_0.jpg" width="600" alt="阳光双马尾少女时尚立绘 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 51: 冷调梦幻少女肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+极近直立肖像，美丽的{论点名=“族裔”默认=“东亚女性”}，二十出头。柔和的椭圆形脸庞，淡淡的雀斑，右脸颊上有一颗小痣，精致的下颌线，细鼻子。长直{argument name=“hair style” default=“乌黑头发”}，浓密钝发，光泽光泽，带冷光挑染。大而蓝调的眼睛直视镜头，神情梦幻/忧郁，嘴唇微张，带…
+
+#### 📝 提示词
+
+```
+极近直立肖像，美丽的{论点名=“族裔”默认=“东亚女性”}，二十出头。柔和的椭圆形脸庞，淡淡的雀斑，右脸颊上有一颗小痣，精致的下颌线，细鼻子。长直{argument name=“hair style” default=“乌黑头发”}，浓密钝发，光泽光泽，带冷光挑染。大而蓝调的眼睛直视镜头，神情梦幻/忧郁，嘴唇微张，带有天然粉色唇彩。
+电影感十足的冷色调灯光，青青色调色，柔和的体积光，头发上的细微边缘光，柔和的面部阴影。背景：辽阔模糊的{argument name=“background” default=“Japanese meadow”}，柔和的白昼，浓重散景，梦幻般。被摄者略偏右，肩膀和头发在画面底部被剪掉。
+85mm镜头，f/1.8，全画幅，电影级颗粒感，超高分辨率，眼睛和面部清晰对焦，逼真的皮肤毛孔和桃绒，湿润的嘴唇，细致的发丝。冷色调，皮肤依旧鲜活，柔和的对比。氛围：忧郁、空灵、内省，高预算电影静帧。
+排除：过度修饰、塑料皮肤、身体变形、文字、标志、水印、卡通风格、人工摄影棚灯光。静态瞬间，稍微凌乱的刘海发梢/太阳穴发型以求真实感，眼睛中隐约的天空/场地反射。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02301_0.jpg" width="600" alt="冷调梦幻少女肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02301_1.jpg" width="600" alt="冷调梦幻少女肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02301_2.jpg" width="600" alt="冷调梦幻少女肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02301_3.jpg" width="600" alt="冷调梦幻少女肖像 - Image 4">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 52: 先锋科技时尚大片
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张高端时尚编辑肖像，描绘了一位{argument name=“subject” default=“年轻女子，长直苔绿色头发”}，自信地摆在坚实柔和灰色背景前。她穿着一套{argument name=“outfit” default=“先锋科技服饰，配有一件宽大、短版黑色多功能连帽衫，配有多个战术工装口袋、肩带和橙色…
+
+#### 📝 提示词
+
+```
+一张高端时尚编辑肖像，描绘了一位{argument name=“subject” default=“年轻女子，长直苔绿色头发”}，自信地摆在坚实柔和灰色背景前。她穿着一套{argument name=“outfit” default=“先锋科技服饰，配有一件宽大、短版黑色多功能连帽衫，配有多个战术工装口袋、肩带和橙色点缀标签”}。她搭配宽松的灰色束口袋运动裤，带有超大侧袋。她的配饰包括一顶{argument name=“配件”默认=“黑色渔夫帽，中央橙色标志，未来感十足的深色太阳镜，以及一副大号头戴式耳机”}，挂在脖子上。该构图采用中景，采用专业的摄影棚灯光布置，营造出柔和的阴影和高对比度的电影感。背景中，大型风格化的青柠绿色图形字体融入主体后方，模仿现代街头时尚杂志封面。整体美学质朴、都市感十足，极其细腻，8K分辨率，使用85mm镜头拍摄。画面比例为9：16
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05764_0.jpg" width="600" alt="先锋科技时尚大片 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 53: 精致动漫插画
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+以REFERENCE_0为基础构图，重新生成一个更干净、精致的动漫风格插画，同时保留了相同的裁剪姿势、服装、发型、木地板，以及那个带有3颗可见坚果的小圆形金色盘子。REFERENCE_1只能作为温暖木色、柔和室内灯光和精致线条的参考。减少斑驳/颗粒感和杂质，锐化轮廓，平滑皮肤和衬衫阴影，让发丝更有条理和风格化，并保持…
+
+#### 📝 提示词
+
+```
+以REFERENCE_0为基础构图，重新生成一个更干净、精致的动漫风格插画，同时保留了相同的裁剪姿势、服装、发型、木地板，以及那个带有3颗可见坚果的小圆形金色盘子。REFERENCE_1只能作为温暖木色、柔和室内灯光和精致线条的参考。减少斑驳/颗粒感和杂质，锐化轮廓，平滑皮肤和衬衫阴影，让发丝更有条理和风格化，并保持构图为特写部分身体裁剪。保持自然的手形和解剖结构，采用柔和的卡通渲染效果和温暖的棕色地板。风格目标：{argument name=“插画风格” default=“干净精致的动漫插画”};清理强度：{参数名称=“清理强度”默认=“强降噪与清晰线条”};照明氛围：{参数名称=“照明氛围” 默认=“温暖柔和室内光”}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10234_0.jpg" width="600" alt="精致动漫插画 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 54: 芦荟凝胶广告
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一根带磨砂绿色的玻璃管，{argument name=“product” default=“aloe gel”}，标注为“{argument name=”label“ default=”Pure Aloe“}”，立在光滑的表面上，周围环绕着鲜艳的芦荟汁弧线和空中飞溅的碎芦荟叶。干净利落的背景，自然的绿色挑染，高端护肤…
+
+#### 📝 提示词
+
+```
+一根带磨砂绿色的玻璃管，{argument name=“product” default=“aloe gel”}，标注为“{argument name=”label“ default=”Pure Aloe“}”，立在光滑的表面上，周围环绕着鲜艳的芦荟汁弧线和空中飞溅的碎芦荟叶。干净利落的背景，自然的绿色挑染，高端护肤广告风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04493_0.jpg" width="600" alt="芦荟凝胶广告 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 55: Y2K韩流时尚大片
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+高端时尚Y2K风格社论艺术作品，画面中心是一位充满自信的时髦年轻东亚女性。她拥有水光感透亮肌肤、精致淡雅的妆容，以及飘逸的深色长发和轻盈的空气刘海。服装融合了现代韩系街头时尚美学与多层次潮流配饰。背景充满大胆的实验性排版、丰富的杂志风图形、复古流行视觉效果、铬金属质感元素、趣味图标、贴纸、爱心、星星、对话框、UI界面…
+
+#### 📝 提示词
+
+```
+高端时尚Y2K风格社论艺术作品，画面中心是一位充满自信的时髦年轻东亚女性。她拥有水光感透亮肌肤、精致淡雅的妆容，以及飘逸的深色长发和轻盈的空气刘海。服装融合了现代韩系街头时尚美学与多层次潮流配饰。背景充满大胆的实验性排版、丰富的杂志风图形、复古流行视觉效果、铬金属质感元素、趣味图标、贴纸、爱心、星星、对话框、UI界面叠加及条形码元素。设计感呈现出一种怀旧的2000年代初期时尚杂志封面与当代韩流视觉营销的融合。包含错落有致的日韩风格文字细节、动态层次化构图、充满活力的商业海报氛围、清爽的影棚闪光灯照明、强对比度，将写实社论摄影与平面设计美学完美融合，细节纹理极其丰富，焦点清晰，具有奢侈品印刷级质感，视觉沉浸感强，呈现超高端时尚活动视觉效果，电影感构图，8K分辨率。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15217_0.jpg" width="600" alt="Y2K韩流时尚大片 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15217_1.jpg" width="600" alt="Y2K韩流时尚大片 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 56: 星球装修中
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+本次用户输入主题： {argument name="主题" default="知识星球，装修中"} —————— 其他辅助信息： {argument name="辅助信息" default="小小东的知识星球，被平台审核通过了，希望能给到铁粉合适的路径，一起用AI工具解决工作中的痛点"} 星球主要定位：提示词经验、提…
+
+#### 📝 提示词
+
+```
+本次用户输入主题：
+{argument name="主题" default="知识星球，装修中"}
+——————
+其他辅助信息：
+{argument name="辅助信息" default="小小东的知识星球，被平台审核通过了，希望能给到铁粉合适的路径，一起用AI工具解决工作中的痛点"}
+
+星球主要定位：提示词经验、提示词实战、提示词工作流、skills，chrome 插件效率工具， 少走弯路的经验分享，还有一些整钱思路的提效...新玩法的解析。
+
+——————
+这些文字你自己理解，更好的润色和呈现， 不要原样输出， 更好的信息图逻辑输出
+
+我希望是{argument name="风格" default="韩系明亮背景"}。
+
+比例16:9
+
+大字我希望是：星球 这两个字
+其次不要有二维码元素
+当前年份是2026-05-15
+装修中，这个信息点，也很重要。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02348_0.jpg" width="600" alt="星球装修中 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 57: 后台意外自拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+超逼真的意外iPhone前置摄像头自拍，身份完全保留在参考图片中。在音乐会或现场表演中自然捕捉到的后台。真实的iPhone前置摄像头外观：构图不完美，手臂伸展笨拙，构图略微偏离中心，相机微微抖动，柔和运动模糊，镜头泛光模糊，轻微对焦不一致，低光颗粒感，真实的智能手机处理，后台灯光轻度过曝。\n主体出现在走在后台中段，…
+
+#### 📝 提示词
+
+```
+超逼真的意外iPhone前置摄像头自拍，身份完全保留在参考图片中。在音乐会或现场表演中自然捕捉到的后台。真实的iPhone前置摄像头外观：构图不完美，手臂伸展笨拙，构图略微偏离中心，相机微微抖动，柔和运动模糊，镜头泛光模糊，轻微对焦不一致，低光颗粒感，真实的智能手机处理，后台灯光轻度过曝。\n主体出现在走在后台中段，转身、轻笑或自然反应，穿着{argument name=“outfit” default=“casual streetware”}。保持与参考图片相同的面部结构、发型、眼睛、嘴唇、皮肤质地、比例和整体外观。自然的坦率表情：温柔的微笑，放松的眼神，半张的嘴唇，被风吹乱的头发略显凌乱，逼真的瑕疵，疲惫的演出后能量。没有摆姿势，没有电影风格，没有专业摄影的风格。\n镜头角度像是一张真正的意外自拍：拉伸的手臂部分露出，手机握得太近，微微倾斜，构图不均，镜头附近的头发、肩膀和手臂周围有细微模糊。背景：{argument name=“background” 默认=“模糊的后台走廊、演唱会舞台灯光、LED屏幕、场馆灯光、设备箱、保安剪影、舞台工作人员、化妆间走廊”}，逼真的散景和深度模糊。\n灯光：混合暖冷的演唱会灯光，发光的LED屏幕，过曝的实景灯光，面部柔和的光线，真实的后台氛围。纪录片风格的写实、情感坦率的能量、逼真的运动模糊、朦胧柔和、自然的数码噪声、轻微的镜头晕染效果、真实的智能手机摄影、病毒式Instagram美学、超细致、3：4的画面比例。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01410_0.jpg" width="600" alt="后台意外自拍 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01410_1.jpg" width="600" alt="后台意外自拍 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 58: 暗黑教父图像提示词
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+[GPT-image2 结构提示：{argument name=“主题” default=“黑暗教父”}] ### 1.身份转换（核心人像迁移） - 基础身份：取[参考图像]中的面部结构。 - 修改：通过{argument name=“年龄增加” default=“30年”}来老化面部，增加深层的智慧线条和风化、皮革…
+
+#### 📝 提示词
+
+```
+[GPT-image2 结构提示：{argument name=“主题” default=“黑暗教父”}]
+
+### 1.身份转换（核心人像迁移）
+- 基础身份：取[参考图像]中的面部结构。
+- 修改：通过{argument name=“年龄增加” default=“30年”}来老化面部，增加深层的智慧线条和风化、皮革质地。保持高地位领袖那种坚定、坚定的目光。
+
+### 2.灯光建筑（顶光与阴影结构 - 关键）
+- 光源：从正上方照射的单一强烈垂直顶光（垂直顶光）。
+- 阴影映射：这种光照必须在眼窝中制造巨大的阴影，使眼睛在神秘中几乎隐形。它应在鼻子和下巴下方投射出锐利而长的阴影，突出头骨的骨骼结构，营造出“无声权威”的感觉。
+- 风格：明暗对照（Extreme Chiaroscuro）。脸部70%必须被绝对的天鹅绒般黑暗所淹没。
+
+### 3.场景与构图（场景与构图）
+- 主题：男子坐在一把经典的高背黑色皮椅上。他正慢慢而有节奏地抚摸着膝上一只{argument name=“宠物” default=“dark， slek cat”}。
+- 前景：聚焦于风化强壮的手与猫柔软毛发之间的对比。
+- 背景：一幅漆黑、极简主义的习作。只隐约看到一张红木书桌的模糊轮廓。
+- 相机：85mm镜头，f/1.8，中等镜头，略带低角度透视。
+
+### 4.色彩与质感（色彩与质感）
+- 调色板：去饱和的调色。深烟草棕色、黑曜石黑色和锐利的琥珀色挑染（#B08D6A / #1A120B）。
+- 纹理：35毫米胶片颗粒，次表面散射（SSS），实现逼真的皮肤高光，PBR纹理贴图（无塑料感）。
+
+### 5.负约束（负面约束）
+- 不许微笑，不准直视镜头，不许年轻的皮肤，不许平坦的灯光，不许明亮的背景，不许鲜艳的色彩，不能用数字画面的流畅度。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07981_0.jpg" width="600" alt="暗黑教父图像提示词 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 59: 富士山电车黄昏
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+仅以REFERENCE_0作为电影级桌面壁纸灵感，将威尼斯海滨街景替换为日本新的日常旅行场景。创建一个宽广的16：9超细致4K壁纸，显示{argument name=“destination landmark” default=“富士山”}为背景主导，前景为{argument name=“vehicle” defau…
+
+#### 📝 提示词
+
+```
+仅以REFERENCE_0作为电影级桌面壁纸灵感，将威尼斯海滨街景替换为日本新的日常旅行场景。创建一个宽广的16：9超细致4K壁纸，显示{argument name=“destination landmark” default=“富士山”}为背景主导，前景为{argument name=“vehicle” default=“Japanese commator train”}，背景为{argument name=“time” default=“warm golden hour sunset”}。在一座长桥上包含3节可见相连的火车车厢，桥下有河床，左侧是树林覆盖的山丘，地标底部有远处城镇和层叠山脉，天空晴朗，几朵柔和的云朵。保留参考资料中真实旅行摄影的感觉、温暖的电影灯光、自然的调色、清晰的细节和适合贴壁纸的构图，但不要保留原始的棕榈树、海滩、商店、汽车、道路或标识。没有文字，没有标志，没有人物作为主要主题，也没有水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04594_0.jpg" width="600" alt="富士山电车黄昏 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 60: 晨起慵懒自拍时刻
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+direction: overall_tone: 像是真实SNS上发布的、房间里拍摄的近距离手机自拍 capture_reason: 在晨间到午间的自然光进入的房间里，为了确认发型和衣服的显露效果，随手拍的自拍（selfie） style: casual smartphone snapshot（日常手机快照） gen…
+
+#### 📝 提示词
+
+```
+direction:
+  overall_tone: 像是真实SNS上发布的、房间里拍摄的近距离手机自拍
+  capture_reason: 在晨间到午间的自然光进入的房间里，为了确认发型和衣服的显露效果，随手拍的自拍（selfie）
+  style: casual smartphone snapshot（日常手机快照）
+  genre: private room SNS photo（自室SNS照片）
+  restriction: 保持构图、服装、胸部的自然尺寸感、衣服的宽松垂落感。禁止过度写真化、胸部放大、衣服紧贴化
+
+mood:
+  略带刚起床感的柔和表情、放松的氛围、不刻意修饰的房间拍摄感
+
+model:
+  20多岁以上的成年女性、自然体型、现实的身体比例、避免AI式的左右过于对称的脸或过度的美肌加工
+
+face:
+  与相机近距离、微微微笑，眼角自然湿润般的光泽，脸颊轻微红润，妆容淡薄、不模仿特定真实人物的原创脸庞
+
+hair:
+  黑发～深色的长发、前刘海、因刚起床或室内湿度而略显凌乱的发束、脸周有细发垂落
+
+body:
+  胸部大小与参考图像相同的自然体积感、不夸张、上半身靠近手机因此自然进入前景
+  胸口不是 explicit cleavage emphasis（露骨的乳沟强调），而是通过 posture-created compression（姿势带来的自然压迫感）和 gravity-shaped silhouette（重力形成的自然轮廓）来表现
+  坐姿使肩膀和上半身略微前倾，用手臂支撑手机，因此胸口和衣服产生自然的布料压痕
+
+skin:
+  室内自然光下略带光泽的肌肤、无过度修图、保留少许毛孔和细微肌理不均、避免 plastic AI skin（AI式的光滑肌肤）
+
+outfit:
+  白色宽松背心式上衣、肩带从双肩略微滑落、布料不紧贴身体、略显松垮地向下垂落
+  胸口的布料保持 loose fabric drape（宽松布料的垂落感），避免被拉扯般的非自然紧贴感
+  黑色短裤、侧边有细绳、粉色和黑色的细小点缀略微可见、保持居家式的随意感
+
+accessories:
+  细项链、小耳环、不张扬的配饰
+
+scene_objects:
+  床铺、略显凌乱的浅色床单、室内墙壁、从窗户进入的柔和自然光、生活感十足的寝具
+
+pose:
+  坐在床上膝盖微微分开、一手从上方略微斜握手机
+  另一手臂进入画面前景、有近距离自拍（selfie）特有的手臂前景感
+  不刻意摆姿势、确认手机屏幕时身体略微前倾的瞬间
+
+lighting:
+  窗户传入的午间自然光、脸部和胸口有柔和的高光、背景略暗
+  smartphone HDR（手机HDR）下肌肤亮部略微过曝、房间深处略带朦胧的色调
+
+effect:
+  natural smartphone HDR（自然的手机HDR）
+  compressed SNS image feel（SNS压缩感）
+  slightly soft focus（略微柔焦）
+  slight motion blur（轻微动体模糊）
+  mild overexposed highlights（轻微高光过曝）
+
+camera:
+  front camera selfie（前置摄像头自拍）
+  arm-length distance（手臂伸展距离）
+  wide-angle distortion（广角失真）
+  vertical smartphone framing（手机竖构图）
+  high angle from slightly above face（从脸部上方略高的俯角）
+  脸部偏向右上、上半身占据画面中央～下方、能看出床上坐姿的近距离构图
+
+imperfections:
+  构图略微倾斜
+  头部上方略微裁切
+  前景手臂略微放大失真
+  背景床单凌乱
+  焦点不完全锐利
+
+background:
+  米色系室内墙壁、生活感十足的床铺、床单的褶皱、窗户光线的柔和阴影
+
+atmosphere:
+  晨间到午间的房间里随手拍的SNS用照片、非刻意拍摄而是手机里留存的私密氛围
+
+composition:
+  与参考图像相同、近距离前置自拍、从上方斜视的俯视构图
+  脸部在画面右上、肩膀和胸口居中、短裤和大腿部分进入下方
+  非仅截取身体部位，而是同时捕捉表情、衣服、床铺、房间生活感的构图
+
+negative:
+  explicit nudity（露骨裸露）
+  pornographic framing（色情构图）
+  exaggerated cleavage emphasis（过度的乳沟强调）
+  unrealistic breast enlargement（非自然的胸部放大）
+  push-up emphasis（推高强调）
+  tight glossy costume（非自然紧贴的光泽服装）
+  glamour studio photography（写真・工作室拍摄感）
+  perfect model pose（完美的模特姿势）
+  plastic AI skin（AI式的光滑肌肤）
+  anime anatomy（动漫式身体结构）
+  overly symmetrical face（左右过于对称的脸）
+  body-part-only framing（仅身体部位的构图）
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12072_0.jpg" width="600" alt="晨起慵懒自拍时刻 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12072_1.jpg" width="600" alt="晨起慵懒自拍时刻 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 61: 复古AI广告狂想
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张虚构的1980年代杂志广告海报，介绍“Claude”作为革命性的家用人工智能助手，复古商业印刷广告风格，顶部大胆标题写着“介绍Claude！”，大型镀铬金属3D字体带有粉色和蓝色反光，下方黄色斜体标语：“会对话的AI助手。” 中心构图：一台米色的80年代CRT家用电脑，厚重键盘放在木桌上，绿色单色终端屏幕发光，屏…
+
+#### 📝 提示词
+
+```
+一张虚构的1980年代杂志广告海报，介绍“Claude”作为革命性的家用人工智能助手，复古商业印刷广告风格，顶部大胆标题写着“介绍Claude！”，大型镀铬金属3D字体带有粉色和蓝色反光，下方黄色斜体标语：“会对话的AI助手。”
+
+中心构图：一台米色的80年代CRT家用电脑，厚重键盘放在木桌上，绿色单色终端屏幕发光，屏幕上可读文字：“Claude”，副标题：“有用的AI助手。”屏幕上显示着复古终端风格的对话：
+“你：今天你怎么帮我？”
+“克劳德：我可以回答问题，帮你写作，总结信息，头脑风暴，并清楚地解释话题。”
+“你：”
+
+一个1980年代的三口欢快家庭围坐在电脑前：穿着蓝色毛衣的父亲，穿着粉色毛衣的卷发母亲，穿着条纹毛衣的小男孩，大家都惊讶、高兴且着迷，脸上带着温暖的怀旧表情，典型的家庭科技广告氛围。
+
+背景：黑暗星空、紫色和蓝色霓虹透视网格、复古科幻光晕、细腻的棕榈轮廓、闪烁的高光、镜头光晕、戏剧性却又友好的氛围。
+
+海报布局：左侧堆叠着带有发光霓虹图标的复古特色框，包括问号、铅笔、灯泡和时钟。每个特色框都包含简短的复古广告文案：
+“回答问题”——用日常语言获得有用且清晰的答案。
+“帮助你写作”——轻松草拟想法、笔记、信件等内容。
+“产生想法”——头脑风暴、创造和更大范围的思考。
+“随时为您服务”——无论白天黑夜，克劳德都准备好提供帮助。
+
+添加一个简短的复古文本块，描述克劳德：
+“这是你第一次能和AI助手对话。多问问题。去找答案。分享想法。写草稿、笔记和报告。探索话题，整理思路，解决问题。克劳德懂自然语言，回应清晰且乐于助人。”
+
+添加一个简短的高亮文案块：
+“这很有帮助。这很贴心。
+它永远在你身边。”
+
+底部区域有一个大型“Claude”品牌字标，带有彩色斜向复古条纹，以及标语：
+“一种更聪明的思考、写作和探索方式。”
+
+右下角有一个白色促销价格贴纸区域，上面用粗体粉色字体写着：
+“自由！！”
+下方有较小的文字：
+“现在对全世界好奇的人开放。”
+
+右上角有一个明亮的黄色星爆徽章，上面写着：
+“人工智能援助的革命！”
+
+在桌上放一个复古产品盒，上面标着“Claude”，上面有小字：
+“为现代思想者打造的更智能软件。”
+
+在桌上放一个印有“Claude”品牌的杯子或配件。
+
+视觉风格：1985年消费级电脑广告，喷枪插画，光泽印刷纹理，半色调细节，怀旧复古未来主义，高饱和度，电影感产品光影，正宗的80年代字体和版面设计，易读的广告构图，细致复古商业海报，高度精致，温馨且适合家庭的氛围，复古科技奇幻，竖版海报。
+
+负面提示：
+现代笔记本电脑、智能手机、平面设计、极简主义、未来感十足的2020年代界面、赛博朋克风格、凌乱的布局、难以辨认的排版、扭曲的文字、拼写错误的单词、畸形的手、多余的手指、糟糕的解剖结构、重复的人、塑料皮肤、过曝光线、低分辨率、模糊的图像、扭曲的电脑、坏掉的键盘、杂乱的构图、不一致的复古风格、随机符号、丑陋的海报设计、糟糕的等级制度、错误的视角
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15536_0.jpg" width="600" alt="复古AI广告狂想 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 62: 双重曝光奇幻印度美人
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创作一张垂直的电影双重曝光奇幻肖像，{argument name=“character description” default=“a beautiful Indian woman”}，如果提供参考照片，则保持完全相同的面容。构图中有两个版本的同一女性：左侧是一张巨大的特写侧面肖像，画面大部分空间被其遮挡，长长的深棕…
+
+#### 📝 提示词
+
+```
+创作一张垂直的电影双重曝光奇幻肖像，{argument name=“character description” default=“a beautiful Indian woman”}，如果提供参考照片，则保持完全相同的面容。构图中有两个版本的同一女性：左侧是一张巨大的特写侧面肖像，画面大部分空间被其遮挡，长长的深棕色波浪发披散，背光映照在金色阳光下;右侧是全身站立，姿态优雅，双手交叉，身穿{argument name=“outwear” default=“带有银色刺绣边饰的柔和粉色花卉纱丽”}。添加华丽的银色jhumka耳环、精致妆容和优雅的女性造型。背景是梦幻般的天空，云彩发光，阳光温暖，柔和的蓝金色调，神奇的散景粒子，以及右上角天空中恰好10只小飞鸟。在特写发顶上叠加叶叶枝，前景绿植和模糊叶子，底部有小花，营造浪漫空灵的花园氛围。使用柔焦、明亮的边缘光、柔和的雾气、柔和的色调、高细节的布料刺绣和电影般的奇幻摄影风格。无文字，无水印，无多余人物。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03513_0.jpg" width="600" alt="双重曝光奇幻印度美人 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 63: 西装老者拔刀
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一幅高对比度的黑白插画，描绘一位身穿锋利西装的老人，手持武士刀。男子有着向后梳理的白发，皱纹深重，神情专注，低头盯着刀刃。他穿着深色西装、白衬衫和深色领带。他的双手在前景显眼，紧握着华丽的刀柄和刀鞘时，明显的血管和皱纹显现。背景全黑，突出了戏剧性的光影和面部、手部及服装上的复杂交叉阴影细节。风格类似细致、粗獷的漫画或…
+
+#### 📝 提示词
+
+```
+一幅高对比度的黑白插画，描绘一位身穿锋利西装的老人，手持武士刀。男子有着向后梳理的白发，皱纹深重，神情专注，低头盯着刀刃。他穿着深色西装、白衬衫和深色领带。他的双手在前景显眼，紧握着华丽的刀柄和刀鞘时，明显的血管和皱纹显现。背景全黑，突出了戏剧性的光影和面部、手部及服装上的复杂交叉阴影细节。风格类似细致、粗獷的漫画或图像小说。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04846_0.jpg" width="600" alt="西装老者拔刀 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 64: 九零年代复古少女
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张俯视高角度镜头，拍摄一位{argument name=“subject” 默认=“年轻女子，留着长长的波浪金发和柔软的窗帘刘海”}，她坐在米色地毯上。她戴着透明框圆形度数眼镜，直视镜头，脸上带着细腻而温柔的微笑。她的穿着包括一套{argument name=“top” 默认=“简单的白色短袖T恤，带精致蕾丝边”}…
+
+#### 📝 提示词
+
+```
+一张俯视高角度镜头，拍摄一位{argument name=“subject” 默认=“年轻女子，留着长长的波浪金发和柔软的窗帘刘海”}，她坐在米色地毯上。她戴着透明框圆形度数眼镜，直视镜头，脸上带着细腻而温柔的微笑。她的穿着包括一套{argument name=“top” 默认=“简单的白色短袖T恤，带精致蕾丝边”}，宽松宽松的牛仔短裤，以及及膝深棕色皮靴。灯光柔和自然，营造出一种随意、自然且 {argument name=“vibe” 默认=“怀旧90年代风格”的美学。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04871_0.jpg" width="600" alt="九零年代复古少女 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 65: 微笑特写肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创作一幅写实的特写情感肖像，描绘一位年轻的东亚女性，她有着乌黑的长发、自然的妆容、逼真的肌肤纹理，几缕碎发垂落在脸颊上。采用竖幅9:16构图，极度紧凑的画面：只有她右半边脸清晰可见，一只富有表现力的棕色眼睛位于画面右侧偏中心的位置，部分鼻子和微微微笑的嘴唇位于画面右下角。她的手位于前景，靠近镜头，掌心向外，手指张开，…
+
+#### 📝 提示词
+
+```
+创作一幅写实的特写情感肖像，描绘一位年轻的东亚女性，她有着乌黑的长发、自然的妆容、逼真的肌肤纹理，几缕碎发垂落在脸颊上。采用竖幅9:16构图，极度紧凑的画面：只有她右半边脸清晰可见，一只富有表现力的棕色眼睛位于画面右侧偏中心的位置，部分鼻子和微微微笑的嘴唇位于画面右下角。她的手位于前景，靠近镜头，掌心向外，手指张开，形成一个柔和的虚化边框，覆盖了画面左侧和下边缘的大部分区域；由于景深较浅，手部必须处于严重虚化状态。保持拍摄角度亲切，略高于视线水平，仿佛观者与她近在咫尺。画面的情绪是温暖的幸福和淡淡的微笑，仅通过她放松的眼神、舒缓的脸颊和细腻的唇部表情来传达，无需夸张。光线柔和自然，富有电影感，以温暖的米色阴影为主，眼部高光柔和，毛孔清晰可见，睫毛纤长，没有过度修饰。头发应为深色，略显蓬松，几缕发丝垂落在额前和脸颊。背景抽象模糊，呈中性棕灰色。左上角添加简洁优雅的标题文字：大号宽间距衬线字体 {argument name=&quot;headline text&quot; default=&quot;SMILE&quot;}，下方配以纤细的副标题 {argument name=&quot;subtitle text&quot; default=&quot;Happiness looks gorgeous on you&quot;}。整体风格简约，类似杂志封面，色彩柔和，摄影写实，景深浅，类似85mm人像镜头的效果，无水印，无其他人物，无变形手指，无怪异眼神。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20996_0.jpg" width="600" alt="微笑特写肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20996_1.jpg" width="600" alt="微笑特写肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20996_2.jpg" width="600" alt="微笑特写肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20996_3.jpg" width="600" alt="微笑特写肖像 - Image 4">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 66: 奢华时尚双人画报
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+高端奢华时尚编辑海报 请将上传的照片作为两个主体的严格面部、发色、肤色、体格、体型比例和肖像标准。以最大逼真的准确度保留他们的面部特征、眼形、鼻子、嘴唇、下颌线、头发、表情、体型、年龄和整体身份。不要美化、改变或替换他们的脸。 打造一款奢华的时尚时尚编辑活动，采用高端杂志广告的构图和版面。 布局： • 竖版编辑海报…
+
+#### 📝 提示词
+
+```
+高端奢华时尚编辑海报
+
+请将上传的照片作为两个主体的严格面部、发色、肤色、体格、体型比例和肖像标准。以最大逼真的准确度保留他们的面部特征、眼形、鼻子、嘴唇、下颌线、头发、表情、体型、年龄和整体身份。不要美化、改变或替换他们的脸。
+
+打造一款奢华的时尚时尚编辑活动，采用高端杂志广告的构图和版面。
+
+布局：
+• 竖版编辑海报
+• 分为两大部分（顶部和底部）
+• 围绕主要人物的漂浮肖像特写画面/嵌入
+• 优雅的几何平台和演播棚道具
+• 简洁的杂志版面，保留编辑排版的负空间
+• 精致的奢华广告美学
+• 全身时尚摄影
+
+顶部部分：
+• 情侣自信地在几何平台上摆姿势
+• 一位女性穿着优雅的无袖深V领连体连体衣，颜色为{argument name=“top outfit color”默认=“浓郁祖母绿或深暖青绿色”}
+• 穿着剪裁合身的奢华西装的男子，颜色为{argument name=“suit tone” 默认=“暖米色、柔和骆驼色或浅沙色”}
+• 时尚时尚摄影
+• 高端杂志广告造型
+
+底部部分：
+• 女性穿着飘逸的露脖晚礼服，颜色为{argument name=“bottom outfit color” default=“浓烈酒红色、温暖的赤陶色或深酒红色”}
+• 穿着深藏青或炭黑色定制的豪华西装，带有细腻金色点缀的男子
+• 精致奢华晚礼造型
+• 强有力自信的姿势
+
+环境：
+• 温暖的米色工作室
+• 柔和奶油色背景
+• 温暖的灰褐色几何平台
+• 细腻的香槟和柔和的金色点缀
+• 极简奢华的内饰造型
+• 高级编辑布景设计
+
+灯光：
+• 柔和的电影摄影棚灯光
+• 温暖的奢华时尚活动灯光
+• 优雅的阴影
+• 杂志封面级别的照明
+• 高端商业摄影
+
+质量：
+• 超写实
+• 超逼真的皮肤质感
+• 逼真的面料褶皱和质感
+• 奢侈时尚活动
+• Vogue编辑美学
+• 高端商业广告
+• 电影级景深
+• 8K分辨率
+• 杰作级品质
+• 专业时尚摄影
+• 锐利对焦
+• 按色分级的奢侈杂志风格
+
+重要提示：
+保持两位拍摄对象与上传的参考照片完全一致。保持他们的面部特征、表情、头发、体型比例和相似度。结果应该看起来像是为奢侈时尚杂志拍摄的真实人物，而不是不同的模特。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05192_0.jpg" width="600" alt="奢华时尚双人画报 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 67: 夏日清新少女写真
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+这是一张超写实的生活照，照片中的女子肤色白皙如瓷，留着中长直黑发，刘海轻柔地随风飘动，笑容灿烂真挚，深棕色的杏仁眼，妆容自然清新。她身穿一件印有彩色风景图案的宽松白色T恤，佩戴一条精致的银色项链，项链上挂着一只小巧的绿色蝴蝶吊坠，还戴着一副白色无线耳机。她随意地拿着一杯装着冰橙汁的透明杯子，杯子上插着一根棕色吸管，杯…
+
+#### 📝 提示词
+
+```
+这是一张超写实的生活照，照片中的女子肤色白皙如瓷，留着中长直黑发，刘海轻柔地随风飘动，笑容灿烂真挚，深棕色的杏仁眼，妆容自然清新。她身穿一件印有彩色风景图案的宽松白色T恤，佩戴一条精致的银色项链，项链上挂着一只小巧的绿色蝴蝶吊坠，还戴着一副白色无线耳机。她随意地拿着一杯装着冰橙汁的透明杯子，杯子上插着一根棕色吸管，杯子上印着一个可爱的笑脸标志。照片采用低角度广角拍摄，背景是湛蓝的天空，沐浴在明亮的正午阳光下，光影柔和，色彩鲜艳。清新、青春、无忧无虑的夏日氛围，坦诚的生活摄影，极简主义构图，自然的肌肤纹理，逼真的发丝，HDR，电影级色彩分级，单反品质，清晰对焦，超逼真，编辑风格，杰作，8K。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20900_0.jpg" width="600" alt="夏日清新少女写真 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20900_1.jpg" width="600" alt="夏日清新少女写真 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 68: 高级时尚美妆肖像生成
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+使用上传的参考图作为女性身份的唯一来源。100% 保留面部身份、脸型、眼型、鼻子、嘴唇、肤色、年龄、比例以及所有可识别的特征，完全一致。不要改变她的种族，不要让她看起来像另一个人，也不要生成一张不同的脸。 参考图中同一位女性的高级时尚社论肖像，表情精致优雅。她留着蓬松的栗褐色长卷发，带有自然的随风飘逸且毫不费力的质感…
+
+#### 📝 提示词
+
+```
+使用上传的参考图作为女性身份的唯一来源。100% 保留面部身份、脸型、眼型、鼻子、嘴唇、肤色、年龄、比例以及所有可识别的特征，完全一致。不要改变她的种族，不要让她看起来像另一个人，也不要生成一张不同的脸。
+
+参考图中同一位女性的高级时尚社论肖像，表情精致优雅。她留着蓬松的栗褐色长卷发，带有自然的随风飘逸且毫不费力的质感。
+
+妆效：充满光泽的韩式水光肌妆面，清透肤色，柔和的珊瑚粉色腮红，微妙的轮廓阴影，中性灰褐色眼影，柔和定义的眼线，羽毛般的眉毛，高光泽的桃色裸色唇妆。
+
+服装：极简主义黑色挂脖上衣，线条优雅干练。
+
+配饰：大胆的雕塑感抛光金手镯和配套的有机不规则形状金色耳环，精美地反射工作室光线。
+
+姿势：中特写社论构图，肩膀放松，手部姿态优雅地靠近面部，自信地直视镜头。
+
+背景：极简奢华工作室背景，带有柔和的灰白渐变。
+
+光线：柔和的定向伦勃朗照明，定义下颌线和锁骨的轻柔阴影，头发上的微妙轮廓光，自然的皮肤高光，高端美妆广告照明。
+
+摄影：超写实奢华时尚社论，电影美妆摄影，Vogue风格美学，85mm镜头，f/1.8，浅景深，极其锐利的眼睛，真实的皮肤纹理，高级色彩分级，高对比度，8k画质。
+
+负面指令：不改变脸部，不要夸张的AI美容滤镜，不要塑料感皮肤，不要额外的珠宝，不要扭曲的手，不要不对称的眼睛，不要卡通效果，不要过度饱和的颜色，不要身份偏移。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12966_0.jpg" width="600" alt="高级时尚美妆肖像生成 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 69: 居酒屋少女漫画
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+目标：创作一幅手绘日式搞笑漫画，风格粗犷，以马克笔和墨水绘制，描绘两位年轻女性在烤鸡串店聊天喝酒的场景。使用表情丰富的Q版人物，粗黑不规则的边框，清晰可见的彩色铅笔/马克笔涂鸦纹理，温暖的橙色酒吧灯光，以及醒目的漫画音效。画布：竖版漫画页面，3:4宽高比，白色背景，黑色草稿式装订线。布局5个分格：顶部两格，中间一格（…
+
+#### 📝 提示词
+
+```
+目标：创作一幅手绘日式搞笑漫画，风格粗犷，以马克笔和墨水绘制，描绘两位年轻女性在烤鸡串店聊天喝酒的场景。使用表情丰富的Q版人物，粗黑不规则的边框，清晰可见的彩色铅笔/马克笔涂鸦纹理，温暖的橙色酒吧灯光，以及醒目的漫画音效。画布：竖版漫画页面，3:4宽高比，白色背景，黑色草稿式装订线。布局5个分格：顶部两格，中间一格（全宽），底部两格。人物：两位反复出现的女性角色。角色A拥有{参数名称=&quot;黑发角色&quot; 默认=&quot;黑色短发凌乱，小麦色皮肤，半睁大眼睛，深色上衣外搭粉色外套，活泼俏皮的表情&quot;}。角色B的特征是：{argument name=&quot;金发角色&quot; default=&quot;齐刘海的金色直发波波头，白皙的皮肤，湛蓝的大眼睛，酒红色短袖衬衫，开朗但略带天真的表情&quot;}。保持角色B的卡通风格简洁统一。在右上角的画面中，用矩形马赛克模糊遮盖角色B的脸部，暗示图像经过审查。场景和道具：一家温馨的木质居酒屋/烤鸡串店，橙色墙壁，木桌。在适当的地方添加以下重复出现的餐桌物品：2个啤酒杯，2个黑色长方形烤鸡串盘（含烤串签），1个绿色毛豆盘，以及1个黄色小酒杯。在酒吧的画面中添加写着“とり鳥族”和“鳥貴族”的墙面招牌。画面布局和文字内容：1. 左上角的画面，用一个写着“2”的黑色圆圈编号：粉色背景。两个角色是特写镜头；角色 A 将手指放在嘴边，看上去若有所思，角色 B 则显得很惊讶。一个大的语音气球说“ブルースカイとかミkushii2とはちゃうよな？”，角色A有一个小声音/文字“うーん…”。 2. 右上角面板，用包含「1」的黑色圆圈编号：烤鸡肉串酒吧内的一张桌子上。角色A举着啤酒杯微笑；角色 B 坐在她旁边，她的脸被马赛克模糊覆盖。食物和饮料都在桌子上。右侧的垂直旁白/语音气球写着「女性01ボールド、见てみ。サブsuタが成长急らしいで」。 3. 中间全角图：两个人物坐在桌子对面，食指向上，兴奋不已。使用戏剧性的黄橙色爆裂背景和中央的大红色音效「ドンッ」。左边的语音气球写着「Xとかnoteも駆逐しかねんな！」。右边的语音气球写着「ほんまそれ！Xとかnoteもヤバい！」。在桌子上展示 2 种饮料和烤鸡肉串/毛豆菜肴。 4. 左下图：庆祝的祝酒场景，两个角色都笑容满面，啤酒杯高高叮当响。橙色径向爆裂背景。大红色音效说「カンパーイ！！」。包括两个垂直的对话气球：左「うちらも负けへんで〜！」和右「まぁ、楽しんだもん胜ちってことで！」。 5. 右下面板，在左上角附近用一个包含「4」的黑色圆圈编号，另一个包含「7」的黑色圆圈：更安静的酒吧场景。角色A用啤酒杯喝酒，并发出蓝色音效「グビッ」。角色B闭着眼睛吃着串，表情轻松，上方有蓝色文字「うんうん」。语音气球说「新しい场が広がるのはええことやけどな〜」。木桌上摆放烤鸡串盘、毛豆和黄色玻璃杯。视觉风格：粗犷的手绘漫画风格，线条稚拙却自信，阴影不均匀，色彩饱和度高的粉色/橙色/黄色，黑色涂鸦轮廓，手写日文文字略显粗糙，面部表情夸张，带有幽默的社交媒体评论氛围。限制：必须使用5个分镜，并且必须使用所列的日文文字。不得添加额外的分镜、额外的字符、水印、写实渲染或干净的矢量图。保持随意的马克笔风格，并保留奇数分镜编号。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10925_0.jpg" width="600" alt="居酒屋少女漫画 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 70: 川西美景治愈之旅
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “类型”：“移动短视频应用界面截图”， “main_content”： { “场景”：“{论元名称=\”风景背景\“ 默认=\”碧绿的高山湖泊，绿松林，锯齿状的雪顶山脉，蓝天和蓬松的白云\“}”“”， “主题”：“{论点名称=\”主要主题\“ 默认=\”长发女子，黑发女子，戴着黑色棒球帽，穿白衬衫，靠在木栅栏上看…
+
+#### 📝 提示词
+
+```
+{
+  “类型”：“移动短视频应用界面截图”，
+  “main_content”： {
+    “场景”：“{论元名称=\”风景背景\“ 默认=\”碧绿的高山湖泊，绿松林，锯齿状的雪顶山脉，蓝天和蓬松的白云\“}”“”，
+    “主题”：“{论点名称=\”主要主题\“ 默认=\”长发女子，黑发女子，戴着黑色棒球帽，穿白衬衫，靠在木栅栏上看风景\“}”
+  },
+  “ui_elements”： {
+    “status_bar”： {
+      “时间”：“14：53”，
+      “图标”：[“信号条”、“WiFi”、“电池78”]
+    },
+    “top_navigation”： {
+      “left_icon”：汉堡菜单“，
+      “tabs”： [“直播”、“同城”、“关注”、“推荐”]，
+      “active_tab”： “推荐”，
+      “right_icon”：“搜索放大镜”
+    },
+    “floating_widget”：{
+      “位置”：“左上角”，
+      “图标”：“红色信封配黄色圆形进度条”
+      “text”： “点击激活”
+    },
+    “right_action_bar”： {
+      “伯爵”：6，
+      “物品”： [
+        {“图标”：“带红色加号按钮的头像”}，
+        {“图标”： “爱心”， “文本”： “{argument name=\”like count\“ default=\”128.6万\“}”}，
+        {“图标”： “对话框”， “文本”： “2.6万”}，
+        {“图标”： “星”， “文本”： “8.9万”}，
+        {“图标”：“分享箭头”， “文本”： “3.7万”}，
+        {“图标”：“旋转唱片专辑”}
+      ]
+    },
+    “bottom_left_info”： {
+      “username”： “{argument name=\”username\“ default=\” @旅行日记\“}”，
+      “caption”：“{argument name=\”视频字幕\“ default=\”总要去一次川西吧！蓝天白云、雪山湖泊、森林草甸，治愈所有不开心~ #川西美景 #旅行推荐官\“}”“，
+      “search_prompt”：“相关搜索 ·川西旅游攻略"
+    },
+    “bottom_navigation”： {
+      “伯爵”：5，
+      “标签”：[
+        {“label”： “首页”}，
+        {“label”： “朋友”， “badge”： “2”}，
+        {“label”： “圆角矩形中的加号按钮”}，
+        {“label”： “消息”， “badge”： “5”}，
+        {“label”： “我”}
+      ]
+    },
+    “system_ui”：“iOS 主页指示线位于底部”
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02684_0.jpg" width="600" alt="川西美景治愈之旅 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 71: 秋枫锦鲤桥上少女
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一幅令人屏息的动漫风格插画，描绘一位年轻女子身穿优雅的{argument name=“color” default=“深红”}振袖和服，独自站在一座风化的木桥上，桥上方是宁静的锦鲤池塘，时间是黄金时分。猩红和琥珀色的枫叶轻轻飘落，她平静地凝视着下面波光粼粼的水面。柔和温暖的阳光透过秋天红叶树的树冠洒下，金色的光辉洒在…
+
+#### 📝 提示词
+
+```
+一幅令人屏息的动漫风格插画，描绘一位年轻女子身穿优雅的{argument name=“color” default=“深红”}振袖和服，独自站在一座风化的木桥上，桥上方是宁静的锦鲤池塘，时间是黄金时分。猩红和琥珀色的枫叶轻轻飘落，她平静地凝视着下面波光粼粼的水面。柔和温暖的阳光透过秋天红叶树的树冠洒下，金色的光辉洒在她的身影和桥上覆盖苔藓的石灯笼上。白色、橙色和金色的锦鲤缓缓滑行在玻璃水面下，水面映照着炽热的秋天树冠，缓缓起伏。调色板以温暖的琥珀色、深猩红色、抛光金色和柔和象牙色为主。采用精致的动漫风格，带有水彩影响的阴影、细腻的墨线和印象派柔焦背景。竖向肖像构图 {argument name=“宽高比” default=“9：16”}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06950_0.jpg" width="600" alt="秋枫锦鲤桥上少女 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06950_1.jpg" width="600" alt="秋枫锦鲤桥上少女 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 72: 雨晨酿李：厨房里的金色期待
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创作一幅明亮、温馨的动漫风格厨房插画，描绘一位年轻的家庭主妇在雨天的周六早晨观看自制李子糖浆发酵。画面采用宽阔的16：9水平构图，尽管外面下雨，阳光明媚且充满欢快，拥有柔和的电影级景深、温暖的金色高光和细致的手绘动画渲染。在左中前景放置一个大型透明玻璃夹盖罐，罐内装有黄绿色和橙色李子、半透明的糖晶，底部汇聚着金色糖浆…
+
+#### 📝 提示词
+
+```
+创作一幅明亮、温馨的动漫风格厨房插画，描绘一位年轻的家庭主妇在雨天的周六早晨观看自制李子糖浆发酵。画面采用宽阔的16：9水平构图，尽管外面下雨，阳光明媚且充满欢快，拥有柔和的电影级景深、温暖的金色高光和细致的手绘动画渲染。在左中前景放置一个大型透明玻璃夹盖罐，罐内装有黄绿色和橙色李子、半透明的糖晶，底部汇聚着金色糖浆;让玻璃光滑，产生强烈的反射和折射。右侧，展示一位年轻女子，{argument name=“发色”默认=“深棕色头发”}，盘成一个凌乱的发髻，戴着蓝色格子发带，穿着白色T恤和薄荷绿花卉围裙，一只手肘撑在厨房台面上，深情地看着罐子;如果需要，可以使用空白光滑的面部区域或遮挡面部细节，但保持姿势温和放松。在主罐外的前景中，包含12个可见的水果相关元素：左侧1篮黄色李子，左前方台面3个散装李子，1个带果核的对半李子靠近前中央，1个小白碟子上的单颗绿色李子放在女性附近，1个红色波点碗装满黄色李子，右侧1个装满黄色李子的红点碗， 下面放着一个绿松石碗，最右边有一个带图案的饮水杯，一块折叠的花卉厨房布，最左边有一瓶小白花，窗边有一瓶彩色饮料。背景设定在一个可爱的绿松石厨房，配有青绿色瓷砖挡板、蓝色橱柜、悬挂的金属锅和勺子、开放式货架和碗，以及一扇木框窗户，窗户里有雨中柔和模糊的户外灯光。在柜台上铺上带有橙色、蓝色、绿色和白色图案的彩色花卉桌布。整体氛围：健康、家庭、清新、期待、闪耀，还有点怀旧。没有文字，没有水印，没有额外字符。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10112_0.jpg" width="600" alt="雨晨酿李：厨房里的金色期待 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 73: 混乱公寓惊猫夜拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+在夜晚一个凌乱昏暗的公寓里，拍摄一张超逼真的智能手机闪光灯照片，垂直9：16的构图，低端安卓相机风格，配以强烈的直闪闪光、运动模糊、不完美的自动对焦、颗粒感、压缩伪影、尴尬的倾斜构图和原始的混乱派对能量。场景中恰好有两名年轻成年人和一只黑白猫：左侧是一名年轻成年人，{argument name=“hair color…
+
+#### 📝 提示词
+
+```
+在夜晚一个凌乱昏暗的公寓里，拍摄一张超逼真的智能手机闪光灯照片，垂直9：16的构图，低端安卓相机风格，配以强烈的直闪闪光、运动模糊、不完美的自动对焦、颗粒感、压缩伪影、尴尬的倾斜构图和原始的混乱派对能量。场景中恰好有两名年轻成年人和一只黑白猫：左侧是一名年轻成年人，{argument name=“hair color” 默认=“银灰色凌乱的肩长发”}，穿着一件宽大的米白色T恤和浅灰色运动裤，向后缩并扭动着，一只手臂向前伸出;右侧是一位留着长黑发的年轻女子，穿着浅色T恤和牛仔短裤，赤脚，身体前倾，抱着猫。猫悬挂在他们中间，黑白相间的燕尾服标记，嘴巴张得大大的，嘶嘶作响或嚎叫，爪子抓住左侧人的前臂，制造出一个慌乱的意外瞬间。添加大型矩形隐私块，遮挡两张人脸，就像是在网上发布并隐藏身份一样。背景杂乱且真实：一张低矮的桌子，上面有罐头、杯子、瓶子、零食和垃圾，地上散落着物品，底部附近有拖鞋，温暖的暗室内灯光，门口和家具渐渐融入阴影。让它看起来像是时机不当的真实手机快照，而不是一张打磨得很精致的照片，闪光灯高光过曝，运动模糊，裁剪偏离中心，还让人感觉摄影师反应太晚。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08178_0.jpg" width="600" alt="混乱公寓惊猫夜拍 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 74: 镜前选衣的少女
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+主题： 镜前的打扮 人物・表情： 20多岁的女性。作为成年女性自然成熟、柔和圆润的身材。明亮的象牙米色调的白皙肌肤，带着微微粉红的血色，肌质光滑。脸颊、鼻尖、肩膀、锁骨处有柔和的高光，不是过度美肌修饰，而是保留自然的肌理。精密而优雅的娃娃风日系妆容。淡玫瑰粉色的腮红、香槟米色与粉棕色的眼影、细长浓密的睫毛、自然的泪袋…
+
+#### 📝 提示词
+
+```
+主题：
+镜前的打扮
+
+人物・表情：
+20多岁的女性。作为成年女性自然成熟、柔和圆润的身材。明亮的象牙米色调的白皙肌肤，带着微微粉红的血色，肌质光滑。脸颊、鼻尖、肩膀、锁骨处有柔和的高光，不是过度美肌修饰，而是保留自然的肌理。精密而优雅的娃娃风日系妆容。淡玫瑰粉色的腮红、香槟米色与粉棕色的眼影、细长浓密的睫毛、自然的泪袋、明亮的棕色柔软眉毛、透感粉米色的唇彩。瞳孔中有小小的清澈反光。表情平静，在挑选衣服时微微思考般地将视线斜向下移开。
+
+服装・姿势：
+淡樱花粉色的罗纹材质套装。白色细蕾丝镶边的方形宽领口，胸口中央有小缎面蝴蝶结和珍珠风纽扣。衣摆和袖口有适度的褶边。下身是同色系的短款家居服风裤子，腰部有小蝴蝶结和蕾丝叠层。面料自然贴合身体，清晰描绘缝线、褶皱、罗纹的纵向线条，以及柔和的褶痕。人物的左手臂向智能手机一侧伸展，右手轻轻搭在墙壁或衣架附近。身体微微前倾，重心放在一条腿上。
+
+背景・光线：
+单身公寓里的小更衣空间。左侧有白色、生成り、淡粉色、米色的衬衫或连衣裙挂在衣架上。右侧是木框全身镜，边缘挂着细珍珠项链。远处有淡粉色的圆凳、打开的首饰盒、半透明的购物袋、木制梳妆台上的香水瓶和发刷。室内天花板照明和镜子周围的柔和反射光作为主要光源。光线从前方上方进入，温柔地照亮脸颊、鼻尖、锁骨、肩膀、罗纹材质的凹凸。阴影自然落在颈部、臂下、衣服叠层、地板角落。
+
+构图・镜头：
+纵向9:16。超现实的iPhone快照。仿佛从左上方拿着智能手机的近距离高角度，自拍风广角视角。从头顶到胸口、腹部、腰部、大腿上部纳入的近距离中景。人物位于画面中央稍偏右，左侧边缘自然裁切掉拿着手机的手臂和衣架。地平线微微倾斜，像偶然拍到的不完美构图。焦点集中在脸部和衣服的质感上，后方的衣架和小物件像手机照片般微微模糊。
+
+质感・风格：
+像真实的智能手机照片一样的自然分辨率。不是过度表演的写真风，而是带有生活感的真实选衣瞬间。细微而现实的HDR、肌肤质感、每一根头发、蕾丝、罗纹针织、缎面蝴蝶结、珍珠风纽扣、木纹、镜子反射，都被细致描绘。头发是明亮的奶茶灰棕色。薄的透视刘海、沿脸部轮廓的层次剪裁、及肩下的中长发。发尾向内松散卷曲，营造蓬松的空气感和自然的束感、细高光、柔和光泽，以及少量散乱发丝。
+
+负面：
+看起来幼稚的脸、不自然的年轻化、过度暴露、过分的性感表演、塑料般的肌肤、过度美肌修饰、脸部扭曲、视线崩坏、多余或缺失的手指、手脚融合、关节崩坏、衣服与身体接触不良、浮起的布料、罗纹或蕾丝的崩解、脸部左右不对称过度、不自然的广角扭曲、与光源矛盾的阴影、多余人物、文字乱码、标志、水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11814_0.jpg" width="600" alt="镜前选衣的少女 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 75: 婚礼喜字画报
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+围绕具体主题内容生成一张明亮洁净的影像画报：画面第一眼由一个主题派生的超大核心字形、图腾或符号占据中后场，字形以厚重平面块面压住视觉中心；真实的主题主角或主形体从前景进入并遮挡部分符号，形成主角与巨型信息底纹重叠的强记忆点。背景保持大面积高明度留白，边缘布置细线框、编号、日期感小字、竖向短句和票据印章式信息层，文字只…
+
+#### 📝 提示词
+
+```
+围绕具体主题内容生成一张明亮洁净的影像画报：画面第一眼由一个主题派生的超大核心字形、图腾或符号占据中后场，字形以厚重平面块面压住视觉中心；真实的主题主角或主形体从前景进入并遮挡部分符号，形成主角与巨型信息底纹重叠的强记忆点。背景保持大面积高明度留白，边缘布置细线框、编号、日期感小字、竖向短句和票据印章式信息层，文字只作为节奏与仪式感结构，不抢主形体。主角姿态要带一点俏皮的互动感，局部配件或手持物延伸出同一信息系统，让主体、符号、边框和小字像同一张定制证件或邀请画报。色彩从主题自身的材质、情绪和文化语义中提取：大面积底色保持明亮清透、干净通风，结构暗部用于主体轮廓和层次，少量高饱和强调色集中在核心符号、边框和信息点上，形成欢快、清晰、带仪式感的明亮色阶；强调色随主题变化，但必须维持底色宽、符号重、小字密、前景实的关系。整体质感为棚拍般清晰光线、平整印刷图形、轻微纸面纹理与复古票据秩序结合，避免杂乱装饰和脏旧灰暗，确保最先读到巨大符号，其次读到前景主角，最后读到周围密集信息节奏。
+
+
+——————
+画面改成: 新人婚礼喜字画报，巨大的红色「囍」作为背景符号，新郎新娘在前景互动
+发朋友圈用: 婚礼邀请预告或领证纪念发布，保持明亮留白和票据式小字
+尺寸: 竖版 9:16，保留红白主色和轻松俏皮姿态
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13587_0.jpg" width="600" alt="婚礼喜字画报 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 76: 潜水艇内部大揭秘
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{"type":"publication-quality educational cutaway science encyclopedia poster","topic":"{argument name=\"poster topic\" default=\"submarine internal structure\"…
+
+#### 📝 提示词
+
+```
+{"type":"publication-quality educational cutaway science encyclopedia poster","topic":"{argument name=\"poster topic\" default=\"submarine internal structure\"}","language":"Simplified Chinese visible text","aspect_ratio":"3:4 vertical poster","style":"richly colored semi-realistic illustrated infographic for children, detailed cross-section engineering diagram, clean vector-like labels mixed with painterly underwater background, high-resolution print design","main_title":"{argument name=\"headline text\" default=\"潜水艇内部大揭秘\"}","subtitle":"— 深海中的隐形探索者 —","scene":{"background":"blue underwater ocean with sunbeams from the upper left, bubbles, fish silhouettes, seaweed and coral near the bottom, a small submarine icon above the title","main_subject":"large side-view submarine cutaway spanning the center, dark navy outer hull, golden propeller at the right, transparent interior compartments with pipes, tanks, crew members, machinery, bunks, control panels, and torpedoes visible","character":"small cute naval officer mascot at upper left pointing upward beside an introductory paragraph"},"layout":{"top_intro":"short paragraph in Chinese explaining that submarines can travel underwater, spy, avoid attacks, and explore the ocean","central_cutaway":{"position":"middle","description":"one full submarine cross-section with ten numbered annotation callouts connected by dotted leader lines","callout_count":10,"callouts":[{"number":1,"label":"鱼雷舱","color":"red","description":"front torpedo storage and launch tubes"},{"number":2,"label":"指挥舱 / 控制室","color":"orange-red","description":"operators, navigation, communication and monitoring equipment"},{"number":3,"label":"潜望镜与观察系统","color":"green","description":"periscopes and optical observation masts above the conning tower"},{"number":4,"label":"船员休息区","color":"yellow","description":"bunks and compact sleeping quarters"},{"number":5,"label":"厨房与生活区","color":"purple","description":"galley and living space for food and daily needs"},{"number":6,"label":"推进器区域","color":"blue","description":"rear propulsion shaft, engine drive and steering fins"},{"number":7,"label":"声呐设备区","color":"teal","description":"sonar equipment for detecting underwater targets and terrain"},{"number":8,"label":"压载水舱","color":"light blue","description":"ballast tanks that fill and release water to control diving and floating"},{"number":9,"label":"电池舱","color":"green","description":"battery compartment supplying submarine power"},{"number":10,"label":"机舱 / 动力系统","color":"orange","description":"engine room, electric motor and power machinery"}]},"bottom_sections":{"section_count":5,"sections":[{"title":"下潜与上浮原理","position":"bottom left","count":2,"items":["下潜：打开进水阀，水进入压载水舱，使艇下沉。","上浮：压缩空气将水从压载水舱排出，艇体变轻，慢慢上浮。"],"visuals":"two small side-view submarine diagrams with arrows showing descent and ascent"},{"title":"空气循环系统","position":"bottom center","count":3,"items":["新鲜空气（净化后）","吸收二氧化碳与有害气体","舱内空气循环"],"visuals":"rounded card with central cylindrical air purifier and circular arrows"},{"title":"细节放大镜","position":"bottom right","count":2,"items":["潜望镜操作台","鱼雷装填口"],"visuals":"two inset close-up panels, one showing a sailor operating a periscope console and one showing torpedo loading"},{"title":"知识小贴士","position":"bottom left below diagrams","count":1,"items":["潜水艇在水下航行时依靠声呐‘看’世界，通信通过浮出水面的天线或浮缆装置与海面设备进行。"],"visuals":"cream note box with lightbulb icon"},{"title":"specification strip","position":"bottom right footer","count":3,"items":["长度：约60~100米","乘员：约50~90人","下潜深度：可达200~500米以上"],"visuals":"thin rounded blue footer with white submarine silhouette and three small icons"}]},"design_details":{"typography":"large bold dark navy Chinese title, rounded sans-serif annotation labels, white rounded callout cards with colored number circles","palette":"deep ocean blues, teal, cream cards, orange and green engineering accents, dark hull with warm interior lighting","quality":"crisp readable infographic, balanced spacing, accurate leader lines, detailed but friendly educational illustration, suitable for a children’s science book or classroom poster"},"customization":{"submarine_name":"{argument name=\"submarine name\" default=\"深海探索者\"}","audience":"{argument name=\"target audience\" default=\"children’s science encyclopedia readers\"}","color_mood":"{argument name=\"color mood\" default=\"bright blue underwater educational palette\"}"}}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03561_0.jpg" width="600" alt="潜水艇内部大揭秘 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 77: 星际小王子联名明信片
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+设计一张小王子和SpaceX联名的明信片
+
+#### 📝 提示词
+
+```
+设计一张小王子和SpaceX联名的明信片
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13352_0.jpeg" width="600" alt="星际小王子联名明信片 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 78: 宇宙飞船女性安卓
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{argument name="場所" default="宇宙船"}の{argument name="キャラクター" default="女性アンドロイド"}
+
+#### 📝 提示词
+
+```
+{argument name="場所" default="宇宙船"}の{argument name="キャラクター" default="女性アンドロイド"}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09475_0.jpg" width="600" alt="宇宙飞船女性安卓 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 79: 都市职场缪斯
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张精致的高端时尚杂志封面肖像，描绘一位美丽年轻的办公室女性站在明亮现代企业办公室落地窗旁，采用精致的编辑风格拍摄。她微微面向镜头，表情冷静、优雅且自信，脸庞被柔和的矩形模糊遮挡。她有一头深棕色长发，编成粗辫子垂在一侧肩膀上。她穿着一件合身的罗纹仿领针织上衣，颜色为{argument name=“top color”…
+
+#### 📝 提示词
+
+```
+一张精致的高端时尚杂志封面肖像，描绘一位美丽年轻的办公室女性站在明亮现代企业办公室落地窗旁，采用精致的编辑风格拍摄。她微微面向镜头，表情冷静、优雅且自信，脸庞被柔和的矩形模糊遮挡。她有一头深棕色长发，编成粗辫子垂在一侧肩膀上。她穿着一件合身的罗纹仿领针织上衣，颜色为{argument name=“top color”默认=“深藏青”}，短袖，左侧有三个金色肩扣，塞进一条高腰黑色铅笔裙和一条细黑腰带。她的右手举起，握着一块折叠好的浅色清洁布贴着玻璃，暗示着象征性的生活方式时尚场景，而非字面上的清洁;她的左臂自然地垂在身侧。温暖的阳光从窗户洒进来，柔和地映照在她的衣物和皮肤上，玻璃上映出细微的反光，外面是高耸的写字楼，城市风光熠熠。室内背景模糊，显示一个极简的办公室，配有一盆盆植物、一张书桌和一把办公椅。像高端杂志封面一样纵向构图，全身裁剪到小腿中部，模型略微居中，左侧留出字体空间。在左上角加上优雅的社论封面文字，采用日本时尚杂志风格：一个非常大的衬线字头，写着{argument name=“main title” default=“Office Muse”}，白色为“Office”，深蓝色为“Muse”;左上角小写写着“CITY LIFE / BEAUTY / CAREER”;右上角的小字体写着“2024年6月”和“第28卷”。包含5个额外文本块：主标题下方1个日文字幕，左侧1个美妆部分，标题为“BEAUTY”，日文正文;左栏1个职业介绍，标题为“CAREER”，日文正文;1个大标题左下角写着“聚焦你”，附简短日语字幕;1个右下角圆形标注，标题为“Press”，日文文字置于半透明浅圆圈内。在左下角附近添加3个小蓝色矩形标签，分别是{argument name=“tag line 1” default=“护肤程序”}，{argument name=“tag line 2” default=“WORK SMARTER”}，{argument name=“tag line 3” default=“MINDFUL LIFE”}。整体氛围：精致、女性化、有抱负、都市、优雅、专业、奢华、自然光清新、逼真的数码摄影和细腻的时尚修饰，高端日本杂志封面设计。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03579_0.jpg" width="600" alt="都市职场缪斯 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 80: 青发少女街头风尚
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创作一幅生动的竖直动漫插画，描绘{argument name=“character name” default=“Mahilo”}，一位时尚少女侧面站在明亮的日本购物街上，从大腿中部以上视角，搭配动态的低角度时尚照片构图。她有一头极长且飘逸的{argument name=“hair color” default=“t…
+
+#### 📝 提示词
+
+```
+创作一幅生动的竖直动漫插画，描绘{argument name=“character name” default=“Mahilo”}，一位时尚少女侧面站在明亮的日本购物街上，从大腿中部以上视角，搭配动态的低角度时尚照片构图。她有一头极长且飘逸的{argument name=“hair color” default=“turquoise aqua”}头发在风中向左戏剧性地飘扬，带有光泽挑染、散落的发丝和几缕Ahoge飞散的发丝;她的脸被一块柔和边缘的浅米色方形审查块故意遮挡，正中央覆盖眼睛、鼻子和嘴巴。她穿着一件宽大的亮白色运动夹克，袖口上有两条大胆的青色条纹，袖口和下摆有罗纹，略带皱褶的光泽面料质地，领子很高;搭配紧身黑色闪亮短裤。再加上一个黑色背包，肩膀上有细肩带，侧袋可见，拉链拉手，背后挂着一个黄色小鸡形状的钥匙扣。她一只手插在夹克口袋里，臀部倾斜，躯干微微背向观众，传达出随意的自信。背景是日本一条阳光明媚的狭窄城市街道，两侧是高楼，强烈的透视线条，蓝天光晕，架空电线，店面招牌，景深浅;包含六个可见的街道标志元素：左侧一个大型红色标志，右上方一个蓝色竖形标志，右上方数字2，一个红色圆形向上倒V形标志，一个蓝色圆形向上箭头标志，左侧一个红白相间禁止入内标志，右侧一个小绿色菱形标志。采用饱和的青白调色、清晰的动漫线条、光泽的赛璐璐渲染、高对比度的阳光、闪烁的尘埃颗粒、头发的动态，以及精致的GPT-image-2动漫风格视觉风格。宽高比为9：16，构图干净，没有额外字符，除了模糊的环境标识外没有文字叠加。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08130_0.jpg" width="600" alt="青发少女街头风尚 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 81: AI新闻主播播报GPT-image-2
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一个超写实的电视新闻广播场景，画面中有一位 {argument name="anchor appearance" default="身穿深蓝色西装外套搭配白色上衣的日本女性新闻主播"} 坐在现代新闻演播室的玻璃桌前。 她面带微笑，直视镜头，双手放在平板电脑、文件和透明水瓶旁。 在她的左侧，一台大显示器上显示着 "{a…
+
+#### 📝 提示词
+
+```
+一个超写实的电视新闻广播场景，画面中有一位 {argument name="anchor appearance" default="身穿深蓝色西装外套搭配白色上衣的日本女性新闻主播"} 坐在现代新闻演播室的玻璃桌前。 她面带微笑，直视镜头，双手放在平板电脑、文件和透明水瓶旁。 在她的左侧，一台大显示器上显示着 "{argument name="screen main text" default="OpenAI 「GPT-image-2」リリース"}" 字样，旁边是一个 AI 标志以及 8 张较小的多样化 AI 生成图像拼贴。 左上角是一个频道标志，显示为 "{argument name="news channel name" default="GLOBAL NEWS"}"，并配有红色的 "LIVE" 徽标。 背景展示了一个繁忙的办公室，配有电脑和显示 "AI Generation" 的墙面屏幕。 屏幕底部是一个标准的新闻下三分之一图形，显示主播姓名 "{argument name="anchor name" default="キャスター：佐藤 陽子"}" 以及一条突发新闻标题 "{argument name="main headline text" default="【速報】OpenAI、画期的な新型画像生成モデル「GPT-image-2」を発表。 より高精細で多様な表現が可能に。 "}"（以粗体日语文本显示）。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15839_0.jpg" width="600" alt="AI新闻主播播报GPT-image-2 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 82: 球场女神惊艳亮相
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创建一个超写实的电影感足球场转播场景。 人物： 年轻女性，浅肤色，柔和自然妆容，淡褐色/绿色眼睛，中等长度的浅棕色/金色波浪发，发量自然。表情：冷静、自信、略带俏皮。脸部必须与参考图完全一致，不许改动。 装束： 修身黑色无袖连衣裙，极简珠宝（小耳环）。 场景： 体育场内坐满了穿着蓝色球衣欢呼的球迷。足球场上有身穿红白…
+
+#### 📝 提示词
+
+```
+创建一个超写实的电影感足球场转播场景。
+
+人物：
+年轻女性，浅肤色，柔和自然妆容，淡褐色/绿色眼睛，中等长度的浅棕色/金色波浪发，发量自然。表情：冷静、自信、略带俏皮。脸部必须与参考图完全一致，不许改动。
+
+装束：
+修身黑色无袖连衣裙，极简珠宝（小耳环）。
+
+场景：
+体育场内坐满了穿着蓝色球衣欢呼的球迷。足球场上有身穿红白球衣的球员正在比赛。球场灯光明亮写实。可见转播叠加层（计分板、计时器、体育频道水印）。
+
+镜头序列：
+特写：女性坐在球迷中间。
+跟踪镜头：她站起来并走向球场。
+全景：步入球场边线附近，可见球员。
+边线镜头：步行/俏皮动作，头发自然摆动，比赛继续进行。
+
+视觉风格：
+超写实、电影级转播观感，4K细节，自然皮肤纹理，真实的灯光、阴影和景深，微妙的动态模糊。
+
+摄像机：
+广播级长焦镜头 + 电影级追踪，轻微的手持微抖动以增强真实感。
+
+输出：
+时长：15秒，分辨率：4K，长宽比：16:9，帧率：24fps。
+
+严格规则：
+保持一致的面部身份，禁止卡通/动漫风格，场景中途不得更换服装或颜色，仅限真实的人类运动。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14854_0.jpg" width="600" alt="球场女神惊艳亮相 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 83: 唯美花园肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创作一幅高质量的垂直写实肖像，描绘一位优雅的{论点名称=“女性族裔”默认=“南亚裔}女性坐在一座华丽的白色雕刻石质花园长椅上，坐落在一个郁郁葱葱、阳光普照的浪漫花园中。她有{argument name=“发型” 默认=“长长的深色波浪发，一侧分开”}披散在肩上，戴着大号银色jhumka风格耳环，穿着优雅的{argum…
+
+#### 📝 提示词
+
+```
+创作一幅高质量的垂直写实肖像，描绘一位优雅的{论点名称=“女性族裔”默认=“南亚裔}女性坐在一座华丽的白色雕刻石质花园长椅上，坐落在一个郁郁葱葱、阳光普照的浪漫花园中。她有{argument name=“发型” 默认=“长长的深色波浪发，一侧分开”}披散在肩上，戴着大号银色jhumka风格耳环，穿着优雅的{argument name=“dress color and pattern” default=“柔和粉色花卉图案A字裙”}，配有透视长袖、端庄圆领、褶皱袖口和飘逸裙摆。她的脸应柔和地匿名或遮挡，同时保持整体肖像构图。一只毛茸茸的{argument name=“pet” default=“white Persian cat”}安静地躺在她腿上，爪子露出，她的手轻轻抚摸着它。场景中只有一张华丽的白色石凳，背景中模糊的分层喷泉，身后一根浅色柱子或花园结构，两侧簇簇的粉色玫瑰，前景中模糊的薰衣草紫色花朵。使用温暖的黄金时光、柔和的背光、浅景深、奶油色散景、自然的粉彩色和优雅的时尚摄影氛围。构图为2：3垂直图像，坐姿三分之三姿势，主体略偏右，前景花卉营造深度。没有文字，没有水印，没有额外的人。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09529_0.jpg" width="600" alt="唯美花园肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 84: 极简时尚肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+在极简工作室的大型哑光几何立方体基座上，创作一幅低角度电影化的时尚肖像，描绘一位时尚的{argument name=“subject” default=“young woman”}。使用一个纯色的{argument name=“background color” default=“golden-yellow”}无缝背…
+
+#### 📝 提示词
+
+```
+在极简工作室的大型哑光几何立方体基座上，创作一幅低角度电影化的时尚肖像，描绘一位时尚的{argument name=“subject” default=“young woman”}。使用一个纯色的{argument name=“background color” default=“golden-yellow”}无缝背景和匹配的黄色地板，配上柔和的影棚阴影。相机非常低且靠近被摄者伸出的脚部，采用广角透视，使前景的白色运动鞋显得过大且显得突出，而上半身则逐渐后退。受试者随意地坐着，一条腿伸向镜头，另一只膝盖抬起，放松的手搭在弯曲的膝盖上。服装：一件高级宽大黑色校区风格夹克，芥末黄面板，领口、袖口和下摆有白色条纹饰边，扣子，胸前有大学字母臂章;奶油色宽大宽裤;白色罗纹袜;干净的白色皮革耐克风格低帮运动鞋，带鞋带和穿孔鞋头;里面是简单的白色上衣;小圈耳环和一条短项链。头发深色，长而波浪，松松地向后绑，几缕发丝垂落在脸颊周围。面部应刻意用平滑的居中矩形模糊/马赛克补丁来匿名或遮挡，同时保持时尚姿势。灯光采用精致的编辑工作室风格，温暖高端，面料细节清晰，皮革质地逼真，景深浅，前景略显突出，垂直2：3构图，无文字、无水印、无额外物体。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04277_0.jpg" width="600" alt="极简时尚肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 85: 掐丝珐琅工艺
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{“type”：华丽中国古典风格单页演示页“，”canvas“：{”aspect_ratio“：16：9宽屏”，“背景”：温暖象牙色羊皮纸，纸纹细腻，底部淡淡水墨山脉，左上角淡莲花线条，右上角小巧吉云“，”border“：深青绿色外框，镶嵌陈旧金边，几何中国角饰， 底部有金色键纹带，装饰性青金色云朵簇分布在两个下角“…
+
+#### 📝 提示词
+
+```
+{“type”：华丽中国古典风格单页演示页“，”canvas“：{”aspect_ratio“：16：9宽屏”，“背景”：温暖象牙色羊皮纸，纸纹细腻，底部淡淡水墨山脉，左上角淡莲花线条，右上角小巧吉云“，”border“：深青绿色外框，镶嵌陈旧金边，几何中国角饰， 底部有金色键纹带，装饰性青金色云朵簇分布在两个下角“}，”title_area“：{”main_title“：”{argument name=\“main title\” default=\“制作工艺总览\”}“，”main_title_style“：”大而居中笔书法汉字，纹理金属金“，”subtitle“：”{argument name=\“subtitle text\” default=\“一件掐丝珐琅作品如何诞生？\”}“，”subtitle_style“：”标题下方置中较小的深青绿色衬线字体，配有细金色分隔线和小巧装饰性装饰”}，“main_process_flow”：{“位置”：左侧和中间，约占幻灯片三分之二“，”计数“：10，”布局“：两排五个圆形图像奖章，通过小金色右箭头连接”，“奖章”：薄金色圆形框，每个框内含一幅掐丝珐琅制作步骤的真实微型插图“，”标签“：[{”编号“：1”，“文本”：“设计纹样”，“图像”：带莲花图案的速写纸和一支蓝色钢笔“}，{“编号”：“2”，“text”：“制胎”，“image”：“素青铜或铜器体”}，{“编号”：“3”，“文本”：“掐丝”，“图像”：金线形成花轮廓“}，{”编号“：4”，“文本”：“粘丝”，“图像”：“镊子将细金属丝放入花纹轮廓”}，{“编号”：5“，”文本“：”点蓝“，”图像“：”刷子混合鲜艳钴蓝色搪瓷膏于圆形盘子中“}，{”编号“：”6“，”文本“：”烧蓝“，“image”：“发光窑炉中烧制器皿”}，{“编号”：“7”，“text”：“补釉复烧”，“image”：完成的蓝色花卉掐丝花瓶“}，{”编号“：8”，“文本”：“磨光”，“图像”：旋转抛光轮研磨蓝色珐琅器皿“，{”编号“：9”，“文本”：“镀金”，“图像”：华丽的蓝金色景蓝玐丝镜玻璃器皿，镀金把手和边缘“}，{”编号“：”10“，”文本“：”成品检验“，”图像“：放大镜检查成品蓝色景蓝琺瑯花瓶”}]，“label_style”：“每个阶梯标签都是深青绿色圆牌，配有金色边框、奶油色数字和白色中文文字”，“right_feature_panel”：{“position”：“右侧”，“panel_style”：“薄金色矩形框架，带有剪裁装饰角，背景为羊皮纸”，“标题”：“{argument name=\”feature panel heading\“ default=\”工艺特点\“}”，“heading_style”：“深青绿色圆块，金色边框和奶油色汉字”，“bullet_count”：3，“bullets”：[“工序繁多，手工性强”，“多次烧制，火候关键”，“线、色、光共同塑造质感”]，“bullet_style”：小金色花卉图标，深青绿色中文文字，子弹列间浅色虚线分隔线“}，”页脚“：{”slide_number“：”{argument name=\“幻灯片编号\” default=\“06 / 10\”}“，”style“：中心深青绿色圆角胶囊，带金色边和白色数字”}，“visual_style”：高级文化遗产PPT幻灯片， 优雅的博物馆展览美学，逼真的手工缩略图与传统中国装饰图形混合，平衡间距，高分辨率，无人物，字体清晰，柔和的金色和青绿色调色板，“rendering_notes”：“保持所有中文文字清晰且位置正确;使用恰好10个编号工艺步骤和3个特征项目符号;保持精致的PowerPoint课程软件外观“}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07853_0.jpg" width="600" alt="掐丝珐琅工艺 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 86: 暗黑奇幻女武士
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创作一幅垂直的电影式黑暗奇幻肖像，描绘{argument name=“character name” default=“a laone female martage women”}，她全身站在一座老东亚道场入口中央，夜晚如此。她穿着一件破损的黑紫战士长袍，高开叉，破旧的纱布袖子，皮革护臂，宽腰带，脚踩简朴凉鞋;她那长…
+
+#### 📝 提示词
+
+```
+创作一幅垂直的电影式黑暗奇幻肖像，描绘{argument name=“character name” default=“a laone female martage women”}，她全身站在一座老东亚道场入口中央，夜晚如此。她穿着一件破损的黑紫战士长袍，高开叉，破旧的纱布袖子，皮革护臂，宽腰带，脚踩简朴凉鞋;她那长长的黑发半束成凌乱的发髻，头上挂着小饰品，湿漉漉的发丝散落在肩头。她的脸被一团柔和的矩形模糊遮住，而画面其余部分依然清晰细致。她右手握着一把向下的鞘刀，剑柄和护手在腰部附近可见。环境是{argument name=“setting” default=“雨水浸透的木质道场庭院”}：身后是敞开的厚重木质双开门，温暖的灯笼灯光从里面透出，黑暗的光束和面板，雾气，漂浮的火花，水洼和湿石板上的倒影。包含九个显著道具：一把由女子持有的武士刀，一面右侧破旧的竖布横幅，上面写着{argument name=“banner text” default=“武道无双”}，以及七根散落在地板和边缘的竹制练习法杖。使用{argument name=“lighting style” default=“氛围低调灯光配温暖灯笼背光和冷蓝灰色雨景”}，超写实奇幻摄影，高细节服装纹理，湿布料，电影对比，浅景深，戏剧氛围，无水印，横幅外无额外文字。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11629_0.jpg" width="600" alt="暗黑奇幻女武士 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 87: 悬浮名片神秘手
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张超写实的电影照片。画面聚焦于前景一只伸出的手的特写，手掌微微捧起，做出递赠和展示的姿态。在手掌上方神奇地漂浮着一张倾斜的高质量{argument name=“card color” default=“black”} 3D {argument name=“card type” default=“profile ca…
+
+#### 📝 提示词
+
+```
+一张超写实的电影照片。画面聚焦于前景一只伸出的手的特写，手掌微微捧起，做出递赠和展示的姿态。在手掌上方神奇地漂浮着一张倾斜的高质量{argument name=“card color” default=“black”} 3D {argument name=“card type” default=“profile card”}。这张卡看起来被放大，带来深度和动态运动感。背景中，一个人因浅景深（{argument name=“bokeh intensity” default=“强烈散景效果”）而面部特征严重模糊，部分被悬浮的卡牌遮挡，营造出神秘氛围，并将绝对焦点转移到手牌上。请勿更改头像及其信息。超写实光影、专业摄影、戏剧性阴影、景深、8K画质、高度细致。宽高比为1080x1350像素。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02164_0.jpg" width="600" alt="悬浮名片神秘手 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 88: 新中式门框窥视
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+原创成年东亚女性coser，出现在新中式生活方式品牌视觉中，空间克制、服装廓形清楚、气质成熟可发布。画面使用门框窥视构图，人物被门框、屏风或建筑边缘自然框住，像商业 Lookbook 跨页的一侧主图，周围保留留白、编号区和不可读信息块。成像质感为中画幅胶片棚拍，柔和颗粒、轻微暗角、自然曝光和扫描边缘痕迹。人物动作参考…
+
+#### 📝 提示词
+
+```
+原创成年东亚女性coser，出现在新中式生活方式品牌视觉中，空间克制、服装廓形清楚、气质成熟可发布。画面使用门框窥视构图，人物被门框、屏风或建筑边缘自然框住，像商业 Lookbook 跨页的一侧主图，周围保留留白、编号区和不可读信息块。成像质感为中画幅胶片棚拍，柔和颗粒、轻微暗角、自然曝光和扫描边缘痕迹。人物动作参考动作姿态设定表，姿态清楚，有轻微拆解标注感但整体仍保持时装大片气质。主体脸部清楚，手部自然准确，手指数量正确，比例正常，姿态合理，整体细节稳定。左上角有小型 stylized V + 猫元素图形 logo，右下角有 voxCAT 签名，衣服上有 VOXCAT 吊牌，角色身上可有低调 VOX CAT 纹身；画面仅保留指定品牌元素，其他信息全部以不可读伪文字、图形块和抽象版式呈现，比例 9:16。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13799_0.jpg" width="600" alt="新中式门框窥视 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 89: 石化骑士的诅咒凝视
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一画黑暗奇幻的集换式卡牌插画，描绘了一位高贵的动漫骑士女性，身处废弃的哥特式大教堂，从腰部以上以戏剧性的三分之三视角呈现。她穿着带金边的皇家蓝色裙子，银色胸甲上有蓝色纹章标记，戴着装甲护手，腰部为深色束腹，内裙是深紫色，层层破损中可见。她的金发盘成辫子，刘海松散，后面系着一条大深蓝色丝带。她的身体正在经历{argum…
+
+#### 📝 提示词
+
+```
+一画黑暗奇幻的集换式卡牌插画，描绘了一位高贵的动漫骑士女性，身处废弃的哥特式大教堂，从腰部以上以戏剧性的三分之三视角呈现。她穿着带金边的皇家蓝色裙子，银色胸甲上有蓝色纹章标记，戴着装甲护手，腰部为深色束腹，内裙是深紫色，层层破损中可见。她的金发盘成辫子，刘海松散，后面系着一条大深蓝色丝带。她的身体正在经历{argument name=“status effect” default=“partial stariification”}：双手、双臂以及裙子和盔甲的大部分区域都是破裂的石头，身体上蔓延着类似大理石的裂缝。她的姿态紧张而优雅，一只僵硬的手举在脸旁，另一只蜷缩在胸前，仿佛在恐惧或震惊中做出反应。她的表情本应传达出恐惧和无助。她周围漂浮着五块破碎的石板或卡片状石板，上面刻着淡淡的人物和符号，分别悬浮在不同深度的空中。她身旁悬浮着一只巨大的怪异眼球，大小约如她的头肩，带有破裂的石质巩膜、凝视的虹膜、锯齿状的冠状尖刺和华丽的有机脊状结构;它滴落着浓稠的浅色蜡状液体，混合着深色血液，形成长而沉重的丝状和水滴。环境是一个宽敞、阴影笼罩的大教堂内部，高耸的拱门渐渐融入黑暗。在场景中放置多个熔化蜡烛，包括左边缘可见的蜡烛簇、背景下方中央和右前景的石架;它们的火焰小而温暖，投射出琥珀色的光辉。添加许多发光的水滴或微粒落入空气中，回响着眼睛滴落的液体声。氛围充满诅咒、悲剧和压抑，就像奇幻游戏中一张高稀有度状态异常卡。采用高度细致的动漫画风渲染，配有逼真的纹理、戏剧性的明暗对比光影、破裂的石面、风化的布料、抛光但受损的盔甲，以及垂直卡牌艺术构图。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03647_0.jpg" width="600" alt="石化骑士的诅咒凝视 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 90: 湖畔黄昏沉思侧影
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+用上传的图片作为参考。 保持：同一个人，侧脸角度，平静沉思的表情，坐姿，自然的面部结构和柔和的内省氛围。 改变：将场景从室内房间移到黄金时段的安静湖畔环境。 创作：一幅写实的编辑肖像，描绘一个人在夕阳下安静地坐在平静的湖边，仍保持柔和的侧脸姿势，若有所思地望向远方。用一件超大号的{argument name=“swe…
+
+#### 📝 提示词
+
+```
+用上传的图片作为参考。
+保持：同一个人，侧脸角度，平静沉思的表情，坐姿，自然的面部结构和柔和的内省氛围。
+
+改变：将场景从室内房间移到黄金时段的安静湖畔环境。
+
+创作：一幅写实的编辑肖像，描绘一个人在夕阳下安静地坐在平静的湖边，仍保持柔和的侧脸姿势，若有所思地望向远方。用一件超大号的{argument name=“sweater color” default=“beige”} {argument name=“clothing fabric” default=“knitted sweater”}替换连帽衫，面料质地明显柔软。保持头发自然松散且略带凌乱，几缕柔软的发丝在晚间光线下闪现。
+
+光线：温暖的黄金时光侧光照亮脸部一侧，柔和阴影，皮肤和毛衣上柔和的高光。
+
+背景：模糊的树木，平静水面上的温暖倒影，浅景深，宁静的秋日氛围。
+
+风格：写实的剪辑肖像摄影，自然的皮肤细节，温暖的电影色彩分级，平静的情感氛围，优雅但不过分风格。
+
+画面比例：4：5
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06836_0.jpg" width="600" alt="湖畔黄昏沉思侧影 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06836_1.jpg" width="600" alt="湖畔黄昏沉思侧影 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 91: 运动App图标字体设计
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+[中文] 生成一套运动类app的iconfont [English] Generate a set of iconfont for a sports app
 
 #### 📝 提示词
 
 ```
 [中文]
-が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで
-このクオリティ　細かい説明呪文なし　すごいぜ！
+生成一套运动类app的iconfont
 
 [English]
-that "Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game" with just a few images
-this quality without any detailed explanation spells is amazing!
+Generate a set of iconfont for a sports app
 ```
 
 #### 🖼️ 生成图片
@@ -2513,82 +3389,25 @@ this quality without any detailed explanation spells is amazing!
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15445_0.jpg" width="600" alt="小恶魔复古海报 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15410_0.jpg" width="600" alt="运动App图标字体设计 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 58: 暗黑新中式写真
+### No. 92: 咖啡馆隐私人像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-请基于我上传的清晰单人人像参考图，生成一组「暗黑系新中式高级写真」，共 9 张，全部为 3:4 竖构图，必须分别生成 9 张单独图片，不要九宫格，不要拼图，不要海报排版。 ## 人物一致性 严格保留参考人物本人的真实身份特征：脸型、五官比例、眼睛形状、鼻子、嘴唇、下颌线、发际线、肤色、年龄感、气质和整体辨识度。 不能…
+制作一张照片级的休闲智能手机肖像，描绘一位{argument name=“subject” default=“young japan woman”}坐在现代咖啡馆室内，从胸部以上以3：4垂直比例构图。她站在中央，靠近镜头，微微前倾，仿佛被拍到了桌子对面。她的脸被一个大型不透明的长方形隐私块故意遮住，遮挡在脸部中央，从…
 
 #### 📝 提示词
 
 ```
-请基于我上传的清晰单人人像参考图，生成一组「暗黑系新中式高级写真」，共 9 张，全部为 3:4 竖构图，必须分别生成 9 张单独图片，不要九宫格，不要拼图，不要海报排版。
-
-## 人物一致性
-严格保留参考人物本人的真实身份特征：脸型、五官比例、眼睛形状、鼻子、嘴唇、下颌线、发际线、肤色、年龄感、气质和整体辨识度。  
-不能换脸，不能变成陌生人，不能网红脸，不能动漫化，不能塑料娃娃脸。  
-参考图只用于人物身份，不要保留原照片里的咖啡店、日常衣服、纸杯或生活场景。
-
-## 整体风格
-暗黑新中式、黑金东方美学、金箔竹影屏风、暗红地毯、夜色电影感、高级时尚杂志大片。  
-画面要冷艳、克制、危险、贵气，有东方悬疑感。  
-背景以金箔质感屏风、竹叶投影、黑金边框、深棕、暗红过渡为主。不能大片死黑，不能平涂金色，必须有斑驳肌理、光斑和层次。
-
-## 妆发服装
-发型：新中式高盘发或低盘发，带松弛碎发，发髻点缀红色发簪、暗红花饰或细发钗。  
-妆容：冷艳时尚妆，上扬黑色眼线、清晰睫毛、微烟熏眼影、干净底妆、鼻梁高光、深红棕或酒红唇色。  
-服装：黑色蕾丝改良旗袍，立领、盘扣、收腰、高开衩、蕾丝暗纹、提花纹理清晰。可以露肩颈、手臂和腿部线条，但必须高级克制，不低俗。  
-配饰：黑金折扇、细长黑金烟杆、金色几何耳环、金色手镯、红色发簪，少而精。
-
-## 光影与质感
-高预算棚拍质感，暖金硬光、侧光、逆光、轮廓光、局部补光结合。  
-脸部五官必须清晰，眼神要亮，黑色服装不能死黑，要看见蕾丝、暗纹、褶皱和边缘高光。  
-保留真实皮肤纹理、真实身体结构、真实布料和真实光影。  
-不要油画感、插画感、3D 建模感、AI 过度磨皮感。  
-人物比例自然，手部结构正确，四肢不要畸形。
-
----
-
-## 01｜金箔竹影全身开场图
-全身站姿，人物站在金箔竹影屏风前，身体微侧，一条腿从黑色高开衩旗袍中自然伸出，脚穿黑色细高跟。一只手轻扶屏风边框，另一只手自然垂落或轻扶腰侧。看向镜头，眼神冷静、疏离、有压迫感。暖金硬光 + 侧轮廓光，背景有竹影和暗红深棕过渡。
-
-## 02｜黑金折扇遮面近景图
-半身到 3/4 身构图。人物手持黑金刺绣折扇，折扇半展开，轻遮下半张脸，只露出清晰冷艳的眼神。眼神直视镜头，冷淡、清醒、略带挑衅。折扇金线、扇骨、黑色蕾丝旗袍细节清晰。面部柔和提亮，背景竹影硬光。
-
-## 03｜烟杆冷艳特写
-上半身近景特写。人物手持细长黑金烟杆，烟杆轻靠唇边或下巴，动作优雅克制，不要夸张烟雾。她微微偏视镜头外，表情冷淡疏离，像有隐秘心事。侧面暖金硬光打出脸部明暗关系，唇色深红棕，蕾丝领口和盘扣清晰。
-
-## 04｜折扇坐姿造型图
-人物坐在暗红地毯或低矮座位上，身体微微后靠，单腿自然曲起，手中抱着一把大号黑金刺绣折扇，折扇横在胸前或膝前。眼神看向镜头，冷淡有距离感。突出肩颈、锁骨、手臂和腿部线条，姿态高级，不低俗。背景为金箔竹影屏风。
-
-## 05｜侧身回望烟杆图
-中景侧身站姿。人物身体侧向镜头，脸部回望镜头，一只手持细长黑金烟杆横在肩颈附近，另一只手轻扶腰侧。旗袍强调腰线、臀线和侧开衩设计。前景可有虚化黑色屏风边框，形成前景、中景、背景层次。逆侧光勾勒脸部、肩线和腰线。
-
-## 06｜靠墙低头情绪图
-人物靠近金箔竹影墙面，一只手轻触墙面或屏风边框，另一只手自然垂下。她微微低头，不看镜头，眼神向下或侧下方，表情安静、冷淡，带一点疲惫和故事感。整体是电影剧照感，不是性感挑逗。背后暖光 + 面部柔和补光，黑色旗袍保留细节。
-
-## 07｜强光压迫感站姿图
-全身强气场站姿。人物站在金箔竹影屏风中央，身体略微后靠，一只手扶腰或轻握黑金折扇，另一只手自然垂落。她直视镜头，不笑，眼神清醒、锋利、有压迫感。正面控制面光 + 左侧强硬光 + 背景竹影投射，画面像高级时尚封面候选图。
-
-## 08｜低机位腿部线条图
-略低机位，3/4 身到全身构图。人物一条腿从旗袍开衩中自然伸出，另一条腿稳定支撑，身体轻微 S 形转折。一只手持黑金烟杆垂在身侧，另一只手轻触墙面或抬至肩颈附近。表情冷淡疏离，身体比例自然，不要过度拉长。背后强暖光 + 侧面轮廓光。
-
-## 09｜封面级收束图
-正式、极简、强烈的封面级收束照。人物站在黑金竹影背景中央，是唯一视觉中心。一只手持黑金刺绣折扇垂于腿侧，另一只手轻扶腰间或自然放松。直视镜头，眼神冷静、克制、自我掌控感强。主面光 + 侧轮廓光 + 背景竹影硬光，黑、金、深棕、暗红之间有细腻过渡。
-
-## 统一禁止
-不要九宫格，不要拼图，不要文字，不要水印，不要 logo。  
-不要死黑背景，不要廉价影楼风，不要 AI 娃娃脸，不要油画感，不要插画感，不要 3D 感。  
-不要多余人物，不要畸形手指，不要奇怪四肢，不要过度拉长身体。
+制作一张照片级的休闲智能手机肖像，描绘一位{argument name=“subject” default=“young japan woman”}坐在现代咖啡馆室内，从胸部以上以3：4垂直比例构图。她站在中央，靠近镜头，微微前倾，仿佛被拍到了桌子对面。她的脸被一个大型不透明的长方形隐私块故意遮住，遮挡在脸部中央，从额头/眼睛区域延伸到嘴巴和下巴;该块为平坦、柔和的棕色肤色，边缘锐利且无文字。可见细节：中长深棕色头发，柔软的刘海，层叠发尾，略显蓬乱的自然光泽，及肩卷发向内向外卷;一件宽袖柔软的松松米白色针织毛衣;双前臂靠近下缘，姿势放松。背景：写实的咖啡馆内部，左侧为浅灰色墙板，木桌和低凳/椅子部分可见，黑色金属框架，右侧有温暖的木梁和货架，镜子或玻璃板反射着身穿深色衣服的人，柔和的天花板灯光，营造出休闲的城市氛围。使用自然光与温暖室内光线相结合，尽管面部被遮挡，但头发和身体暗示真实的日本面部比例，准确的面料和发质，浅至中等景深，手机相机风格，轻微广角透视，28mm等效镜头，f/2.8，ISO 400,1/125秒，高分辨率逼真彩色照片。避免美妆滤镜的流畅，避免过度风格化的AI魅力，避免前景出现多余人物，避免文字或水印。
 ```
 
 #### 🖼️ 生成图片
@@ -2596,55 +3415,362 @@ this quality without any detailed explanation spells is amazing!
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01737_0.jpg" width="600" alt="暗黑新中式写真 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00941_0.jpg" width="600" alt="咖啡馆隐私人像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 93: 时尚人像多角度参考图
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+仅将上传的人像用作身份和发型参考。保留真实的面部身份、脸型、自然特征、肤色、身体比例和发型。 创建超写实真人工作室时尚参考表，干净的浅灰色背景，竖版海报布局。以多个视角展示同一位成年年轻女性：左侧是大型圆形正面头像，中央是全身侧面视图，右侧是全身背面视图，下方是几个小型嵌入细节面板，用于展示配饰、上衣、牛仔短裤、手镯…
+
+#### 📝 提示词
+
+```
+仅将上传的人像用作身份和发型参考。保留真实的面部身份、脸型、自然特征、肤色、身体比例和发型。
+
+创建超写实真人工作室时尚参考表，干净的浅灰色背景，竖版海报布局。以多个视角展示同一位成年年轻女性：左侧是大型圆形正面头像，中央是全身侧面视图，右侧是全身背面视图，下方是几个小型嵌入细节面板，用于展示配饰、上衣、牛仔短裤、手镯和服装纹理。
+
+她穿着柔和的薄荷绿色细肩带短上衣、浅蓝色牛仔短裤、精致的翠绿色耳环、项链、手镯和白色小花发夹。赤脚，自然站立姿势，优雅平静的表情，干净的长发，真实的皮肤纹理，准确的解剖结构，写实的手和脚，柔和的工作室照明，微妙的阴影，高端时尚目录风格。
+
+将所有中文文本替换为简洁的英文标签，例如：“3/4 Close-up”、“Front View”、“Back View”、“Headshot”、“Outfit Details”、“Fabric Texture”、“Accessories”、“Overall Style”。使用整洁的极简英文排版，无随机文本，无水印，无标志。
+
+负面提示：
+
+水印、标志、中文文本、无法阅读的文本、随机字母、动漫、卡通、插画、3D渲染、娃娃脸、塑料皮肤、过度平滑的皮肤、虚假皮肤纹理、改变的身份、不同的面孔、错误的发型、模糊的面孔、糟糕的眼睛、糟糕的手、多余的手指、畸形的手指、糟糕的脚、多余的脚趾、畸形的身体、不现实的腿、扭曲的比例、杂乱的布局、低质量、过度曝光、过度饱和、重复的人物、裁剪的身体。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13019_0.jpg" width="600" alt="时尚人像多角度参考图 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 94: 抖音美女直播截图
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+生成一个抖音直播的截图 里面是一个美女在直播
+
+#### 📝 提示词
+
+```
+生成一个抖音直播的截图 里面是一个美女在直播
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12477_0.jpeg" width="600" alt="抖音美女直播截图 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 95: 霓虹涂鸦下的甜酷少女
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张写实风格的人像，主角是一位留着短碎发（发色：{argument name="hair color" default="浅紫色"}）的年轻东亚女性。她倚靠在一面布满鲜艳霓虹涂鸦的深色墙壁前，墙上绘有文字“{argument name="graffiti text" default="VSC"}”和一个笑脸图案。她正…
+
+#### 📝 提示词
+
+```
+一张写实风格的人像，主角是一位留着短碎发（发色：{argument name="hair color" default="浅紫色"}）的年轻东亚女性。她倚靠在一面布满鲜艳霓虹涂鸦的深色墙壁前，墙上绘有文字“{argument name="graffiti text" default="VSC"}”和一个笑脸图案。她正{argument name="pose" default="用双手比出一个心形"}放在胸前。她穿着一件{argument name="top clothing" default="白色扣子短款上衣，外搭一件超大号、未扣扣子的浅蓝色条纹衬衫"}，衬衫滑落至肩部，下身搭配{argument name="bottom clothing" default="做旧黑色牛仔短裤"}、白袜和白色运动鞋。她的一只膝盖微微弯曲抬起。光线柔和、朦胧且富有梦幻感，色调偏冷，镜头角度略微倾斜，营造出时尚的城市街头美学。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16105_0.jpg" width="600" alt="霓虹涂鸦下的甜酷少女 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 96: 小王子太空联名
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+[中文] 设计一张小王子和SpaceX联名的明信片 [English] Design a postcard co-branded by The Little Prince and SpaceX
+
+#### 📝 提示词
+
+```
+[中文]
+设计一张小王子和SpaceX联名的明信片
+
+[English]
+Design a postcard co-branded by The Little Prince and SpaceX
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15413_0.jpg" width="600" alt="小王子太空联名 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 97: 3D应用图标网格艺术
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+创建一个由12个正方形应用图标组成的高端3D网格，整齐地排列在干净的白色影棚背景上。每个图标都应该看起来像流行应用程序的写实现代版本，包括 Spotify、Netflix、TikTok、Gmail、Google、Safari、App Store、Chrome、时钟、日历、Instagram 和备忘录。在每个应用图标框…
+
+#### 📝 提示词
+
+```
+创建一个由12个正方形应用图标组成的高端3D网格，整齐地排列在干净的白色影棚背景上。每个图标都应该看起来像流行应用程序的写实现代版本，包括 Spotify、Netflix、TikTok、Gmail、Google、Safari、App Store、Chrome、时钟、日历、Instagram 和备忘录。在每个应用图标框内，放入上传图片中同一个写实的男人，并进行不同的造型以匹配每个应用的主题和调色板。给他穿上时尚的现代服装，配上富有表现力的姿势，以及与每个图标的UI和环境创意融合的互动。例如：戴着耳机在 Spotify 中放松，Netflix 中的电影级灯光，TikTok 中的潮流创作者氛围，Instagram 中的休闲美学，Gmail 中的专业形象等。图标应具有带有深度、阴影、反射、真实质感和柔和影棚光效的光泽3D悬浮外观。让每个正方形在视觉上独一无二，同时保持整体构图的连贯性和高端感。高度详细的皮肤纹理，写实的面部一致性，奢华时尚造型，鲜艳的色彩，波普艺术启发的审美，超写实数字艺术，景深，8K质量，Behance/Dribbble 流行风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14033_0.jpg" width="600" alt="3D应用图标网格艺术 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 98: 奇幻丛林潮鞋
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+超现实 {argument name=“environment” 默认=“FANTASY JUNGLE ENVIRONMENT”}，充满了超大光泽热带绿叶。金色电影般的阳光穿透浓密的森林树冠，营造出魔幻梦幻的氛围光影。一个戴着面具的时尚年轻男子随意坐在巨大的破碎古木箱上。低角度超广角透视，强烈强调了超大号前景运动鞋的…
+
+#### 📝 提示词
+
+```
+超现实 {argument name=“environment” 默认=“FANTASY JUNGLE ENVIRONMENT”}，充满了超大光泽热带绿叶。金色电影般的阳光穿透浓密的森林树冠，营造出魔幻梦幻的氛围光影。一个戴着面具的时尚年轻男子随意坐在巨大的破碎古木箱上。低角度超广角透视，强烈强调了超大号前景运动鞋的效果。{argument name=“clothing” 默认=“色彩鲜艳的连帽衫叠加在艺术图案皮夹克下”}细节丰富，非常精美。写实的黑色面具，始终保持神秘、时尚的电影冒险主角形象。透过富有表现力的眼睛，他带着自信的微笑，营造出情感丰富的电影叙事氛围。大型可爱的{argument name=“creature” default=“FANTASY BIRD CREATURE”} 自然地安静地栖息在角色肩膀上。鸟类生物展现了色彩斑斓的叶羽，灵感来源于魔法魔法热带森林的野生动物。可爱的毛茸茸森林生物舒适地躺在角色旁边，穿着超大号时尚运动鞋，显得非常可爱。前景周围环绕着巨大的热带树叶，营造出沉浸式的特写丛林电影画面，画面非常出色。丰富多彩的植物通过梦幻、充满活力的环境叙事细节，增强了奇幻氛围。覆盖倒下的树干的超细腻苔藓纹理，增添了逼真的森林真实感。温暖的阳光通过茂密的丛林植被产生体积光效果。浅景深，打造专业的电影肖像摄影，视觉构图风格，高度细致，逼真服饰质感，增强现代冒险都市丛林美学。奇幻生物与现实环境完美融合，创造出神奇、可信的电影和谐。新鲜丛林降雨后，光亮叶片自然出现明亮反光的高光。电影般的阴影和戏剧性的对比，在整部构图中强化了神秘、冒险的氛围。前景球鞋主导视角，增加深度、规模、电影视觉叙事的冲击力。古老倒下的树木中细致的树皮纹理极大增强了沉浸感和真实氛围。柔和发光的散景粒子自然漂浮在温暖神奇的热带丛林环境中。皮克斯启发了奇幻现实主义与超现实电影般的人体摄影美学相结合。自然的姿势和放松的肢体语言，完美塑造了冷静、冒险、英雄般的个性。沉浸式丛林背景，展现了异国植物、花卉、藤蔓和茂密的热带植被。超高清，一万六千级画质渲染，清晰度极高，环境细节精细。完美的四乘五英寸构图，优化于电影化的社交媒体海报展示。梦幻般的奇幻氛围，灵感来自魔法动画冒险电影和魔法叙事世界。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05183_0.jpg" width="600" alt="奇幻丛林潮鞋 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 99: 极简概念标志设计
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+请基于以下用户输入创建一个高质量的“概念叙事极简标志”： [品牌名称 / 项目名称] [副标题 / 产品名称] [行业 / 类别] [品牌定位] [核心概念] [隐喻基调] [情感基调] [主色调] [强调色] [宽高比] 【用户输入】 品牌名称 / 项目名称：[__________] 副标题 / 产品名称：[___…
+
+#### 📝 提示词
+
+```
+请基于以下用户输入创建一个高质量的“概念叙事极简标志”：
+
+[品牌名称 / 项目名称]
+[副标题 / 产品名称]
+[行业 / 类别]
+[品牌定位]
+[核心概念]
+[隐喻基调]
+[情感基调]
+[主色调]
+[强调色]
+[宽高比]
+
+【用户输入】
+品牌名称 / 项目名称：[__________]
+副标题 / 产品名称：[__________]
+行业 / 类别：[创意工作室 / 视觉实验室 / 编辑项目 / 独立时尚品牌 / 艺术空间 / 出版 / 建筑 / 音乐厂牌 / 文化品牌 / 实验项目 / 等]
+品牌定位：[__________]
+核心概念：[梦境 / 控制 / 距离 / 孤立 / 轨道 / 自由 / 结构 / 记忆 / 叙事 / 想象力 / 张力 / 未来 / 等]
+隐喻基调：[宇航员 / 轨道 / 兔耳 / 剪影 / 木偶 / 盒子 / 线条 / 月亮 / 手 / 几何结构 / 虚空 / 物体 / 等]
+情感基调：[安静 / 克制 / 诗意 / 冷峻 / 实验性 / 神秘 / 智慧 / 未来感 / 极简 / 概念性 / 等]
+主色调：[黑色 / 白色 / 灰色 / 深褐色 / 炭灰色 / 等]
+强调色：[少量红色 / 柔和的红色 / 微妙的高光 / 无]
+宽高比：[1:1 / 4:3 / 3:2]
+
+【创意目标】
+设计一个“概念叙事极简标志”。
+这不是一个传统的商业标志，不是装饰性徽章，也不是通用的几何图标。
+目标是创建一个感觉像是一个微小视觉创意的标志：极简、安静且由概念驱动。
+
+结果应表达“少即是多”的理念：
+更少的装饰，更多的意义；
+更少的噪音，更多的概念；
+更少的视觉杂乱，更多的叙事张力。
+
+【核心定义】
+这类标志应使用：
+- 极少数的视觉元素，
+- 强烈的负空间感，
+- 清晰的象征或隐喻关系，
+- 克制的排版，
+- 以及微妙的叙事或概念层。
+
+它应该给人一种属于独立创意工作室、艺术指导品牌、实验项目或设计驱动的识别系统的标志感。
+
+【基本原则】
+1. 标志必须极简，但不能空洞。
+2. 图形必须简单，但不能通用。
+3. 符号应承载隐喻、暗示或概念意义。
+4. 构图应使用大量的留白和负空间。
+5. 标志应感觉安静、有意为之且经过艺术指导。
+6. 排版应克制、智慧且经过精心布置。
+7. 整体设计应感觉像是一个微小的视觉陈述，而不是大声的广告。
+8. 避免不必要的装饰。
+
+【图形方向】
+基于 [核心概念] 和 [隐喻基调] 创建一个极简的象征性图形或一个微小的叙事视觉场景。
+
+图形可能包括：
+- 简化的剪影，
+- 一个象征性的物体，
+- 人物与结构之间超现实的关系，
+- 微小的轨道或轨迹，
+- 抽象的类似装置的形式，
+- 具有叙事暗示的几何场景，
+- 暗示一个想法而非直接描绘它的隐喻构图。
+
+图形应当：
+1. 简单且高度凝练；
+2. 避免过多的细节；
+3. 承载象征或诗意意义；
+4. 暗示故事、关系或情感状态；
+5. 感觉是概念性的而非仅仅是装饰性的。
+
+【排版方向】
+排版必须极简且受控。
+要求：
+1. 品牌名称应清晰易读。
+2. 排版应感觉冷静、现代且深思熟虑。
+3. 可以是大写、小型大写字母、窄无衬线体或其他克制的现代风格。
+4. 文字应支撑符号，而不是压倒它。
+5. 文字与图形之间的关系应感觉是有意且经过策划的。
+6. 如果需要，可以添加极少量的副标题 / 次要文本。
+7. 避免过于表现化、俏皮或响亮的字体。
+
+【构图方向】
+整体构图应强调静止与空间。
+要求：
+1. 使用大量的空白空间。
+2. 保持主标志在画框内相对较小。
+3. 符号可以位于左侧、中心或右侧，但整体平衡必须感觉精致。
+4. 构图应感觉像是一个身份展示或画廊般的陈列。
+5. 如果有帮助，可以使用小的注释、细线或微妙的结构对齐。
+6. 避免使其感觉像海报、贴纸页 or 广告。
+
+【颜色方向】
+保持色调克制。
+推荐方法：
+- 黑色、白色、灰色、炭灰色或深中性色作为主调；
+- 可选择性地添加极少量的红色、柔和的红色或其他微妙的强调色；
+- 强调色应作为张力点、切割线、轨道、线条或信号起作用；
+- 绝不要让强调色主导设计；
+- 避免丰富的渐变和高饱和度的配色方案。
+
+【氛围与美学】
+最终标志应感觉：
+- 极简
+- 概念性
+- 叙事性
+- 诗意
+- 克制
+- 智慧
+- 艺术指导感
+- 独立
+- 实验性
+- 少即是多
+
+【应避免的内容】
+请严格避免：
+1. 通用的公司标志；
+2. 装饰性的徽章标志；
+3. 可爱的吉祥物标志；
+4. 没有意义的过度几何化的抽象标记；
+5. 沉重的装饰；
+6. 拥挤的构图；
+7. 类似海报的布局；
+8. 彩色或嘈杂的设计；
+9. 任何感觉通用、大声或商业上过度解释的东西。
+
+【输出要求】
+生成一个高质量的“概念叙事极简标志”，通过极简的形式、强烈的负空间和安静但有意义的象征性姿态来传达清晰的想法。
+
+最终结果应感觉像：
+一个有故事的标志，
+一个带有张力的符号，
+以及一个建立在“少即是多”原则上的视觉识别系统。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12292_0.jpg" width="600" alt="极简概念标志设计 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01737_1.jpg" width="600" alt="暗黑新中式写真 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01737_2.jpg" width="600" alt="暗黑新中式写真 - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12292_1.jpg" width="600" alt="极简概念标志设计 - Image 2">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 59: 泳装少女角色设定集
+### No. 100: 游戏杂志封面设计
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-目标：为{argument name=“character name” default=“Jinguji Rei”}制作一张高细节的专业动漫角色设计参考卡，她是一名精英女游泳选手，也是新晋县级锦标赛纪录保持者，呈现方式类似于商业轻小说的角色卡。 画布：宽大的水平参考板，干净的白色背景，带有细长的藏青色装饰角线和浅色蓝…
+制作电子游戏杂志封面。主封面是{argument name=“main game” default=“Pragmata”}。在封面上加入其他主题，比如{argument name=“secondary games” default=“Saros， Pokemon Champions， Replaced”}。杂志名称为…
 
 #### 📝 提示词
 
 ```
-目标：为{argument name=“character name” default=“Jinguji Rei”}制作一张高细节的专业动漫角色设计参考卡，她是一名精英女游泳选手，也是新晋县级锦标赛纪录保持者，呈现方式类似于商业轻小说的角色卡。
-
-画布：宽大的水平参考板，干净的白色背景，带有细长的藏青色装饰角线和浅色蓝图般的指导线。采用精致的动漫插画风格，极细腻、光泽亮的皮肤高光、柔和的阴影、清晰的线条画、精致的泳装材质渲染、8K画质。
-
-主要主题：一位身材高挑、运动型的年轻女性，头发非常长{argument name=“发色”默认=“银白色”}，皮肤苍白，姿态自信，穿着一套修身的竞赛连体泳衣，颜色系{argument name=“泳衣颜色” default=“黑色藏青色配淡薰衣草色侧点”}。她戴着一顶白色泳帽，帽上有竞技场风格的标志，帽子上方戴着紫色调的护目镜。她的表情区域应通过柔和的方形面部模糊刻意匿名化，同时身体、头发、服装和配饰保持细节丰富。
-
-布局：在左中放置一幅大型全身站立插图，脚部略微裁剪，一手叉腰，胸部前倾自信姿势。在左上角放置日式标题排版，上面写着大标题「神宫寺 澪」和小文字，副标题为「県大会の新记录保持者」。左栏添加日文说明说明、小型研究面板，以及左下角的方框简介卡。
-
-上方参考行：右上角显示5个全身转身/姿势模型，每个模型上方都有一个小海军色标签：1）中立正面视角，2）背面视角，3）侧面视图，5）双臂交叉靠在灰色瓷砖墙上倾身姿势。所有视角都保持相同的泳衣和泳帽/护目镜。
-
-下行：右下角显示3个与游泳相关的体式练习：1）标注为“池边”的坐姿，2）双臂举过头的拉伸姿势，3）起跑-起跑蹲伏，起跑标有数字4的起跑块，旁边是游泳池通道。在这些行动研究中，仅使用湿瓷砖和泳池边缘细节。
-
-左侧研究面板：在剪影研究标题下，包含6个小型黑色剪影研究，展示不同的身体/姿势比例。包含5个表情研究头部缩略图，面部模糊，日语标注为中性、微微笑、眨眼、严肃和惊讶。包含5个细节研究缩略图：面部/头发特写、帽子和护目镜特写、泳衣胸布特写、开背泳衣特写，以及下半身/臀部泳衣剪裁特写。
-
-人物简介卡：左下角方框式侧脸，带有日本标签和藏青月桂冠徽章。包括易读的统计数据，如人类物种、身高168厘米、年龄21岁、生日6月15日、所属游泳俱乐部，以及关于一位冷静的王牌游泳选手不断追求纪录的简短说明。具体的传记文字可能只是装饰性，但应该看起来像真正的角色卡。
-
-色彩搭配：在右下角附近添加8个小方形色样：紫色、薰衣草色、浅灰色、深藏青色、浅肤色、非常浅的薰衣草色、白色和深板岩蓝，旁边还有一个小星星状装饰标记。
-
-限制：使用仅一个主角，5个顶级转身人偶，3个低动作姿势，6个剪影，5个表情缩略图，5个细节缩略图，8个色样。所有文字和标签都保持日本字符表的设计风格。没有多余的字符，没有水印，没有写实感，没有杂乱的背景。
+制作电子游戏杂志封面。主封面是{argument name=“main game” default=“Pragmata”}。在封面上加入其他主题，比如{argument name=“secondary games” default=“Saros， Pokemon Champions， Replaced”}。杂志名称为 {argument name=“magazine title” default=“Level Up”}
 ```
 
 #### 🖼️ 生成图片
@@ -2652,1814 +3778,7 @@ this quality without any detailed explanation spells is amazing!
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02392_0.jpg" width="600" alt="泳装少女角色设定集 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 60: 签名风格诊断海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-你是一个高端签名设计系统 + 风格人格视觉系统。 任务： 仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。 目标是把名字转译为具有笔势、气质与力量感的签名设计系统，让用户产生选择欲、认同感和分享欲。 输入信息： 姓名：[输入你的昵称] 禁止要求额外信息，必须自动完成气质与风格推断。 隐藏执行逻…
-
-#### 📝 提示词
-
-```
-你是一个高端签名设计系统 + 风格人格视觉系统。
-
-任务：
-仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。
-目标是把名字转译为具有笔势、气质与力量感的签名设计系统，让用户产生选择欲、认同感和分享欲。
-
-输入信息：
-姓名：[输入你的昵称]
-禁止要求额外信息，必须自动完成气质与风格推断。
-
-隐藏执行逻辑：
-1. 字形与笔势分析：
-- 结构：疏密、横竖比例、重心位置
-- 节奏：连贯、停顿、爆发、收束
-- 适配：连笔程度、草写程度、变形空间
-
-2. 气质推断：
-清冷、张扬、克制、商业、文艺、松弛、锋利、高级。
-
-3. 生成 6 个签名分支：
-- 全部适配该姓名
-- 每一个都有明确书写风格
-- 差异来自笔势、节奏、结构和收笔方式
-
-整体画面：
-9:16 竖版海报，极简、高级、干净、有设计感、适合传播。
-背景使用纯白或极浅灰渐变，留白不少于 40%。
-
-顶部标题区：
-主标题可用：
-「你的名字，适合哪种签名？」
-或：
-「[姓名] · 签名风格选择」
-副标题：
-「不同笔势，不同气场」
-排版为黑色与灰色，高级字距，留白充足。
-
-签名卡片区域：
-使用整齐网格卡片布局，推荐 2 列 × 3 行，共 6 个卡片。
-每个卡片统一尺寸、统一间距、整体对齐干净。
-
-卡片样式：
-- 轻微圆角 8-16px
-- 无明显边框，或极细描边
-- 极轻阴影
-- 背景为纯白微差、极浅灰，或轻微宣纸 / 磨砂质感
-视觉目标接近高级杂志排版，避免强 UI 感、厚卡片和 App 组件感。
-
-签名生成规则：
-签名必须基于书写动作生成，避免只做字体变形。
-每一个签名风格在生成前，先确定一套明确书写行为规则：
-1. 起笔方式：轻触起笔、重压起笔、直接横扫、从左下进入或从中段切入。
-2. 连笔结构：前两个字强连笔后面断开、全连笔一气呵成、只连接偏旁。
-3. 节奏变化：快到慢再收、慢到爆发再拉伸、或均匀节奏。
-4. 结构变形：横向拉长、垂直压缩、整体右倾或左倾、字间重叠或错位。
-5. 收笔设计：尾笔长甩、突然收断、回钩、渐隐收尾。
-
-6 种签名方向：
-1. 极简理性：接近品牌签名
-2. 狂放张力：强烈连笔和拉伸
-3. 松弛随性：手写感强
-4. 东方行草：飞白和墨感
-5. 锋利结构：几何感和断裂
-6. 实验风格：允许部分不可读，但需要强设计感
-
-色彩策略：
-整体以黑、灰、白为主。每个卡片允许一个极轻微点缀色，例如冷灰蓝、香槟金、墨黑、暖棕、深绿。
-避免大面积色块和花哨配色。
-
-底部互动区：
-底部居中加入小号灰字：
-「选一个，作为你的专属签名。」
-或：
-「你是第几种？」
-
-光影与质感：
-高级棚拍光、柔光环境、细腻阴影、干净空气感。
-质感参考 Apple 发布会视觉和高端品牌视觉。
-
-禁止项：
-不要字体拼贴，不要普通书法字，不要 UI 卡片风，不要颜色杂乱，不要签名太小，不要排版松散，不要缺乏笔势，不要模板拼接感。
-
-最终目标：
-生成一张高级、干净、有秩序、有笔势张力的 6 风格签名选择海报。
-用户一眼能选出最像自己的一款签名。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15665_0.jpg" width="600" alt="签名风格诊断海报 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 61: 星空鲸鱼梦
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-创作一幅梦幻般的插画，描绘一只巨大的半透明座头鲸在深邃的外太空中游弋，仿佛它就像海洋一样。鲸鱼占据了一幅垂直肖像画布的大部分空间，从左下角倾斜到右上角，头部在左，尾巴向右向上弯曲，形成优雅的水花弧线。让鲸鱼的身体呈现玻璃状、生物发光，呈现明亮的青色、绿松石色、皇家蓝、紫罗兰色和柔和粉色，皮肤内有如星星般的发光斑点。透…
-
-#### 📝 提示词
-
-```
-创作一幅梦幻般的插画，描绘一只巨大的半透明座头鲸在深邃的外太空中游弋，仿佛它就像海洋一样。鲸鱼占据了一幅垂直肖像画布的大部分空间，从左下角倾斜到右上角，头部在左，尾巴向右向上弯曲，形成优雅的水花弧线。让鲸鱼的身体呈现玻璃状、生物发光，呈现明亮的青色、绿松石色、皇家蓝、紫罗兰色和柔和粉色，皮肤内有如星星般的发光斑点。透明鲸腹内部，显示出一个充满活力的珊瑚礁生态系统，共有5个显著珊瑚群：中心附近有一块大型淡粉色分枝珊瑚，右侧一块粉黄相间的海葵状珊瑚，中央下方一团柔软的蓝色珊瑚丘，左下角一块薰衣草粉色珊瑚斑块，以及中下体附近一扇淡桃珊瑚扇。在鲸鱼下方加11条小鱼，游动呈松散弧形，颜色为奶油色、浅黄色、浅蓝色、青色和橙色。在鲸鱼周围加3只水母：头部左侧一只发光水母，鲸鱼背部上方中央附近一只小水母，尾巴右侧边缘一只小水母。用许多闪亮的气泡和水滴环绕鲸鱼，尤其是在弧形尾巴和右下鳍处，但保持它们细腻如宝石般。背景是一片深邃的海军色星空，点缀着无数微小的星星和几颗更大的闪烁星爆，营造出宇宙水下大气层。风格：高度细致的空灵数字绘画，细腻的渐变轮廓，柔和的渐变，透明水彩光晕，明亮的轮廓光，魔幻般的海洋空间氛围，无文字，无边框，无水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03522_0.jpg" width="600" alt="星空鲸鱼梦 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 62: 豪华圣代图解
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{argument name=“character” default=“character”}正在吃{argument name=“food item” default=“超级豪华圣代”}。包含箭头和注释，标注在{argument name=“food item” default=“parfait”}中。
-
-#### 📝 提示词
-
-```
-{argument name=“character” default=“character”}正在吃{argument name=“food item” default=“超级豪华圣代”}。包含箭头和注释，标注在{argument name=“food item” default=“parfait”}中。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16256_0.jpg" width="600" alt="豪华圣代图解 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 63: 西孟加拉之城
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一个城市 {argument name=“location” 默认=“西孟加拉”}
-
-#### 📝 提示词
-
-```
-一个城市 {argument name=“location” 默认=“西孟加拉”}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02807_0.jpg" width="600" alt="西孟加拉之城 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 64: 街头俏皮少女插画集
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-使用上传图片作为人物与风格参考，生成一组极简现代杂志插画风格的街头时尚人物图。画面主体是一位成年东方女性，短黑发，佩戴浅蓝色发带，不戴眼镜，表情俏皮、可爱、带一点搞怪感。人物穿浅蓝色宽松衬衫，内搭白色修身上衣，下身为白色层叠荷叶边短裙，背黑色小包，脚穿银色平底鞋，不穿袜子，手里拿着一杯带吸管的冰饮。 整体画面为高级水…
-
-#### 📝 提示词
-
-```
-使用上传图片作为人物与风格参考，生成一组极简现代杂志插画风格的街头时尚人物图。画面主体是一位成年东方女性，短黑发，佩戴浅蓝色发带，不戴眼镜，表情俏皮、可爱、带一点搞怪感。人物穿浅蓝色宽松衬衫，内搭白色修身上衣，下身为白色层叠荷叶边短裙，背黑色小包，脚穿银色平底鞋，不穿袜子，手里拿着一杯带吸管的冰饮。
-
-整体画面为高级水彩插画与现代时尚杂志海报质感，背景极简，保留大量白色留白，只保留少量抽象城市街头元素，例如路牌、街边柱子、马路边缘线条。配色以黑白灰、浅蓝、淡紫、米白为主，低饱和、清新、柔和、干净，可加入一点低调红色路牌作为视觉焦点。
-
-人物动作自然灵动，可以是走路、坐在街边、回头、跳跃、踮脚、拿饮料搞怪等不同姿势。表情需要有变化，例如眨眼、偷笑、嘟嘴、开心大笑、俏皮回头。画面加入轻微模糊、柔焦、淡淡重影、双层残像和运动拖影效果，边缘线条略微错位，像瞬间移动后留下的视觉痕迹。整体氛围轻盈、松弛、夏日感、漫画感、时尚又有呼吸感。
-
-无文字，无复杂背景，无真实照片感，无厚重油画感，无夸张五官，无品牌 Logo。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11668_0.jpg" width="600" alt="街头俏皮少女插画集 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 65: 窗边少女凝视
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-## {argument name=“character name” default=“일리야”} × {argument name=“location” default=“카페”} 外部 시점 × 창너머 촬영 --- **【레퍼런스 파일 명시】** - 面部 기준： '일리야_얼굴정면_NEW.png' / '…
-
-#### 📝 提示词
-
-```
-## {argument name=“character name” default=“일리야”} × {argument name=“location” default=“카페”} 外部 시점 × 창너머 촬영
-
----
-
-**【레퍼런스 파일 명시】**
-- 面部 기준： '일리야_얼굴정면_NEW.png' / '일리야_측면_NEW.png'
-- 의상·헤어 기준： '일리야_캐릭터턴어라운드1_저용량_.png'
-- 구도·반사 기준： '캡처_210.png'
-- 色保정 기준：“Cinelook_50.jpg”
-
----
-
-**【카메라 포지션 & 핵심 구도 — 가장 중요】**
-
-카메라는 카페 **외부(길거리)**에 위치.촬영자는 카페 유리창 바깥에서 안을 들여다보는 시점.{argument name=“character name” default=“일리야”}는 카페 **室内창가**에 앉거나 서서 얼굴을 유리창에 바짝 붙이고 있음.유리창이 카메라와 피사체 사이에 물리적으로 존재 — 유리의 두께감, 미세한 반사, 창틀의 물리적 레이어가 화면 전면부를 구성.카메라는 로우 앵글(턱선 아래), 약 20~30도 사선.{argument name=“character name” default=“일리야”}的脸是유리에 밀착되어 뺨이나 이마가 살짝 눌리는 느낌， 입김이 살짝 서릴 수도 있음.눈은 하늘 혹은 먼 곳을 응시 — 카메라 직시 아님.
-
-**유리창 레이어 표현:**
-- 유리 表面에 外部거리（{argument name=“era” default=“1940s 쇼와”}+2026 믹스 동경）의 반사가 {argument name=“character name” default=“일리야”} 面部 위에 은은하게 오버랩
-- 유리의 미세한 먼지, 물기 자국, 왜곡이 사실감을 높임
-- 창틀(목재 또는 금속)이 화면을 수직·수평으로 분할하는 프레임 안의 프레임 구성
-- 카페 내부 조명이 유리를 통해 따뜻하게 새어나오고, 외부는 청회색 낮 빛
-
----
-
-**【주체 & 피부 질감】**
-{参数 name=“character name” default=“일리야”}。脸是'일리야_얼굴정면_NEW.png' / '일리야_얼굴측면_NEW.png' 동일하게 유지.8K 하이퍼리얼리스틱 피부 — 모공, 솜털, 피지광택, 눈물막 반사, 모세혈관, 머리카락 낱올, 속눈썹 수분감.에어브러싱 완전 배제.매트하고 살아있는 피부 질감.유리창에 얼굴이 밀착된 상태라 뺨 한쪽이 유리에 눌려 살짝 변형되는 자연스러운 디테일 포함.
-
-**【의상·헤어·주얼리】**
-'일리야_캐릭터턴어라운드1_저용량_.png' 기준。백색 베이스 + 레드 용 자수 어깨 아머, 크로스 레이스업 흰색 전투복, 레드 드래곤 패턴.긴 흑발 자연 웨이브, 드롭형 은 귀걸이.마스크 없음, 얼굴 완전 노출.
-
-**【배경 — 카페 내부(유리 너머로 보임)】**
-유리창 너머 카페 내부： {argument name=“era” default=“1940s 쇼와”} 목재 인테리어 + 2026 미니멀 감성 혼합.낡은 목재 테이블, 다이쇼~쇼와 초기 조명기구(텅스텐 전구), 현대적 산업용 메탈 체어.카페 내부 조명은 따뜻한 앰버(2800K) — 유리를 통해 배경에서 새어나옴.
-
-**【배경 — 카페 외부(카메라 주변 환경)】**
-카메라가 위치한 거리: 1940년대 동경 + 2026 도시가 혼재한 익스테리어.낡是목조 상점들 사이로 현대 빌딩 실루엣， 쇼와 시대 간판과 LED 사이니지 공존.비 온 직후 젖은 노면 반사.전체 외부는 청회색 낮 빛, 카페 내부만 따뜻하게.
-
-**【렌즈 & 심도】**
-索尼 A7R V. 렌즈： 85mm f/1.4 GM. 조리개 f/2.0~f/2.2.焦点면： 유리창에 밀착된 {argument name=“character name” default=“일리야”}의 눈·코 — 유리 자체는 살짝 아웃포커스되어 몽환적 레이어 형성.카페 내부 배경은 소프트 보케.포그라운드의 창틀은 선명하게.
-
-**【조명】**
-외부(카메라 쪽): 맑은 낮 청백 자연광 5800K, 소프트 디퓨즈.소프트박스 약광 보조로 인물 얼굴 전면에 밀크 화이트 필 라이트.내부（유리 너머）： 앰버 텅스텐 2800K 카페 조명이 역광처럼 {argument name=“character name” default=“일리야”} 뒤에서 새어나옴 — 헤어 엣지에 따뜻한 림라이트 효과.전체 노출: 약한 오버엑스포저, 하이라이트 소프트 클리핑.
-
-**【색보정 & 톤앤매너】**
-“Cinelook_50.jpg”标准。청회색 쿨 베이스 톤, 밀크 화이트 하이라이트, 채도 전체 낮게 — 레드 드래곤 자수만 소폭 채도 잔류.필름 그레인 약하게, 디지털 노이즈 경미하게.매트 빈티지 CCD 룩. 쨍함 없는 소프트 마감.
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07476_0.jpg" width="600" alt="窗边少女凝视 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07476_1.jpg" width="600" alt="窗边少女凝视 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07476_2.jpg" width="600" alt="窗边少女凝视 - Image 3">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 66: 暗夜球魂：选择性色彩海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-超风格化足球海报，暗黑电影感体育艺术品，选择性色彩效果，深黑色背景，单色灰度球员，仅保留球队颜色，高对比度照明，戏剧性阴影，粗犷的胶片颗粒纹理，半色调印刷效果，复古杂志美学，霓虹光泽点缀，眼睛处有发光的遮挡条，现代街头服饰图形设计，编辑类体育海报，动态动作姿势，体育场氛围消散在黑暗中。 主体：身穿国家队球衣的顶尖足球…
-
-#### 📝 提示词
-
-```
-超风格化足球海报，暗黑电影感体育艺术品，选择性色彩效果，深黑色背景，单色灰度球员，仅保留球队颜色，高对比度照明，戏剧性阴影，粗犷的胶片颗粒纹理，半色调印刷效果，复古杂志美学，霓虹光泽点缀，眼睛处有发光的遮挡条，现代街头服饰图形设计，编辑类体育海报，动态动作姿势，体育场氛围消散在黑暗中。
-
-主体：身穿国家队球衣的顶尖足球运动员，表情专注，处于庆祝瞬间，居中构图，球衣颜色保持鲜艳，而皮肤和背景保持黑白，身体轮廓有细微的红/橙色光芒，戏剧性的轮廓光，漂浮颗粒，电影深度。
-
-灵感源自当代体育图形设计、地下足球文化、海报艺术、图形小说纹理、高级品牌活动、大胆构图、极简背景、高端Photoshop处理、超细致、8K、杰作。
-
-色彩处理：
-- 整个图像为黑白
-- 只有球衣、球袜、球鞋和足球保持完整的国家队颜色
-- 霓虹光泽匹配球队颜色
-- 红、橙、黄、蓝或国家队调色板亮点
-- 强对比度和忧郁氛围
-
-效果：
-重胶片颗粒、CRT纹理、噪点叠加、尘埃颗粒、半色调点、纸张纹理、晕影、辉光晕染、色差、细微运动模糊、体育编辑外观。
-
-排版区域：
-为标题和品牌留出负空间，海报布局，杂志封面构图。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14988_0.jpg" width="600" alt="暗夜球魂：选择性色彩海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14988_1.jpg" width="600" alt="暗夜球魂：选择性色彩海报 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 67: 3D夸张漫画肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一幅高度风格化的3D漫画肖像，描绘了{argument name=“subject” default=“a man”}，拥有过大的拉长头部、夸张的下颌线、粗壮的脖子以及俏皮的不对称面部表情。一边眉毛夸张地挑起，一只眼睛眯起，带着调皮的笑容和细微的胡茬细节。采用超流畅的精致CGI风格渲染，皮肤质感逼真，次表面散射柔和，…
-
-#### 📝 提示词
-
-```
-一幅高度风格化的3D漫画肖像，描绘了{argument name=“subject” default=“a man”}，拥有过大的拉长头部、夸张的下颌线、粗壮的脖子以及俏皮的不对称面部表情。一边眉毛夸张地挑起，一只眼睛眯起，带着调皮的笑容和细微的胡茬细节。采用超流畅的精致CGI风格渲染，皮肤质感逼真，次表面散射柔和，3D材质干净利落。电影感十足的柔和氛围摄影棚灯光，柔和的阴影和中性的灰色渐变背景。构图极简，完全聚焦于角色幽默夸张的面部表情和迷人的个性。皮克斯与现代3D雕塑美学相结合，细节丰富却又卡通化，富有表现力，极具表情包价值。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03844_0.jpg" width="600" alt="3D夸张漫画肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03844_1.jpg" width="600" alt="3D夸张漫画肖像 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 68: 猫瞳智核
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-目标：创作一本垂直先锋时尚杂志封面，以{argument name=“character name” default=“神秘的猫主题智能女英雄”}为中心主题，融合极简高尚编辑肖像、复古日本动漫海报能量和独立艺术项目的关键视觉设计。 画布：竖式杂志封面，4：5宽高比，全出血。深青蓝色的天空背景，左下角和右下角有温暖的橙…
-
-#### 📝 提示词
-
-```
-目标：创作一本垂直先锋时尚杂志封面，以{argument name=“character name” default=“神秘的猫主题智能女英雄”}为中心主题，融合极简高尚编辑肖像、复古日本动漫海报能量和独立艺术项目的关键视觉设计。
-
-画布：竖式杂志封面，4：5宽高比，全出血。深青蓝色的天空背景，左下角和右下角有温暖的橙色云朵。使用强烈的青橙色调色，戏剧性的边缘光影，强烈的图形阴影，以及复古海报的感觉。
-
-主要主题：一个动漫风格的女性角色，采用极低角度视角，显得宏伟，从画面中向外突出。她以紧张、时尚的JOJO式时尚姿势站立，一只手插在裤兜里，上半身微微后仰，肩膀倾斜，头低垂向观者。她的脸被一层柔和的矩形模糊或阴影遮挡，保持身份神秘。她留着短短的黑色短发，带有橙色边缘挑染，戴着明显的耳环，散发着冷静、聪明且略带危险气息的气场。
-
-服装与标志：包含5件主要服装：一件夸张的米色风衣、黑色合身上衣、高腰米色裤子、一条带矩形扣的黑色腰带和小巧的深色耳环。只需添加一个标志性配饰系统：手腕上的猫眼手链，设计为角色的视觉标志，而非简单的饰品。手链上应有两个可见的悬挂吊坠：一个橙眼护身符和一个用金链连接的小暗球形吊坠。
-
-封面布局：在顶部用温暖橙色写着{argument name=“magazine title” default=“AXIOM”}的顶部，部分位于角色头部和头发后方，放置一个巨大的优雅衬线字头。保持字体简洁、精致且时尚杂志风格，留有足够的负空间。角色应与报头重叠，强化掩体逻辑。
-
-可见文本内容：封面上恰好包含8组文本：1）左上角的小文字：“美学・反逆・未来”;2）右上角的小文字：“VOL.09 / AUTUMN 2025”;3）巨型报头：“AXIOM”;4）左中大字日文：“猫”;5）中小型英/日语台词：“机智。本能。革命。“和”本能是、真实を見抜く。”;6）右中小英/日语台词：“智力是终极武器。”和“知性こそ、最强的武器。”;7）左下角的问题块：“THE CLEVER ISSUE”和“妙案是、静かに仕掛ける。”;8）右下角大号期号及说明：{argument name=“issue number” default=“09”}，内含“SHADOW GAME”和“BRIGHT MIND”。
-
-视觉风格：受日本老动漫启发的角色设计，时尚编辑封面构图，电影般的低角度光影，锐利的墨线轮廓，画作式的卡通渲染折叠，温暖的橙色高光，深青绿色阴影，优雅的衬线字体排版，干净利落的奢华杂志间距，复古海报颗粒感。
-
-限制：使用仅一个中心角色，一个猫眼手镯，两个手镯吊饰，以及八组可见文本。不要添加额外的封面线、标志、条形码、水印或额外字符。保持图片时尚且富有象征意义，而非过于细节或写实。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03711_0.jpg" width="600" alt="猫瞳智核 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03711_1.jpg" width="600" alt="猫瞳智核 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03711_2.jpg" width="600" alt="猫瞳智核 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03711_3.jpg" width="600" alt="猫瞳智核 - Image 4">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 69: 三美元之谜
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-3美元
-
-#### 📝 提示词
-
-```
-3美元
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16311_0.jpg" width="600" alt="三美元之谜 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 70: 动漫角色搞怪自拍
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-以上传的照片为主体，创作一张有趣且超逼真的自拍。 保持上传照片中原始的面部特征、发型、肤色和表情。如果上传了两个人，请完全保留两个主题。 将受试者置于{argument name=“setting” default=“舒适客厅”}，并与{argument name=“characters” default=“著名卡通…
-
-#### 📝 提示词
-
-```
-以上传的照片为主体，创作一张有趣且超逼真的自拍。
-
-保持上传照片中原始的面部特征、发型、肤色和表情。如果上传了两个人，请完全保留两个主题。
-
-将受试者置于{argument name=“setting” default=“舒适客厅”}，并与{argument name=“characters” default=“著名卡通角色”}一起拍摄近距离自拍：
-
-鲁邦三世，居中前排
-
-左边的圣西亚做着傻脸
-
-右边是虎面摔跤手，脸上带着奇怪的惊讶表情
-
-乱马在背景中夸张地喊叫
-
-所有角色都吐舌头，做出滑稽表情，中间的主角们也做出夸张的表情。
-
-风格：
-
-超现实
-
-电影灯光
-
-细节丰富
-
-俏皮幽默
-
-室内暖光
-
-皮克斯般的品质
-
-锐利对焦
-
-专业作曲
-
-组成：
-
-特写自拍视角
-
-主体中心
-
-卡通人物紧密聚集在一起
-
-双臂伸展，仿佛握着相机
-
-{参数名称=“宽高比” 默认=“竖屏（4：5）”}
-
-情绪：
-
-真有趣
-
-纯洁
-
-混乱的友谊氛围
-
-病毒式社交媒体风格
-
-4K，超细致，照片级写实。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03134_0.jpg" width="600" alt="动漫角色搞怪自拍 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 71: 旧金山AI海报墙
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在旧金山的一砖墙上制作一个浆糊糊贴海报装置，展示来自各种AI实验室的海报
-
-#### 📝 提示词
-
-```
-在旧金山的一砖墙上制作一个浆糊糊贴海报装置，展示来自各种AI实验室的海报
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14363_0.jpeg" width="600" alt="旧金山AI海报墙 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 72: 双子兔娘咖啡厅特辑
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-参照画像の双子の人物を維持、リアルな実写風、日本のテレビ情報番組による“{argument name="特集名" default="話題のうさぎカフェ特集"}”。明るく可愛らしい人気うさぎカフェ店内。画面手前ではレポーターが笑顔でカメラに向かって店を紹介している。ニュース・情報番組風テロップデザイン。画面上部に『{a…
-
-#### 📝 提示词
-
-```
-参照画像の双子の人物を維持、リアルな実写風、日本のテレビ情報番組による“{argument name="特集名" default="話題のうさぎカフェ特集"}”。明るく可愛らしい人気うさぎカフェ店内。画面手前ではレポーターが笑顔でカメラに向かって店を紹介している。ニュース・情報番組風テロップデザイン。画面上部に『{argument name="タイトル" default="話題のうさぎカフェ"}』、下部に『{argument name="サブタイトル" default="人気の秘密は？"}』という文字が表示されている。白・ピンク・オレンジ系の柔らかい配色、実際のテレビ中継のようなレイアウト。企業ロゴや実在店舗名は一切入れない。
-
-店内には本物のうさぎたちがたくさん自由に過ごしている。木製の小屋、牧草、クッション、柔らかい照明、癒し系の空間。そんな中に、参照画像の双子が“うさぎのコスプレ姿”で自然に混じっている。長いうさ耳カチューシャ、ふわふわの白いしっぽ、うさぎ風の柔らかい衣装など軽めのうさぎコスプレ。二人とも床やクッションの上で本物のうさぎたちと一緒に自然にくつろいでいる。片方は小さくしゃがみながらうさぎに囲まれ、もう片方は牧草を持ちながら周囲に溶け込んでいる。最初は普通のうさぎカフェ紹介に見えるが、よく見ると双子が人間なのにうさぎたちの中に自然に混ざっていて妙に目立つコミカルな構図。
-
-レポーターは真面目に紹介している。テレビ中継用カメラの自然な映像感、浅い被写界深度、暖かい店内照明、リアルなうさぎの毛並み、リアルな肌質、ドキュメンタリー風、フォトリアル、超高精細、リアルなテレビ番組品質。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07388_0.jpg" width="600" alt="双子兔娘咖啡厅特辑 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 73: 美食明信片奇观
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-创建一个超写实的旅游美食明信片场景。 输入： 城市：[城市名称] 当地美食：[当地美食] 背景地点：[背景地点或地标] 场景： 一只真实的人手在前景中拿着一张复古旅游明信片。 明信片内部是一张巨大、造型优美、超写实的[当地美食]美食照片，拍摄效果如同高端美食广告。菜肴应显得比实际更大，具有丰富的纹理、逼真的细节、诱人…
-
-#### 📝 提示词
-
-```
-创建一个超写实的旅游美食明信片场景。
-输入：
-城市：[城市名称]
-当地美食：[当地美食]
-背景地点：[背景地点或地标]
-场景：
-一只真实的人手在前景中拿着一张复古旅游明信片。
-明信片内部是一张巨大、造型优美、超写实的[当地美食]美食照片，拍摄效果如同高端美食广告。菜肴应显得比实际更大，具有丰富的纹理、逼真的细节、诱人的摆盘、自然光线、微妙的蒸汽、浅景深和电影级美食摄影。
-一个背着背包的小型微型旅行者自然地坐在明信片的上边缘，双腿悬在前面。旅行者应该是写实的、高度细致的，并且其位置看起来像是在欣赏当地美食。微型旅行者作为情感焦点，营造出强烈的比例感和奇观感。
-明信片外部是[城市名称]中[背景地点或地标]的真实目的地环境。背景应包含可识别的当地建筑、街道、风景、文化元素、地标、氛围、色彩以及目的地特有的视觉细节。
-包括一个自然融入环境的乡村木制方向指示牌。指示牌必须根据与该地点相关的城市、文化、景点、美食场景、地标、街区、自然特征或旅游体验，自动生成四个简短的目的地特定标签。
-生成的指示牌应具有该目的地的真实感，并增强旅游叙事感。
-构图层级：
-微型旅行者
-明信片内的当地美食
-目的地背景
-目的地指示牌
-风格：超写实摄影，豪华旅游活动美学，电影化叙事，真实的目的地氛围，写实的手，写实的微型旅行者，高度细致的美食摄影，自然黄金时刻光照，浅景深，丰富的色彩，编辑级旅游杂志质量，值得发Instagram的社交媒体内容，视觉冲击力，垂直4:5长宽比，极度细致，高端商业广告。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13036_0.jpg" width="600" alt="美食明信片奇观 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13036_1.jpg" width="600" alt="美食明信片奇观 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 74: 韩国教室窗边少女
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-使用上传的参考图片作为{argument name=“girl” default=“girl”}的准确面部识别参考。保持整张图片中相同的面部结构、眼睛、鼻子、嘴唇、发型、肤色、美感细节及整体外观一致性。 这张超写实的肖像，是参考图中同一个女孩，白天站在{argument name=“韩国教室”默认=“空的韩国教室”}…
-
-#### 📝 提示词
-
-```
-使用上传的参考图片作为{argument name=“girl” default=“girl”}的准确面部识别参考。保持整张图片中相同的面部结构、眼睛、鼻子、嘴唇、发型、肤色、美感细节及整体外观一致性。
-
-这张超写实的肖像，是参考图中同一个女孩，白天站在{argument name=“韩国教室”默认=“空的韩国教室”}的大教室窗边，从正面摆姿势，直视镜头，脸上带着柔和而平静的微笑。一只手轻轻放在头发上，姿态放松自信，现代年轻的韩国时尚美学。穿着{argument name=“cloth” default=“合身的长黑色罗纹上衣”}，宽袖和浅灰色洗牛仔裤，优雅休闲造型。长长的丝滑黑发自然飘逸，眼睛光泽，柔和自然腮红妆容，逼真的肤质，梦幻般的青春韩美美学。
-
-明亮的自然阳光透过教室窗户洒进来，营造出柔和的电影高光和逼真的阴影。正宗的韩国教室内部，木质课桌、黑色椅子、绿色黑板、墙上韩国国旗、干净的中性墙壁、抛光的地板，窗外可见树木。
-
-宁静的生活氛围，极简的韩国学校美学，坦率的模特姿势，柔和的日光摄影，浅景深，电影般的构图，高度细致、逼真的教室环境，奢华的生活方式编辑感，柔和的光晕，逼真的单反摄影，宁静的现代氛围。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05390_0.jpg" width="600" alt="韩国教室窗边少女 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 75: 未来全息偶像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一则时尚的未来感日本科技广告，背景是黑暗的科幻展厅，地板光滑反光，背景是柔和的蓝色霓虹散景灯。右侧展示一个高大的黑色矩形全息装置，前侧透明玻璃，边缘圆润，顶部有微妙的摄像头传感器。该设备标注为Gatebox3，发出青蓝色光芒，底部有明亮的青绿色标志。在舱内，展示一个全身动漫虚拟女孩全息影像，漂浮在底部平台上方，呈现为…
-
-#### 📝 提示词
-
-```
-一则时尚的未来感日本科技广告，背景是黑暗的科幻展厅，地板光滑反光，背景是柔和的蓝色霓虹散景灯。右侧展示一个高大的黑色矩形全息装置，前侧透明玻璃，边缘圆润，顶部有微妙的摄像头传感器。该设备标注为Gatebox3，发出青蓝色光芒，底部有明亮的青绿色标志。在舱内，展示一个全身动漫虚拟女孩全息影像，漂浮在底部平台上方，呈现为带有粒子闪光的半透明蓝色投影。她留着非常长的双马尾头发，年轻的偶像造型，穿着未来感十足的白色和青色服装，袖子可脱，短裙，过膝袜和高跟鞋。她的脸部故意简化或柔和地遮挡，摆出一条腿弯曲、双臂张开的姿态，表示欢迎。在腔室内的上下加装发光的圆形投影环。左侧放置简洁的日语宣传文字排版，标题大写“所有角色を輝かせる”，单个汉字“輝”以亮青色强调，其余用白色。在下面，用白色写入Gatebox3标志和产品名称，后面是较小的标语“物語が、そこにいる。」.左下角恰好包含4个带有日文标签的特色图标，分别为白色和青色：1个全息图标“高精细 3Dホログラム”，1个音频波形图标“角色との 自然な会話”，1个阳光状环境光图标“空间に溶け込む 洗練デザイン”，以及1个心形图标“你的そばに いつも一緒に”。高端商业产品可视化、高级赛博蓝配色、电影感十足的边缘光影、抛光反射、超干净的构图、结合动漫全息角色的逼真设备渲染、对产品和字体的敏锐聚焦。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09665_0.jpg" width="600" alt="未来全息偶像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 76: 奶茶泡饼干
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-系统角色 担任世界级的快速消费品品牌艺术总监、食品广告创意总监、社论平面设计师和文化叙事专家，在顶级全球代理机构运作。 您的专业知识包括： - 快速消费品广告 - 食欲心理学 - 情感叙事 - 基于怀旧的品牌塑造 - 社论设计系统 - 高端社交媒体活动 像以下团队的融合一样思考： Parle 创意团队 奥美印度 Pe…
-
-#### 📝 提示词
-
-```
-系统角色
-
-担任世界级的快速消费品品牌艺术总监、食品广告创意总监、社论平面设计师和文化叙事专家，在顶级全球代理机构运作。
-
-您的专业知识包括：
-
-- 快速消费品广告
-- 食欲心理学
-- 情感叙事
-- 基于怀旧的品牌塑造
-- 社论设计系统
-- 高端社交媒体活动
-
-像以下团队的融合一样思考：
-
-Parle 创意团队
-奥美印度
-Pentagram
-经典印度广告传奇
-
-绝不要创作平庸的饼干广告、豪华食品造型或人工智能粗制滥造的视觉效果。
-
-任务
-
-为 Parle-G 创作一张世界级的高端社交媒体营销活动海报。
-
-这不仅仅是一则饼干广告。
-
-这是扎根于印度记忆的情感叙事。
-
-设计必须让人感到温暖、怀旧、引起共鸣且一眼就能辨认。
-
-产品基因
-
-产品：
-Parle-G 葡萄糖饼干。
-
-Parle-G 不仅仅是一块饼干。
-
-Parle-G 是一种记忆。
-
-核心情感诱发因素：
-
-印度奶茶 (Chai)
-童年
-慰藉
-家
-雨
-家庭
-日常的温暖
-
-品牌个性：
-
-简单
-值得信赖
-温暖
-亲切
-真实
-永恒
-
-核心事实：
-
-Parle-G 已存在于印度几代人的日常生活中。
-
-消费者情感
-
-触发点：
-
-怀旧
-慰藉
-温暖
-童年记忆
-归属感
-简单的快乐
-
-观众反应：
-
-“这让我想起了家。”
-
-环境叙事
-
-创造一个真实的印度季风季奶茶环境。
-
-场景：
-
-温暖的室内设置
-通过附近的窗户可见降雨
-柔和的自然日光
-热奶茶冒出的蒸汽
-木桌上的 Parle-G 包装袋
-钢盘上的几块饼干
-自然的碎屑
-季风空气带来的轻微湿润感
-
-环境必须感觉有人居住且真实。
-
-这应该感觉像是一个真实的印度饮茶时刻。
-
-英雄产品时刻
-
-捕捉情感消费时刻。
-
-英雄动作：
-
-Parle-G 饼干悬停在奶茶杯上方
-轻微的奶茶溅起
-饼干正要浸泡
-可见蒸汽
-包装袋近景
-次要饼干自然排列
-
-产品必须占据场景主导地位。
-
-饼干应感觉新鲜酥脆。
-
-社交媒体活动设计
-
-这是一份高端社交媒体营销活动创意。
-
-包含强大的平面设计元素：
-
-大胆的活动标题
-社论层级
-受传统启发的平面构图框架
-品牌安全构图
-移动端易读性
-
-将叙事与活动设计融合。
-
-布局系统
-
-分辨率：
-1080 × 1350
-
-构图比例：
-
-40% 环境
-35% 产品英雄
-25% 平面设计系统
-
-层级：
-
-顶部：
-活动标题
-
-中部：
-英雄奶茶 + 饼干时刻
-
-底部：
-包装袋特写 + 徽标 + 行动呼吁 (CTA)
-
-使用结构化的社论网格。
-
-排版
-
-排版应感觉经典而现代。
-
-风格：
-
-大胆干净的衬线或无衬线字体
-温暖的社论层级
-高度易读性
-印度广告审美
-
-标题示例：
-
-GENIUS
-WITH CHAI
-
-或
-
-TASTE OF
-HOME
-
-排版应与温暖感相辅相成。
-
-平面设计语言
-
-使用受传统品牌启发的社交媒体设计覆盖层：
-
-暖黄色框架
-社论标签
-细微的边框图案
-经典的包装提示
-结构化的间距
-干净的文字模块
-
-设计必须在尊重传统的同时感觉现代。
-
-色彩策略
-
-主色：
-Parle 黄
-
-辅色：
-暖红
-奶油米色
-奶茶褐
-
- accent：
-柔和的阳光高光
-
-色彩规则：
-
-暖色调
-高情感慰藉感
-强烈的黄色品牌联想
-
-Parle 包装必须立即脱颖而出。
-
-纹理细节
-
-极高的真实感。
-
-展示：
-
-饼干压花
-清脆的边缘
-饼干屑纹理
-奶茶蒸汽
-茶面波纹
-包装材料纹理
-温暖的反射
-
-纹理的真实感至关重要。
-
-照明
-
-使用温暖的高端商业照明。
-
-照明设置：
-
-柔和的窗光
-温暖的环境反射光
-蒸汽高光
-柔和的阴影
-电影感温暖
-
-照明必须唤起慰藉感。
-
-品牌化
-
-包括：
-
-Parle-G 徽标
-经典包装
-品牌安全放置
-
-CTA 示例：
-
-品味怀旧
-奶茶时光
-日常慰藉
-
-负面约束
-
-避免：
-
-通用的食品海报
-奢侈造型
-阴暗情绪化的美学
-杂乱的布局
-廉价的怀旧陈词滥调
-拙劣的排版
-素材库照片感
-人工智能瑕疵
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13913_0.jpg" width="600" alt="奶茶泡饼干 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13913_1.jpg" width="600" alt="奶茶泡饼干 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 77: 文学部少女
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一张 3D 动漫风格的插画，展示了四名女高中生身处日本教室中，沐浴在 {argument name="lighting" default="温暖的午后阳光"} 下。在右侧前景中，一位留着 {argument name="foreground right character hair" default="系着白色蝴蝶结…
-
-#### 📝 提示词
-
-```
-一张 3D 动漫风格的插画，展示了四名女高中生身处日本教室中，沐浴在 {argument name="lighting" default="温暖的午后阳光"} 下。在右侧前景中，一位留着 {argument name="foreground right character hair" default="系着白色蝴蝶结的珊瑚棕色长马尾"}、拥有绿色眼睛的女孩带着温暖的微笑向观众伸出手。在左侧前景中，一位留着 {argument name="foreground left character hair" default="粉色短发配红色发夹"}、拥有粉色眼睛的女孩双臂交叉站立，表情略显烦恼。在中景处，一位留着深紫色长发的女孩平静地拿着一本书站着；而在背景中，一位留着珊瑚粉色短发、系着红色蝴蝶结的女孩正愉快地挥手。四名女孩都穿着统一的校服，包括 {argument name="uniform style" default="灰色西装外套、棕色针织背心、红色丝带和蓝色百褶裙"}。教室里有木地板、课桌和一块绿色黑板。左上角有一个带有粉色边框的圆形 Logo，其中包含程式化的文字“{argument name="logo text" default="DOKI DOKI Literature Club!"}”，下方是一个巨大的粉色“3D”字样，并装饰着一支绿色铅笔和一个粉色爱心。整张图片具有高质量的 3D 渲染美感，类似于带有柔和光影和景深效果的电子游戏宣传艺术图。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15754_0.jpg" width="600" alt="文学部少女 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 78: 电影级角色设计板
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-为高端剧情电影创建电影级角色设计板。{argument name="主体" default="一位气质非凡的女主角"}，面部线条锐利温柔，肌肤自然光泽，穿着现代感十足的高级丝绸礼服。极简奢华珠宝饰品提升整体气质。包含：全身转圈图、面部表情变化、电影构图角度、布料物理研究、化妆分解、标注说明和身高参考。氛围：干净棚拍灯…
-
-#### 📝 提示词
-
-```
-为高端剧情电影创建电影级角色设计板。{argument name="主体" default="一位气质非凡的女主角"}，面部线条锐利温柔，肌肤自然光泽，穿着现代感十足的高级丝绸礼服。极简奢华珠宝饰品提升整体气质。包含：全身转圈图、面部表情变化、电影构图角度、布料物理研究、化妆分解、标注说明和身高参考。氛围：干净棚拍灯光、现代编辑时尚美学、柔和阴影、奢侈杂志质感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04576_0.jpg" width="600" alt="电影级角色设计板 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 79: 纽约秋日摄影旅
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-这是一幅西班牙语的垂直编辑风格旅行海报，主题为{argument name=“trip type” default=“III viaje fotográfico”}，标题为“OTOÑO EN NUEVA YORK”，设计风格浓厚的都市秋日氛围和高端摄影工作坊美学。使用高大且适合移动的海报布局，搭配温暖的米白色、米色、…
-
-#### 📝 提示词
-
-```
-这是一幅西班牙语的垂直编辑风格旅行海报，主题为{argument name=“trip type” default=“III viaje fotográfico”}，标题为“OTOÑO EN NUEVA YORK”，设计风格浓厚的都市秋日氛围和高端摄影工作坊美学。使用高大且适合移动的海报布局，搭配温暖的米白色、米色、炭灰色和焦橙色调。画面以左侧超大号浓缩黑色无衬线字体为主：顶部小字写着“III VIAJE FOTOGRÁFICO”，顶部是巨大的叠加标题“OTOÑO”，还有一个较小的“EN”，两侧有短横橙色线条，下面是巨大的叠加字样“NUEVA YORK”。右侧放置一栏狭窄的信息栏，上面有4条大写短的福利行：“7 NOCHES”、“GRUPO REDUCIDO”、“GUÍAS EXPERTOS”和“MILES DE FOTOS”，最后一行用橙色标注。在下方，用大号橙色数字“17-24”加上日期，下面用黑色大写字母“DE OCTUBRE”和“DE 2026”添加日期。在最右边边缘加一条细细的竖线，顶部加一个小橙色点。将一幅情绪浓郁的纽约街头照片拼贴融入下半部分，并通过排版画展开，中心是曼哈顿大桥，周围是深色砖楼、湿润的街道、几辆汽车、从路面升起的蒸汽，以及前景中一位戴着锈橙色毛线帽、背着背包、手持相机朝向桥梁的摄影师。让“纽约市”的巨型裁剪字形或类似大胆的图形形状与城市图像在下半部分融合，营造出层叠的双重曝光海报效果。加入做旧纸质感、粗糙撕裂边缘覆盖、白色刷漆质感和细腻的垃圾摇滚，打造手工编辑效果。在左下中部区域放置一个圆形橙色印章，印有一枚小型自由女神火炬图标和弯曲文字“III VIAJE FOTOGRÁFICO ·新约克的Otoño。”底部形成一条深色条带，配有两个主持人署名，一个左边和一个右边，中间用一条细长的竖直橙色线分隔：左边是“CARLOS SÁNCHEZ”，下面是橙色的“@CHOCUTUTS”，右边是“JON TARAFA”，下面是橙色的“@JONTCPHOTO”。在最底部中央，用间隔橙色大写字母标注“VIAJENY.COM”。在底部角落放两个部分裁剪的灰度肖像剪裁，一个在左边，一个在右边，与深色页脚区域融合。整体风格：电影感十足的旅游广告、当代杂志海报、大胆的排版层次、层叠拼贴、浓郁的纽约秋季氛围、高对比度、优雅且富有戏剧性。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01100_0.jpg" width="600" alt="纽约秋日摄影旅 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 80: 极简冷调时尚大片
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-打造一个高端时尚杂志的编辑封面，拍摄在极简风格的冷白灰色自助洗衣店。场景中有干净的白色矩形墙砖，背景中有带有圆形镀铬鼓门的深色光泽工业洗衣机，以及一根黑色金属竖杆将画面分隔在左三分之一附近。主角是一位{论点名=“模特身份”默认=“年轻亚洲女性”}，随意地坐在一张昏暗磨损的洗衣台或机台上，身体微微前倾，长长的{论点名=…
-
-#### 📝 提示词
-
-```
-打造一个高端时尚杂志的编辑封面，拍摄在极简风格的冷白灰色自助洗衣店。场景中有干净的白色矩形墙砖，背景中有带有圆形镀铬鼓门的深色光泽工业洗衣机，以及一根黑色金属竖杆将画面分隔在左三分之一附近。主角是一位{论点名=“模特身份”默认=“年轻亚洲女性”}，随意地坐在一张昏暗磨损的洗衣台或机台上，身体微微前倾，长长的{论点名=“发型”默认=“黑色自然散发卷发”}，淡色精致的妆容，五官精致，目光平静疏离，带着淡淡的慵懒、微醺、沉思的神情。她戴着一副窄黑太阳镜，一只手轻触镜框，穿着一件宽大的洁白衬衫敞开，浅蓝色洗涤牛仔紧身胸衣短款上衣，配套高腰牛仔短裤，以及带有许多黑色小X印的透视黑色连裤袜。她的姿态是编辑感十足且放松的：一只手臂伸向洗衣机区域，双腿斜斜地横跨下框，躯干朝向镜头。使用冷色调、锐利的杂志摄影、柔和的漫射摄影棚灯光、细腻的胶片颗粒感、逼真的皮肤质感、光泽金属反射，以及既精致又工业感十足的氛围。在图像最左边的边缘添加一个深藏青黑色竖排字格，占据图像约四分之一的位置，并配有变旧的超大米白色竖直标题文字，内容为{argument name=“cover headline” default=“COOLNESS”}。在该面板上恰好包含三个较小的文本块：右上角附近，垂直微缩机阅读{argument name=“侧引” 默认=“风格不张扬——它只是不需要解释”};左下角堆叠的文字写着“沉默中洗净。是故意佩戴的。“;其下方叠加的期刊文字写有“SS / 24 EDITORIAL SERIES”，并配有一条细长的横线。让版面感觉像现代时尚杂志封面，3：4竖裁，不要多余的人物，不要多余的文字，不要水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00210_0.jpg" width="600" alt="极简冷调时尚大片 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00210_1.jpg" width="600" alt="极简冷调时尚大片 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00210_2.jpg" width="600" alt="极简冷调时尚大片 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00210_3.jpg" width="600" alt="极简冷调时尚大片 - Image 4">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 81: 人宠自拍合影生成指南
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-请基于用户上传的人物照片和宠物照片，生成一张真实手机自拍感的人宠合影。 仅将上传的人物照片作为人物身份参考，仅将上传的宠物照片作为宠物身份参考。严格保留人物和宠物各自的真实辨识特征，包括：人物的脸型、五官比例、眼睛、鼻子、嘴唇、肤色、年龄感、发型基础、体型和整体气质；宠物的物种、品种特征、毛色、花纹、脸部特征、耳朵形…
-
-#### 📝 提示词
-
-```
-请基于用户上传的人物照片和宠物照片，生成一张真实手机自拍感的人宠合影。
-
-仅将上传的人物照片作为人物身份参考，仅将上传的宠物照片作为宠物身份参考。严格保留人物和宠物各自的真实辨识特征，包括：人物的脸型、五官比例、眼睛、鼻子、嘴唇、肤色、年龄感、发型基础、体型和整体气质；宠物的物种、品种特征、毛色、花纹、脸部特征、耳朵形状、眼睛、鼻口部、毛发质感和整体神态。宠物可以是猫，也可以是狗，必须根据用户上传的宠物照片生成，不要擅自更换品种、毛色或外观。不要美化，不要换脸，不要把人物变成 AI 模特，不要改变宠物外观，不要沿用上传照片原本的姿势、构图和背景。
-
-画面设定为“像宠物自己拿着手机随手自拍”的效果。采用近距离广角手机自拍视角，镜头非常靠近宠物，宠物位于最前景，脸部和前爪靠近镜头，形成自然的广角透视放大，像宠物正在自己举着手机自拍。透视可以轻微夸张，但不能严重畸形。宠物是视觉焦点，神态轻松自然，嘴部可以微微张开，像在自然微笑，整体显得可爱、生动、有灵气。
-
-人物位于宠物后方或侧后方，蹲下或俯身进入画面，和宠物一起看向镜头。人物表情轻松、自然、放松，可以带一点露齿微笑，像随手拍下的一张生活化合影。姿态不要摆拍过重，要像和宠物玩的时候偶然拍到的一张真实照片。人物穿{argument name="服装" default="浅色、简单、日常的衣服"}，例如米白色、奶油色、浅灰色、浅卡其色的休闲上衣、针织衫、衬衫、卫衣或外套，整体干净自然、有生活感。
-
-背景设定为{argument name="背景环境" default="中国普通居民区或日常社区环境"}，例如老小区楼下、居民楼门口、小区院子、普通楼道口、旧楼外墙边、水泥地、绿植旁、社区角落等。环境真实自然，有生活痕迹和中国社区常见元素，例如栏杆、窗户、防盗网、盆栽、楼道入口、旧墙面等。不要欧美街景，不要梦幻布景，不要高级影棚。
-
-整体画面必须是高写实真实摄影风格，像普通手机广角自拍随手拍出来的效果。保留一点点手持拍摄感，可以有轻微动态模糊、轻微噪点、轻微曝光不均和自然的边缘广角拉伸，使画面更像真实原相机手机抓拍，而不是精修写真。人物皮肤保留真实纹理和自然状态，不要磨皮，不要网红脸，不要商业写真感。整体氛围真实、轻松、可爱、有生活感，像宠物偶然拍出的一张很自然的人宠合影。
-
-严格避免：AI 假脸、过度美颜、磨皮、网红脸、商业摆拍感、影棚感、海报感、人物过度精修、宠物严重变形、背景过度干净或不真实、人物和宠物不像上传照片。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04266_0.jpg" width="600" alt="人宠自拍合影生成指南 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 82: 赛博朋克战衣急救界面
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-创建一个密集的未来日本科幻紧急HUD屏幕，一个全屏战衣遥测仪表盘，{argument name=“unit name” default=“SOLJENNE”}。黑色背景，发光的红橙色界面图形，细细的青蓝色网格点缀，破旧的工业界面风格，以及高对比度赛博朋克控制室美学。该显示屏是一个统一的监控面板，分为12个清晰分隔的部…
-
-#### 📝 提示词
-
-```
-创建一个密集的未来日本科幻紧急HUD屏幕，一个全屏战衣遥测仪表盘，{argument name=“unit name” default=“SOLJENNE”}。黑色背景，发光的红橙色界面图形，细细的青蓝色网格点缀，破旧的工业界面风格，以及高对比度赛博朋克控制室美学。该显示屏是一个统一的监控面板，分为12个清晰分隔的部分，配有日语标题和较小的英文字幕。顶部标题栏：左标题块写着“ソルジャンヌ・スーツ 外部监控系统”，英文字幕为“SOLJENNE SUIT EXTERNAL MONITORING SYSTEM”，并配有一个小红色“LIVE”标签;中央红色警告横幅，上面写着“警告”、“危险レベル： 最大”和“危险等级：最大”;右侧身份块，包含四个元素，文字为“UNIT ID ： SOLJENNE”、“STATUS ： CRITICAL”、“MODE： RESCUE / EMERGENCY”，以及“SOLBRAIN”上方的红色三角形标志，副标题为“RESCUE AND MEDICAL SUPPORT”。左中段标题为“全身状态 / 整体状态”，显示系统状态“危险/危急”，系统完整性“18%”，波形图，以及5个重要指标：心率136次/分钟，体温39.8°C，血氧72%，血压90 / 60 mmHg，另有一条心跳状态标签线。中央大型区域标题为“メイン摄像头映像 / 主摄像机画面”，包含主图：一名受伤宇航员身穿光亮的红银色救援服，身体向后倒伏，身体缠绕着粗黑色电缆或触须，背景中火花和碎片，头盔面罩反射光线，胸甲上装有圆形蓝色装置，电影般的灯光， 一个小红色“REC”指示器，以及一个时间戳“14：32：18：07”。摄像头画面正下方有一条紧急信息条，包含3个区块：左侧警告图标和文字“紧急事态发生 / 紧急状况”，中央日语解释性句子，说明外部攻击导致系统超出运行限制，右侧红色文字块包括“建议対応 / 建议行动”和“紧急救助要请 / 紧急救援请求”。右上中上方的部分标题为“スーツシステム詳細 / 战衣系统分析”，配有红色描边的人形，并有7个子系统行：胸部电脑错误、生命监测仪错误、医疗扫描仪错误、背部连接错误、面部护甲损坏、数据链不稳定，以及一行上半身子系统错误。右上角标题为“ダメージ・ステータス / 伤害状态”，配有人体剪影伤害图和8条标记伤害线：头盔65%，胸甲45%，护臂L 32%，护臂R 28%，背部单位18%，腿部护具L 22%，护腿R 20%，护腿单位15%。右中间部分标题为“能源管理/能源管理”，配有一个圆形仪表显示“12%”和“主系统”，一个倒计时计时器“00：02：47”，以及一个小的功耗条形图。中下右侧部分名为“バイタルモニター / 生命监测器”，包含4块叠加波形面板，标注为心率136次/分钟，呼吸26转/分钟，血氧72%，体温39.8°C。 左下至中段标题为“能量残量 / 能量水平”，显示3个读数：主电池12%，备用电池09%，预计运行时间00：02：47，均使用红色分段条和粗体数字。左下角部分标题为“外部环境 / 外部环境”，显示5项环境读数：温度42.1°C，湿度89%，气压998 hPa，风速3.8 m/s，有毒气体7.2 ppm。左下角有警告条，带有危险图标和日文文字“外部环境也危险レベルです”。底部中央部分标题为“スーツ熱分布 / 热成像”，展示了正面人体热成像，红色、橙色和黄色，配有垂直色阶。右下角中央的部分标题为“システムログ/系统日志”，包含7条日英时间戳条目，包括检测到外部攻击、胸部电脑过载、异常生命体征检测、后部连接丢失、能量低于20%、面部护罩损坏、所有系统危急，以及紧急救援请求已发送。右下角标题为“紧急警告 / 紧急警报”，上面有巨大的红色字体“!!“SOS !!”，日文文字表示正在发送救援信号，以及一个圆形雷达状信标图形。使用超细致的UI排版、紧凑的技术面板布局、发光线条、扫描线、细微的屏幕噪点、红色警告高亮，以及一种严峻的生命维持危机氛围。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03330_0.jpg" width="600" alt="赛博朋克战衣急救界面 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 83: 奢华杂志封面人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-将主体转变为高端杂志封面肖像，同时保持100%的面部识别、面部结构、肤色、比例及所有独特面部特征。不要改变眼睛、鼻子、嘴巴、下颌线或面部形状。保持真实的肌肤质地、毛孔和自然瑕疵。将照片设计成奢华国际杂志封面拍摄，配备电影感十足的摄影棚灯光、高端时尚摄影构图和超干净的编辑美学。拍摄对象应显得自信、优雅，且经过专业拍摄，…
-
-#### 📝 提示词
-
-```
-将主体转变为高端杂志封面肖像，同时保持100%的面部识别、面部结构、肤色、比例及所有独特面部特征。不要改变眼睛、鼻子、嘴巴、下颌线或面部形状。保持真实的肌肤质地、毛孔和自然瑕疵。将照片设计成奢华国际杂志封面拍摄，配备电影感十足的摄影棚灯光、高端时尚摄影构图和超干净的编辑美学。拍摄对象应显得自信、优雅，且经过专业拍摄，穿着时尚现代的服装，符合高雅的奢华美学。使用柔和的定向光，搭配细腻的阴影和深度，营造出类似于{argument name=“magazine” default=“Vogue”、“GQ”、“Forbes”或《Harper's Bazaar》封面的精致工作室风格。背景应简约、优雅，并带有轻微的质感或渐变，与服装的色彩搭配和整体氛围相匹配。添加真实的杂志封面元素：逼真的报头字体、优雅的标题和特色文字、期号、条形码及小编辑细节，简洁的版面布局和专业的间距。保持所有字体细腻且真实，自然融入构图中。景深应保持主体清晰对焦，同时保持高品质的电影氛围。超细致、写实、编辑摄影、奢侈杂志美学、高度打磨、电影感十足、8K画质。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05130_0.jpg" width="600" alt="奢华杂志封面人像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 84: 复古漫画奇遇记
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在{argument name=“art style” default=“复古手描漫画风格”}}中创建一个完全原创的{argument name=“style” default=“简单的黑白漫画连载”}。使用 {argument name=“panel count” default=“2-3 水平面板”}。把上传的图…
-
-#### 📝 提示词
-
-```
-在{argument name=“art style” default=“复古手描漫画风格”}}中创建一个完全原创的{argument name=“style” default=“简单的黑白漫画连载”}。使用 {argument name=“panel count” default=“2-3 水平面板”}。把上传的图片当作角色参考;完全按照漫画形式重新绘制角色，每格都保持一致的线条和阴影。将人物解读为主角，并根据他们的外貌，营造出一个振奋人心的遭遇，形成明确的“铺垫-强化-反转”结构：第一格建立背景，第二格发展情境，第三格带来惊喜转折。保持对话简短、自然且积极。没有科技。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11082_0.jpg" width="600" alt="复古漫画奇遇记 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 85: 瓷偶机械莲
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-在一座废墟人工花园中，创作一幅黑暗电影般的超现实科幻肖像：一个破裂的白色瓷器类人机器人半身像，胸部以上，略向左转，颈部和头骨裸露黄铜和钢制机械装置，左侧可见一只逼真的类人耳朵，脸上覆盖着一副光滑的垂直灰色矩形无特征面具。从开放的花顶长出一顶精致的花冠，正好有11朵机械莲花和种荚，种荚生长在细长的关节金属茎上：5朵带有…
-
-#### 📝 提示词
-
-```
-在一座废墟人工花园中，创作一幅黑暗电影般的超现实科幻肖像：一个破裂的白色瓷器类人机器人半身像，胸部以上，略向左转，颈部和头骨裸露黄铜和钢制机械装置，左侧可见一只逼真的类人耳朵，脸上覆盖着一副光滑的垂直灰色矩形无特征面具。从开放的花顶长出一顶精致的花冠，正好有11朵机械莲花和种荚，种荚生长在细长的关节金属茎上：5朵带有层叠象牙金属花瓣的开放花朵，5朵封闭圆形荚果，以及1朵半开的小花，全部染色、节状且具生物机械结构。安卓身体由陈旧陶瓷装甲板构成，布满细微裂纹、缺口、接缝、铆钉和裸露的黑色电缆。背景：一座反乌托邦的墓地或博物馆城，人工雕像和骷髅塔矗立，天空阴沉灰暗，景深浅，右侧有一块石牌，清晰写着“人工艺术将引向人工思想”，用黑色衬线大写字母排列五条中心线。使用柔和的象牙色、枪金属色、黄铜色、炭笔和冷灰色调，戏剧性的阴天灯光，高细节的写实主义，巴洛克机械装饰，忧郁氛围，垂直2：3构图，无水印，除了招牌外无额外文字。将场景自定义为{argument name=“android subject” default=“裂纹白瓷人形安卓”}的肖像，{argument name=“head growth” default=“机械莲花和种荚”}，设置在{argument name=“background setting” default=“a ruined artificial garden cemeters”}，标语为{argument name=“sign text” default=“人工艺术将引发人工思想”}， 使用 {argument name=“color palette” 默认=“柔和象牙、枪灰、黄铜、炭灰和冷灰色”}。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11603_0.jpg" width="600" alt="瓷偶机械莲 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 86: 复古夏日穿搭
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{“type”：“复古时尚编辑海报”，“style”：“1970年代日本流行杂志信息图，欢快复古花朵力量美学，大胆装饰字体，厚重的奶油橙色装饰边框，温暖阳光的调色，带有画意写实的动漫风格精致插画”，“subject”：{“gender_presentation”：“年轻女性”，“pose”：“坐在深青绿色门前的木凳上…
-
-#### 📝 提示词
-
-```
-{“type”：“复古时尚编辑海报”，“style”：“1970年代日本流行杂志信息图，欢快复古花朵力量美学，大胆装饰字体，厚重的奶油橙色装饰边框，温暖阳光的调色，带有画意写实的动漫风格精致插画”，“subject”：{“gender_presentation”：“年轻女性”，“pose”：“坐在深青绿色门前的木凳上，双腿交叉在膝盖上，手持并弹奏一把木吉他”“脸部”：中央脸部故意被柔和的矩形模糊块遮挡“，”头发“：{”颜色“：长金发”，“风格”：直发，长度超过肩膀“}，”服装“：{”count“：5，”pieces“：[橙色无袖迷你裙，带有大白波点和白色领子”，“橙色头巾，白色波点系在头发上”，“橙色调圆形太阳镜”，“白色小腿中靴，带有轻微的跟和侧扣细节”，“手腕上的小花手链”]}，“道具”：{“计数”：3，“物品”：[“奶油色原声吉他配深色护板”，“木质长凳”，“左侧花盆里的橙色花朵”]}}，“布局”：{“标题”：{“top_banner_text”：“OUTFIT ANALYSIS”，“main_text”：“哈ッピーな色で、轻やかに主役。“，”sub_text“：”雷トロポップに楽しむ、陽だまりガーリースタイル。“}，”callouts“：{”count“：5，”style“：”奶油色圆角矩形，橙色虚线边框，花形数字徽章，细长弯曲连接线指向服装“，”物品“：[{”number“：1，”title“：”德ット柄橙色迷你ワンピ“}，{”number“：2，”title“：”白襟迪テール&共布斯カーフ“}，{”number“：3，”title“：”オレンジサングラス&フープピアス“}，{”number“：4，”title“：”白布ーツでつくる轻快バランス“}，{”number“：5，”title“：”ギター&フラワーブレスレット“}]}，”bottom_panel“：{”label“：”STYLE POINT“，”body_text“：”ビビッドなオレンジを主役に、白の抜け感と小物の遊び心を効かせたコーディネート。レトロなかわいさと軽快さが同時に楽しめる、印象的なサマースタイル。“}，”装饰“：{”count“：8，”物品“：[”顶部丝带横幅“，”框周围多朵雏菊花“，”边框周围放置3只瓢虫，呼喊“，”左下角带和平符号的爱和平图形“，”右下角大黄色笑脸“，”角落的波浪迷幻条纹“，”风格点两侧的小花图标“，”圆角海报框，青绿色、橙色和奶油色层叠“]}}，”调色板“：{”dominant_colors“：[“鲜艳的橙色”、“奶油白”、“青绿色”、“阳光黄”、“暖棕色”]}，“构图”：“全身中心人物，周围排列着信息图文本面板，密集的海报设计，竖式格式，高度可读且装饰性强，充满俏皮的夏日氛围”}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08845_0.jpg" width="600" alt="复古夏日穿搭 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 87: 静谧水彩少女时光
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一张极简主义的水彩插画，描绘了一位沉浸在安静日常时刻的年轻女性，她坐在一张舒适的桌子旁，边看书边在打开的日记本上写笔记。柔和的手绘动漫美学，带有精致的墨水轮廓和富有表现力的面部特征。她宽松的超大衬衫自然垂落，带有优雅流畅的织物褶皱，几缕头发轻轻落在脸部周围。旁边放着一个陶瓷茶杯、叠放的书籍和一个插着干花的小玻璃花瓶，…
-
-#### 📝 提示词
-
-```
-一张极简主义的水彩插画，描绘了一位沉浸在安静日常时刻的年轻女性，她坐在一张舒适的桌子旁，边看书边在打开的日记本上写笔记。柔和的手绘动漫美学，带有精致的墨水轮廓和富有表现力的面部特征。她宽松的超大衬衫自然垂落，带有优雅流畅的织物褶皱，几缕头发轻轻落在脸部周围。旁边放着一个陶瓷茶杯、叠放的书籍和一个插着干花的小玻璃花瓶，增强了宁静的气氛。
-
-渲染在有纹理的水彩纸上，采用柔和的粉彩色调，包括暖米色、奶油色、柔和的灰色、灰蓝色和微妙的桃红色。细节丰富的水彩阴影，带有柔和的边缘、可见的颜料晕染、有机油漆溅痕以及环绕主体的艺术刷纹理。干净的负空间让人物保持为焦点，同时保持通风、平衡的构图。
-
-温和的晨光滤过场景，营造出微妙的阴影和冷静、沉思的氛围。素描本风格的艺术作品，具有优雅的笔触、自然的不完美感、精致的油漆溅痕点缀和梦幻的手工艺品质。现代日本水彩艺术风格，生活方式时尚插画，中心构图，浅米色纸张纹理，情感化叙事，高质量传统水彩绘画。
-
-风格关键词：
-纹理纸上的水彩，极简主义构图，柔和的粉彩色调，动漫灵感插画，精致线条艺术，油漆溅痕点缀，手绘美学，素描本风格，通透的负空间，微妙的阴影，优雅的时尚插画，舒适的日常时刻，阅读与记录，水彩颜料晕染，传统笔触，宁静的气氛，现代日本水彩艺术，富有表现力的姿态，艺术化的不完美，梦幻般的插画。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13678_0.jpg" width="600" alt="静谧水彩少女时光 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 88: 迪拜潮人旅行记
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-为迪拜创作一张风格化的旅行海报或图形拼贴画。主体应是一位正在（地点）游览的时髦国际游客，清晰地展现其游客身份而非当地居民。展示游客身着现代旅行时尚服饰，带有相机、背包、地图或手提箱等细节，正在探索迪拜（地点）的文化与氛围。将游客置于动态构图中，周围环绕着标志性建筑、街道、景观、地标、交通工具和美食。
-
-#### 📝 提示词
-
-```
-为迪拜创作一张风格化的旅行海报或图形拼贴画。主体应是一位正在（地点）游览的时髦国际游客，清晰地展现其游客身份而非当地居民。展示游客身着现代旅行时尚服饰，带有相机、背包、地图或手提箱等细节，正在探索迪拜（地点）的文化与氛围。将游客置于动态构图中，周围环绕着标志性建筑、街道、景观、地标、交通工具和美食。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12526_0.jpg" width="600" alt="迪拜潮人旅行记 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 89: 剑士买菜奇遇记
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-创造一个电影感十足的写实湿货市场场景，由一位自然合成进真实环境中的2D动漫风格女剑士。角色是{argument name=“character name” default=“一位蓝发的动漫女剑士”}，侧身坐在一个米色塑料蔬菜箱上，坐在拥挤的中国室内农产品市场中央，双手捧着一捆长长的青葱，仿佛在检查或购买它们。她有一头…
-
-#### 📝 提示词
-
-```
-创造一个电影感十足的写实湿货市场场景，由一位自然合成进真实环境中的2D动漫风格女剑士。角色是{argument name=“character name” default=“一位蓝发的动漫女剑士”}，侧身坐在一个米色塑料蔬菜箱上，坐在拥挤的中国室内农产品市场中央，双手捧着一捆长长的青葱，仿佛在检查或购买它们。她有一头非常长且深邃的{argument name=“hair color” default=“navy blue”}头发，扎成高马尾，散发，穿着华丽的蓝白奇幻和服风格服装，带有层叠袖子，短款白色百褶裙，深色护臂，藏青色脚踝，凉鞋，金色装饰和小流苏饰，左侧斜挂着一把鞘中刀。她的脸部被有意用柔和的矩形模糊来匿名化，而身体的其他部分则被清晰地描绘出来。在葱附近加点小巧的黄色感叹号，以突出惊喜或关注。背景是一个真实热闹的农产品市场，湿润反光混凝土地板，头顶荧光灯管灯，顾客和摊贩脸色模糊，堆积着绿叶蔬菜，篮子里的番茄和辣椒，手写的中文价格标牌写着{argument name=“price sign text” default=“小葱 2.2元一斤”} 和{argument name=“second price sign text” default=“芹菜 2.2元一斤”}。包括两个明显的价格标志、许多堆叠的蔬菜篮，以及潮湿的市场氛围。采用混合风格：环境拍摄写实纪实摄影，角色细致的卡通渲染动画渲染，逼真的光影融合，略显景深，16：9构图，高细节，自然阴影，湿润地面反射光泽，都市生活氛围，仿佛奇幻游戏角色随意逛了当地菜市。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00746_0.jpg" width="600" alt="剑士买菜奇遇记 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 90: 木桌法语手写信
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一张 16:9 的逼真特写照片，展示了一张略带纹理的白纸斜放在中棕色的木桌上，以浅俯角拍摄。纸上用优雅的草书整齐地手写着一首简短的法语诗，使用的是鲜艳的 {argument name="ink color" default="蓝色"} 墨水。顶部的标题居中写着 {argument name="poem title"…
-
-#### 📝 提示词
-
-```
-一张 16:9 的逼真特写照片，展示了一张略带纹理的白纸斜放在中棕色的木桌上，以浅俯角拍摄。纸上用优雅的草书整齐地手写着一首简短的法语诗，使用的是鲜艳的 {argument name="ink color" default="蓝色"} 墨水。顶部的标题居中写着 {argument name="poem title" default="鸽子"}。下方是 4 行手写文字，居中且间距均匀：{argument name="poem line 1" default="Oiseau à la grise robe,"}，{argument name="poem line 2" default="Dans l'enfer des villes"}，“À mon regard tu te dérobes” 以及 “Tu es vraiment le plus agile。” 手写字体需保持优雅、清晰且自然，呈现出如同钢笔手写般的质感，而非印刷字体。柔和的室内暖光，纸张边缘带有细微阴影，纸张纹理清晰可见，构图简洁明快，完全聚焦于手写的诗歌。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16656_0.png" width="600" alt="木桌法语手写信 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16656_1.jpg" width="600" alt="木桌法语手写信 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 91: 奇幻角色海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-电影感奇幻角色海报网格，灵感来自权力的游戏，4面板布局，每个面板展示一位不同的战士国王或女王，超精细盔甲，戏剧性光影，火与冰元素，大号粗体排版标题如“龙之女王”、“北境之王”、“雄狮”、“渡鸦”，背景中的中世纪城堡，烟雾、余烬、雪花粒子，史诗级高对比度，超写实，8k，黑暗奇幻基调
-
-#### 📝 提示词
-
-```
-电影感奇幻角色海报网格，灵感来自权力的游戏，4面板布局，每个面板展示一位不同的战士国王或女王，超精细盔甲，戏剧性光影，火与冰元素，大号粗体排版标题如“龙之女王”、“北境之王”、“雄狮”、“渡鸦”，背景中的中世纪城堡，烟雾、余烬、雪花粒子，史诗级高对比度，超写实，8k，黑暗奇幻基调
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12837_0.jpeg" width="600" alt="奇幻角色海报 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 92: 复古漫画恋爱圣经封面
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一本复古的1980年代日本漫画杂志封面插画，纸质褪色，印刷略带颗粒感，采用温暖的复古墨色。构图拥挤而俏皮，背景是深蓝紫色，背景上有蓬松的粉色云朵和漂浮的粉色爱心。左上角有一个巨大的日文戏剧性标题，用粗体手绘字体写着{argument name=“headline text” default=“危险な恋爱手引书”}，下…
-
-#### 📝 提示词
-
-```
-一本复古的1980年代日本漫画杂志封面插画，纸质褪色，印刷略带颗粒感，采用温暖的复古墨色。构图拥挤而俏皮，背景是深蓝紫色，背景上有蓬松的粉色云朵和漂浮的粉色爱心。左上角有一个巨大的日文戏剧性标题，用粗体手绘字体写着{argument name=“headline text” default=“危险な恋爱手引书”}，下面有一个较小的副标题写着（ラブ・バイブル）。画面中央，一位身穿深色学兰校服的高大不良少年用一只手自信且富有魅力地指向观众。他身旁右中是一位甜美少女少女，留着短短的深棕色波波头，拥有一双大而闪亮的眼睛，穿着奶油色水手风格的校服，配有粉色领口和蝴蝶结，她惊讶又钦佩地抬头望着她。左下角坐着一个哥特-洛丽塔女孩，浅薰衣草色双尾辫，佩戴黑色丝带饰品，穿着一件精致的黑粉荷叶边裙子，害羞地脸红，双手靠近嘴边。底部中央有一只毛茸茸的黑色玩具贵宾犬，戴着薄荷蓝色波点围巾，面向前方，表情可爱，舌头微微伸出。在右上方中上角，一个小小的丘比特女孩，黑色双马尾，白色翅膀，粉色百褶裙，白色袜子和花朵发饰，一边飞来飞去，一边读着封面有爱心的粉色书。右上角背景中，一位穿着蓝色校服、戴眼镜的惊慌失措的男学生抱着头，眼睛鼓鼓的滑稽。在右中背景附近，站着一位穿着温暖橙色服装的迷人年长女性，部分被主角二人遮挡。最右侧是一位戏剧性的反派女王，身穿光滑的黑色盔甲状束身衣，戴着长黑手套，披着高高的红色边斗篷，头戴金色皇冠，手持一只手高举摆姿势。右下角，一本巨大的打开书斜斜地升入画面，仿佛所有角色都从书页中浮现出来。运用充满活力的漫画封面构图、夸张的表情、浪漫喜剧的活力、手绘的动画渲染和怀旧的周刊海报设计。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06819_0.jpg" width="600" alt="复古漫画恋爱圣经封面 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 93: 旅拍双重曝光海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-首先分析上传的图像，并根据原始照片智能地调整构图、风景、颜色、光影、主体位置、相机角度、服装情绪和环境元素。 使用上传的图像创建一张电影感的双重曝光旅游海报，同时保留人物的真实身份、面部结构、发型、肢体姿势、肤色和服装细节。 AI应自动检测： 主体姿势 视线方向 服装风格 图像情绪 光照方向 旅游氛围 相机取景 环境…
-
-#### 📝 提示词
-
-```
-首先分析上传的图像，并根据原始照片智能地调整构图、风景、颜色、光影、主体位置、相机角度、服装情绪和环境元素。
-
-使用上传的图像创建一张电影感的双重曝光旅游海报，同时保留人物的真实身份、面部结构、发型、肢体姿势、肤色和服装细节。
-
-AI应自动检测：
-主体姿势
-视线方向
-服装风格
-图像情绪
-光照方向
-旅游氛围
-相机取景
-环境适配性
-
-然后动态生成自然契合图像的匹配旅游元素和构图。
-
-风格：
-超写实电影感双重曝光，情感旅游叙事，奢华旅游广告美学，写实照片合成，梦幻氛围，高端海报设计，高端编辑摄影，薄雾，电影感深度，分层景观，写实融合。
-
-智能构图规则：
-如果主体看向侧面 → 在视线方向添加山脉/道路/地平线。
-如果主体站立 → 创建全景景观身体融合。
-如果主体坐着 → 创建平静的反思性叙事构图。
-如果服装看起来适合冬季/旅游 → 添加雪山、雾、松林。
-如果服装看起来休闲/夏季 → 添加山谷、河流、热带公路、日落。
-如果图像光线温暖 → 使用金色电影色调。
-如果图像光线冷冽 → 使用迷雾蓝大气色调。
-如果背景简单 → 创建简洁的白色奢华海报背景。
-如果姿势富有戏剧性 → 增强电影感的深度和比例。
-
-景观生成：
-自动生成并融合合适的：
-山脉
-河流
-蜿蜒的道路
-森林
-云朵
-雾
-湖泊
-山谷
-瀑布
-寺庙/小屋/村庄
-鸟类
-旅游车辆（如果构图合适，则添加自行车/汽车/吉普车）
-
-双重曝光效果：
-将景观无缝融合在身体轮廓内，具有真实的透明度，穿过身体边缘的大气雾气，深度分层，自然阴影和流畅的合成。
-
-次要主体：
-在底部区域附近添加同一个人的较小写实版本，与景观自然互动：
-站在路边
-在自行车旁
-俯瞰山谷
-漫步在风景中
-
-排版：
-根据构图自动放置优雅的电影感文本：
-“[检测到或自定义的地名]”
-“[地区/国家]”
-“TRAVEL • BREATHE • ESCAPE”
-排版应看起来极简、奢华、电影感且经过专业设计。
-
-调色：
-基于原始图像色调的自适应电影感调色：
-大地绿
-雾气白
-山脉蓝
-温暖的日落色调
-忧郁的阴影
-柔和的大气对比度
-
-质量：
-超写实，超细节，无缝融合，真实纹理，体积光，高端旅游广告质量，8K电影海报。
-
-反向提示词：
-卡通，低质量，面部扭曲，多余的肢体，不真实的融合，拙劣的解剖结构，色彩过度饱和，混乱的构图，人造AI痕迹，模糊的面部，重复的主体，平淡的光线。
-
-输出：
-纵向电影旅游海报，9:16 宽高比。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12156_0.jpg" width="600" alt="旅拍双重曝光海报 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 94: 未来AI全息控制室
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-这是一个电影感十足的未来控制室工作空间，采用暗色高端科技美学，画面从一个坐在前景中央、面向一面漂浮透明全息界面面板墙的光滑办公桌后方观看。场景由电蓝色和青色光照亮，背景近乎黑色，画面中央略高于桌面线处有一个耀眼发光的AI核心或神经球，散发出数十条分支的发光数据流，像数字神经系统一样连接到每个屏幕。人物是一位身穿深色服…
-
-#### 📝 提示词
-
-```
-这是一个电影感十足的未来控制室工作空间，采用暗色高端科技美学，画面从一个坐在前景中央、面向一面漂浮透明全息界面面板墙的光滑办公桌后方观看。场景由电蓝色和青色光照亮，背景近乎黑色，画面中央略高于桌面线处有一个耀眼发光的AI核心或神经球，散发出数十条分支的发光数据流，像数字神经系统一样连接到每个屏幕。人物是一位身穿深色服装、坐在现代办公椅上的剪影专业人士，椅子对称地框框以强调规模感和沉浸感。桌上有3台主桌面显示器，里面装满了代码和技术仪表盘，左边有一台打开的笔记本电脑，右边有一盏薄型工作灯，一个咖啡杯，还有一些简约的办公配件。围绕着图物的正好是10个大型浮动界面窗口：左侧一个垂直的配置文件/导航面板，带有圆形头像和名称{argument name=“character name” default=“ALEXANDER”}，以及菜单项;1张左上角的项目信息卡，标题为{argument name=“project name” default=“PROJECT CHRONOS”};顶部中央的1个代码编辑器窗口，标题为“代码综合”，显示密集的编程文本;1个位于右上方中央的助手面板，标题为“AI 助手”，带有发光波形和简短的聊天文字;右上角1个数据窗口，标题为“数据流”;1块中左侧媒体生成面板，题为“生成视觉资产”，展示了一个戏剧性的科幻景观，带有高耸的岩石尖塔和多个缩略图预览;1张名为“执行工作流”的中央进度卡，带有进度条;右中部1个名为“全球网络”的世界地图分析面板，连接点发光;左下角1个工程渲染面板，标题为“3D模型渲染”，展示未来机械发动机或航天器部件;右下角有一个名为“系统监控”的仪表盘，配有圆形百分比图和图表。还包括两个较小的侧面板：一个左下角的语音面板，名为“语音接口”，带有波形可视化;右侧一个狭窄面板，称为“活动日志”，显示状态条目。在主窗口之间添加几张微型浮动微型卡片和图像缩略图，通过光线相连，暗示多任务AI编排。界面设计应极致精致、玻璃化、透明、边缘光照且高端，配有细长的霓虹边框、细腻的网格线、小图标和高端科幻界面排版。使用戏剧性的广角构图、深邃的景致、清晰的细节、体积光辉、反射表面，以及以光辉的AI枢纽为中心的平衡对称布局。整体氛围富有远见、奢华且智能，就像{argument name=“headline text” default=“the future of creative AI interfaces”}的化身，将软件工程、生成式设计、全球连接和自主工作流程管理融合在一个沉浸式场景中。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11202_0.jpg" width="600" alt="未来AI全息控制室 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 95: 冰镇水雾水果海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-请以我上传的水果照片作为参考图，保留水果的种类、外形轮廓、颜色特征、果皮纹理和主体角度，不要把水果换成其他品种。 将这张普通水果照片重新设计成一张 3:4 竖版「冰镇水雾水果广告海报」。 画面目标： 让水果看起来像刚从冰箱或冰水里拿出来，表面带有强烈的冰镇感、清凉感和夏日广告感。 画面要求： 水果作为画面主体，放在画…
-
-#### 📝 提示词
-
-```
-请以我上传的水果照片作为参考图，保留水果的种类、外形轮廓、颜色特征、果皮纹理和主体角度，不要把水果换成其他品种。
-
-将这张普通水果照片重新设计成一张 3:4 竖版「冰镇水雾水果广告海报」。
-
-画面目标：
-让水果看起来像刚从冰箱或冰水里拿出来，表面带有强烈的冰镇感、清凉感和夏日广告感。
-
-画面要求：
-水果作为画面主体，放在画面中央或偏下位置。前景加入一层透明玻璃或亚克力板，玻璃表面布满细密水珠、凝结水雾、流动水痕。水果可以被水雾轻微遮挡，但必须保持清晰可识别。
-
-背景要求：
-背景干净，使用白色、浅灰色、冷绿色或冰蓝色，不要复杂场景。背景可以有轻微虚化的叶片、冰块、冷雾或柔和阴影，但不能抢主体。
-
-文字排版：
-画面上方或左下角保留标题空间。
-主标题写：「冰镇夏天」
-副标题写：「一口凉下来」
-可以加入小号英文点缀：「FROZEN FRUIT」或「SUMMER FRESH」。
-文字要简洁、高级、像水果广告海报，不要大段文字，不要乱码。
-
-整体风格：
-高级水果广告海报、冰镇水雾、清凉夏日、干净留白、真实摄影感、商业视觉、浅色背景、冷感氛围。
-
-避免：
-不要卡通风，不要塑料水果，不要把水果换品种，不要复杂背景，不要廉价滤镜，不要文字乱码，不要水印，不要 logo，不要人物。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13047_0.jpg" width="600" alt="冰镇水雾水果海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13047_1.jpg" width="600" alt="冰镇水雾水果海报 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 96: 甜酷足球宝贝燃动绿茵
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一位成年女性世界杯足球宝贝以甜酷潮流风格出现在世界杯主题海报中，穿着改良运动外套、修身球衣上衣、短款百褶裙或高腰运动短裤，搭配长袜和潮流运动鞋，整体造型年轻、时髦、健康、带轻微性感，动作自然俏皮，背景是色彩鲜明的球场、巨型足球图形、球队旗帜和欢呼人群，画面适合社交媒体传播，高清写实
-
-#### 📝 提示词
-
-```
-一位成年女性世界杯足球宝贝以甜酷潮流风格出现在世界杯主题海报中，穿着改良运动外套、修身球衣上衣、短款百褶裙或高腰运动短裤，搭配长袜和潮流运动鞋，整体造型年轻、时髦、健康、带轻微性感，动作自然俏皮，背景是色彩鲜明的球场、巨型足球图形、球队旗帜和欢呼人群，画面适合社交媒体传播，高清写实
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14581_0.jpg" width="600" alt="甜酷足球宝贝燃动绿茵 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 97: 悬浮吹风机奢华广告
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-奢华商业产品广告，以高端吹风机为核心产品，悬浮在半空中，带有动态气流效果，优雅的丝状头发在周围飘动，强劲的风粒子，细微的水滴瞬间蒸发，未来科技氛围，高端金属质感，戏剧性的演播室灯光，电影般的阴影，极简深色渐变背景，高端美容与时尚竞选美学，奢侈电子产品品牌风格，超写实产品摄影，锐利的细节，光泽反射，体积光，高端排版空间…
-
-#### 📝 提示词
-
-```
-奢华商业产品广告，以高端吹风机为核心产品，悬浮在半空中，带有动态气流效果，优雅的丝状头发在周围飘动，强劲的风粒子，细微的水滴瞬间蒸发，未来科技氛围，高端金属质感，戏剧性的演播室灯光，电影般的阴影，极简深色渐变背景，高端美容与时尚竞选美学，奢侈电子产品品牌风格，超写实产品摄影，锐利的细节，光泽反射，体积光，高端排版空间，屡获殊荣的广告构图，动态能量轨迹，专业商业修图，8K分辨率，超精细纹理，写实主义，全球奢侈品牌质量，苹果 × 戴森级别的营销视觉，杰作，广告代理商作品集质量。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13438_0.jpg" width="600" alt="悬浮吹风机奢华广告 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13438_1.jpg" width="600" alt="悬浮吹风机奢华广告 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 98: 韩模奢尚大片
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一位美丽的年轻韩国女性在奢华摄影棚中自信站立的全身专业时尚编辑人像。她被从头到脚捕捉在一个完美平衡的1:1构图中。 姿势：优雅的高端时尚模特站姿，一条腿稍微向前形成自然的S型曲线轮廓，重心移至一侧臀部，肩膀放松，下巴微抬，一只手随性地放在裤兜里，另一只手自然地垂在大腿侧。自信且平易近人的表情，眼神直视镜头。 备选奢华…
-
-#### 📝 提示词
-
-```
-一位美丽的年轻韩国女性在奢华摄影棚中自信站立的全身专业时尚编辑人像。她被从头到脚捕捉在一个完美平衡的1:1构图中。
-
-姿势：优雅的高端时尚模特站姿，一条腿稍微向前形成自然的S型曲线轮廓，重心移至一侧臀部，肩膀放松，下巴微抬，一只手随性地放在裤兜里，另一只手自然地垂在大腿侧。自信且平易近人的表情，眼神直视镜头。
-
-备选奢华姿势：挺拔站立，脚踝交叉，一只手臂轻轻折叠过腰部，另一只手轻触手肘，营造成熟的杂志封面姿态。身体与相机呈约30度角，脸部转向镜头。
-
-专业超模肢体语言，奢侈品牌大使气场，Vogue编辑风格，毫不费力的自信，精致的女性优雅，自然姿态，高端时尚活动美学。
-
-全身构图，可见鞋子，主体周围有充足的负空间，可见干净的摄影棚地面，奢华时尚广告构图，杂志封面品质，高度上镜的比例，成熟且昂贵的外观。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13232_0.jpg" width="600" alt="韩模奢尚大片 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 99: 极简治愈书籍模型
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一本写实的3D平装书模型，微微斜立，置于纯米白色背景上，揭示了封面和书脊。封面描绘了一幅极简而宁静的插画，一扇白色拱形门打开，朝向明亮的粉彩色日出，朝平静的海面上方，一位身穿飘逸白裙的女子站在拱门中，望向地平线。拱门左右两侧以大而优雅的竖排字体、Mincho衬线字体占据主导，写着{argument name=“mai…
-
-#### 📝 提示词
-
-```
-一本写实的3D平装书模型，微微斜立，置于纯米白色背景上，揭示了封面和书脊。封面描绘了一幅极简而宁静的插画，一扇白色拱形门打开，朝向明亮的粉彩色日出，朝平静的海面上方，一位身穿飘逸白裙的女子站在拱门中，望向地平线。拱门左右两侧以大而优雅的竖排字体、Mincho衬线字体占据主导，写着{argument name=“main title” default=“我慢をやめたら、人生が動き出した。"}.在左上角，较小的横向文字写着{argument name=“subtitle” default=“自己的人生を取り戻す 7つのstep”}。书的下三分之一部分用浅粉色的肚带包裹着。乐队有一个显著的横向口号，写着{argument name=“obi catchphrase” default=“もう、他人轴在生きなくていい。“}，上面有较小的文字，中间用虚线分隔，提到工作、感情、爱情和未来的焦虑。臂章右侧是一个白色圆形徽章，带有一个小皇冠图标和文字：{argument name=“sales badge text” default=“累計 20万部 突破！”}。在最底部，正好有4个小长方形方框，里面包含关于自尊、时间管理、心理组织和理想未来的关键词，后面跟着“一切都会改变！”。书脊为白色，显示主标题、副标题、作者名占位符和出版商占位符。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02995_0.jpg" width="600" alt="极简治愈书籍模型 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 100: 冷雾玻璃肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-只用上传的头像作为身份和发型参考。准确保存个人的真实面部特征、面部形状、面部特征、肤色、发际线、发型、发长以及自然的真实外貌。请勿复制上传肖像中的原始背景、服装、灯光、姿势、图像质量或表情。 在{论元名称=“atmosphere”默认=“冷雾氛围”}中创建高度逼真的电影编辑肖像。主体出现在多个水平{论元名称=“玻璃类…
-
-#### 📝 提示词
-
-```
-只用上传的头像作为身份和发型参考。准确保存个人的真实面部特征、面部形状、面部特征、肤色、发际线、发型、发长以及自然的真实外貌。请勿复制上传肖像中的原始背景、服装、灯光、姿势、图像质量或表情。
-
-在{论元名称=“atmosphere”默认=“冷雾氛围”}中创建高度逼真的电影编辑肖像。主体出现在多个水平{论元名称=“玻璃类型”默认=“磨砂玻璃或半透明镜板”}之后，在画面中形成同一面孔的层叠碎片反射。构图垂直、极简、安静且超现实，真人脸在图像上方清晰可见，玻璃条下方和玻璃间出现多处柔和模糊的倒影。
-
-场景应像梦幻的高级时尚杂志封面：{argument name=“color grade” default=“淡蓝灰色调色”}，柔和的白雾，漫射的阴天光线，低对比度，平滑的氛围朦胧，细腻的皮肤质感，自然的眼神，平静的中性表情，略带忧郁的情绪，柔和的风轻轻拂动发丝。玻璃面板应具备逼真的模糊、折射、反射和轻微变形，创造出多重幽灵般的面部反射而不改变身份。
-
-背景干净、明亮且极简，几乎是白色，带有冷蓝色调。保持画面写实、柔和、优雅、电影感和高雅。没有文字，没有标志，没有水印，没有品牌标记。
-
-垂直9：16构图，高分辨率，逼真的镜头景深，柔焦，空灵氛围，精致的编辑摄影。
-
-水印、标志、文字、豆宝水印、AI水印、签名、随机字母、低质量、主脸模糊、面部扭曲、身份变更、不同人、多余人员、重复身体、畸形眼睛、面部不对称、解剖结构不良、塑料皮肤、过度光滑的皮肤、卡通、动漫、插画、3D渲染、强烈对比、色彩过饱和、凌乱背景、浓妆、不自然反射、破碎镜片、恐怖风格、脏玻璃， 画面嘈杂，画面压缩，光线难看
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07635_0.jpg" width="600" alt="冷雾玻璃肖像 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06457_0.jpg" width="600" alt="游戏杂志封面设计 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
@@ -4494,6 +3813,6 @@ AI应自动检测：
 
 **[🌐 在网页图库中查看](https://prompthub.gokuscraper.com)** • **[⭐ 给仓库点星](https://github.com/goku-open/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026年8月24日星期一 UTC 00:33:16</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026年8月25日星期二 UTC 00:32:31</sub>
 
 </div>
