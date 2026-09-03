@@ -50,28 +50,28 @@ Contains 17,357+ GPT Image 2 prompts and generated images, suitable for batch an
 | Metric | Count |
 |--------|-------|
 | 📝 Total Prompts | **17357** |
-| 🔄 Last Updated | **Wednesday, September 2, 2026 at 1:41:49 AM UTC** |
+| 🔄 Last Updated | **Thursday, September 3, 2026 at 1:47:27 AM UTC** |
 
 </div>
 
 ---
 ## 📋 All Prompts
 
-### No. 1: Girl Stroking Fawn in Meadow
+### No. 1: Moody Cinematic Bar Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A hyper-realistic, fully 4K resolution outdoor portrait photo shows a fair-skinned young woman with a brown high ponytail and wispy hair on both sides of her c…
+Ultra-realistic cinematic portrait of a {argument name="subject" default="beautiful young woman with long black hair"}, wearing an {argument name="outfit" defa…
 
 #### 📝 Prompt
 
 ```
-A hyper-realistic, fully 4K resolution outdoor portrait photo shows a fair-skinned young woman with a brown high ponytail and wispy hair on both sides of her cheek, bending down to gently stroke a young sika deer. She wears a warm, sincere, and toothy smile; her skin is soft, glowing, and moist, clearly revealing natural pores and textures. She wears deep red lipstick, with subtle contours under her eyes, and small gold earrings capturing the light. A flowing multi-pattern silk shawl is loosely wrapped around her shoulder and arm, blending geometric tribal prints, blue-and-white herringbone stripes, navy blue color blocking, and tan leopard print patchwork, draped over a navy spaghetti strap vest that reveals one shoulder. She pairs it with high-waisted ivory wide-leg pants, the fabric naturally ruffled and drapes. Her right hand affectionately rested on the deer's back, her fingers gently burrowing into its fur. 
-This deer is a young sika deer with large, alert, upright ears showing fine internal fur details and visible veins. Its reddish-brown fur has distinct white spots, dark glassy eyes reflecting highlights, and a moist black nose standing calmly, its body slightly turned left toward the camera, positioned in the lower left foreground of the frame. 
-Environment: An open grassy park with soft-focused green lawns in the background, scattered deciduous trees, and a faintly visible low wooden fence on the right edge. Natural overcast light, softly diffused uniform illumination, with soft, realistic shadows and precise skin subsurface scattering. 
-Technical specifications: Uses a full-frame SLR camera paired with an 85mm portrait lens at an f/2.2 aperture, medium to close-up composition, shallow depth of field, and smooth, delicate bokeh effects. The focus is sharply focused on the subject's eyes and the deer's face, with a line of view angle. Ultra-high detail, clear and delicate textures (fabric texture, fur, skin), natural color grading, green tones slightly dull and warm skin tones, soft and realistic contrast, no artificial skin smoothing or plastic skin feel, authentic editorial lifestyle photography aesthetics. Aspect ratio 4:5, full 4K detail level.
+Ultra-realistic cinematic portrait of a {argument name="subject" default="beautiful young woman with long black hair"}, wearing an {argument name="outfit" default="elegant black off-shoulder dress"}, sitting alone in a {argument name="setting" default="dimly lit luxury bar"} at night, holding a cocktail glass. Soft warm candlelight, red neon Chinese signs glowing in the background, moody atmosphere, shallow depth of field, creamy bokeh lights, detailed skin texture, natural makeup, delicate jewelry, melancholic expression, high-end fashion photography, dramatic shadows, professional lighting, 85mm lens, f/1.4, ultra detailed, photorealistic, 8K, masterpiece.
+
+Negative Prompt:
+low quality, blurry, extra fingers, bad anatomy, distorted face, overexposed, oversaturated, cartoon, anime, watermark, text, logo, duplicate, cropped, ugly, noisy background.
 ```
 
 #### 🖼️ Generated Images
@@ -79,33 +79,31 @@ Technical specifications: Uses a full-frame SLR camera paired with an 85mm portr
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15170_0.jpg" width="600" alt="Girl Stroking Fawn in Meadow - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02256_0.jpg" width="600" alt="Moody Cinematic Bar Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02256_1.jpg" width="600" alt="Moody Cinematic Bar Portrait - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 2: Dark Bedroom Street Fashion Selfie
+### No. 2: Zhao Ling'er Cinematic Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A realistic full-body vertical portrait, a fashionable and beautiful Chinese internet celebrity in her twenties, with long hair fluffy and slightly tousled, lo…
+"Chinese Paladin 1" {argument name="Character" default="Zhao Ling'er"} "{argument name="Scene" default="First Encounter with Peach Blossoms"} Cinematic Xianxia…
 
 #### 📝 Prompt
 
 ```
-A realistic full-body vertical portrait, a fashionable and beautiful Chinese internet celebrity in her twenties, with long hair fluffy and slightly tousled, long bangs covering one side of her face, wearing elegant fine-threaded gold-rimmed glasses. She stands confidently, chin slightly raised, gazing directly into the camera, her gaze firm and carrying a hint of a cold smile. Soft and shiny nude beige lips, sharp and neat cat-eye eyeliner, delicate eyelashes, flawless porcelain skin with a natural glow, elegant collarbones with the "BubbleBrain" grass tattoo signature near the collarbone. Wearing large gold round earrings and a thick gold chain necklace. 
-
-Her full-body composition spans from head to toe. She stands in a dimly lit bedroom, one hand holding her phone for a selfie, the other casually resting on her hip. Her body is slightly tilted, her posture relaxed and confident, one leg slightly bent, presenting a natural, fashionable silhouette. She wears a tight black ribbed cropped tank top, layered with a loose black-and-white plaid shirt draped over her shoulders, paired with a black leather mini skirt, semi-transparent patterned stockings, and platform black boots. Modern hip-hop street fashion aesthetics with refined style. 
-
-The background is a dimly lit private bedroom with messy and dark colors, a dark wardrobe, small posters on the walls, wooden floors, and a low-light indoor atmosphere. Camera flash shooting effects, cool purple-gray shadows, soft skin highlights, muted cinematic tones, low contrast, subtle film grain, and a realistic phone camera texture. 
-
-Late-night bedroom full-body selfie aesthetic, with a strong street fashion attitude, casual composition, imperfect composition, shallow depth of field, natural facial asymmetry, realistic anatomy and proportions, fashion editorial realism, cinematic and everyday feel. 
-
-Vertical portrait, 9:16 aspect ratio, full-body, flash lighting, dark bedroom background.
+"Chinese Paladin 1" {argument name="Character" default="Zhao Ling'er"} "{argument name="Scene" default="First Encounter with Peach Blossoms"} Cinematic Xianxia poster. \n\n Not a dark fantasy. \nIt's not a sense of fate. \nNot a repressive film. \nNot a cold goddess. Instead: "The most lovable {argument name="character" default="Zhao Ling'er"}", the most lovable feature in Chinese Paladin 1. \n\n━━━━━━━━━━━━━━━━━━\n\n【Core Temperament】\n\n{argument name="Temperament" default="Innocence, Purity, Gentleness, Liveliness"}. It's truly heartwarming. \n\n Endearing.
 ```
 
 #### 🖼️ Generated Images
@@ -113,31 +111,37 @@ Vertical portrait, 9:16 aspect ratio, full-body, flash lighting, dark bedroom ba
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12115_0.jpg" width="600" alt="Dark Bedroom Street Fashion Selfie - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07525_0.jpg" width="600" alt="Zhao Ling'er Cinematic Poster - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12115_1.jpg" width="600" alt="Dark Bedroom Street Fashion Selfie - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07525_1.jpg" width="600" alt="Zhao Ling'er Cinematic Poster - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 3: Soho Window Light Portrait
+### No. 3: Purple Yukata Window Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a realistic editorial street portrait of a young East Asian woman in Soho, styled like a still frame from an old DV camcorder. She stands close to a dar…
+Subject: {argument name="Seasonal scene" default="Early summer window" }, {argument name="Costume color" default="Purple yukata" } People/expression: Japanese…
 
 #### 📝 Prompt
 
 ```
-Create a realistic editorial street portrait of a young East Asian woman in Soho, styled like a still frame from an old DV camcorder. She stands close to a dark reflective shop window on a narrow city sidewalk paved with small cobblestones, with tall black storefront columns receding into the background. She wears a red plaid spaghetti-strap sundress, slightly off one shoulder, with soft folds and a romantic casual look. Her long dark brown hair is loose, slightly wind-tousled, with wispy bangs across her forehead; her skin is softly lit and natural, with glossy lips and minimal makeup. Pose her in a half-body composition, leaning subtly toward the glass, one hand raised near the window and the other lightly holding the front of her dress strap, looking off to the side with a quiet, wistful expression rather than directly at the camera. Use warm late-afternoon window light, gentle afterglow reflections, shallow depth of field, realistic skin texture, soft haze, slight motion softness, and muted film colors. Add tasteful editorial text on the left side of the glass: “window light” above “afterglow,” and lower down “SOHO” with “city romance” beneath it, plus tiny vertical orange DV-style timestamp marks near the lower-left edge. Keep the image vertical 4:5, intimate, cinematic, nostalgic, and photorealistic, with no extra people in the foreground and no watermark.
+Subject: {argument name="Seasonal scene" default="Early summer window" }, {argument name="Costume color" default="Purple yukata" }
+People/expression: Japanese woman in her late 20s, calm and mature, rounded and well-defined silhouette, elegant hairstyle with low black hair, purple flower ornament, clear skin, Japanese natural makeup, calm and elegant expression, natural look at the camera
+Clothing/Pose: Pale lavender yukata with flower pattern, purple obi sash, cool and refreshing Japanese styling, sitting on wooden window sill, one hand on the seat, other hand on the knee, one leg lightly stacked and naturally lowered, elegant sitting posture
+Background/Light: black wooden interior, wide open window, bright early summer greenery outside, bright noon natural light, soft backlight through window, subtle highlights in hair and outline
+Composition/Camera: Vertical composition, full-length portrait, figure to the left, framing with window frame, 85mm portrait lens, f/1.8, strong depth of field, natural blur with large blurred background, professional-style photography
+Texture/style: Ultra high clarity 4K, 8K quality, realistic photographic expression, natural skin texture, delicate hair detail, yukata fabric and floral pattern in high definition, soft tones, neat and elegant Japanese American portrait
+Negatives: low image quality, unnatural legs, unnatural hands, crumpled face, extra fingers, black shadows or dirt on legs, broken skin, overexposure, excessive processing, text, logos, watermarks
 ```
 
 #### 🖼️ Generated Images
@@ -145,43 +149,731 @@ Create a realistic editorial street portrait of a young East Asian woman in Soho
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20975_0.jpg" width="600" alt="Soho Window Light Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10118_0.jpg" width="600" alt="Purple Yukata Window Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 4: Hyper-Realistic Editorial Portrait Collage
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Using reference images as sources of identity, create a hyper-realistic editorial portrait collage. The respondent's exact facial features, bone structure, pro…
+
+#### 📝 Prompt
+
+```
+Using reference images as sources of identity, create a hyper-realistic editorial portrait collage. The respondent's exact facial features, bone structure, proportions, skin tone, and identity were preserved, without beautifying or altering the face. Against a white studio background, six close-up portraits are neatly arranged in a 3×2 grid.
+
+Expression:
+1. Surprised, covering your mouth with both hands.
+
+2. Tilt your head back, close your eyes, and laugh naturally.
+
+3. A gentle, confident gaze, with a chin gently resting on one hand, wearing a subtle smile with lips closed.
+
+4. A radiant smile, pointing at her dimples.
+
+5. A warm smile, one hand running through her hair.
+
+6. Smile through the "OK" gesture hidden over one eye.
+
+The style features voluminous 90s curls, flawless editorial makeup, black satin camisoles, minimalist jewelry, high-contrast black-and-white studio lighting, Phase One XF IQ4 150MP, 80mm f/2.8 lens, f/5.6, ISO 50, ultra-detailed 32K skin textures, and authentic photographic realism.
+
+Negative notes: low quality, blurry, flat lighting, poor anatomical structure, facial distortion, extra limbs, cartoons, anime, CGI, plastic-like skin, over-retouching.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14768_0.jpg" width="600" alt="Hyper-Realistic Editorial Portrait Collage - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 5: Whimsical Folk Doodle Art
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Please transform the entire image into a single {argument name="illustration style" default="Decorative Folk Flat Illustration"} with {argument name="design el…
+
+#### 📝 Prompt
+
+```
+Please transform the entire image into a single {argument name="illustration style" default="Decorative Folk Flat Illustration"} with {argument name="design elements" default="Doodle elements"}. Use a {argument name="color palette" default="bold and playful"} color palette, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03215_0.jpg" width="600" alt="Whimsical Folk Doodle Art - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 6: Cinematic F1 Racing Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-realistic cinematic motorsport poster of a professional {argument name="driver type" default="Formula 1 driver"} standing confidently in front of a {argu…
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic motorsport poster of a professional {argument name="driver type" default="Formula 1 driver"} standing confidently in front of a {argument name="car style" default="modern F1 race car"}. The driver is, wearing black racing suit with subtle sponsor logos (Pirelli, TAG Heuer, Mobil 1 style branding), reflective premium sunglasses, hands in pockets, looking slightly to the side with a calm, determined expression.The Formula 1 car is sleek, aggressive, and futuristic, {argument name="car finish" default="matte black with glowing red accents"}, detailed aerodynamic elements, and illuminated red highlights on tires and edges. The car features minimal branding with “SPEEDAI07” text integrated into the design. Background features a large glowing red Formula 1-style logo, with a dark studio environment, glossy reflective floor, and dramatic red neon lighting. Strong cinematic contrast, rim lighting, and soft reflections enhance the scene.Composition is wide-angle, full body shot, centered subject, with the car slightly behind and to the side. Hyper-detailed textures, sharp focus, photorealistic rendering, 8K resolution, high dynamic range, studio lighting. Color palette: black and deep red, high contrast, glossy reflections, cyberpunk-inspired motorsport aesthetic.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08263_0.jpg" width="600" alt="Cinematic F1 Racing Poster - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 7: Imagination Goddess Genesis Card
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{"type":"ultra rare Japanese trading card game character card","style":"premium anime fantasy TCG card, glossy holographic rainbow foil, ornate black and gold…
+
+#### 📝 Prompt
+
+```
+{"type":"ultra rare Japanese trading card game character card","style":"premium anime fantasy TCG card, glossy holographic rainbow foil, ornate black and gold frame, highly detailed illustration, dramatic magical lighting, crisp printed typography, collectible card layout","canvas":"vertical 2:3 card with rounded corners and thick metallic gold border","character":{"name":"{argument name=\"character name\" default=\"想像神ちゃん\"}","reading":"そううぞうしん","role":"cute childlike imagination deity","appearance":"small anime girl floating in space, pale skin, short bob haircut with blonde-to-ash-blue gradient, blue eyes, calm slightly unimpressed expression, two flower hair clips on the right side, one red flower and one pale daisy","outfit":"oversized white hoodie with colorful patchwork sleeves, geometric multicolor buttons and pixel motifs, red shorts or skirt, white socks with blue bands, red-and-green sneakers","pose":"seated weightless pose, legs extended forward, both hands open as if creating worlds"},"main_art":{"background":"cosmic blue and violet vortex with sparkling stars, aurora rainbow light, circular portal behind the character","world_objects":{"count":8,"items":["top-left translucent cube world with rainbow city texture","left-middle floating castle island above the character hand","upper-right green-blue floating cube fragment","right red crystal cube","right-middle large green village island","lower-left castle island partly behind vertical text","lower-center ocean cube with a white city","bottom-center green fantasy island"]},"mood":"godlike but adorable, world-creation magic, overwhelming power"},"card_layout":{"top_left":{"rarity":"UUR","star_count":5,"description":"large rainbow-gradient UUR letters with five rainbow stars beneath"},"top_center":{"title":"{argument name=\"card title\" default=\"想像神ちゃん\"}","subtitle":"～世界を想像して創造する神様～"},"top_right":{"class_icon":"神","attribute_label":"属性：想像"},"left_vertical_quote":"{argument name=\"vertical quote\" default=\"想像は、世界を創るいちばんの魔法。\"}","stats_panel":{"position":"lower right","level":"LV. 99/99","count":5,"stats":[{"label":"想像力","value":"9999"},{"label":"創造力","value":"9999"},{"label":"発想力","value":"9999"},{"label":"共感力","value":"9999"},{"label":"無限力","value":"∞"}]},"ability_panels":{"position":"lower left","count":2,"abilities":[{"header":"必殺技","name":"イマジネーション・ジェネシス","description":"カード全体に無限の可能性を広げる光を放ち、すべての想像を現実に変える。"},{"header":"神の力","name":"インフィニット・ワールド","description":"このカードが場にある限り、プレイヤーは毎ターン新しい世界を創造できる。"}]},"profile_panel":{"position":"lower right below stats","title":"プロフィール","text":"世界のあらゆる「はじまり」を想像することで生み出した神様。退屈が大嫌いで、いつも新しいアイデアを探している。『一緒に、なにか想像してみる？』"},"footer":{"count":4,"items":["種族：神","性別：なし","イラスト：想像神の世界","IG-0001-UUR"]}},"rendering_notes":"Make the card look like a real high-rarity Japanese mobile game trading card, with gold filigree corners, black enamel UI boxes, white Japanese text, rainbow foil reflections, tiny sparkles, and ultra-sharp anime line art. Do not include any external watermark."}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07364_0.jpg" width="600" alt="Imagination Goddess Genesis Card - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 8: Luxury Executive Portrait Art
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A striking portrait of a high-level business leader dressed in high-end luxury formal attire (a tailored dark suit, pristine white shirt, and an elegant tie).…
+
+#### 📝 Prompt
+
+```
+A striking portrait of a high-level business leader dressed in high-end luxury formal attire (a tailored dark suit, pristine white shirt, and an elegant tie).
+Deep features, neatly refined, and exquisitely realistic details.
+Expressions and Atmosphere:
+A calm, confident, and highly authoritative expression—focused gaze symbolizes wisdom, control, and global influence.
+Posture and composition:
+Bust Portrait (Chest and Above)
+A slightly slanted cinematic angle enhances depth and intensity
+A strong executive posture (relaxed hands or adjusting suits)
+Artistic Style:
+Hand-painted ink lines blend with watercolor textures
+Splashed in gold, black, deep blue/deep red paint inspired by luxury goods
+Dynamic abstract strokes representing power and innovation
+Highly realistic faces with subtle grainy textures
+Background:
+A pure white or soft neutral base color
+Elegant watercolor splash marks (gold + dark tones)
+A soft halo on the back of the main body creates a sophisticated, elite feel
+Layout elements:
+Main title: "Enter text here"
+Name: "Enter text here" (bolded handwritten in luxurious brush style)
+Additional details:
+Subtle gold accents create a top-tier billionaire aesthetic
+Subtle distressed textures add depth to the film
+Minimalist crowns or abstract symbols of wealth/power
+Signature (bottom): "Enter text here"
+Optional quote section: "Enter text here"
+Mood and tone:
+A legendary aesthetic driven by elite, powerful, cinematic, and luxurious
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13398_0.jpg" width="600" alt="Luxury Executive Portrait Art - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20975_1.jpg" width="600" alt="Soho Window Light Portrait - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13398_1.jpg" width="600" alt="Luxury Executive Portrait Art - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 9: Faceless Window Selfie Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A realistic indoor selfie-style portrait of a young East Asian man, bust. He sits beside a large modern window in a high-rise apartment or hotel room, bathed i…
+
+#### 📝 Prompt
+
+```
+A realistic indoor selfie-style portrait of a young East Asian man, bust. He sits beside a large modern window in a high-rise apartment or hotel room, bathed in soft sunlight. He sports hair with {argument name="hair color" default="black"}, which is thick and slightly messy, parted in the middle, with a natural fluffy look on the forehead and sides. She has a slim build, a long neck, and fair and delicate skin. He wore a matte cotton or poplin shirt with {argument name="shirt color" default="black"}, with a slightly loose fit, a few buttons undone above the neckline, presenting a deep V-neck and a casual style. The camera takes close-up shots at a natural selfie angle, with vertical composition, including the shoulders, chest, neck, and head. His face is completely covered by a large rectangular obscuration or mosaic block located in the center, but his ears, jawline, neck, and hair are clearly visible. The overall atmosphere is low-key, melancholic, and elegant, with soft and neutral tones. Soft window light streams through the right side, with delicate shadows that give off a genuine social media selfie vibe. Background details include a beige wall on the left, a small dark wall control panel, a vertical metal trim or fixture edge, and two tall dark-framed windows on the right, with a blurred city skyline outside. Realistic smartphone photography, clean modern indoor environment, shallow depth of field, natural skin texture, subtle contrast, smiles hidden by occluders, minimalist post-processing, stylish and authentic personal selfies.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16776_0.jpg" width="600" alt="Faceless Window Selfie Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 10: Explosive Orange Sneaker Jump
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A dynamic sportswear advertisement featuring a {argument name="subject" default="young athletic male model"} captured mid-air in an explosive jump toward the c…
+
+#### 📝 Prompt
+
+```
+A dynamic sportswear advertisement featuring a {argument name="subject" default="young athletic male model"} captured mid-air in an explosive jump toward the camera. {argument name="angle" default="Dramatic low-angle shot"} with strong foreshortening, making the sneakers appear oversized and dominant in the foreground. The model wears a {argument name="outfit" default="monochrome beige tracksuit (hoodie and joggers) with white socks"}.
+Focus on ultra-detailed white running shoes with bold orange accents and textured mesh, sharp branding elements, and realistic materials. Dust and energy particles burst beneath the feet, creating a sense of motion and impact.
+Background is a clean, vibrant orange gradient with subtle glow, minimal studio environment. Bold oversized typography faintly integrated in the background for a modern commercial look.
+High contrast studio lighting, crisp shadows, rim light outlining the subject, ultra-realistic textures, 8K resolution, professional product photography, Nike/Adidas campaign style
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02184_0.jpg" width="600" alt="Explosive Orange Sneaker Jump - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 11: Soulful Redraw Challenge
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Redraw the attached image in the most {argument name="style" default="clumsy, scribbly, and utterly pathetic"} way possible. Use a white background, and make i…
+
+#### 📝 Prompt
+
+```
+Redraw the attached image in the most {argument name="style" default="clumsy, scribbly, and utterly pathetic"} way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00001_0.jpg" width="600" alt="Soulful Redraw Challenge - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 12: Mathematical Reverie by the Window
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+In a cinematic realistic scene, a young woman with wavy reddish-brown hair sits alone at a wooden coffee table, leaning against a large glass window. The warm…
+
+#### 📝 Prompt
+
+```
+In a cinematic realistic scene, a young woman with wavy reddish-brown hair sits alone at a wooden coffee table, leaning against a large glass window. The warm golden sunlight gently shone on her face. She rested her head in her hands, gazing out the window, her expression calm and deep. The image is shot from outside the café through glass, featuring soft reflections, slight out-of-focus blur, and a slightly blurred background that creates a dreamlike atmosphere. Mathematical formulas in the style of white chalk hand-drawn float on the window glass, as if she were pondering these things: integrals, limits, algebraic formulas, quadratic charts, trigonometric identities, and E = mc². These equations appear light and translucent, artistically arranged without covering her face. The overall tone is intellectual, introspective, and calm. Shallow depth of field, soft natural light, cinematic tones, warm tones, ultra-high definition, 4K, exquisite details, realistic photography style, professional lenses, soft film texture, slight halo, modern aesthetic.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12200_0.jpg" width="600" alt="Mathematical Reverie by the Window - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 13: Reishi Mushroom Nutrition Guide
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "type": "botanical and nutritional infographic poster", "subject": { "name": "{argument name=\"subject name\" default=\"灵芝\"}", "scientific_name": "{argument…
+
+#### 📝 Prompt
+
+```
+{
+  "type": "botanical and nutritional infographic poster",
+  "subject": {
+    "name": "{argument name=\"subject name\" default=\"灵芝\"}",
+    "scientific_name": "{argument name=\"scientific name\" default=\"Ganoderma lucidum\"}",
+    "image": "large, detailed illustration of a glossy, reddish-brown Reishi mushroom with concentric growth rings, positioned top-center"
+  },
+  "layout": {
+    "style": "clean, modern, grid-based, light beige background with subtle grid lines, minimalist icons, data visualization elements",
+    "sections": [
+      {
+        "title": "Header/Intro (Top Left)",
+        "content": "Large title text, scientific name, tags ('多孔菌科·灵芝属', '药食同源'), brief description text, origin map (China/East Asia), and a seasonal timeline bar chart."
+      },
+      {
+        "title": "1 营养成分详解 (每100g) (Top Right)",
+        "content": "Nutritional breakdown. Includes a circular chart showing calories (295 kcal), a table of macronutrients (protein, carbs, fat, others) with percentages, two bar charts for vitamins and minerals, and a GI index slider (value 15)."
+      },
+      {
+        "title": "2 健康功效地图 (Middle Left)",
+        "content": "Health benefits map. Features a stylized human body outline with 6 callout points linking to icons and text blocks describing benefits (e.g., immunity, anti-aging, liver protection, sleep aid, blood sugar/lipid regulation, tumor adjuvant therapy), each with a 5-star rating."
+      },
+      {
+        "title": "3 烹饪方法矩阵 (Middle Center)",
+        "content": "Cooking methods matrix. A 3x3 grid of 9 icons representing different preparation methods (boiling, stewing, tea, porridge, steaming, stir-frying, infusing in wine, powdering, roasting, cold mixing). Each includes temperature/time, nutrient retention percentage, and a star rating."
+      },
+      {
+        "title": "4 四季食用指南 (Middle Right)",
+        "content": "Four seasons consumption guide. A circular diagram divided into four quadrants (Spring, Summer, Autumn, Winter) around a central mushroom icon, detailing seasonal benefits and optimal consumption periods (7-10 months)."
+      },
+      {
+        "title": "5 黄金搭配矩阵 (Bottom Left)",
+        "content": "Golden pairing matrix. A 3x3 grid showing 8 complementary ingredients (goji berries, red dates, astragalus, snow fungus, yam, lotus seeds, longan, aged tangerine peel) surrounding the central Reishi mushroom, with text explaining synergistic effects."
+      },
+      {
+        "title": "6 适宜人群画像 (Bottom Center)",
+        "content": "Suitable demographics. Icons and text for 7 user groups (children, pregnant women, elderly, athletes, sub-healthy, low immunity, high blood pressure), showing recommended daily dosage and star ratings."
+      },
+      {
+        "title": "7 禁忌与注意事项 (Bottom Right)",
+        "content": "Contraindications and precautions. List format with warning icons covering unsuitable groups, allergy warnings, drug interactions, and maximum daily intake recommendations."
+      },
+      {
+        "title": "8 选购与储存指南 (Bottom Left, below section 5)",
+        "content": "Buying and storage guide. Checklists for freshness, quality grading table (Special, Grade 1, 2, 3) with star ratings, storage conditions icons (temperature, humidity, shelf life), and a timeline for shelf life."
+      },
+      {
+        "title": "9 趣味知识扩展 (Bottom Right, below section 7)",
+        "content": "Fun facts expansion. Text blocks covering historical legends, alternative names, global production data (50,000 tons, China 85%), and a sustainability rating (A grade)."
+      }
+    ]
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08868_0.jpg" width="600" alt="Reishi Mushroom Nutrition Guide - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 14: Pistachio Crochet Layered Mesh Dress
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Wardrobe: Outerwear / layers: One solid pistachio short-sleeve crochet cardigan built from fine softly matte yarn. Upper-hip length with a close straight body,…
+
+#### 📝 Prompt
+
+```
+Wardrobe: Outerwear / layers: One solid pistachio short-sleeve crochet cardigan built from fine softly matte yarn. Upper-hip length with a close straight body, lightly shaped waist, and two independent front panels. A deep rounded V opening continues into narrow scalloped front bands. Two short set-in sleeves have compact fitted upper sections, softly expanded lower edges, and narrow scalloped cuffs. The body and sleeves use a consistent openwork construction of slim vertical chain ladders alternating with dense shell-like crochet columns, preserving small irregular apertures and a clearly fibrous looped surface. A narrow scalloped crochet border completes the neckline, both front edges, cuffs, and lower hem. Five evenly spaced pistachio four-hole buttons run down one front band, with aligned crochet buttonholes on the opposite band; all five buttons remain released. Keep the open cells distinct, the shell columns vertically coherent, the front panels balanced, the buttons flat and evenly aligned, and the soft yarn texture clean rather than fuzzy or melted together. Dress / all-in-one: One olive-green, smoky-charcoal, muted-lavender, beige, and black spaghetti-strap mini dress made from lightweight fine-gauge semi-sheer mesh with soft fluid drape. Across the complete plaid shell, an all-over oblique multiscale check places broad smoky-charcoal bands, narrower muted-lavender bands, and fine beige lines over an olive ground, creating a regular field of unequal rectangular cells with stable band order and crisp intersections. The dress is close through the shaped bust and waist, then widens immediately below the fitted waist into a full upper-thigh-length skater skirt with rounded fluid flare and unpleated volume. The front upper edge forms a deep sweetheart V from two shaped bust panels, while the rear upper edge follows a low soft curve. Shaped front, side, and rear bodice panels continue below the curved underbust line, and the fitted torso releases into the full bias-cut skirt with evenly distributed soft folds. Two very narrow constant-width straps join the upper front corners to corresponding rear anchors. Black scalloped floral lace traces the complete bust edge and rear upper edge; a broader black scalloped lace band follows the curved underbust seam, with a compact flat black ribbon knot at the center front. A narrow black mesh binding finishes the full undulating hem. Elastic recovery in the lace bands and pliant bias mesh forms a clean pull-on closure with a continuous fitted upper circuit. The rear lace edge and underbust band continue uninterrupted between the paired strap anchors, and the checked skirt retains its full flare across the rear. Preserve the fine mesh grain, slight translucency through single layers, denser tone at overlaps, delicate lace openwork, crisp scallops, slim seam allowances, stable check-band widths, and thin flexible edge depth throughout. Footwear: One matching pair of solid dark brown platform Mary Jane shoes built from smooth low-luster structured upper material with shallow natural creasing, clean rounded edge returns, and dense molded dark brown rubber at the base. Each shoe has a broad rounded-square overall front envelope and a low substantial platform profile. The low upper opening has a shallow curved rear arc and continues forward into two narrow transverse unfilled instep slots. A broad rounded-square closed toe box and low side quarters form the upper, while a one-piece platform sole follows the full perimeter, projects slightly beyond the toe and sides, and combines a softly rounded sidewall with a nearly level lower profile and a low integrated heel. One wide flat crosswise instep strap spans between the two open slots and anchors directly into both side quarters. The anatomical mirror counterparts use identical toe width, opening geometry, strap position, upper-panel seams, platform depth, and edge finish. Keep the toe boxes broad but not bulbous, the strap planes flat, the instep slots sharply bounded, the upper surfaces smooth, and the sole sidewalls dense and cleanly molded. Belt: Styling: - Belt placement: Place the complete belt as one flat diagonal closed circuit on the outermost surface of Mini dress, with the wearer-left upper-hip side distinctly lower than the wearer-right side. Maintain the same wearer-left-downward diagonal across the front and back; do not mirror it to image-left or twist the band. Preserve any separately selected buckle or knot position and tail treatment, and do not invent unregistered hardware. One pistachio crochet cord belt built from a long slender round braided cord and a dimensional yarn rosette. The flexible cord forms one complete adjustable circuit and retains a consistently narrow circular section. A large rosette is constructed from three concentric tiers of tightly crocheted scalloped petals around a compact spiral center. Two narrow unequal free tails end in clean bound yarn terminals, with the longer tail substantially exceeding the rosette diameter. Beside the rosette, the cord and tails are secured into a compact single-loop knot. Keep the cord smooth and untwisted, the knot compact, the petal tiers clearly separated, the spiral center legible, and the yarn color and stitch scale consistent across every component. Necklace: One fine silver-tone oval-link pendant necklace with a compact single-loop envelope; the pendant is distinctly broader than the chain and its drop remains short compared with the complete chain circuit. Small polished black bead stations punctuate the fine link path. The central pendant is a solid polished black heart with two rounded upper lobes and one clean lower point, framed by a narrow silver-tone rim and joined to the chain by a compact polished bail. Keep the links fine and individually resolved, the bead stations spherical, the heart face smooth and opaque, the rim uniform, and the metal joins precise with controlled reflections. Earrings: One matching pair of small pale warm-gold-tone round stud earrings, each constructed with one compact domed front face carrying subtle fine textured relief, one concealed straight post, and one matching friction clutch. Keep both earrings identical in diameter, section thickness, mounting depth, color, finish, and fastening construction. Complete the rear surfaces, post anchoring, clutches, hidden joins, and polished edges as one coherent matching pair with no chain, drop, pearl, colored enamel, readable branding, or additional component. Preserve precise bilateral matching, clean circular geometry, secure post construction, consistent relief depth, uniform plated finish, and restrained material-correct highlights. Bracelet: Styling: - Bracelet placement: VIEW-CONDITIONAL HARD SIDE MAP — choose one case by facing direction. FRONT OR NEAR-FRONT: IMAGE-RIGHT wrist = TARGET and IMAGE-LEFT wrist = NON-TARGET. BACK OR NEAR-BACK: IMAGE-LEFT wrist = TARGET and IMAGE-RIGHT wrist = NON-TARGET. PROFILE, CROSSED ARMS, OR AMBIGUOUS IMAGE SIDE: trace the subject's left arm from the left shoulder to its wrist; do not choose by screen side. TARGET is always the subject's anatomical left wrist; NON-TARGET is the anatomical right wrist. Render one complete instance of the registered bracelet item described directly below around TARGET only; keep NON-TARGET free of this bracelet and do not duplicate it. Preserve the registered design and count. Keep other separately selected wrist items unchanged. One delicate gold-tone chain bracelet with a fine flexible closed circuit and a sparse sequence of small translucent oval beads separated by exposed chain spans. The bead sequence alternates emerald green, pale rose, and deep plum accents, each bead secured by tiny gold wire loops and remaining distinctly la
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21522_0.jpg" width="600" alt="Pistachio Crochet Layered Mesh Dress - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21522_1.jpg" width="600" alt="Pistachio Crochet Layered Mesh Dress - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20975_2.jpg" width="600" alt="Soho Window Light Portrait - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21522_2.jpg" width="600" alt="Pistachio Crochet Layered Mesh Dress - Image 3">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 15: Mysterious Red Rim Light Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-detailed digital portrait illustration of a {argument name="subject" default="confident young man"} with sharp facial features and intense dark eyes, loo…
+
+#### 📝 Prompt
+
+```
+Ultra-detailed digital portrait illustration of a {argument name="subject" default="confident young man"} with sharp facial features and intense dark eyes, looking directly into the camera. His hand covers the lower half of his face, creating a mysterious and powerful expression. Stylish voluminous black hair, wearing a {argument name="outfit color" default="deep red shirt over a black t-shirt"}, black wrist wrap, and a subtle gold chain. Dramatic {argument name="lighting color" default="red"} rim lighting outlining the hair, face, shoulders, and clothing against a pure black background. High-contrast cinematic lighting, dark moody atmosphere, bold shadows, comic-book and graphic novel style, semi-realistic digital painting, ultra-sharp details, textured brushwork, modern masculine aesthetic, centered composition, portrait crop, 4K quality, trending on ArtStation, masterpiece, highly detailed, powerful gaze, edgy and stylish character design.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05850_0.jpg" width="600" alt="Mysterious Red Rim Light Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 16: Luxury Business Leader Portrait Art
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A powerful portrait of a high-ranking business leader, dressed in haute couture luxury formal wear (perfectly tailored dark suit, clean white shirt, elegant ti…
+
+#### 📝 Prompt
+
+```
+A powerful portrait of a high-ranking business leader, dressed in haute couture luxury formal wear (perfectly tailored dark suit, clean white shirt, elegant tie).
+
+Sharp facial features, neat appearance, and surreal details.
+
+Expressions and Atmosphere:
+A calm, confident, and highly authoritative expression—focused eyes symbolize wisdom, control, and global influence.
+
+Pose and composition:
+Bust Portrait (Chest and Above)
+A slight diagonal cinematic angle adds depth and intensity
+A strong executive posture (relaxed hands or adjusting suits)
+
+Artistic Style:
+Hand-drawn ink line sketches are blended with watercolor textures
+Luxurious gold, black, and deep blue/red pigments splash everywhere
+Dynamic abstract strokes represent power and innovation
+A highly detailed real face with subtle rough textures
+
+Background:
+Clean white or soft neutral base colors
+Elegant watercolor splashes (gold + dark tones)
+A soft glowing halo behind the main body creates a high-end elite feel
+
+Text elements:
+Main title: "{argument name="title" default="Enter text here "}" (bold handwritten luxury brush style)
+Name:"{argument name="Name" default="Enter text here"}"
+Additional details:
+Subtle golden accents create a billionaire aesthetic
+Subtle grainy textures overlap to add depth to the film
+The smallest crown or abstract symbol of wealth/power
+
+Bottom signature: "Enter text here"
+Optional quotation section: "{argument name="Quotation" default="Enter text here"}"
+
+Atmosphere and Tone:
+Elite, powerful, cinematic, and luxurious-driven heritage aesthetics
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08826_0.jpg" width="600" alt="Luxury Business Leader Portrait Art - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 17: Loewe Coastal Leather Collage Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A high-fashion luxury editorial advertisement in a vertical format, featuring a mysterious female model from mid-torso up, centered and slightly turned to the…
+
+#### 📝 Prompt
+
+```
+A high-fashion luxury editorial advertisement in a vertical format, featuring a mysterious female model from mid-torso up, centered and slightly turned to the side, wearing an oversized dark olive leather jacket with a high collar and prominent buckle strap detail near the neck. Her face is obscured by a soft rectangular blur, while her dark wavy shoulder-length hair remains visible and voluminous. She carries a slouchy black leather shoulder bag with a gold chain strap and a small gold logo near the bottom corner. Place the large serif brand name {argument name="brand text" default="LOEWE"} across the center in elegant white uppercase letters, overlaying the figure. Build the entire composition as a tactile collage made of torn and layered fabric and leather swatches: exactly 8 visible material fragments surrounding and partially overlapping the subject, including beige linen at the top left, olive stitched leather panels on the left, soft beige fabric at the lower left edge, dark brown embossed leather with a monogram motif at the upper right, rocky coastline photography at the right and lower right, a textured taupe stitched textile across the lower center, a dark denim-like fragment at the lower left, and a deep brown leather panel at the bottom right. In the background, reveal a dramatic coastal landscape with rocks, ocean waves, and a moody cloudy sky lit like late afternoon or sunset. Use rich earthy tones, muted olive, dark brown, taupe, black, and warm highlights. The overall look should feel premium, cinematic, moody, artisanal, and minimalist, like a luxury fashion campaign combining leather craftsmanship, collage art direction, and editorial photography.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01071_0.jpg" width="600" alt="Loewe Coastal Leather Collage Editorial - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 18: Cliffside Solitary Journey
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a hyper-realistic collectible fine-art landscape photograph inspired by ancient Chinese mountain travel writing: a perilous plank road carved into a ver…
+
+#### 📝 Prompt
+
+```
+Create a hyper-realistic collectible fine-art landscape photograph inspired by ancient Chinese mountain travel writing: a perilous plank road carved into a vertical cliff in a remote misty mountain gorge. The scene shows exactly two living subjects on the narrow path: one lone traveler in simple dark traditional mountain clothing walking away from the camera, and one small pack donkey or mule loaded with bundled brown cargo. The path clings to the left side of the frame beneath a towering wet rock wall, made of uneven stone slabs and rough wooden support beams jutting out over a sheer drop. The right and center of the image open into a vast abyss filled with drifting white-gray clouds and fog, with multiple jagged forested peaks and dark limestone cliffs receding into the distance. Use a moody overcast sky, cold blue-gray color grading, damp rock textures, sparse green vegetation on ledges, and soft diffused natural light after rain. Compose as a professional documentary adventure photograph from a slightly elevated viewpoint looking along the cliff trail into the gorge, wide-angle but natural perspective, deep depth of field, cinematic realism, high detail, no fantasy architecture, no modern objects, no text, no watermark. The atmosphere should feel dangerous, ancient, quiet, and awe-inspiring, as if captured by a top National Geographic photographer in a real hidden mountain pass. Customize the source mood as {argument name="source mood" default="ancient Chinese mountain travel writing"}, the location as {argument name="mountain location" default="remote misty Chinese gorge"}, the main traveler as {argument name="main traveler" default="lone traveler in simple dark traditional mountain clothing"}, the pack animal as {argument name="pack animal" default="small pack donkey loaded with brown bundled cargo"}, and the weather as {argument name="weather" default="overcast after-rain fog"}.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02618_0.jpg" width="600" alt="Cliffside Solitary Journey - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 19: Weasel Soap Bubble Dream Tribe
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{argument name="Species" default="The Weasel Soap Bubble Dream Tribe"}. Freely create your abilities and lifestyle.
+
+#### 📝 Prompt
+
+```
+{argument name="Species" default="The Weasel Soap Bubble Dream Tribe"}. Freely create your abilities and lifestyle.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08052_0.jpg" width="600" alt="Weasel Soap Bubble Dream Tribe - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 20: Anime School Festival Bassist Live
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A dynamic anime concert illustration of {argument name="character" default="Mio Akiyama-inspired high school bassist"} performing onstage at a school festival,…
+
+#### 📝 Prompt
+
+```
+A dynamic anime concert illustration of {argument name="character" default="Mio Akiyama-inspired high school bassist"} performing onstage at a school festival, shown from a dramatic low angle in a full-body near-portrait composition. She is a beautiful teenage girl with very long straight {argument name="hair color" default="black"} hair whipping sideways in the motion of the performance, wearing a dark navy Japanese school uniform with a fitted blazer, white shirt, blue ribbon bow, and pleated gray-blue skirt. Her expression should be cool, serious, and focused. She is playing a sunburst electric bass guitar with a tortoiseshell pickguard, and it must be a true {argument name="instrument orientation" default="left-handed bass guitar"}, with the neck extending to the left side of the image and her fretting hand positioned accordingly. The stage setting is an indoor school auditorium packed with students on the ground floor and balcony, with bright concert spotlights, ceiling trusses, floating music-note decorations, and confetti-like glowing particles in the air. Behind her is a large banner reading {argument name="banner text" default="SAKURAKOU K-ON"}. At the left foreground is a black amplifier stack with the logo “Ampeg” and the text {argument name="amp text" default="桜高軽音部 K-ON! SAKURAKOU K-ON! BU"}, and in the right background a drum kit with visible “YAMAHA” branding. Emphasize energetic live-performance motion, glossy instrument reflections, detailed crowd depth, dramatic stage lighting in purple and white, and polished high-end anime illustration quality, SFW.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09950_0.jpg" width="600" alt="Anime School Festival Bassist Live - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 21: The $251 Truth Revealed
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+$251
+
+#### 📝 Prompt
+
+```
+$251
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16079_0.jpg" width="600" alt="The $251 Truth Revealed - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 22: Lawson Blue Sign Milk Can Legend
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a bright Japanese YouTube thumbnail in a high-energy variety-show style about the urban legend that the blue Lawson sign is actually a milk can. Use a 1…
+
+#### 📝 Prompt
+
+```
+Create a bright Japanese YouTube thumbnail in a high-energy variety-show style about the urban legend that the blue Lawson sign is actually a milk can. Use a 16:9 horizontal canvas, glossy anime/Vtuber thumbnail design, warm blurred convenience-store or city-light background, heavy white outlines, sparkles, radial speed lines, halftone dots, comic splashes, and strong drop shadows. On the right side, place one anime-style young woman presenter from chest up: short brown bob haircut with side-swept bangs, large black glasses, closed smiling eyes with blush, fair skin, wearing a black blazer over a deep V-neck white blouse and a delicate gold necklace; her hand is partly raised near the bottom as if explaining. On the left and center, add huge stacked Japanese headline typography with thick white and dark outlines: 「青い看板の」 in bright blue at the top, and 「正体」 in oversized yellow below, angled slightly for impact. Add a red rounded label at the top left reading 「#えもーにんぐ No.2114」 with small star decorations. Add a small illustrated silver milk can near the center-right of the headline, labeled “MILK” with a blue cow icon, with blue motion marks around it. Add a pink comic burst near the lower center reading 「実は 牛乳缶!?」 with 「牛乳缶!?」 very large in hot pink. Add a rounded white badge at the top right with an orange sun icon and text 「6/3 ローソンの日」 in orange and blue. Add the channel logo-like text 「癒色えも」 at the bottom left in pale blue. Include exactly 6 main text elements: top-left episode label, blue headline, yellow headline, pink burst claim, top-right date badge, bottom-left channel name. Make the image colorful, cute, glossy, and attention-grabbing, with no photorealism, no extra characters, no watermark, and keep all Japanese text crisp and readable. Allow the headline to be customized as {argument name="main headline" default="青い看板の 正体"}, the episode label as {argument name="episode label" default="#えもーにんぐ No.2114"}, the claim burst as {argument name="claim text" default="実は 牛乳缶!?"}, the date badge as {argument name="date badge text" default="6/3 ローソンの日"}, and the presenter style as {argument name="presenter style" default="anime young woman with short brown bob hair, black glasses, black blazer, white blouse, gold necklace"}.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06435_0.jpg" width="600" alt="Lawson Blue Sign Milk Can Legend - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 23: Dark West Outlaw Cinematic Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+High-end cinematic feel {argument name="character" default="Western Outlaws"} poster, vertical 2:3 composition, Dark West game character setting poster style.…
+
+#### 📝 Prompt
+
+```
+High-end cinematic feel {argument name="character" default="Western Outlaws"} poster, vertical 2:3 composition, Dark West game character setting poster style. A mysterious masked cowboy and a dark horse stand on the desert border. The figure faces the entire face, with a wide-brimmed cowboy hat pulled low and a patterned face covering the lower half of the face. Dark long hair, black leather gloves, a black Western jacket and multi-layered leather gear, bullet belts, holsters, metal belt buckles, heavy boots, and a reddish-brown geometric patterned blanket draped over their shoulders, the edges tattered and fluttering. The character's posture is calm and dangerous, one hand close to the holster. On the right, the black horse appears in half-body with a white brow stripe and clear details on the reins. The backdrop is the stormy western desert, with lightning, dark clouds, distant canyon cliffs, dead trees, dust, smoke, sparks, and muddy reflections—an epic atmosphere oppressive. On the left side of the painting is a blank vintage parchment, while on the right is a dark storm scene, with strong separation of light and shadow. Includes advanced poster layout elements such as large vertical English titles, wanted notice information, profile profiles, coordinates, map grids, fine line frames, circular compass graphics, small red marks, and signature stamps. Style: Black ink splashes, old paper textures, cinematic realism, Dark West, strong contrast, ultra-detailed leather and metal, dust, mud spots, scratches, smoke, Mars, edge contour light, premium collectible-grade game posters, Red Dead Redemption atmosphere, art setting with texture, 8K, high detail.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03143_0.jpg" width="600" alt="Dark West Outlaw Cinematic Poster - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03143_1.jpg" width="600" alt="Dark West Outlaw Cinematic Poster - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03143_2.jpg" width="600" alt="Dark West Outlaw Cinematic Poster - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20975_3.jpg" width="600" alt="Soho Window Light Portrait - Image 4">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03143_3.jpg" width="600" alt="Dark West Outlaw Cinematic Poster - Image 4">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 4: Li Jiaqi Lipstick Wall Revealed
+### No. 24: Hyper-Realistic Fashion Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Li Jiaqi's livestream room background: lipstick matrix display wall, warm ambient lighting, and the copy "Buy it at OMG"
+Create a hyper-realistic fashion editorial portrait based on the uploaded reference image. Keep the exact same composition, body pose, camera distance, lens pe…
 
 #### 📝 Prompt
 
 ```
-Li Jiaqi's livestream room background: lipstick matrix display wall, warm ambient lighting, and the copy "Buy it at OMG"
+Create a hyper-realistic fashion editorial portrait based on the uploaded reference image.
+
+Keep the exact same composition, body pose, camera distance, lens perspective, framing, studio background, black and white color grading, dramatic low-key lighting, shadows, grain texture, motion blur effect and overall cinematic atmosphere.
+
+Replace the original person in the image with the target character from the provided character reference. Preserve the target character's facial structure, skin tone, hairstyle, face proportions, identity features and overall appearance as accurately as possible. The new character must stand in the same position as the original model, facing the camera with the same confident pose. One hand should be raised near the face, while the other arm remains behind the body, matching the original posture.
+
+The clothing can adapt to the target character's style, but it must remain close to the original fashion mood: {argument name="jacket" default="cropped denim jacket"}, {argument name="pants" default="dark pants"}, {argument name="accessories" default="sunglasses, rings"} and streetwear styling. The outfit should look natural on the target character while keeping the same silhouette and fashion editorial feeling.
+
+Keep the background exactly the same: dark grey studio backdrop, strong directional spotlight from above, deep shadows on the face and body, high contrast black-and-white treatment, visible fabric details on the jacket, realistic folds, denim texture, accessories and subtle imperfections.
+
+Maintain the same artistic motion blur light streaks behind and around the character, especially on the left side of the frame. The blur should feel like a long-exposure studio effect, not artificial. Do not change the camera angle, do not zoom in or out, do not alter the lighting setup, do not change the background, do not add text, logo or extra objects.
+
+Ultra realistic, cinematic fashion photography, black and white editorial, high contrast, studio portrait, natural skin texture, realistic clothing texture, professional magazine shoot.
+
+Negative Prompt:
+
+Do not change the pose, camera angle, lens, background, lighting, framing or motion blur. Do not distort the face. Do not make the character look artificial. Do not add text, logo, watermark, extra people, colorful elements or different background. Do not over-smooth the skin. Do not change the black and white style.
 ```
 
 #### 🖼️ Generated Images
@@ -189,29 +881,31 @@ Li Jiaqi's livestream room background: lipstick matrix display wall, warm ambien
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13346_0.jpeg" width="600" alt="Li Jiaqi Lipstick Wall Revealed - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03025_0.jpg" width="600" alt="Hyper-Realistic Fashion Editorial Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03025_1.jpg" width="600" alt="Hyper-Realistic Fashion Editorial Portrait - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 5: Girl Inside Pokemon Claw Machine
+### No. 25: Blue Aesthetic Boy Character Board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Ultra-realistic photography, cute Japanese style. In the picture, a beautiful young woman sits inside a claw machine filled with Pokémon plush toys. The compos…
+(Semi-realistic anime fashion mood board), a fashionable young Korean boy with (messy black hair), (rimmed glasses), a gentle and confident expression, a large…
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic photography, cute Japanese style. In the picture, a beautiful young woman sits inside a claw machine filled with Pokémon plush toys. The composition is perfectly centered and symmetrical. The model gripped the metal hook bar above her head with both hands, her gaze melancholic and gentle as she looked straight at the camera. She sports long wavy dark brown hair, her skin is delicate and radiant, and her legs gracefully stretch over a pile of adorable plush toys.
-
-The inside of the machine is completely filled with Pokémon plush toys. This Japanese-style game console is decorated with cute illustrations, Japanese fonts, stars, hearts, and other playful details.
-
-Surround neon pink LED lighting, vertical tubes on both sides, cinematic reflections on glass and metal, soft halo, dream core atmosphere, Harajuku aesthetic, macaron-colored vapor waves, monochrome cotton candy pink grading, soft magenta tones, ultra-fine, surreal, moderate depth of field, perfect focus on models, realistic reflections, luxury editorial photography, Japanese magazine style, magical and nostalgic atmosphere, 85mm, f/2.0, HDR, 8K, masterpiece, ultra-realistic, cinematic lighting effects, high-end fashion photography High detail, soft light, dreamy atmosphere.
+(Semi-realistic anime fashion mood board), a fashionable young Korean boy with (messy black hair), (rimmed glasses), a gentle and confident expression, a large blue striped shirt layered with a white T-shirt, a relaxed streetwear style. Surrounded by (hand-drawn character sketches), comic storyboards, doodles, stars, hearts, handwritten notes, study moments, coffee cups, headphones, camera sketches, and lifestyle illustrations. (Pure white background), (ink and pencil mixed texture), (Anime fashion editorial), (Character design board), (Soft blue aesthetics), ultra-fine, clean lines, delicate cel shadows, magazine cover style, 8K masterpiece.
 ```
 
 #### 🖼️ Generated Images
@@ -219,25 +913,31 @@ Surround neon pink LED lighting, vertical tubes on both sides, cinematic reflect
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13045_0.jpg" width="600" alt="Girl Inside Pokemon Claw Machine - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14349_0.jpg" width="600" alt="Blue Aesthetic Boy Character Board - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14349_1.jpg" width="600" alt="Blue Aesthetic Boy Character Board - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 6: Dreamy Celestial Ice Princess Design
+### No. 26: Goshuin Style Ink Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A full-body anime character design of a dreamy celestial ice princess standing centered against a clean white background with faint glowing cyan swirls and spa…
+Using {argument name="character" default="this character"}, draw a goshuin-style illustration of a fictional {argument name="temple name" default="temple"}. Th…
 
 #### 📝 Prompt
 
 ```
-A full-body anime character design of a dreamy celestial ice princess standing centered against a clean white background with faint glowing cyan swirls and sparkles. She has very long, flowing {argument name="hair color" default="icy gradient blue"} hair that reaches past her knees, with soft volume, glossy strands, a braided side section, and star-shaped hair ornaments. Add a delicate silver crescent-moon headpiece above her head, plus tiny dangling star accessories near the ears. Her face is mostly soft and pretty in shoujo style, but keep it simple and elegant. She wears a short fantasy dress in {argument name="dress color" default="light sky blue and white"}, with a fitted bodice, sweetheart neckline, translucent puff sleeves, lace trim, tiny floral accents at the sleeves, and a sparkling star-shaped ornament at the chest with hanging jewel chains. Around her neck is a moon-and-star choker necklace. The skirt has 2 layers: a short front skirt and a long high-low overskirt draping down on both sides and back. Decorate the dress with celestial motifs including 3 crescent moons on the hem of the short skirt, 1 large central starburst motif, white filigree patterns, glitter, and tiny star-like lights throughout. Add small dangling charms under the skirt hem and overskirt, including stars and teardrop crystals. She wears white thigh-high stockings, with 3 visible star decorations on the upper thigh area of one stocking, and glossy blue high heels with ankle straps, bows, and star ornaments on the toes. Pose her front-facing with one leg slightly forward, arms relaxed naturally, and hair spreading outward in elegant flowing curves. Surround her with 4 larger glowing star sparkles and 2 small snowflake-like motifs. The image should feel ethereal, refined, luminous, pastel, magical-girl inspired, ultra-clean, highly polished, and delicately detailed, with soft gradients, crisp line art, subtle glitter effects, and a premium character-sheet illustration aesthetic.
+Using {argument name="character" default="this character"}, draw a goshuin-style illustration of a fictional {argument name="temple name" default="temple"}. The overall composition is simple, allowing you to feel the texture of washi paper. The painting is rendered in a brush-like ink-like style, using only black and vermilion colors. As a goshuin (temple stamp), include the name of the temple that was on the character, the main brush character {argument name="number of characters" default="4 characters"}, and the date. Date is arranged naturally in vertical writing. Characters are placed smaller so they blend into the goshuin (temple stamp). Poses should include praying or a quiet presence, creating a calm atmosphere. The overall layout is arranged to be as orderly as a real goshuin stamp, while the design is uniquely unique and memorable.
 ```
 
 #### 🖼️ Generated Images
@@ -245,25 +945,25 @@ A full-body anime character design of a dreamy celestial ice princess standing c
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06043_0.jpg" width="600" alt="Dreamy Celestial Ice Princess Design - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01044_0.jpg" width="600" alt="Goshuin Style Ink Illustration - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 7: Anime Wedding Visual Poster
+### No. 27: Retro Pop Art Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A vertical anime-style wedding main visual poster blends the live-action cosplay-style newlyweds in the foreground with an anime girl illustration surrounding…
+Create a vibrant {argument name="艺术风格" default="retro pop-art collage"} portrait using the uploaded photo as the face reference. Preserve the exact facial feat…
 
 #### 📝 Prompt
 
 ```
-A vertical anime-style wedding main visual poster blends the live-action cosplay-style newlyweds in the foreground with an anime girl illustration surrounding them. The background is a stone church bathed in bright sunlight, with the sky glowing in a vibrant deep blue. At the center foreground, the groom and bride strike a dramatic selfie-like pose, arms outstretched toward the viewer. The groom is a young, androgynous character, sporting messy short hair at {argument name="hair color" default="light brown"}, dressed in a sharp white wedding suit, white shirt, and white tie, smiling, and making playful gestures beside his face. The bride sports short twin ponytails with {argument name="hair color" default="deep purple-black"}, dressed in a gorgeous white wedding dress adorned with layered lace, a veil, a pearl necklace, and long white gloves, holding a bouquet of white roses. Behind them stands a beautiful European-style church, with towering spires, garlands hanging at the entrance, stained glass windows, and warm sunlight bursting from the left, creating a camera halo and flickering light. Fluffy white clouds float in the sky, flying white doves, faint rainbow stripes, and falling pink petals. Around the edges are six portraits of anime female students in dark school uniforms tied with red or yellow bows, each showing a different expression: a brown-haired girl in the upper left reaches forward; a girl with purple hair and an eye mask in the middle left looks uneasy; a cheerful girl with pink hair in the lower left; a brown-haired girl in the upper right extends a gloved hand; a black-haired boy in a school uniform in the middle right; a shy brown-haired girl in the lower right; and a little blonde girl with her mouth open in excitement at the bottom right. Luxurious decorative corner patterns are added around the poster. The upper right corner contains a vertical Japanese slogan with the text {argument name="tagline text" default="Saあ, contract no jikanda — Let's swear our eternity"}. Place a striking and colorful Japanese title at the bottom center {argument name="title text" default="Chuunibyo De Koi ga Want It!" "}, using bold blue and pink outline font, with a small Romanized subtitle "Chu-2 byo demo KOI ga shitai!" below and the list of creators at the bottom {argument name="credit text" default="Yuta Togashi Takanashi Rikka"}. Overall Impression: Dazzling, romantic, sensual, and nostalgic anime movie posters, ultra-high detail, glossy light effects, magical flash effects, vibrant colors, and exquisite promotional composition.
+Create a vibrant {argument name="艺术风格" default="retro pop-art collage"} portrait using the uploaded photo as the face reference. Preserve the exact facial features, smile, eyes, nose, lips, hairstyle, and identity of the person. Convert the portrait into a high-contrast black-and-white editorial photograph while keeping the face realistic and recognizable. Add {argument name="墨镜款式" default="oversized bright yellow cat-eye sunglasses"} with turquoise transparent lenses and {argument name="耳饰" default="large daisy flower earrings"} with yellow centers. Surround the subject with a thick cream-colored paper-cutout outline. Use a bold background with diagonal teal and lime-green stripes, vintage paper texture, subtle grain, and distressed print effect. Mixed-media collage aesthetic, fashion magazine cover style, modern Pinterest-inspired graphic design, playful summer vibe, clean composition, cheerful expression, premium advertising poster, ultra-detailed, realistic skin texture, professional lighting, high resolution, 4K.
 ```
 
 #### 🖼️ Generated Images
@@ -271,37 +971,25 @@ A vertical anime-style wedding main visual poster blends the live-action cosplay
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16550_0.jpg" width="600" alt="Anime Wedding Visual Poster - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06721_0.jpg" width="600" alt="Retro Pop Art Fashion Portrait - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 8: 100 Fantasy RPG Pixel Items Grid
+### No. 28: Fantasy Xianxia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a 10×10 grid containing 100 different fantasy RPG items, rendered in classic pixel art style (16-bit or 32-bit phantom art aesthetics, reminiscent of Ja…
+Using REFERENCE_0 as the character base, transform the subject into a {argument name="theme" default="fantasy Xianxia"} setting. Dress her in {argument name="c…
 
 #### 📝 Prompt
 
 ```
-Create a 10×10 grid containing 100 different fantasy RPG items, rendered in classic pixel art style (16-bit or 32-bit phantom art aesthetics, reminiscent of Japanese RPGs from the SNES/GBA era). Each item should appear in its own individual square tile, with a short, clear label below. Keep the grid neat on a white background. Make sure each item is visually distinguishable, and each label is spelled correctly. Use sharp pixel edges, a limited palette for each genie image, and subtle jitter for shadows.
-Use these line themes:
-Line 1: Sword and blade
-Line 2: Shield and armor
-Line 3: Bow, crossbow, and ranged weapons
-Line 4: Wand, wand, and magic focus
-Line 5: Potion, elixirs, and flasks
-Line 6: Scrolls, classics, and spellbooks
-Row 7: Rings, amulets, and enchanted trinkets
-Line 8: Helmet, crown, and headpiece
-Line 9: Keys, relics, and quest items
-Line 10: Gems, runes, and crafting materials
-Display each tile as a centered item sprite on a clean square background, rendered as a classic stock icon—the kind you'd see in fantasy RPG menus. Maintain a consistent and coherent overall style, reminiscent of beloved retro fantasy RPGs—charming, detailed, and easily recognizable in a small size.
+Using REFERENCE_0 as the character base, transform the subject into a {argument name="theme" default="fantasy Xianxia"} setting. Dress her in {argument name="clothing" default="elaborate purple and gold traditional Chinese robes with a sheer purple veil"}. Add ornate gold and pearl hair accessories and long pointed nail guards. Change her pose so she is looking slightly away, with one hand raised delicately near her face and the other holding a {argument name="prop" default="large, glowing white lotus flower"}. Set the scene at night with a {argument name="background" default="large full moon, a dark silhouette of a traditional temple roof, and cherry blossom branches"}. Apply an {argument name="lighting and atmosphere" default="ethereal, magical purple-tinted moonlight"} effect.
 ```
 
 #### 🖼️ Generated Images
@@ -309,14 +997,1327 @@ Display each tile as a centered item sprite on a clean square background, render
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12676_0.jpeg" width="600" alt="100 Fantasy RPG Pixel Items Grid - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01429_0.jpg" width="600" alt="Fantasy Xianxia - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 9: Catgirl Idol Concert Performance
+### No. 29: Messy Kitchen Flour Selfie Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create an ultra-realistic 4:5 portrait based on the uploaded reference photo. Preserve the person's identity exactly, including facial structure, proportions,…
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic 4:5 portrait based on the uploaded reference photo. Preserve the person's identity exactly, including facial structure, proportions, expression, hairstyle, skin tone, and natural imperfections. Do not reshape the face, beautify it, add artificial filters, or stylize the result.
+
+Show {argument name="subject" default="a young woman with sun-kissed skin and a fit, athletic build"} in a messy kitchen, laughing naturally with her mouth open. Add a playful smear of white flour on her nose and cheek. Keep the bright green eyes, short-to-medium slightly messy hair, and the exact camera-facing angle from the reference.
+
+She is wearing {argument name="clothing" default="a plain black t-shirt fitted like the reference pose with tiny pajama shorts"}, no accessories, and bare feet. Her hands are lightly dusted with flour. One hand holds the phone for a mirror selfie, and the other rests near her face, matching the reference hand placement.
+
+Pose her leaning over a kitchen island counter with elbows on the surface. Capture the scene as an eye-level mirror selfie reflected in a kitchen cabinet or window, using the same perspective as the reference photo. The kitchen should feel casually messy, with a bowl of dough, scattered flour, cracked eggshells, and bright overhead kitchen lighting.
+
+The final image should feel playful, domestic, candid, and highly realistic, with sharp detail in natural skin texture, flour dust, messy surfaces, and real indoor light. The goal is a believable mirror selfie portrait of her laughing in the kitchen, perfectly matching the reference photo's identity, pose, expression, and overall realism.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06436_0.jpg" width="600" alt="Messy Kitchen Flour Selfie Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 30: Cyberpunk Digital Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, beard, skin tone, eye sha…
+
+#### 📝 Prompt
+
+```
+Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, beard, skin tone, eye shape, and overall likeness with high fidelity.
+
+Create a cinematic futuristic digital portrait of me inspired by the reference image. Make a dramatic close-up side-profile portrait, with a strong confident expression, looking slightly upward. Keep my face realistic and detailed with natural skin texture, sharp facial features, and realistic beard details.
+
+Style: dark {argument name="aesthetic" default="cyberpunk editorial"} aesthetic, half of the face emerging from digital fragments, shattered pixel particles, abstract technology patterns, glowing {argument name="colors" default="orange and electric blue"} energy around the silhouette. Add futuristic circuit lines, glitch effects, and paint-splash textures blending into the background.
+
+Lighting: intense cinematic rim lighting, warm orange glow from one side and cool blue light from the other, deep shadows, high contrast.
+
+Composition: ultra-detailed portrait, realistic photography mixed with digital art, 8K quality, sharp focus, premium movie poster look, dramatic atmosphere.
+
+Avoid: changing my identity, different face, cartoon style, distorted facial features, extra eyes, unnatural skin, blurry details.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04016_0.jpg" width="600" alt="Cyberpunk Digital Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 31: Gothic Oiran Dark Fantasy Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a highly detailed anime illustration of an elegant gothic oiran courtesan seated in a dramatic three-quarter pose against a pure black background with a…
+
+#### 📝 Prompt
+
+```
+Create a highly detailed anime illustration of an elegant gothic oiran courtesan seated in a dramatic three-quarter pose against a pure black background with a crimson ruined cathedral/window silhouette behind her. The character is a pale, doll-like young woman with {argument name="hair color" default="platinum blonde"} hair styled in an elaborate high oiran updo with long curled ringlets, blunt bangs, pointed elf ears, icy blue eyes, and a calm vacant expression. She wears an ornate black spiked metal halo/crown behind her head, plus exactly 7 visible hair ornaments: 3 long black spear-like hairpins crossing diagonally on the left, 1 curled gold ornament, 1 small red ribbon bow near the left side of the head, 1 red ribbon bow by the ear, and 1 red rectangular ribbon on the right side. Dress her in a lavish fusion of Japanese oiran kimono, lolita fashion, and gothic Victorian styling: a black-and-white collar, white gloves, layered ruffled sleeves, a black upper robe with bold white calligraphy, a huge red obi bow at the waist, and an enormous cascading skirt made of torn paper-like kimono panels. Use a striking palette of black, white, saturated red, bright cyan blue, and pale cream. The skirt should dominate the lower two-thirds of the image with many jagged cyan fabric strips covered in black handwritten characters, black strips with white calligraphy, white ruffled edges, red bows, and a pink-and-gray patterned obi section on the left. Count the prominent decorative bows as exactly 5: 2 in the hair, 1 oversized red bow at the waist, and 2 red bows in the lower skirt. Her right hand is raised delicately, palm up, balancing a long slender {argument name="smoking pipe" default="gold-and-red kiseru pipe"} horizontally; her other gloved hand rests elegantly over the piled fabric. Use sharp inked linework, cel-shaded highlights, intricate textile patterns, high contrast, fashion-editorial composition, surreal gothic atmosphere, and a vertical portrait crop. Add subtle red handwritten characters on the right side of the background, but no readable modern typography, no watermark, no photorealism.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07271_0.jpg" width="600" alt="Gothic Oiran Dark Fantasy Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 32: Pose Light Analysis Mannequin
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+[CORE TASK] Transform the provided input image into a pose-and-light analysis sheet. This is NOT a finished character illustration. This is NOT a clothing shee…
+
+#### 📝 Prompt
+
+```
+[CORE TASK]
+Transform the provided input image into a pose-and-light analysis sheet.
+
+This is NOT a finished character illustration.
+This is NOT a clothing sheet.
+This is NOT a beauty-preserving redraw.
+
+This is a white-line rough mannequin conversion.
+
+[PRIMARY GOAL]
+Extract and visualize only:
+- pose structure
+- body balance
+- camera angle
+- body line flow
+- inferred light source placement
+- illuminated areas and light intensity
+
+[INPUT ROLE]
+Use the provided image as the strict anchor for:
+- pose
+- camera angle
+- body tilt
+- weight distribution
+- approximate lighting situation
+
+Do NOT preserve:
+- face rendering
+- hairstyle rendering
+- clothing detail
+- accessories
+- weapon detail
+- background architecture
+- character identity
+- emotional expression
+
+[FIGURE CONVERSION]
+single rough mannequin-like human figure
+white body contour lines
+white internal construction lines
+simple mannequin head
+no face
+no eyes
+no mouth
+no eyelashes
+no personality
+no individual identity
+
+human figure should look like:
+- rough pose mannequin
+- anatomy proxy
+- line-based body guide
+- structural sketch
+- white-line rough dummy
+
+keep:
+- pose readability
+- silhouette flow
+- head tilt
+- torso direction
+- pelvis direction
+- limb placement
+
+[BACKGROUND]
+pure black background
+negative-style dark field
+no scenery
+no props
+no architecture
+no environmental storytelling
+
+[LINE STYLE]
+rough white line drawing
+clean but sketch-like
+construction-line feeling
+anatomy guide lines visible
+joint flow visible
+body contour emphasized
+no polished illustration finish
+
+[LIGHT ESTIMATION]
+predict the likely light source positions from the input image
+visualize the light sources and illuminated areas using green glow only
+
+use green light intensity with variation:
+- strongest green where the light directly hits
+- medium green for wrap light
+- soft green for reflected or fading light
+
+mark the estimated light sources with labels and arrows such as:
+- Main Light
+- Rim Light
+- Fill Light
+- Floor Bounce
+- Back Light
+only if appropriate
+
+IMPORTANT:
+do not invent random lights
+infer lighting from the original input image
+if the lighting is ambiguous, keep the annotations simple and plausible
+
+[GREEN LIGHT VISUALIZATION]
+show green glow on:
+- head / skull plane
+- neck
+- shoulders
+- chest plane
+- ribcage direction
+- pelvis edge
+- thigh planes
+- knee contact points
+- floor contact bounce if applicable
+
+use green light not as decoration,
+but as lighting analysis information
+
+[POSE PRIORITY]
+1. preserve pose structure
+2. preserve camera angle
+3. preserve body balance
+4. preserve head-torso relationship
+5. visualize likely light direction
+6. show illuminated areas with readable green intensity variation
+
+[NEGATIVE]
+finished person,
+cute girl,
+detailed face,
+hair rendering,
+clothing rendering,
+weapon emphasis,
+beautiful anatomy
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10029_0.jpg" width="600" alt="Pose Light Analysis Mannequin - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 33: Skincare Splash Macro Shot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Top-down flat lay of {argument name="product" default="skincare bottle"} perfectly centered, encircled by {argument name="ingredients" default="fresh slices an…
+
+#### 📝 Prompt
+
+```
+Top-down flat lay of {argument name="product" default="skincare bottle"} perfectly centered, encircled by {argument name="ingredients" default="fresh slices and whole pieces"} shown as fresh slices and whole pieces. Glossy wet aesthetic with a water splash frozen mid-air around the product, dewy droplets clinging to the label and packaging surface. Seamless warm beige backdrop, soft directional sunlight casting crisp realistic shadows. Premium skincare ad styling, ultra-realistic macro product photography, 100mm lens look, f/8 razor-sharp focus, clean uncluttered composition, no extra text, 8K, 1:1 aspect.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09339_0.jpg" width="600" alt="Skincare Splash Macro Shot - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 34: Luxury Parisian Street Style Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-realistic luxury fashion editorial photograph of a {argument name="subject" default="stylish East Asian woman"} standing on an elegant {argument name="lo…
+
+#### 📝 Prompt
+
+```
+Ultra-realistic luxury fashion editorial photograph of a {argument name="subject" default="stylish East Asian woman"} standing on an elegant {argument name="location" default="Parisian-style city sidewalk outside a luxury hotel"}, full body shot, soft golden hour sunlight casting natural tree shadows across the pavement and beige stone walls, calm premium aesthetic, cinematic depth of field, long wavy dark brown hair, black rectangular sunglasses, minimal makeup, delicate gold jewelry, confident relaxed pose with one hand in pocket.
+
+Outfit: {argument name="outfit details" default="oversized white button-up shirt worn open over a fitted white ribbed tank top, high-waisted ultra wide-leg light wash denim jeans with extra long hem covering pointed black heels, slim black belt, black H&M crossbody mini bag with gold chain strap and subtle gold logo"}, luxury casual street style.
+
+Environment: elegant European street, luxury hotel entrance, beige textured architecture, black awnings, trees lining the sidewalk, soft afternoon lighting, realistic shadows, premium fashion magazine vibe, clean composition, natural colors, photorealistic skin texture, shallow depth of field, high detail, 85mm lens, editorial fashion photography, Vogue aesthetic, balanced tones, luxury lifestyle mood.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06301_0.jpg" width="600" alt="Luxury Parisian Street Style Editorial - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06301_1.jpg" width="600" alt="Luxury Parisian Street Style Editorial - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 35: AGI Era Livestream Mockup
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "type": "livestream interface mockup", "subject": { "description": "{argument name=\"streamer description\" default=\"young Asian woman, long dark wavy hair…
+
+#### 📝 Prompt
+
+```
+{
+  "type": "livestream interface mockup",
+  "subject": {
+    "description": "{argument name=\"streamer description\" default=\"young Asian woman, long dark wavy hair with bangs, round wire-rimmed glasses, black button-up shirt, silver necklace\"}",
+    "action": "looking directly at camera, speaking into a professional broadcast microphone"
+  },
+  "setting": {
+    "location": "high-rise apartment interior at night",
+    "background": "large window with blurred illuminated city skyline",
+    "props": "YouTube play button plaque on shelf, warm desk lamp"
+  },
+  "layout": {
+    "top_left": {
+      "element": "stream title",
+      "text": "{argument name=\"stream title\" default=\"AGI 시대, 우리는 어떻게 살아남을까?\"}"
+    },
+    "top_right": {
+      "element": "status badge",
+      "text": "LIVE",
+      "style": "red circle indicator"
+    },
+    "left_panel": {
+      "element": "live chat feed",
+      "message_count": 5,
+      "messages": [
+        "FutureExplorer 22:44: Curious about social changes caused by AGI.",
+        "TechGuru 22:44: What jobs will disappear or emerge?",
+        "AI_lover 22:45: Difference between AGI and current AI?",
+        "PhilosophizingDev 22:45: What is the human role in the AGI era?",
+        "CodingOfficeWorker 22:46: Ethical issues and control methods for AGI?"
+      ],
+      "input_box": "Chat... with smiley icon"
+    },
+    "bottom_right": {
+      "element": "donation leaderboard",
+      "title": "{argument name=\"donation title\" default=\"오늘의 후원\"}",
+      "item_count": 4,
+      "items": [
+        "FutureBoy 50,000 won",
+        "Anonymous 20,000 won",
+        "AI Researcher 10,000 won",
+        "Sandbox 5,000 won"
+      ]
+    }
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05891_0.jpg" width="600" alt="AGI Era Livestream Mockup - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 36: Fate's Candid Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Analyze the narrative of this illustration and identify the single most critical moment of fate within the story. [Scene Construction] - Recreate that decisive…
+
+#### 📝 Prompt
+
+```
+Analyze the narrative of this illustration and identify the single most critical moment of fate within the story.
+
+[Scene Construction]
+
+- Recreate that decisive moment as a new illustration
+
+- The scene should feel candid and unposed — as if captured accidentally by a camera
+
+- The subject is caught mid-action, unaware of being observed
+
+- The composition is slightly off-balance, as if the photographer moved suddenly
+
+[Depth & Lens]
+
+- Place an out-of-focus object in the foreground close to the lens — a branch, fabric, foliage, architectural element, or any environmental object native to the scene
+
+- Human hands or body parts must never appear in the foreground
+
+- This foreground element creates strong depth separation
+
+- Apply shallow depth of field: the focal point is sharp, everything else falls into natural bokeh
+
+- Slight motion blur on peripheral elements suggests a fleeting moment
+
+[Imperfection]
+
+- The framing is imperfect — subject may be slightly off-center or partially cropped
+
+- Focus is not perfectly locked — the sharpest point is close but not clinical
+
+- The image feels like it was taken one second before or after the "perfect" shot
+
+[Atmosphere]
+
+- The emotional weight of the story's turning point must be felt in the image
+
+- Light and shadow reflect the tension of the moment
+
+- Preserve the original art style and color palette of the source illustration
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02751_0.jpg" width="600" alt="Fate's Candid Frame - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02751_1.jpg" width="600" alt="Fate's Candid Frame - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 37: Heian Fantasy Rainy Night Garden
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Japanese-style fantasy background illustration, illustration with high saturation colors, no people, {argument name=&quot;Seasonal Scene&quot; default=&quot;Ra…
+
+#### 📝 Prompt
+
+```
+Japanese-style fantasy background illustration, illustration with high saturation colors, no people, {argument name=&quot;Seasonal Scene&quot; default=&quot;Rainy Night&quot;} that only appears {argument name=&quot;Garden Style&quot; default=&quot;Heian Fantasy Garden&quot;}, thin silk screens and blinds reminiscent of a twelve-layered kimono in pale wisteria and light blue, old Shinden-style corridor, wet wooden floor, moss-covered stone lantern, rain-soaked stone pavement, {argument name=&quot;Type of Flower&quot; default=&quot;Hydrangea&quot;} in blue-violet, pale wisteria, and pale blue blooming all over the garden, each flower cluster delicately depicted, full moon reflected in the pond, silvery mist, raindrops floating in the air reflecting moonlight like jewels, tranquil and sacred atmosphere, mystical, poignant, dreamlike and elegant, deep perspective that draws you into the background, layered foreground, middle ground, and background, atmospheric perspective, soft moonlight, volumetric mist, soft lighting, ethereal Atmosphere, ultra-flat, masterpiece, beautiful background art like a sacred place
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20840_0.jpg" width="600" alt="Heian Fantasy Rainy Night Garden - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 38: Melancholic Anime Girl Cosmic Double Exposure
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "style": "minimalist melancholic anime illustration with surreal cosmic double exposure, Japanese indie art aesthetic, soft painterly digital rendering, subt…
+
+#### 📝 Prompt
+
+```
+{
+  "style": "minimalist melancholic anime illustration with surreal cosmic double exposure, Japanese indie art aesthetic, soft painterly digital rendering, subtle watercolor blending, low-detail facial construction, atmospheric negative space, textured lo-fi anime poster style",
+  "composition": "centered symmetrical portrait composition, medium shot framing, character positioned vertically in exact center of square canvas, upper torso visible, head slightly lowered and facing forward, long straight hair falling evenly on both sides, large horizontal rectangular blue panel spanning behind the head and shoulders, strong central alignment with ample white negative space around subject",
+  "subject": "young anime girl with expressionless melancholic demeanor, obscured eyes partially hidden by cloud overlay and shadow, straight dark indigo-blue hair with blunt bangs extending to lower torso, oversized black high-collar coat covering neck and lower face area, slim silhouette, no visible accessories except small white star/spark emblem near right sleeve area, celestial galaxy texture embedded within hair and clothing, translucent cosmic overlay integrated into character body",
+  "background": "clean pale gray-white matte background with a single deep ultramarine rectangular block positioned horizontally behind character head, starry night sky embedded inside the rectangle, sparse white stars scattered throughout, bright shooting star streak crossing upper left portion of rectangle, fluffy illuminated cloud formations concentrated across eye-level area blending into character face and hair",
+  "lighting": "soft diffuse ambient lighting with no harsh directional source, low-contrast glow behavior, faint bloom around white clouds and stars, muted highlights, subtle atmospheric luminance, gentle edge softness, dim nocturnal tonality, shadow-heavy lower body with slightly brighter upper cloud region",
+  "color_palette": "limited monochromatic palette dominated by deep navy blue, indigo, ultramarine, muted cyan, soft white, pale gray, and black-blue tones, extremely restrained saturation except cloud glow accents, cool-toned atmospheric grading",
+  "textures": "heavy fine film grain, subtle digital compression artifacts, soft canvas-like texture, layered watercolor diffusion, distressed anime print quality, faint VHS-style noise, slight chromatic softness, low-frequency digital haze, imperfect edge rendering, delicate speckled star noise distribution, soft anti-aliased linework with slight blur",
+  "effects": "double exposure galaxy integration through hair and clothing, cloud masking across eyes and upper face, scattered star particles layered across subject and background, faint bloom around celestial elements, subtle atmospheric glow, slight chromatic aberration on bright edges, minimal glitch-like cosmic layering, dreamy liminal softness, compressed lo-fi poster finish",
+  "mood": "lonely, ethereal, melancholic, dreamlike"
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06669_0.jpg" width="600" alt="Melancholic Anime Girl Cosmic Double Exposure - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 39: Anime Friends Purikura Fun
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+This {argument name="number of people" default="2 people"} character is generated with {argument name="situation" default="purikura"} taking photos, focusing o…
+
+#### 📝 Prompt
+
+```
+This {argument name="number of people" default="2 people"} character is generated with {argument name="situation" default="purikura"} taking photos, focusing on realism
+The background should be rendered in a realistic live-action style, and the characters should be rendered in anime-style 3D, so they look friendly
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07776_0.jpg" width="600" alt="Anime Friends Purikura Fun - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 40: Tokusatsu Magazine Cover Design
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a cover image for the {argument name="month" default="April"} issue of '{argument name="magazine name" default="Televikun Magazine"}', a 2000s monthly m…
+
+#### 📝 Prompt
+
+```
+Create a cover image for the {argument name="month" default="April"} issue of '{argument name="magazine name" default="Televikun Magazine"}', a 2000s monthly magazine specializing in children's TV tokusatsu. Place a single live-action bust-up shot of a new Kamen Rider-style tokusatsu hero in the center. Surround it with small cuts of Heisei Ultraman-style and Sentai-style heroes. Include several non-existent fictional TV show titles and images of luxurious bonus items. Ensure all Rider and Ultraman names are creatively invented and do not exist. Use primary colors like red, green, and blue for bold, outlined gradient fonts to create a cluttered, 'everything-included' impression. Format {argument name="aspect ratio" default="1:1.414"}. I want to specify the image generation model as duct-tape-1, duct-tape-2, or 3.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16253_0.jpg" width="600" alt="Tokusatsu Magazine Cover Design - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 41: Psychic Trainer Arena Duel
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a polished anime-style promotional illustration in a Pokémon-inspired route featuring {argument name="trainer character" default="an elegant psychic-typ…
+
+#### 📝 Prompt
+
+```
+Create a polished anime-style promotional illustration in a Pokémon-inspired route featuring {argument name="trainer character" default="an elegant psychic-type female trainer"} as the central subject. She is a confident young woman with {argument name="hair color" default="very long dark navy-black hair"}, straight bangs, violet-pink eyes, pale skin, and a calm, slightly aloof expression. She wears a sleek high-collared uniform dress with a dark navy upper section, deep burgundy fitted bodice and long asymmetrical coat panels, wide burgundy sleeve cuffs, small gold buttons, a thin gold chest bar, and a rounded gold belt ornament. Pose her in a dramatic three-quarter view from slightly below, one hand extended toward the viewer with foreshortened fingers, the other hand resting lightly near her chin, hair flowing across the frame as if moved by psychic energy. Include exactly two Pokémon-like companions: one pale lavender fox-cat psychic creature floating at the upper right with large ears, forked tail, forehead gem, and a soft serious gaze; one green-and-white elegant humanoid psychic creature at the lower left with a helmet-like green head shape, pink eyes, slim body, and a red chest fin, standing gracefully. Set the scene in a futuristic purple battle arena or city interior with glowing vertical panels, blurred neon structures, and a large circular emblem in the background on the left. Surround all characters with {argument name="energy color" default="glowing violet-pink psychic energy"}, luminous rings, sparkles, floating particles, and soft magical light trails. Use dynamic diagonal composition, glossy cel-shaded anime rendering, crisp linework, highly detailed hair highlights, vibrant purple lighting, cinematic depth of field, and a premium trading-card illustration feel. The mood should be {argument name="mood" default="mysterious, powerful, elegant, and confident"}, with no visible text or watermark.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08938_0.jpg" width="600" alt="Psychic Trainer Arena Duel - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 42: Whimsical Pop-Up Storybook Girl
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{"type":"whimsical pop-up storybook diorama illustration","style":"soft watercolor and colored-pencil children's picture book art, layered paper-cut pop-up con…
+
+#### 📝 Prompt
+
+```
+{"type":"whimsical pop-up storybook diorama illustration","style":"soft watercolor and colored-pencil children's picture book art, layered paper-cut pop-up construction, warm golden lighting, delicate outlines, cozy pastel palette, shallow depth of field, highly detailed but gentle","main_subject":{"count":1,"description":"a young girl standing upright in the center of an open pop-up book, face intentionally featureless and softly blurred, wearing a fluffy white sheep-eared hood, a cream oversized sweater with a sheep face motif, a pale blue knee-length skirt printed with small white sheep, white socks, and brown lace-up boots","customizable_name":"{argument name=\"character name\" default=\"chi\"}","sweater_motif":"{argument name=\"sweater motif\" default=\"sheep\"}"},"setting":{"default_concept":"{argument name=\"setting concept\" default=\"a gentle sheep-themed world emerging from an open picture book\"}","environment":"an open book lies on a wooden table, with layered pop-up pages forming a miniature village garden; background is softly blurred with forest-like vertical shadows and glowing bokeh","major_scenery_count":7,"major_scenery_items":["storybook title arch at upper left","moon-and-stars night sky backdrop","small cottage with chimney at upper right","garden path with stepping stones","white picket fences","flower beds and baskets","open book and paper plaques on the lower pages"]},"layout":{"composition":"wide horizontal 16:9 image, the open book fills the foreground, the central girl stands between the title arch and cottage, with readable paper signs distributed around the scene","labeled_text_panels_count":5,"labeled_text_panels":[{"position":"upper left large scalloped sign","visible_text":["{argument name=\"title text\" default=\"chi\"}","ひつじの女の子","やさしい世界のものがたり"]},{"position":"left middle rectangular page sign","visible_text":["はじまりのページ","ふわふわの雲のむこうには、","ひつじの女の子 chi が暮らす、","やさしい世界が広がっています。"]},{"position":"lower left open-book chapter panel","visible_text":["1","おはなしの章","ひつじと風の丘","風がやさしくふく丘で、chi は","今日もみんなに笑顔をとどけます。"]},{"position":"lower right long paper note","visible_text":["今日の小さなできごと","お花をつんで、星にお願いをしたよ。","明日も、誰かにやさしくできますように。"]},{"position":"right middle welcome sign","visible_text":["ようこそ、","chi の世界へ"]}]},"characters_and_mascots":{"total_living_figures_count":4,"items":["1 central sheep-hooded girl","1 small sheep mascot sitting on a bench in the left background","1 small sheep character printed on the central sweater","1 freestanding sheep mascot doll with blue bow beside the right welcome sign"]},"decorative_elements":{"counted_groups_count":8,"groups":["crescent moon and small stars across the upper sky","cloud cutouts behind the title and cottage","rounded leafy trees and bushes","tiny white and yellow flowers scattered through the garden","vintage black lamp post near the path","wooden bench under the trees","stone marker with the number 1 near the lower center-left","ribbon bow attached to the upper-left title sign"]},"rendering_instructions":"make the entire scene look like layered cardboard pages rising from a real open book, with visible page edges, tabs, folds, shadows between paper layers, creamy off-white paper texture, hand-painted floral borders, and a dreamy bedtime-story atmosphere; keep all text hand-lettered and integrated into paper signs; no photorealistic people, no harsh contrast, no modern UI elements"}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06029_0.jpg" width="600" alt="Whimsical Pop-Up Storybook Girl - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 43: One Dollar Challenge
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+$1d3
+
+#### 📝 Prompt
+
+```
+$1d3
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16022_0.jpg" width="600" alt="One Dollar Challenge - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 44: Shutter Art After Closing Time
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Change {argument name="character" default="Our child"} to "{argument name="Art" default="Shutter art that only appears after closing"}"
+
+#### 📝 Prompt
+
+```
+Change {argument name="character" default="Our child"} to "{argument name="Art" default="Shutter art that only appears after closing"}"
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01049_0.jpg" width="600" alt="Shutter Art After Closing Time - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01049_1.jpg" width="600" alt="Shutter Art After Closing Time - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01049_2.jpg" width="600" alt="Shutter Art After Closing Time - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01049_3.jpg" width="600" alt="Shutter Art After Closing Time - Image 4">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 45: Premium Underwater Smartphone Commercial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A premium underwater commercial photoshoot featuring a sleek {argument name="product" default="Galaxy S Series smartphone"} as the hero product, held in the fo…
+
+#### 📝 Prompt
+
+```
+A premium underwater commercial photoshoot featuring a sleek {argument name="product" default="Galaxy S Series smartphone"} as the hero product, held in the foreground in a selfie position and captured in sharp focus, with realistic water droplets and reflections enhancing its metallic finish and camera lenses. In the mid-ground, a {argument name="person" default="woman"} floats naturally in clear tropical blue water with a relaxed, cheerful expression, her hair gently flowing with the movement, while the focus remains primarily on the product. In the background, a playful {argument name="background animal" default="dolphin"} swims slightly out of focus, adding a sense of motion and liveliness. Sunlight streams from above, creating soft underwater rays and natural caustic patterns, with small air bubbles rising organically and a clean blue gradient environment keeping distractions minimal for a premium advertisement look. The style is ultra-photorealistic commercial product photography in 8K with HDR lighting, using a wide-angle perspective and shallow depth of field, capturing a mood that feels fresh, clean, premium, and adventurous, with the product in crisp foreground focus and supporting elements softly blurred.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03800_0.jpg" width="600" alt="Premium Underwater Smartphone Commercial - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 46: Earth Goddess Quiet Luxury
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+CREATE A NEW IMAGE USING THE PROVIDED FEMALE SUBJECT AS THE ONLY REFERENCE. Preserve her exact facial features, identity, and characteristics with zero alterat…
+
+#### 📝 Prompt
+
+```
+CREATE A NEW IMAGE USING THE PROVIDED FEMALE SUBJECT AS THE ONLY REFERENCE. Preserve her exact facial features, identity, and characteristics with zero alteration.
+
+MAIN SUBJECT — EARTH ELEMENT
+She represents the Earth element as a whole: grounded, elegant, sensual, calm, stable, patient, quietly powerful, and naturally luxurious. Relaxed grounded posture, standing or seated, soft natural hand placement, composed feminine body language, rooted presence.
+
+OUTFIT
+Single cohesive Earth-inspired editorial look in olive, sage, taupe, mocha, beige, clay, cream, moss, and warm neutrals. Soft-structured elegant silhouette with subtle tailoring, draping, texture contrast, or layered structure. Fabrics: linen, cotton, matte satin, knit, suede-like textures, soft tailoring. Minimal refined gold or natural-toned accessories.
+
+HAIR
+Soft ash brown with natural dimension. Healthy, polished, softly voluminous waves or smooth blowout with subtle shine, controlled texture, face-framing strands, grounded and luxurious feel.
+
+MAKEUP
+Korean soft-glow base with earthy tones. Warm beige-rose, terracotta, tawny, or nude peach blush. Eyes in taupe, mocha, caramel, muted bronze, olive-brown. Soft liner, champagne-beige highlight, satin or velvet nude/mocha lips. Overall polished, sensual quiet-luxury aesthetic.
+
+ENVIRONMENT
+Grounded editorial Earth-inspired setting with stone, wood, linen, botanicals, dried plants, natural fabrics, rustic-luxury styling, warm daylight or diffused editorial lighting, soft shadows, serene cinematic stillness. Palette: cream, olive, moss, clay, taupe, beige, muted green, warm brown.
+
+CHIBI MINI-ME SYSTEM
+Surround her with multiple medium-sized realistic 3D chibi mini-me versions with identical face, hair, and identity. High-end doll-like styling with oversized heads, petite bodies, glossy eyes, realistic hair, detailed makeup, miniature fashion outfits, soft cinematic 3D lighting.
+
+EARTH SIGN CHIBIS
+Taurus — sensual soft-luxury romantic styling, knit or elegant feminine neutral outfit, rich textures, gold accents. Ultra-long segmented twin low ponytails tied with white fabric bands flowing dramatically around the frame.
+Virgo — refined perfectionist aesthetic with polished minimalist tailoring, clean lines, structured mini dress or sophisticated co-ord styling.
+Capricorn — sleek power-dressing with blazer dress or tailored set, sharp silhouette, understated luxury. Hair pulled into ultra-long sculptural braid wrapped with gold chains and metallic ornaments.
+
+DOODLES + SCRAPBOOK OVERLAY
+Hand-drawn earthy scrapbook doodles: leaves, vines, flowers, branches, mushrooms, butterflies, stars, sparkles, stones, hearts, sun doodles, botanical icons. Cozy ink-pen texture.
+
+Handwritten text:
+“EARTH SIGNS”
+“grounded and glowing”
+“soft strength”
+“rooted in beauty”
+“quiet luxury”
+“stable energy”
+“calm power”
+“naturally magnetic”
+
+Fact bubbles:
+“Element: Earth”
+“Signs: Taurus, Virgo, Capricorn”
+“Traits: grounded, loyal, elegant”
+“Energy: stable, refined, dependable”
+
+COMPOSITION
+Main subject centered and dominant. Chibis placed dynamically around shoulders, hands, sides, and lower frame. Doodles layered naturally throughout like a scrapbook. Balanced, expressive, premium composition.
+
+STYLE
+Cinematic editorial lifestyle image, fashion-meets-illustration hybrid, high detail, sharp focus, warm neutral tones, subtle realism grain, realistic human rendering with stylized 3D chibis and hand-drawn overlays. Social-media-ready premium aesthetic.
+
+CAMERA
+Eye-level or slightly above, medium full-body or 3/4 framing, 35mm or 50mm lifestyle portrait look, crisp details with soft atmospheric depth.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15560_0.jpg" width="600" alt="Earth Goddess Quiet Luxury - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 47: Fantasy Character Poster Grid
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Cinematic fantasy character poster grid inspired by Game of Thrones, 4-panel layout, each panel showcasing a different warrior king or queen, ultra-detailed ar…
+
+#### 📝 Prompt
+
+```
+Cinematic fantasy character poster grid inspired by Game of Thrones, 4-panel layout, each panel showcasing a different warrior king or queen, ultra-detailed armor, dramatic lighting, fire and ice elements, large bold titles such as "Dragon Queen," "King of the North," "Lion," "Raven," with a medieval castle in the background, smoke, embers, snowflake particles, epic high contrast, ultra-realistic, 8K, dark fantasy tone
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12837_0.jpeg" width="600" alt="Fantasy Character Poster Grid - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 48: J-Pop Idol Live Concert Moment
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A dynamic close-up concert photo of a {argument name="idol performer" default="young female J-pop idol"} on stage, shot from the audience perspective with a sh…
+
+#### 📝 Prompt
+
+```
+A dynamic close-up concert photo of a {argument name="idol performer" default="young female J-pop idol"} on stage, shot from the audience perspective with a shallow depth of field. She is leaning toward the camera and reaching one hand forward in the foreground, creating dramatic foreshortening, while holding a black handheld microphone with a red accent ring in her other hand near her mouth. She wears a highly detailed red-and-white frilly idol costume: twin-tail dark brown hair with straight bangs, 2 fluffy red pom-pom hair accessories tied with ribbon bows, dangling red earrings, a red choker with lace and a small heart jewel, a cropped lace-trimmed top with 1 oversized satin bow at the chest, off-shoulder frilled sleeves, a corset-style midriff section with red ribbon lacing and small metallic charms, and a layered satin skirt with sparkling bead chains and 1 heart-shaped jeweled ornament at the waist. Her manicure is glossy red with cute white decorative nail art. The lighting is vivid pink and crimson stage lighting, with a glamorous live-idol atmosphere. The background is filled with soft bokeh, LED screens, rigging, and numerous glowing heart shapes and floating heart confetti, creating a dreamy romantic concert scene. Use a photorealistic style with crisp fabric texture, shiny satin highlights, lace detail, concert ambience, slight motion energy, and an overall {argument name="color theme" default="red and pink"} palette. Include a subtle sense of excitement and fan-service stage charisma, like a promotional live-performance shot for a {argument name="theme" default="cute romantic idol concert"}.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03855_0.jpg" width="600" alt="J-Pop Idol Live Concert Moment - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 49: Mystical Celestial Cloud Launch Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Goal: Create an elegant mystical astronomy poster announcing {argument name="headline text" default="Auto 模式登陆三大云"} with a celestial map motif and premium gold…
+
+#### 📝 Prompt
+
+```
+Goal: Create an elegant mystical astronomy poster announcing {argument name="headline text" default="Auto 模式登陆三大云"} with a celestial map motif and premium gold-on-navy styling.
+
+Canvas: Vertical poster, 2:3 aspect ratio, deep midnight navy background with subtle paper grain, faint stars, and a thin double-line antique gold border with rounded corners. Add small compass-star medallions in all 4 corners.
+
+Main illustration: Center the composition around one bright glowing orange-gold starburst slightly above the middle. From this center, draw exactly 3 luminous gold rays to 3 labeled satellite stars: upper left labeled {argument name="left cloud label" default="Bedrock"}, upper right labeled {argument name="right cloud label" default="Vertex"}, and bottom center labeled {argument name="bottom cloud label" default="Foundry"}. Each satellite point is a smaller radiant star, with the bottom star connected by a vertical ray. Place a small decorative gold rosette/sun symbol on the lower vertical ray between the center and bottom star.
+
+Celestial chart details: Behind the rays, include faint concentric astrolabe rings, radial guide lines, dotted orbital arcs, subtle constellation line drawings, scattered tiny stars, and translucent blue-green nebula wisps curving around the center. The look should feel like an antique star atlas mixed with modern cinematic glow.
+
+Text content: In the lower third, set a large refined serif title in metallic gold: {argument name="headline text" default="Auto 模式登陆三大云"}. Below it, centered in smaller gold serif type, write {argument name="subtitle text" default="Claude Code 2.1.157-2.1.158"}. Under the subtitle, add a short thin ornamental divider line with a tiny diamond/star at its center.
+
+Visual style: Sophisticated, high-end, poetic, celestial, dark academia, occult astronomical chart, luminous gold typography, subtle volumetric glow, balanced symmetry, crisp fine-line ornamentation.
+
+Constraints: Use exactly 3 connected cloud labels and exactly 4 corner medallions. Keep the background dark and uncluttered, preserve the Chinese headline text exactly, avoid logos, people, watermarks, UI elements, or extra captions.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10525_0.jpg" width="600" alt="Mystical Celestial Cloud Launch Poster - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 50: Streetwear Editorial Collage Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A modern streetwear sports style high fashion editorial poster, vertical composition (4:5). The layout uses a clean, high-end graphic design, combining multipl…
+
+#### 📝 Prompt
+
+```
+A modern streetwear sports style high fashion editorial poster, vertical composition (4:5). The layout uses a clean, high-end graphic design, combining multiple images of the same young fashion model into a collage, combined with oversized product photography and bold typography. 
+
+The model wore an oversized deep blue multi-pocket work vest, layered with a faded coral red oversized sweatshirt, and layered with a long white T-shirt that peeked out over the sweatshirt. He wore matching dark blue knee-length shorts, white mid-calf socks, classic white low-top canvas shoes, and a dark blue baseball cap. The styling was inspired by Japanese streetwear, urban fashion, and contemporary workwear. 
+
+The collage contains three different perspectives of the model: 
+
+In the upper left is a huge close-up profile portrait showing the model looking up, calm and confident. 
+
+At the center above is a full-body rear view, showcasing oversized cargo vests, layered garments, and relaxed postures. 
+
+The lower left is a smaller full-body front-side stance, standing naturally with one hand in a pocket, highlighting the complete outfit. 
+
+In the lower half of the composition, an oversized pair of white thick-soled canvas shoes stands out prominently in the foreground. These shoes have the look of high-end commercial product photography, showcasing clear canvas textures, thick platform soles, clean white rubber toe caps, metal buttonholes, fine stitching, and realistic shading. 
+
+The background is a minimalist light gray studio backdrop, featuring layered geometric circles, abstract curved brushstrokes, hand-drawn graffiti elements, small dot decorations, and editorial design overlays. A large bold typography dominates the background, with text including "OMA," "PRISM," "CONVERSE," and smaller ones like "HIPPIE ERA," arranged in a contemporary magazine style with text overlapping behind the main subject. 
+
+The color scheme consists of soft gray, deep blue, coral red, white, and black, creating a balanced modern fashion aesthetic. 
+
+The lighting is soft studio lighting with subtle directional shadows, high contrast while maintaining soft skin tones, premium commercial advertising quality, ultra-realistic fabric textures, fine stitching, realistic shoe materials, clear edges, editorial composition, luxurious fashion sports, clean negative space, magazine cover aesthetics, streetwear catalogs, realistic photography, ultra-detail, 8K resolution, sharp focus, premium brand style.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13725_0.jpg" width="600" alt="Streetwear Editorial Collage Poster - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 51: Cute Hand-Drawn Animal Stickers
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a LINE sticker themed with {argument name="quantity" default="24"} and {argument name="animals" default="animals"} themed in a fun hand-drawn style. For…
+
+#### 📝 Prompt
+
+```
+Create a LINE sticker themed with {argument name="quantity" default="24"} and {argument name="animals" default="animals"} themed in a fun hand-drawn style. For the {argument name="target audience" default="Japan Gen Z"} group, create trendy styles that can challenge the top download charts.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16126_0.jpg" width="600" alt="Cute Hand-Drawn Animal Stickers - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16126_1.jpg" width="600" alt="Cute Hand-Drawn Animal Stickers - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16126_2.jpg" width="600" alt="Cute Hand-Drawn Animal Stickers - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16126_3.jpg" width="600" alt="Cute Hand-Drawn Animal Stickers - Image 4">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 52: High Impact Shoe Campaign Graphic
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{"type":"high-impact Japanese promotional social media graphic for a shoe campaign","canvas":"square 1:1 layout, glossy black luxury background with orange-gol…
+
+#### 📝 Prompt
+
+```
+{"type":"high-impact Japanese promotional social media graphic for a shoe campaign","canvas":"square 1:1 layout, glossy black luxury background with orange-gold neon lines, sparks, lens flares, metallic glow, premium e-commerce advertising style, dramatic product lighting, sharp photorealistic shoes combined with bold typography","brand":"{argument name=\"brand name\" default=\"ValueWalk\"}","main_text":{"top_ribbon":"{argument name=\"campaign header\" default=\"オンラインショップ＆オウンドメディア公開記念\"}","headline":"{argument name=\"main headline\" default=\"ビジネスシューズも、カジュアルシューズも\"}","emphasis":"{argument name=\"emphasis text\" default=\"選べる！\"}","subline":"FORMAL / CASUAL","center_badge":"好きな型・サイズを選べる","bottom_cta":"{argument name=\"call to action\" default=\"くわしくは固定ポストを参照 ▶\"}"},"layout":{"top":"thin orange neon hexagonal ribbon frame containing the campaign header, with the ValueWalk logo centered below it in elegant white serif type","center":"huge bold Japanese headline in white, followed by oversized gold-orange emphasis text with 3D shine and glow; place FORMAL / CASUAL underneath in small serif lettering separated by a slash","product_count":8,"products":[{"position":"upper left","description":"cropped foot wearing a polished brown leather business dress shoe with beige trouser leg"},{"position":"upper right","description":"cropped foot wearing a black casual sneaker with thick white sole and beige trouser leg"},{"position":"large lower left hero product","description":"brown leather cap-toe lace-up formal shoe, glossy finish, black sole, angled three-quarter view"},{"position":"large lower right hero product","description":"black low-top casual sneaker with perforated toe, black laces, cream white sole, angled three-quarter view"},{"position":"bottom left inset item 1","description":"black formal shoe"},{"position":"bottom left inset item 2","description":"black formal shoe"},{"position":"bottom left inset item 3","description":"brown formal shoe"},{"position":"bottom left inset item 4","description":"black formal shoe"}],"inset_sections_count":3,"inset_sections":[{"position":"bottom left","description":"gold-outlined rectangular product inset showing 4 formal shoes in front of an orange ValueWalk shoe box","item_count":4},{"position":"bottom center","description":"circular black badge with thick gold neon ring and stacked white/gold Japanese text","item_count":1},{"position":"bottom right","description":"gold-outlined rectangular product inset showing 4 casual sneakers in front of an orange ValueWalk shoe box: navy/black sneaker, white sneaker, black sneaker, black sneaker","item_count":4}],"bottom":"wide orange gradient arrow-shaped call-to-action banner with gold outline, bright inner glow, white bold Japanese text and a right-facing triangle arrow"},"style":"premium retail campaign, black and gold color palette with orange accents, cinematic contrast, realistic leather textures, crisp Japanese typography, polished SNS advertisement, no people visible except cropped ankles, centered symmetrical composition, clean readable text"}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06319_0.jpg" width="600" alt="High Impact Shoe Campaign Graphic - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 53: Clay Girl Boho Backpack Adventure
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+[SUBJECT]: A free-spirited clay animation girl, with wild clay curls and a bohemian-style clay sundress, sitting cross-legged on a vintage clay backpack, with…
+
+#### 📝 Prompt
+
+```
+[SUBJECT]: A free-spirited clay animation girl, with wild clay curls and a bohemian-style clay sundress, sitting cross-legged on a vintage clay backpack, with a little turtle made of patterned green clay peeking out from its front pocket
+
+[COLORS]: Earth-colored terracotta, sun-dried milky white, deep blue, warm sandy tones
+
+[KEY PROP]: Oversized vintage clay canvas backpack, featuring a leather-textured clay strap, brass-textured clay buckle, and a hand-stitched world-famous clay patch sewn on the front
+
+[BACKGROUND]: Clay-animated tropical train station platforms featuring circular clay arches, hanging clay lanterns, swaying clay palm trees, and colorful clay trains waiting on clay tracks
+
+[MOOD]: Wandering, free-spirited and adventurous—Bohemian travel clay animation lifestyle editorial, backpacker dream aesthetics, warm tropical light
+
+[MAGAZINE NAME]: WANDER SOUL MAGAZINE
+
+[HEADLINE]: "Go wherever you are called"
+
+[TAGLINE]: Travel light, live brilliantly—Special Edition on Adventure Travel
+
+[BRAND NAME]: TERRA ROAM — Vintage Canvas Backpack Series
+
+[CLAYMATION STYLE NOTES]: The turtle shell features a raised clay panel with geometric patterns, the backpack patch features individually carved tiny clay scenic scenes, and the train steam features white, fluffy clay clouds—a Ghibli travel adventure clay animation aesthetic
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12257_0.jpg" width="600" alt="Clay Girl Boho Backpack Adventure - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 54: Desert Angel Android Guardian
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a vertical 2:3 cinematic anime-style image of a futuristic angelic android girl hovering in front of a colossal land aircraft carrier driving across an…
+
+#### 📝 Prompt
+
+```
+Create a vertical 2:3 cinematic anime-style image of a futuristic angelic android girl hovering in front of a colossal land aircraft carrier driving across an endless desert. The main subject is {argument name="character name" default="an unnamed angelic android girl"}: a pale, slim young female cyborg with a short silver-white bob haircut, faceless or softly obscured face, floating pose, arms extended outward, black segmented mechanical forearms and hands, glossy black robotic legs, and a white puff-sleeved dress with gold trim, gold buttons, a flared skirt, and small blue jewel ornaments at the collar and chest. She has exactly 2 large mechanical feathered wings, one on each side, made of layered white and silver metal feathers with bronze inner struts and glowing blue circular cores near the shoulder joints. Behind and below her is exactly 1 gigantic tracked aircraft carrier adapted for desert travel, with a gray flight deck, white runway markings, an island superstructure on the left side, tan hull sides, and many heavy caterpillar tracks grinding through sand. On the carrier deck show exactly 12 dark gray stealth fighter jets parked in orderly rows along both sides of the runway, their shadows visible on the deck. The environment is a vast golden sand sea with subtle dune ripples stretching to the horizon under a clear blue sky. Use dramatic daylight, sharp shadows, realistic 3D rendering mixed with polished anime character design, high detail, clean composition, wide-angle perspective from above and in front of the carrier, with the android centered large in the frame and the land carrier receding diagonally from lower left to middle right. Emphasize the relationship between the hovering winged android guardian and the enormous desert aircraft carrier. No text, no watermark, no extra characters.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07464_0.jpg" width="600" alt="Desert Angel Android Guardian - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 55: Dior Red Essence Luxury
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-luxury Dior perfume advertisement, cinematic studio lighting, deep red monochrome aesthetic. A beautiful elegant East Asian woman with smooth glowing ski…
+
+#### 📝 Prompt
+
+```
+Ultra-luxury Dior perfume advertisement, cinematic studio lighting, deep red monochrome aesthetic. A beautiful elegant East Asian woman with smooth glowing skin and soft makeup, loose wavy brown hair, wearing a red silky satin shirt with soft folds and glossy highlights.
+She is holding a Dior perfume bottle (same shape as reference) close to her face with a delicate grip. Bottle is crystal clear with soft pink liquid, reflective glass, metallic cap, luxury finish, subtle glow and light reflections.
+Composition:
+Close-up portrait, chest-up framing
+Model slightly tilted head, soft confident expression
+Sharp focus on face + perfume bottle
+Background: rich deep red silk fabric waves, soft gradients, luxury feel
+Lighting:
+Warm cinematic key light from front
+Soft rim light from side for glow
+Subtle specular highlights on skin and satin shirt
+High-end beauty retouch look
+Foreground elements:
+Dark marble table surface
+Red roses, petals scattered
+Glass candle with warm flame
+Dior ribbon placed casually
+Text layout (minimal luxury style): Top left: “DIOR” (elegant serif font)
+Below icons (thin gold line icons):
+Timeless Elegance
+Exquisite Scent
+Long Lasting Fragrance
+Iconic Design
+Color palette: Deep red, burgundy, gold accents, warm skin tones
+Style keywords: ultra realistic, 8k, fashion photography, luxury branding, Dior campaign, glossy finish, cinematic, high contrast, premium aesthetic, shallow depth of field
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14718_0.jpeg" width="600" alt="Dior Red Essence Luxury - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 56: 8 Tips to Fall Asleep Instantly
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Generate a 3:4 vertical nine-grid poster suitable for Xiaohongshu publishing, with an overall layout of 3 columns × 3 rows. The nine grid boundaries are clear,…
+
+#### 📝 Prompt
+
+```
+Generate a 3:4 vertical nine-grid poster suitable for Xiaohongshu publishing, with an overall layout of 3 columns × 3 rows. The nine grid boundaries are clear, making it easy to cut them into 9 single images for post-publication. The overall style is clean, sophisticated, and unified, suitable for healthy lifestyle content aimed at women, with the vibe of a Xiaohongshu hit cover story. Image requirements: Clear information layout, large text, strong readability, comfortable blank space, and gentle and healing color scheme.
+
+Overall visual style:
+Cream white, light beige, light oatmeal, and light caramel are the main color tones, paired with a small amount of dark brown text. The themes of Instagram-style healing, healing, and sleep therapy are minimalist and minimalist, with light object-based illustrations as accents. Elements such as pillows, moon, stars, hot milk, aromatherapy, books, eye masks, curtains, and beds can be added. Overall, it looks like a professional new media design with neat fonts, suitable for a nine-grid layout on popular science Xiaohongshu.
+Layout requirements:
+
+The entire map must be constructed in a standard nine-grid layout, with each grid able to stand independently after partitioning
+
+Each grid should be centered completely; do not press the title or body near the dividing line
+Each compartment should have clear spacing or fine borders to ensure that cutting does not affect reading
+All text is in Chinese, clear and easy to read, with no garbled text or English
+Each grid looks like an independent Xiaohongshu card with text and images, but the visual style remains consistent
+The visuals are exquisite, realistic, and natural—avoid cheap marketing or excessive flashiness
+Specific content of the nine-square grid:
+
+Panel 1 (Cover)
+Main Title: 8 Tips to Fall Asleep Instantly
+Subtitle: Insomnia and night owls must save this
+The cover visuals are the most eye-catching and suitable for cover images, featuring soft beds, moonlight, pillows, eye masks, and other healing sleep elements. The title stands out and the layout is sophisticated.
+
+Grid 2
+Title: 1. Don't use your phone for one hour before bedtime
+Main Text: Blue light makes your brain more alert, making it harder to fall asleep the more you watch it.
+Illustration elements: phone, moon, small illustrations with sleepy expressions
+Panel 3
+Title: 2. Dim the lights before bed
+Main text: A warm light environment helps the body enter a "bed-ready" state.
+Illustration elements: bedside lamp, warm yellow lighting, curtains
+Fourth panel
+Title: 3. Don't let the room temperature be too high
+Main text: A little cooler makes it easier to fall asleep quickly.
+Elements in the illustration: air conditioner, thermometer, quilt
+Fifth frame
+Title: 4. Don't drink strong tea or coffee at night
+Main text: Caffeine delays drowsiness, making it hard to fall asleep after lying down for a long time.
+Illustration elements: coffee cup, teacup, ban symbol
+
+Panel 6
+Title: 5. Take a hot shower before bed
+Main text: It helps the body relax and falls asleep faster.
+Illustration elements: bathroom steam, towels, hot water
+Panel 7
+Title: 6. If your mind can't stop, just write it down
+Main text: Writing down your worries and to-do list helps your brain relax more easily.
+Illustration elements: laptop, fountain pen, small desk lamp
+Panel 8
+Title: 7. Set a fixed bedtime
+Main text: Sleeping at the same time every day will help stabilize your biological clock.
+Illustration elements: clock, moon, bed
+Panel 9
+Title: 8. Try the deep breathing relaxation method
+Main text: Inhale for 4 seconds, pause for 4 seconds, exhale for 6 seconds, and gradually you'll start to feel sleepy.
+Small text at the bottom: Save this set and try it out tonight
+Illustration elements: breathing lines, eyes closed, stars
+
+Image Quality Requirements:
+High definition, advanced layout, magazine-like feel, authentic for publication, new media operations aesthetic, Xiaohongshu bestseller graphic and text style, neat text layout, suitable for direct image cutting.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12897_0.jpeg" width="600" alt="8 Tips to Fall Asleep Instantly - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 57: Taipei Watercolor Travel Poster Art
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a vertical watercolor travel poster of {argument name="city" default="Taipei"} in a refined hand-drawn urban sketch style, showing a busy downtown stree…
+
+#### 📝 Prompt
+
+```
+Create a vertical watercolor travel poster of {argument name="city" default="Taipei"} in a refined hand-drawn urban sketch style, showing a busy downtown street scene with Taipei 101 centered in the distant background, slightly misty and blue-gray, framed by mid-rise buildings, shopfronts, Chinese signage, traffic lights, taxis, scooters, and many pedestrians crossing a broad intersection in the foreground. Use the original-looking street composition of a lively East Asian shopping district: a green awning storefront on the lower left, a tall orange vertical shop sign on the right reading “DING TAI FUNG”, striped red-and-white awning and warm shop windows on the right, leafy tree branches entering from the upper right, and layered signs and building facades receding toward the tower. Render with soft ink outlines, loose architectural linework, natural watercolor washes, subtle paint blooms, splatters, paper grain, and a delicate travel-journal atmosphere. Add poster typography in the upper left: large spaced serif title “{argument name="headline text" default="TAIPEI"}”, handwritten subtitle “{argument name="subtitle text" default="Everyday Urban Rhythm"}”, and a small three-line caption reading “Local moments, local flavors, and the rhythm of everyday life.” Include small red stamp-like marks near the left text. Keep the palette warm off-white paper, muted beige buildings, gray-blue shadows, soft greens, red-orange signage, and tiny dark figures. Make the image feel like a collectible watercolor city souvenir poster, detailed but airy, with no photo-realism, no hard digital edges, and no extra large text beyond the visible poster lettering.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08301_0.jpg" width="600" alt="Taipei Watercolor Travel Poster Art - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 58: Two Hundred Dollars
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+$2c0
+
+#### 📝 Prompt
+
+```
+$2c0
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16153_0.jpg" width="600" alt="Two Hundred Dollars - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 59: Luxury Sunrise Orange Juice Ad
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+The ultra-realistic high-end orange juice advertisement features the main shot of a chilled orange juice bottle, featuring a green cap and an elegant white lab…
+
+#### 📝 Prompt
+
+```
+The ultra-realistic high-end orange juice advertisement features the main shot of a chilled orange juice bottle, featuring a green cap and an elegant white label, placed at a dynamic angle. Behind the bottle, vibrant orange juice bursts out, surrounded by fresh, whole oranges, sliced oranges, and lush green leaves. In the background, a golden sunrise illuminates the citrus orchard, warm morning light, cinematic atmosphere, shimmering droplets floating in the air, realistic condensed droplets on the bottle, rich orange and green tones, shallow depth of field, soft blur, commercial beverage photography, luxury product marketing, realistic photography, hyper-detail, HDR, clear focus, dynamic composition, high-end advertising posters, blank space for titles and branding, fresh, vibrant, healthy lifestyle aesthetic, 8K image quality.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14950_0.jpg" width="600" alt="Luxury Sunrise Orange Juice Ad - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 60: Football Championship Victory Celebration
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A candid overhead sports celebration photograph of a young {argument name="subject" default="football player"} standing confidently on the pitch during a champ…
+
+#### 📝 Prompt
+
+```
+A candid overhead sports celebration photograph of a young {argument name="subject" default="football player"} standing confidently on the pitch during a championship victory ceremony, holding a {argument name="award" default="prestigious golden trophy"} in one hand while resting the other hand on the hip. The player wears a {argument name="outfit" default="vibrant national team jersey"} with a gold winner’s medal around the neck, smiling with quiet pride. Teammates, photographers, and camera operators are visible in the background, creating an authentic post-match celebration atmosphere. Lush green grass fills the stadium floor, with scattered confetti adding to the festive mood. Captured from a high-angle telephoto perspective, natural daylight, realistic colors, editorial sports photography, documentary style, sharp focus, dynamic composition, genuine emotions, ultra-photorealistic, high detail, crisp textures, 8K resolution.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21534_0.jpg" width="600" alt="Football Championship Victory Celebration - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21534_1.jpg" width="600" alt="Football Championship Victory Celebration - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 61: Catgirl Idol Concert Performance
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -342,18 +2343,18 @@ A dynamic anime idol concert illustration of a single female catgirl singer perf
 
 ---
 
-### No. 10: Anime Girl in Tokyo Alley
+### No. 62: Confident Wolf Mascot Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a vertical anime-style night street illustration of {argument name="character name" default="a quiet teenage girl"} standing full-body in the middle of…
+Create a square anime-style mascot portrait on a dark navy blue background. Center a confident anthropomorphic wolf character from the waist up, facing forward…
 
 #### 📝 Prompt
 
 ```
-Create a vertical anime-style night street illustration of {argument name="character name" default="a quiet teenage girl"} standing full-body in the middle of a narrow Tokyo back alley after rain, viewed from a low street-level perspective. She has {argument name="hair color" default="short ash-blonde bob hair with straight bangs"}, pale skin, large muted eyes, and a calm slightly melancholy expression, looking toward the viewer. She wears an oversized dark hooded jacket with bulky pockets, a short dark skirt, black ankle socks, and chunky beige sneakers, hands tucked into her jacket pockets. Behind her, perfectly centered above her head, the illuminated orange-and-white Tokyo Tower rises in the distance like a glowing spire, with its bright central light creating a warm halo that contrasts against the deep blue night sky. The alley is dense with urban details: tall narrow buildings on both sides, air-conditioning units, shop shutters, small signs, street lamps, utility poles, tangled overhead power lines, balconies, pipes, and wet reflective pavement with puddles. Use a teal-and-cyan color palette for the buildings and street lighting, with warm orange highlights from the tower and shop interiors. The composition should feel cinematic and slightly surreal, with strong perspective depth, moody lighting, crisp manga linework, soft painterly shading, reflective wet ground, and subtle bokeh lights in the foreground on the left. Keep the character noticeably large compared with the background perspective, as if the scale is slightly imperfect but visually charming. No readable text, no extra characters, no vehicles, no watermark.
+Create a square anime-style mascot portrait on a dark navy blue background. Center a confident anthropomorphic wolf character from the waist up, facing forward with a slight three-quarter angle, smirking and pointing directly at the viewer with one gloved hand. The wolf has spiky gray fur, white cheek and muzzle fur, tall pointed ears, sharp blue eyes, a black nose, and a mischievous expression. Put red-lensed steampunk goggles with a black strap on top of the head. Dress the character in a white futuristic racing jacket with red stripes and gray panel accents, plus a deep red scarf wrapped around the neck, trailing to the right with a small gold tassel fringe at the end. Use polished digital anime rendering with clean line art, soft cel shading, high contrast highlights, and a slightly glossy game-avatar look. At the bottom, add large bold Korean text reading {argument name="bottom text" default="엘베스"} in bright cyan, blocky sans-serif lettering with a subtle shadow, centered beneath the character. Keep the composition simple: exactly 1 wolf mascot, 1 pair of goggles, 1 red scarf, 1 pointing hand gesture, and 1 bottom text label. No extra characters, no watermark, no border.
 ```
 
 #### 🖼️ Generated Images
@@ -361,2536 +2362,308 @@ Create a vertical anime-style night street illustration of {argument name="chara
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04717_0.jpg" width="600" alt="Anime Girl in Tokyo Alley - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05755_0.jpg" width="600" alt="Confident Wolf Mascot Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05755_1.jpg" width="600" alt="Confident Wolf Mascot Portrait - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 11: Voxel Night Battle Eye Boss
+### No. 63: Tiny Dream Girl Illusion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{ "type": "first-person video game screenshot", "style": "voxel-based 3D blocky graphics mixed with 2D sprite elements", "environment": { "setting": "nighttime…
+9:16 vertical — creative forced perspective portrait, {argument name="style" default="Korean idol style"}, single subject. analog 35mm film aesthetic, soft nat…
+
+#### 📝 Prompt
+
+```
+9:16 vertical — creative forced perspective portrait, {argument name="style" default="Korean idol style"}, single subject. analog 35mm film aesthetic, soft natural grain, slightly faded colors, gentle overexposure, pastel tones, low contrast, soft highlight bloom, airy and dreamy atmosphere. minimal indoor setting near a window, clean light-toned background, simple everyday environment. young {argument name="subject" default="Korean female idol"}, very attractive, natural minimal makeup, dewy realistic skin texture, subtle imperfections. outfit: {argument name="outfit" default="oversized white shirt loosely draped + short bottoms"}, soft fabric, relaxed fit, modest but subtly body-shaping, no revealing elements. hair: long dark hair, slightly messy, natural volume. composition (key): forced perspective illusion — the subject appears unusually small relative to nearby objects (such as being inside a cup, standing on a table edge, or interacting with a hand in the foreground), but still realistic; scale ambiguity created by camera distance and alignment. camera: slightly low or eye-level angle, intentional perspective distortion, foreground object close to lens, subject placed farther away to create size illusion. pose: natural relaxed posture, slight body curve, casual stance or light sitting pose. expression: soft calm gaze, slight smile or slightly parted lips, natural and unposed. lighting: diffused natural window light, soft shadows, gentle light wrapping around subject. mood: playful, slightly surreal but grounded in reality, intimate everyday moment with a visual twist. quality: ultra-realistic, fine film grain, slight softness, imperfect framing, natural imperfections.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03414_0.jpg" width="600" alt="Tiny Dream Girl Illusion - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 64: Stylish Tennis Player Editorial Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a realistic editorial sports portrait of a {argument name="subject description" default="beautiful young Pakistani woman tennis player"} standing confid…
+
+#### 📝 Prompt
+
+```
+Create a realistic editorial sports portrait of a {argument name="subject description" default="beautiful young Pakistani woman tennis player"} standing confidently on a professional outdoor tennis court in bright natural daylight. She has long dark flowing hair, a white athletic headband, small stud earrings, and subtle luxury jewelry including a delicate bracelet. Her face should be softly anonymized/obscured with a smooth neutral blur rectangle while keeping the rest of the image highly detailed. She wears a fitted {argument name="top color and style" default="black sleeveless athletic crop top"}, a premium {argument name="skirt color and style" default="white pleated tennis skirt"}, and white tennis sneakers. Pose her full-body in a relaxed athletic stance with one leg bent and crossed slightly in front, holding a black tennis racket diagonally across her body with both hands, the racket head visible on the right side. Use a shallow depth of field with a softly blurred green court fence and blue-green court surface in the background, natural shadows, crisp fabric texture, realistic skin tones, and a clean high-end lifestyle photography look. Vertical portrait composition, centered subject, no text, no watermark.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03749_0.jpg" width="600" alt="Stylish Tennis Player Editorial Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 65: Gunpla Build Fail Moment
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+First image: {argument name="Work details" default="Building Gunpla with a serious expression"} Second image: (after first image) {argument name="Failure scene…
+
+#### 📝 Prompt
+
+```
+First image: {argument name="Work details" default="Building Gunpla with a serious expression"} Second image: (after first image) {argument name="Failure scene" default="Cut the wrong part and turn pale"}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03239_0.jpg" width="600" alt="Gunpla Build Fail Moment - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03239_1.jpg" width="600" alt="Gunpla Build Fail Moment - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 66: Morning Kitchen Pure Temptation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Generates a 9:16 portrait portrait of a pure and pure female lifestyle, with an overall cinematic still vibe and authentic photographic quality. The image rese…
+
+#### 📝 Prompt
+
+```
+Generates a 9:16 portrait portrait of a pure and pure female lifestyle, with an overall cinematic still vibe and authentic photographic quality. The image resembles a natural morning photo in an open kitchen—clean, soft, quiet, restrained, and naturally attractive to women.
+The subject of the painting is a young adult Eastern woman aged 20–28, with natural and distinct features of Eastern women—not overly Westernized, not overly aged, and lacking any sense of being underage. Character 5 officially has a mild first love look, a soft oval face, delicate and attractive features, clear and quiet eyes, with a hint of distance and gentleness; Her nose shape is natural and delicate, lips are soft, her makeup is light and translucent, not trendy or fake, and she doesn't have a plastic retouch.
+The setting is an open kitchen in the early morning, a modern light-colored kitchen space, white or light gray countertops, wood-colored cabinets, soft natural light streaming in by the window, and a sink, window, cups, glass water bottle, simple utensils, or fruit plates in the background. The overall look is clean and lifelike, with a slightly blurred background, avoiding complex sets and studio atmospheres.
+The figure wears a white, cropped fitted knit cardigan, made of soft and form-fitting fabric, with subtle clear textures. The neckline opens naturally, revealing the shoulders, neck, and collarbone lines; The bottom is light gray home shorts made of soft, casual fabric, low-saturation gray, giving the overall look a fresh, natural, and strong sense of life. The clothing fits the body closely but is not vulgar, focusing on the chest, waistline, lower abdomen, and leg lines through the fit of the fabric and natural posture.
+The character leans against the kitchen bar, slightly turning to the camera, with one hand naturally resting on the edge of the counter while the other hand hangs down or lightly rests on the body. Shoulders and neck relax, waistline naturally narrows, legs slightly overlapped or center of gravity shifted, forming a soft, natural S-shaped curve. Composition from half-body to thigh, straight or slightly top-down, 35mm or 50mm realistic camera angles to avoid ultra-wide distortion.
+The lighting is cool white natural light in the morning + soft indoor reflections, resulting in a low-contrast, clean, and transparent overall effect. The cool white light by the window gently illuminates the face, collarbones, chest line, waistline, lower abdomen, and leg edges. Skin is fair and translucent yet retains a true, delicate texture, with a slight soft glow, avoiding plastic skin.
+The overall look uses a cool, pure, and innocent lifestyle photo filter, blending low-saturation cool white, light gray, milky white, and wood tones naturally. The image is clear, quiet, and clean, highlighting a pure face, clear eyes, natural lifestyle movements, and soft body curves. Overall, it's realistic and restrained—not erotic photos, not cheap sexy photos, not CG illustrations.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13750_0.jpg" width="600" alt="Morning Kitchen Pure Temptation - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13750_1.jpg" width="600" alt="Morning Kitchen Pure Temptation - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 67: Dreamy Window Rose Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A dreamy cinematic portrait of a {argument name="subject" default="young woman"} holding a bouquet of {argument name="flowers" default="soft pink and white ros…
+
+#### 📝 Prompt
+
+```
+A dreamy cinematic portrait of a {argument name="subject" default="young woman"} holding a bouquet of {argument name="flowers" default="soft pink and white roses"} near a sunlit window, long dark flowing hair partially covering her face, soft natural golden-hour lighting, warm cozy indoor atmosphere, {argument name="outfit" default="delicate pastel pink outfit"}, romantic and aesthetic mood, gentle expression, shallow depth of field, soft shadows, vintage tones, photorealistic, dreamy composition, warm sunlight streaming through curtains, high detail, soft focus, elegant feminine portrait.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08471_0.jpg" width="600" alt="Dreamy Window Rose Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 68: Li Bai's Journey Is Difficult Ink Scroll
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A traditional Chinese ink hanging scroll painting is painted on yellowed aged Xuan paper, using a vertical composition. Six rows of prominent black large calli…
+
+#### 📝 Prompt
+
+```
+A traditional Chinese ink hanging scroll painting is painted on yellowed aged Xuan paper, using a vertical composition. Six rows of prominent black large calligraphy are distributed at the top and right of the painting. The calligraphy should be clear and expressive semi-cursive script, with alternating ink tones and natural brushstrokes, six columns from right to left, with the following content: "Golden goblets of fine wine worth ten thousand coins, jade plates of rare delicacies worth ten thousand coins," "Setting down cups and putting down chopsticks, unable to eat; drawing swords and looking around, my heart is lost," "Wishing to cross the Yellow River, the ice blocks the stream; I will climb the Taihang Mountains covered in snow," "Idly, I fish on the green creek, suddenly I board a boat and dream of the sun's edge," "The road ahead is hard, the road is hard, many forks—where am I now?", "There will be times when the long wind breaks the waves, and I will hoist my cloud sails straight to cross the vast sea." On the left side, a small vertical inscription is added, reading "Li Bai's Journey Is Difficult," with a small red seal stamped below. In the lower left of the painting, in the foreground, is a depiction of an ancient Chinese literati and poet, dressed in a flowing white-gray robe with a blue belt, with long black hair tied in a traditional bun. The strands and ribbons flutter in the wind, standing by the dark cliff, leaning to the right, looking up, with a posture both contemplative and bold. The lower half of the painting depicts surging rivers or the sea, rendered with black and white ink and soft gray to render white waves; In the distance, faint misty clouds and mountain ranges fade into the pages of the paper. The classical literati painting style focuses on dynamic calligraphy, creating a poetic and grand artistic conception. The color tone is restrained, mainly using black ink, gray washing, and off-white paper. The robes are accented with a touch of soft blue and ample blank space, presenting a museum-level fusion of Chinese landscape and calligraphy.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16549_0.jpg" width="600" alt="Li Bai's Journey Is Difficult Ink Scroll - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 69: Warm Italian Pasta Ad Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A warm Italian food advertisement poster. A cheerful Italian grandmother in a classic red apron tosses {argument name="pasta type" default="fresh pasta"} in th…
+
+#### 📝 Prompt
+
+```
+A warm Italian food advertisement poster. A cheerful Italian grandmother in a classic red apron tosses {argument name="pasta type" default="fresh pasta"} in the air beside a giant premium pasta box 3x her height with vintage Italian countryside illustrations on the packaging, "{argument name="brand name" default="BELLA PASTA"}" written in classic red and gold italic font on the box. Warm rustic Italian kitchen background with hanging dried herbs copper pots and brick walls. Classic warm serif typography "{argument name="brand name" default="BELLA PASTA"}" in red and gold filling the background. Tagline bottom: "{argument name="tagline" default="Made with amore."}" Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, authentic Italian food lifestyle editorial, warm rustic kitchen lighting.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04242_0.jpg" width="600" alt="Warm Italian Pasta Ad Poster - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 70: Stylish Gamer Girl Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a full-body vertical photorealistic fashion portrait of {argument name="character name" default="a stylish young woman"} seated confidently in a black-a…
+
+#### 📝 Prompt
+
+```
+Create a full-body vertical photorealistic fashion portrait of {argument name="character name" default="a stylish young woman"} seated confidently in a black-and-blue racing-style gaming chair with armrests and caster wheels, centered in frame. She has long dark brown wavy hair swept over one shoulder, sunglasses resting on top of her head, a subtle confident smile, and direct eye contact with the camera. She wears a sleeveless dark denim button-front dress with a collar and thin brown belt, her legs crossed elegantly, and brown open-toe high-heeled sandals. Her left hand rests on a brown quilted leather handbag on her lap, and her right hand casually holds a white game controller with dark buttons. Set the scene in a modern high-rise interior with tall floor-to-ceiling windows behind her, bright daylight, a softly blurred city skyline outside, and a polished concrete floor with realistic reflections. Use natural soft backlighting from the windows, balanced fill light on the face, shallow depth of field, realistic skin texture, high-end editorial photography style, vertical 9:16 composition, no text, no watermark, no extra people.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21832_0.jpg" width="600" alt="Stylish Gamer Girl Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 71: Japanese Ad Banner Grid Showcase
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "type": "2x2 grid of Japanese advertisement banners", "layout": { "grid_size": "2x2", "panels": [ { "position": "top-left", "industry": "skincare cosmetics",…
 
 #### 📝 Prompt
 
 ```
 {
-  "type": "first-person video game screenshot",
-  "style": "voxel-based 3D blocky graphics mixed with 2D sprite elements",
-  "environment": {
-    "setting": "nighttime blocky landscape with purple-tinted lighting",
-    "terrain": "grass blocks, water pools, purple-leaved trees, torches"
-  },
-  "entities": [
-    "1 giant floating eyeball boss {argument name=\"boss action\" default=\"shooting a purple laser beam\"}",
-    "1 giant blue slime wearing a jeweled gold crown",
-    "1 regular blue slime",
-    "1 zombie",
-    "2 skeletons",
-    "2 flying purple bat creatures",
-    "1 pink flamingo",
-    "1 player character wearing {argument name=\"player armor\" default=\"dark iron armor\"}"
-  ],
-  "first_person_view": {
-    "right_hand": "holding a {argument name=\"main weapon\" default=\"large iron sword\"}"
-  },
-  "user_interface": {
-    "top_left": ["X: 340", "Y: 64", "Z: -190", "Biome: {argument name=\"biome name\" default=\"Corruption\"}"],
-    "top_center": "purple boss health bar labeled {argument name=\"boss name\" default=\"Eye of Cthulhu\"}",
-    "top_right": "white notification popup: New Recipes Unlocked! Check your recipe book",
-    "bottom_left": "chat text: Steve has made the advancement [{argument name=\"boss name\" default=\"Eye of Cthulhu\"}]",
-    "bottom_center": {
-      "stats": "10 red hearts, 10 armor icons, 10 hunger shanks, experience level 15",
-      "hotbar_items": [
-        "purple sword",
-        "pickaxe",
-        "axe",
-        "green staff",
-        "musket",
-        "30 red potions",
-        "64 wood blocks",
-        "8 golden apples",
-        "2 blue stars"
-      ]
-    }
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02272_0.jpg" width="600" alt="Voxel Night Battle Eye Boss - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 12: Icy Sparkling Water Beach Shoot
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A jar of icy sparkling water stands upright on the golden beach, professional product photography photos. The jar is silver and teal, covered with realistic wa…
-
-#### 📝 Prompt
-
-```
-A jar of icy sparkling water stands upright on the golden beach, professional product photography photos. The jar is silver and teal, covered with realistic water droplet condensation, featuring pineapple illustrations and tropical brand logos. The jar is slightly slanted, planted on a small mound of fine golden sand, with tiny white pebbles and tiny green tropical leaves and grasses scattered around the base. The background uses a bold split-screen composition—bright sky blue on the left, vivid yellow on the right, and a large, blurred real pineapple behind the jar on the right. A blurred tropical palm leaf hangs down from the upper left corner, adding depth of field and a sense of framing. Macroscopic condensation droplets can be seen on the tank surface. The lighting is bright and vibrant, providing clean shade for commercial studio lighting. Shallow depth of field – the tank is clearly focused, with a soft and blurred background. Atmosphere: Summer, tropical, fresh, and refreshing. Commercial product photography, ultra-detail, 8K.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14521_0.jpeg" width="600" alt="Icy Sparkling Water Beach Shoot - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 13: Y2K Glam Fashion Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-High-fashion Y2K-inspired editorial artwork featuring a stylish young East Asian woman standing confidently at the center of the composition. She has luminous…
-
-#### 📝 Prompt
-
-```
-High-fashion Y2K-inspired editorial artwork featuring a stylish young East Asian woman standing confidently at the center of the composition. She has luminous dewy skin, subtle glam makeup, and flowing dark hair with airy see-through bangs. Outfit styled with modern Korean street-fashion aesthetics and layered trendy accessories. The background is packed with bold experimental typography, colorful magazine-inspired graphics, retro pop visuals, chrome accents, playful icons, stickers, hearts, stars, speech bubbles, UI overlays, and barcode elements.
-Design feels like a nostalgic early-2000s fashion magazine cover blended with contemporary K-style campaign visuals. Include scattered Japanese and Korean-inspired text details, dynamic layered compositions, vibrant commercial poster energy, crisp studio flash lighting, strong contrast, editorial photography realism fused with graphic design aesthetics, highly detailed textures, razor-sharp focus, luxury print-quality finish, visually immersive, ultra-premium fashion campaign look, cinematic composition, 8K resolution.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15216_0.jpg" width="600" alt="Y2K Glam Fashion Editorial - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15216_1.jpg" width="600" alt="Y2K Glam Fashion Editorial - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 14: Rain Mage Girl Character Design
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a clean full-body anime character design on a plain white background, centered with no scenery. The subject is a petite young fantasy girl named {argume…
-
-#### 📝 Prompt
-
-```
-Create a clean full-body anime character design on a plain white background, centered with no scenery. The subject is a petite young fantasy girl named {argument name="character name" default="unnamed blue-haired mage"}, drawn in a polished Japanese gacha-game concept-art style with crisp dark linework, soft cel shading, pale skin, and a calm slightly sleepy expression. She has {argument name="hair color" default="very light icy blue"} long layered hair: messy bangs covering part of the forehead and one eye edge, shoulder-length side locks, a long flowing back section trailing to the left, and small curled flyaway strands; her eyes are pale blue and half-lidded. Dress her in an elaborate blue-and-white traveler mage outfit: a deep navy hooded capelet with a wide collar, turquoise-blue outer panels, cream and gold trim, white cloud motifs, and many small raindrop decorations; beneath it, a white high-collar blouse, dark fitted bodice, layered short white skirt, pale blue overskirt panels, and a diagonal belt. Add exactly 3 prominent hanging accessories: 1 small brass-and-blue lantern attached at the right hip, 1 round pocket-watch charm hanging near the waist, and 1 large blue teardrop crystal pendant hanging at the center front. The costume theme should feel like rain, water, and clouds, with elegant fantasy details but not overly shiny. Use a soft color palette of {argument name="main outfit palette" default="navy blue, sky blue, white, cream, and muted gold"}. Pose her standing upright in a relaxed front-facing three-quarter view, arms mostly hidden under the cape, knees visible below the skirt, gaze directed forward with a quiet melancholic mood. Keep the illustration uncluttered, high resolution, character sheet quality, no text, no watermark, no background objects.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05846_0.jpg" width="600" alt="Rain Mage Girl Character Design - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05846_1.jpg" width="600" alt="Rain Mage Girl Character Design - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 15: TV Show Character Relationship Map
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a character relationship diagram for the TV SHOW. Emphasize character portraits, avoid excessive blank space, ensure images are full and textured, use h…
-
-#### 📝 Prompt
-
-```
-Create a character relationship diagram for the TV SHOW. Emphasize character portraits, avoid excessive blank space, ensure images are full and textured, use high-resolution portraits, and maintain a 3:2 aspect ratio.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14683_0.jpeg" width="600" alt="TV Show Character Relationship Map - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 16: Dark Korean High-End Visual Art
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Dark Korean trendy high-end visuals, semi-realistic digital illustrations, main subject is [xxx], fashion magazine cover look, low-light black visuals. The ove…
-
-#### 📝 Prompt
-
-```
-Dark Korean trendy high-end visuals, semi-realistic digital illustrations, main subject is [xxx], fashion magazine cover look, low-light black visuals. The overall color scheme is mainly pure black, charcoal black, cool gray black, and dark ink gray, with a small amount of dark red or brick red accents. The main body is clearly and completely, without obscuring core features or faces. Strong hard light from the upper side shapes the contours and structure, creating high-contrast cuts of light and shadow, while preserving rich shadow layers and details, avoiding dead black. The skin or highlights appear naturally cool and low-saturation, with delicate and clear material details. Black clothing, hair, metal, fabric, or surfaces have fine textures and cold light reflections. The background is minimalist and dark, suitable for pure black, dark gray metal walls, horizontal wall panels, or a minimalist industrial environment. Overall, it is cold, mysterious, distant, restrained, fashionable, and sophisticated, with slight grainy noise and a refined commercial illustration texture. No text, no watermark, no logo, no photography feel, no 3D feel.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12422_0.jpg" width="600" alt="Dark Korean High-End Visual Art - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12422_1.jpg" width="600" alt="Dark Korean High-End Visual Art - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 17: Polaroid Dreams Come Alive
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-make {argument name="subject" default="her"} real. polaroid photograph with {argument name="effect" default="film grain effect"}
-
-#### 📝 Prompt
-
-```
-make {argument name="subject" default="her"} real. polaroid photograph with {argument name="effect" default="film grain effect"}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00413_0.jpg" width="600" alt="Polaroid Dreams Come Alive - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00413_1.jpg" width="600" alt="Polaroid Dreams Come Alive - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 18: Enchanted Gothic Study Sanctuary
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A lavish fantasy gothic study interior, shown as a wide symmetrical room shot with no people present. In the center, place an ornate dark wooden writing desk w…
-
-#### 📝 Prompt
-
-```
-A lavish fantasy gothic study interior, shown as a wide symmetrical room shot with no people present. In the center, place an ornate dark wooden writing desk with carved details, an open book, loose papers, an ink bottle, a quill, and exactly 2 small stacks of books on top, with a tall throne-like upholstered chair behind it in deep blue-gray velvet and intricate baroque trim. Overhead, include exactly 3 hanging light fixtures: 1 crystal chandelier with glowing candles in the center, 1 dark metal lantern on the upper left, and 1 warm amber pendant lamp on the upper right. On the left side of the room, add a tall carved bookshelf packed with books and curios, a small side table with papers and objects, and a tall arched stained-glass window casting cool blue light. On the right side, add an ornate carved architectural alcove or fireplace-like structure, a plush vintage sofa in dusty teal with 2 throw pillows, and a candelabra with lit candles. Use a richly decorated old mansion or magical library setting with stone walls, carved wood, antique furniture, and layered decorative clutter. The floor should be covered by a large patterned rug leading toward the desk. Light the scene with a dramatic mix of cool moonlit blue and glowing violet-magenta ambient haze, plus warm candlelight highlights, creating an enchanted, mysterious, cinematic atmosphere. Ultra-detailed, painterly 3D fantasy illustration, soft volumetric fog, shallow depth of field, luminous bloom, high detail textures, centered composition, elegant, whimsical, magical, storybook realism.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09393_0.jpg" width="600" alt="Enchanted Gothic Study Sanctuary - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 19: Modern Risograph Poster Guide
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a flat poster in the style of a modern risograph using the attached photo as the reference. Use the colors from the photo as solid, flat color blocks on…
-
-#### 📝 Prompt
-
-```
-Create a flat poster in the style of a modern risograph using the attached photo as the reference. Use the colors from the photo as solid, flat color blocks on a {argument name="background" default="warm cream paper"} background. Include simple hand-drawn black outlines, naïve proportions, minimal facial features, fine hatching textures, visible speckled grain, and slightly imperfect printing for an authentic risograph feel. Keep the shapes clean and graphic, with a playful folk-poster aesthetic and a calm, centered composition. Frame the artwork with a rounded cream border inspired by vintage Japanese illustrated book posters. Aspect ratio: {argument name="aspect ratio" default="4:5"}.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03360_0.jpg" width="600" alt="Modern Risograph Poster Guide - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 20: Futuristic Mirror Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Using uploaded face 100 percent same & realistic. A hyper-realistic, cinematic portrait of a {argument name="subject" default="handsome young man"} with thick…
-
-#### 📝 Prompt
-
-```
-Using uploaded face 100 percent same & realistic. A hyper-realistic, cinematic portrait of a {argument name="subject" default="handsome young man"} with thick styled dark hair, a mustache, and a beard. He is confidently walking forward, looking slightly off-camera with a subtle smile. He is wearing a {argument name="outfit" default="tailored light beige suit jacket and matching trousers"}, a plain white t-shirt underneath, and {argument name="shoes" default="clean white sneakers"}. One hand is casually resting in his trouser pocket. The setting is ethereal and futuristic, featuring a highly reflective, glossy floor with low-lying white mist or fog rolling across it. Behind him stand four tall, vertical rectangular mirrors or glass panels. Each panel displays a slightly different reflection or alternate version of the same man in various poses and different outfits. Bright, clean studio lighting with a mix of cool and neutral tones, highly detailed, photorealistic, editorial fashion photography style. Keep original face and hairstyle 100% reference
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21698_0.jpg" width="600" alt="Futuristic Mirror Fashion Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 21: Satirical Jungle Theme Park Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A hyper-detailed vertical Japanese theme park advertisement poster set in a lush tropical jungle under a vivid blue sky with scattered clouds and strong golden…
-
-#### 📝 Prompt
-
-```
-A hyper-detailed vertical Japanese theme park advertisement poster set in a lush tropical jungle under a vivid blue sky with scattered clouds and strong golden sunlight flaring from the upper right. The style is cinematic, photorealistic, dramatic, and slightly absurdist, like a premium satirical travel ad. At the top, huge three-dimensional stone-textured gold Japanese headline text reads {argument name="headline text" default="ジャンキリア沖縄"}, with a smaller white Japanese tagline underneath that reads "— やんばるの大自然に包まれた、超本格ジャングル・テーマパーク —". In the center foreground, a giant modern smartphone stands upright, slightly tilted, dominating the composition like a monument. Its screen shows a lottery waiting-ticket interface with a safari silhouette header and large bold Japanese text "整理券抽選中", a dotted loading circle, smaller text "結果発表まで30分", and a tiny note "※この画面を閉じずにお待ちください". The phone status bar shows 10:00. To the left midground, a roaring Tyrannosaurus rex emerges from dense jungle foliage behind a huge aged concrete sign with oversized red Japanese text "待ち時間 180分". To the right midground, an ornate extravagant gold entrance gate to a premium area rises above the trees, with a black signboard reading "プレミアムパス入口" and a red-carpeted queue lane beyond it. A long crowded line of park visitors stretches from the foreground deep into the background along rope barriers; the visitors wear summer vacation clothing, hats, towels, backpacks, handheld fans, water bottles, and parasols, showing exhaustion, heat, and anticipation. In the lower left foreground, 3 stacked rustic wooden signboards are visible: the top board says "駐車場 2,000円" with a parking icon, the middle board says "アプリ必須 ダウンロードしてね!" with a smartphone icon, and the bottom board says "当選者だけが冒険へ" with a dinosaur silhouette. Along the right side, large vertical white brush-style Japanese copy reads {argument name="side slogan" default="待つこと、それが冒険だ。"}. Near the lower right are 3 circular gold icon callouts with short Japanese promotional lines: 1 dinosaur icon with "抽選に選ばれし者だけが、恐竜に会える。", 1 smartphone battery icon with "スマホの充電が尽きる前に、夢は始まる。", and 1 VIP icon with "プレミアムな近道も、ご用意しました。". At the very bottom center, include a small black strip with white Japanese disclaimer text: "このポスターは架空のパロディ広告です". The jungle should be dense and glossy with large tropical leaves framing the foreground, warm rim lighting, high contrast, and a polished blockbuster-poster composition. Keep all Japanese typography crisp, clean, and perfectly legible.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10028_0.jpg" width="600" alt="Satirical Jungle Theme Park Poster - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 22: Street Queen Editorial Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Use the uploaded image as a facial reference. Create a bold monochrome streetwear editorial poster showcasing characters dressed in oversized urban fashion, wi…
-
-#### 📝 Prompt
-
-```
-Use the uploaded image as a facial reference. Create a bold monochrome streetwear editorial poster showcasing characters dressed in oversized urban fashion, with relaxed postures, hands in pockets, layered loose clothing, sneakers, exuding a confident and rebellious attitude. Keyword: '[QUEEN]'. The rear of the figure features a massive, compact layout, layered with handwritten signature fonts, a minimalist white studio background, grainy textured details, cinematic shadows, and a luxurious music magazine aesthetic inspired by modern fashion blockbusters. Black-and-white high-contrast photography style, full-body composition, head-up angle, 85mm lens, ultra-sharp details, soft studio lighting with fine grains, and premium poster design optimized for fashion and music culture content.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13740_0.jpg" width="600" alt="Street Queen Editorial Poster - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 23: Imagined Self Japanese Illustration
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Generate an illustration of "me" as you imagine it. Features include a {argument name="illustration style" default="Japanese illustration style"}, distinct cha…
-
-#### 📝 Prompt
-
-```
-Generate an illustration of "me" as you imagine it. Features include a {argument name="illustration style" default="Japanese illustration style"}, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a hand-drawn graffiti style, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a {argument name="background" default="minimalist white background"}, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04336_0.jpg" width="600" alt="Imagined Self Japanese Illustration - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 24: Bangkok Nights Fashion Collage
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Goal: Create a high-fashion magazine editorial collage mood board inspired by “VOGUE BANGKOK NIGHTS,” featuring {argument name="character description" default=…
-
-#### 📝 Prompt
-
-```
-Goal: Create a high-fashion magazine editorial collage mood board inspired by “VOGUE BANGKOK NIGHTS,” featuring {argument name="character description" default="a sophisticated East Asian woman with long, straight-to-softly-wavy black hair"} in elegant neutral tailoring, with her face intentionally anonymized by a soft rectangular blur in every panel.
-
-Canvas: Vertical portrait collage, 768×1152 or 2:3 aspect ratio, clean white gutters between panels, premium fashion editorial look. Use six discrete cinematic frames arranged as a magazine contact-sheet layout.
-
-Layout: Use exactly 6 panels: 1 wide horizontal hero panel across the full top third; below it, a three-column collage where the center column is one tall full-body walking frame, the left column has 2 stacked frames, and the right column has 2 stacked frames. Keep crisp white dividers between panels.
-
-Subject details: The same woman appears in all 6 panels. She has long dark hair with polished volume, understated hoop earrings, refined makeup implied but hidden by blur, and a poised luxury lifestyle presence. Wardrobe palette is cream, beige, black, and soft taupe. Main outfit: {argument name="outfit" default="a cream tailored blazer over a black satin camisole, high-waisted ivory wide-leg trousers, a brown leather belt, a silver wristwatch, and small hoop earrings"}. Include variations such as a black satin slip-style top and beige trousers while maintaining the same sophisticated wardrobe identity.
-
-Panel descriptions: Panel 1, top hero: black-and-white close-up portrait from chest up, woman in a pale blazer, hair flowing, shallow depth of field with tall blurred city-window shapes behind her. Panel 2, lower left top: woman seated at a cafe table working on a silver laptop with a visible black Apple-like logo, white coffee cup nearby, warm indoor cafe lighting behind her. Panel 3, lower center tall: full-body street-style shot of her walking confidently outdoors in the cream blazer, black camisole, ivory trousers, brown belt, watch, and shoulder bag; modern glass-and-stone city architecture in the background. Panel 4, lower right top: woman seated indoors wearing a black sleeveless satin top and light trousers, holding an interior design magazine, relaxed luxury lounge atmosphere. Panel 5, lower left bottom: close portrait at a cafe table, cream blazer and black top, hand near chin, visible silver watch, warm bokeh background. Panel 6, lower right bottom: close portrait from slightly above, cream blazer over black top, hand near chin, silver watch prominent, intimate editorial crop.
-
-Visual style: Photorealistic high-fashion editorial photography, cinematic natural light, shallow depth of field, soft contrast, neutral luxury palette, glossy magazine mood board, refined Bangkok-nightlife-meets-modern-city ambiance. Mix monochrome and color: only the top hero panel is black and white; the five lower panels are full color.
-
-Text content: No typography, no captions, no logos except the subtle laptop emblem and magazine cover-like design. The magazine may show faint readable cover text such as {argument name="magazine cover text" default="INTERIOR DESIGN"}.
-
-Constraints: Use exactly 6 panels and exactly one woman repeated across all panels. Keep faces covered by smooth rectangular blur masks, not detailed facial features. Maintain realistic anatomy, consistent hair and wardrobe, premium editorial lighting, and clean white collage borders. Avoid extra people, clutter, heavy text, watermarks, or cartoon styling.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03119_0.jpg" width="600" alt="Bangkok Nights Fashion Collage - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 25: Physiotherapist Sports School Flyer
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a vertical 3:4 photorealistic Japanese promotional flyer image with a clean editorial fashion-ad feel. Show a young Japanese woman, about 20s, wearing a…
-
-#### 📝 Prompt
-
-```
-Create a vertical 3:4 photorealistic Japanese promotional flyer image with a clean editorial fashion-ad feel. Show a young Japanese woman, about 20s, wearing a plain white short-sleeve T-shirt tucked into high-waisted off-white linen pants with a tied waist belt, standing against a warm pale cream wall in soft direct sunlight. She is framed from upper thighs to head, positioned slightly right of center, looking calmly and confidently down toward the camera with a relaxed expression, natural glossy skin, subtle makeup, loose dark hair tied back with wispy strands around her face. She holds a white booklet vertically against her chest with both hands; include one thin ring on a finger. On the left side of the image, place the headline text 「理学療法士がサポート」 in an elegant Japanese Mincho-style serif font, with 「理学療法士」 in blue, 「が」 in green, and 「サポート」 in orange. The booklet cover should have a cheerful sports-school logo design with the main Japanese text 「高校生のスポーツ教室」 in playful rounded lettering, blue/orange/green colors, plus the Lovart logo text near the bottom. Count exactly 5 prominent sports-themed graphic elements on the booklet: 1 blue running silhouette on the left, 1 orange running silhouette on the right, 1 blue-and-white soccer ball near the lower left, 1 orange basketball near the lower right, and 1 circular swoosh arc wrapping around the title. Add small decorative stars and dots around the logo, but keep them secondary. Use a bright airy color palette, realistic shadows on the wall, shallow depth of field, premium commercial photography, crisp booklet print, no watermark, no extra text beyond the specified Japanese copy and Lovart branding. Customize the visible sponsor brand as {argument name="sponsor brand" default="Lovart"}, the booklet title as {argument name="booklet title" default="高校生のスポーツ教室"}, the left headline as {argument name="headline text" default="理学療法士がサポート"}, the target audience as {argument name="target audience" default="high school students"}, and the model outfit color as {argument name="model outfit color" default="white and off-white"}.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02774_0.jpg" width="600" alt="Physiotherapist Sports School Flyer - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 26: Red Rope Picnic Love
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A cozy picnic scene created entirely from a continuous real red rope. The rope must clearly have a physical and realistic feel, with visible twisted fibers, ta…
-
-#### 📝 Prompt
-
-```
-A cozy picnic scene created entirely from a continuous real red rope. The rope must clearly have a physical and realistic feel, with visible twisted fibers, tactile texture, slight fuzz, natural thickness variations, and authentic, purely handcrafted details. The picnic blanket, basket, plate, fruit, cup, and the simplified silhouette of two people sitting together are all formed by this complete red cord that flows seamlessly throughout the composition. Ropes wrap around the disc, bend into relaxed human postures, and encircle the details of food and baskets. Carefully use negative space to define the gaps between faces, limbs, objects, and the open spaces around the picnic installation. Place everything on a pure white background, with soft realistic shadows beneath the ropes to create a sense of depth, giving it a sculptural and grounded feel. Keep the composition warm, intimate, elegant, and clearly legible.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14274_0.jpg" width="600" alt="Red Rope Picnic Love - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14274_1.jpg" width="600" alt="Red Rope Picnic Love - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 27: Crimson Muse Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Using the provided reference image, create an ultra-realistic high-fashion editorial portrait of the same woman against a bold seamless {argument name="backgro…
-
-#### 📝 Prompt
-
-```
-Using the provided reference image, create an ultra-realistic high-fashion editorial portrait of the same woman against a bold seamless {argument name="background color" default="crimson-red"} studio background. The composition is clean, minimal, and dramatic, inspired by luxury campaigns from Saint Laurent, Vogue, and high-end beauty editorials.
-
-The woman has long silky {argument name="hair color" default="auburn"} hair styled in soft side-parted waves draped over one shoulder, fair porcelain skin with subtle freckles, piercing light-colored eyes, sculpted brows, and bold matte crimson-red lipstick. She wears a confident, intense expression while looking directly into the camera.
-
-She is dressed in an {argument name="clothing" default="oversized tailored black blazer"} casually draped over her shoulders, worn over a deep-plunge black outfit with elegant minimalist styling. Both hands gently hold the blazer lapels near her chest, creating a powerful yet refined pose.
-
-The lighting is soft but dramatic, with studio-quality illumination that highlights facial contours and creates subtle shadows while preserving flawless skin texture and luxurious fabric detail. The background remains a smooth, vibrant red gradient with no distractions.
-Photographed with a medium-format camera, 85mm portrait lens, shallow depth of field, ultra-sharp focus, cinematic color grading, premium editorial styling, photorealistic skin texture, detailed hair strands, luxury fashion campaign aesthetic, masterpiece quality, 8K resolution.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01535_0.jpg" width="600" alt="Crimson Muse Fashion Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 28: Cyberpunk Manga AI Generation Interface
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Goal: Create a realistic desktop screenshot of a ChatGPT-style web interface showing a Japanese prompt request and the resulting cyberpunk manga illustration.…
-
-#### 📝 Prompt
-
-```
-Goal: Create a realistic desktop screenshot of a ChatGPT-style web interface showing a Japanese prompt request and the resulting cyberpunk manga illustration.
-
-Canvas: Landscape browser screenshot, approximately 768×827 px, mostly white background with lots of empty margin. The conversation column is centered slightly to the right, with a generated image preview aligned below and left of the prompt card.
-
-Layout: At the top right, show a small embedded social media profile screenshot. Beneath it, show one large rounded light-gray Japanese prompt bubble. Below and left of the bubble, show a small status line reading “Thought for 1m 19s ›”. Under that, show one tall generated image card with rounded corners, partly visible, followed by a bottom message composer bar spanning the lower width.
-
-Top social profile screenshot: Show exactly 1 miniature Japanese X/Twitter-style profile card with a bright blue header, circular avatar on the left, a small square yellow logo in the header area, Japanese account name text including “Newsletter”, a follow/profile button, and dense Japanese bio text. Keep it small and slightly blurry like a pasted reference screenshot.
-
-Japanese prompt bubble: A rounded rectangle in very pale gray with black Japanese text. The text should request generating a stylish, sharp, futuristic cyberpunk manga-style full-page illustration based on an attached SNS profile screenshot. Include a bold-looking section label “【参照する要素】”. Mention referencing the person/account atmosphere, facial expression, hairstyle, clothing, pose, overall profile feel, name, writing style, self-introduction, posts, colors, wording, worldview, catchphrases, and activities. At the bottom, include a small control line similar to “表示を増やす⌄”.
-
-Generated manga card: Show exactly 1 vertical full-page cyberpunk manga image inside a rounded black-bordered card. The manga page is divided into exactly 4 horizontal panels:
-1. Top panel: Extreme close-up of an anime character’s eye and face, wearing angular futuristic glasses or visor elements, with blue holographic UI screens and orange mechanical cybernetic face gear.
-2. Second panel: Wider shot of the same character in a dark blue neon city/control-room environment, wearing a maroon jacket or cloak, surrounded by floating blue interface panels with Japanese text.
-3. Third panel: Desk or workstation panel with an open notebook/book, devices, screens, sticky-note-like yellow labels, and data panels, all lit by blue neon.
-4. Bottom panel: Wide cityscape or server-room-like cyberpunk environment in deep blues with small glowing windows, data panels, and a tiny silhouetted figure near the bottom.
-
-Manga visual style: High-detail Japanese cyberpunk comic art, dramatic ink lines, glossy digital painting, cinematic blue-and-orange lighting, dense holographic overlays, futuristic UI typography, high contrast shadows, rain-slick neon atmosphere, sharp manga panel borders, no speech balloons except tiny decorative Japanese UI text.
-
-Bottom composer UI: Show exactly 1 rounded white input bar at the bottom. Include a plus icon on the left, placeholder Japanese text “質問してみましょう”, and on the right exactly 4 controls: “Thinking” dropdown text, a microphone icon, a black circular voice/equalizer button, and a pale disabled send/icon button.
-
-Constraints: Make the whole image look like a captured AI chat webpage, not a standalone poster. Preserve Japanese text where visible but keep most of it small and not perfectly legible. Use clean browser UI spacing, rounded cards, soft shadows, and no extra watermarks. The primary illustrated character should be {argument name="character vibe" default="a sharp futuristic cyberpunk manga persona inspired by a Japanese SNS newsletter account"}; the main neon palette should be {argument name="neon color palette" default="deep electric blue with orange accents"}; the prompt language should be {argument name="prompt language" default="Japanese"}; the manga page style should be {argument name="comic style" default="high-detail cyberpunk Japanese manga"}; the visible chat status should be {argument name="thinking status text" default="Thought for 1m 19s ›"}.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01005_0.jpg" width="600" alt="Cyberpunk Manga AI Generation Interface - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 29: Celestial Witch of Ivory Palace
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a highly detailed dark fantasy anime-style portrait of a mysterious young witch in an ornate celestial gothic setting. The subject is a beautiful female…
-
-#### 📝 Prompt
-
-```
-Create a highly detailed dark fantasy anime-style portrait of a mysterious young witch in an ornate celestial gothic setting. The subject is a beautiful female sorceress with {argument name="hair color" default="long flowing black hair"}, seated or posed close to the viewer in three-quarter view, her face deliberately covered by a centered rectangular censor block in a warm brown skin-tone gradient. She wears an enormous black pointed witch hat with a very wide brim and a tall twisted cone, covered in elaborate antique-gold filigree, thornlike metal vines, tiny stars, crescent moons, dangling chains, and gem-like ornaments. Her outfit is a black lace off-shoulder gothic dress with translucent sheer sleeves, floral lace trim, beadwork, and sparkling gold accents; one bare shoulder and delicate hand near her lips are visible. Include exactly 6 prominent dangling celestial ornaments from the hat brim: 3 stars, 1 crescent moon, and 2 small chain charms. The background is an opulent impossible white palace-city of towers, spires, arches, and cathedral architecture under a dim starry sky, with a large ornate golden circular mirror or halo behind the hat and a floating spiral staircase of dark wooden books on the right. Use {argument name="main palette" default="black, antique gold, ivory white, smoky gray, and soft skin tones"}. The lighting should be cinematic, moody, and magical, with shimmering highlights on metal filigree, drifting sparkles, and a luxurious high-detail digital painting finish. Composition: vertical portrait, close crop, the hat dominating the top half, face block centered, palace depth behind, ultra-intricate textures, elegant occult atmosphere. Avoid modern objects, text, logos, watermarks, extra characters, or visible facial features beneath the censor block.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09612_0.jpg" width="600" alt="Celestial Witch of Ivory Palace - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 30: Dreamy Spring Cherry Blossom Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Only the uploaded portrait will be used as a reference for identity. Preserves the subject's true facial features, face shape, skin tone, hairstyle, and natura…
-
-#### 📝 Prompt
-
-```
-Only the uploaded portrait will be used as a reference for identity. Preserves the subject's true facial features, face shape, skin tone, hairstyle, and natural hair texture. Do not copy the original portrait's clothing, background, lighting, poses, or image quality.
-
-Create a dreamy spring garden portrait inspired by an Impressionist oil poster. A real person stands beneath a blooming pink cherry tree, surrounded by soft sunlight, stone walls, iron fences, scattered petals, and a poetic outdoor atmosphere. Maintains the authenticity of the face and body, with a natural skin texture, no plastic feel, no anime style.
-
-Choose a set that naturally suits the person and the elegant outfit of a soft spring scene; don't force fixed outfits. The outfit should be elegant and cinematic, harmoniously blending with the pink floral background.
-
-Soft pastel tones, painterly brushstroke texture, warm natural light, romantic editorial-style composition, subtle movement, and a high-end artistic poster feel. Add elegant English poster text at the top: "Spring in Bloom," and below it are small and elegant English subtitle text. No watermarks, no logos, no random text.
-
-Vertical composition, detailed artistic poster style, realistic subjects, dreamy impressionist background
-
-Negative prompts:
-
-Watermarks, logos, Chinese text, messy text, unreadable typesetting, anime, cartoons, plastic skin, fake faces, overly smooth skin, twisted faces, poor anatomical structure, extra fingers, deformed hands, unnatural postures, low quality, blurred faces, stiff AI feel, repetitive characters, duplicated backgrounds, copying original costumes
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12515_0.jpg" width="600" alt="Dreamy Spring Cherry Blossom Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 31: Girl Building Sandcastles on Beach
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A photorealistic vertical beach portrait of a young woman kneeling on pale sand while building sandcastles, shot in bright natural midday sunlight with a shall…
-
-#### 📝 Prompt
-
-```
-A photorealistic vertical beach portrait of a young woman kneeling on pale sand while building sandcastles, shot in bright natural midday sunlight with a shallow depth of field. She has long dark brown hair tied in a high ponytail, a slim figure, and wears a short deep-blue sundress with thin spaghetti straps, a plunging neckline, and a softly flared skirt. She is leaning forward toward the camera in a playful candid pose, both hands shaping the sand in front of her. Add a delicate thin necklace with a tiny pendant and a subtle bracelet. Place exactly 5 sandcastle elements in the foreground: 2 taller turret-like sand towers on the right, 2 smaller rounded sand mounds near the center front, and 1 partially formed sand piece in her hands. The background is a tropical beach with smooth beige sand, turquoise water along the left side, a green tree-covered shoreline in the distance, and palm trees arching overhead, including 1 large palm trunk on the right edge. Use soft bokeh in the background, clean summer vacation fashion photography, realistic skin tones, natural shadows from palm leaves across her arms and dress, and a serene luxury resort atmosphere. Frame it as a full-body to three-quarter portrait in portrait orientation, centered subject, eye-level to slightly low camera angle.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01025_0.jpg" width="600" alt="Girl Building Sandcastles on Beach - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01025_1.jpg" width="600" alt="Girl Building Sandcastles on Beach - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 32: Tiny Man Beach Adventures
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Goal: Create a whimsical hyper-realistic 2-column by 3-row photo collage showing a tiny miniature young man on a sunny beach, interacting with oversized summer…
-
-#### 📝 Prompt
-
-```
-Goal: Create a whimsical hyper-realistic 2-column by 3-row photo collage showing a tiny miniature young man on a sunny beach, interacting with oversized summer objects as if he is a toy-sized person in a real world.
-
-Canvas: Vertical collage, 768×1152 style aspect ratio, six equal rectangular panels separated by clean white gutters. Bright midday beach lighting, shallow depth of field, blue ocean horizon and sandy beach background in every panel.
-
-Main subject: The same miniature young man appears in all 6 panels, about toy-sized, with a handsome youthful face, short dark wavy hair, light skin, wearing a burgundy button-up shirt, black pants, and white sneakers. Keep his identity and outfit consistent across the collage. Use {argument name="character name" default="a miniature young man"} as the recurring subject.
-
-Panel count and contents: Use exactly 6 panels.
-1. Top-left: A giant human hand tilts a small pink bucket, pouring a mound of dry sand over and around the tiny man while he sits on the beach with both hands raised in surprise.
-2. Top-right: The tiny man sits inside a giant pink frosted donut-shaped float in splashing ocean water, wearing a blue snorkel mask/tube and yellow flippers, while a large human hand steadies the float from the right.
-3. Middle-left: The tiny man crouches on the sand and pulls a rope tied around an enormous spiral seashell, as if trying to drag it.
-4. Middle-right: A large human hand holds a red-and-green popsicle on a wooden stick; the tiny man clings to the popsicle with his arms and legs, as if hugging it.
-5. Bottom-left: A giant waffle cone held by a human hand drips melting pink ice cream over the tiny man, who sits on a puddle of pink ice cream with both hands raised.
-6. Bottom-right: The tiny man lounges in a miniature beach chair under a small yellow-and-white umbrella, wearing dark sunglasses, while a large human hand offers him a blue-orange juice box with a white straw.
-
-Visual style: Ultra-realistic macro photography, playful forced-perspective miniature scene, crisp details on sand grains, realistic skin texture on the oversized hands, vivid beach colors, cinematic sunlight, natural shadows, glossy water splashes, realistic scale contrast, high-resolution editorial collage.
-
-Constraints: No text, captions, logos, or watermarks. Keep the same character, clothing, and beach environment in every panel. Make the objects oversized relative to the miniature person, with believable contact shadows and realistic interactions.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20997_0.jpg" width="600" alt="Tiny Man Beach Adventures - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 33: Ethereal Sky Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Generate an elegant editorial-style digital illustration of a {argument name="subject" default="woman"} resting under an {argument name="background" default="o…
-
-#### 📝 Prompt
-
-```
-Generate an elegant editorial-style digital illustration of a {argument name="subject" default="woman"} resting under an {argument name="background" default="open sky"}, her dark hair loosely framing her face as if touched by a warm breeze. Her eyes are closed and her lips slightly parted, giving a reflective, intimate mood. She wears a {argument name="clothing" default="dark blue off-shoulder top"}. Surround her with oversized cloud formations, bright sky blues, and subtle utility wires in the distance. Use smooth painterly textures, tasteful color blocking, modern poster-like composition, and a refined fashion-illustration sensibility.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07232_0.jpg" width="600" alt="Ethereal Sky Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 34: Retro Future Evening Gown Tech Pack
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Generate a single-page technical specification sheet, A3 portrait, aspect ratio 1:1.4, black line art on white background with Pantone chips. Style: LX-DR-01,…
-
-#### 📝 Prompt
-
-```
-Generate a single-page technical specification sheet, A3 portrait, aspect ratio 1:1.4, black line art on white background with Pantone chips.
-
-Style: LX-DR-01, evening gown, 1970s Halston bias drape combined with 2025 circular design principles.
-
-Layout:
-  left: front flat and back flat at 1:6 scale
-  center: detail views at 1:2 scale (cowl neck, bishop sleeve cuff, detachable train attachment, side slit)
-  right: bill of materials, measurement chart, title block
-
-1970s elements:
-  - bias-cut silhouette with cowl neckline depth 18 cm from HPS
-  - long bishop sleeves gathered into 6 cm cuff height with covered button closure
-  - empire seam positioned 5 cm below bust line
-  - floor length with 20 cm side slit at left leg
-  - bias drape at hip
-
-2025 elements:
-  - shell 19 momme 100 percent recycled silk charmeuse with blockchain traceability, Pantone 19-5408 TCX Deep Emerald
-  - lining 100 percent cupro bemberg Pantone 11-0602 TCX Gardenia
-  - detachable train length 80 cm with hidden magnetic closure at center back waist
-  - 3D-knitted internal bodice support at bust
-  - zero-waste pattern layout noted at 92 percent efficiency
-  - NFC authenticity chip encased in right side seam
-  - printed QR code care label
-
-Measurements size FR 38:
-  center back length 150 cm from nape to hem, bust 1/2 43 cm, waist 1/2 34 cm, hip 1/2 46 cm,
-  sleeve length 62 cm from shoulder point, sleeve cuff circumference 18 cm, sweep 1/2 75 cm, slit height 20 cm
-
-Construction:
-  French seams throughout body using 301 lockstitch at 14 spi, seam allowance 1 cm
-  hand-rolled hem 3 mm at bottom and train edge
-  invisible zipper center back length 55 cm
-  bar tack at slit top
-
-Materials and color:
-  thread 100 percent silk size 120 to match shell
-  hardware: two covered buttons 12 mm diameter one per cuff, six pairs neodymium magnets 8 mm diameter for train
-
-Labels:
-  main label center back neck, care label left side seam with text "Dry clean only. 100 percent recycled silk." in English and French and Italian
-
-Render annotations in 8pt sans-serif horizontal with leader lines, no shading.
-
-Generate a full-length editorial image, aspect ratio 3:4, of a female model age 24 height 178 cm measurements 86-61-88 cm.
-
-Garment exact specification LX-DR-01:
-  - bias-cut evening gown in 19 momme 100 percent recycled silk charmeuse with blockchain traceability Pantone 19-5408 TCX Deep Emerald, lining 100 percent cupro bemberg Pantone 11-0602 TCX Gardenia
-  - cowl neckline depth 18 cm from HPS, empire seam 5 cm below bust line
-  - long bishop sleeves gathered into cuff height 6 cm with two covered buttons 12 mm diameter one per cuff, sleeve length 62 cm from shoulder point, cuff circumference 18 cm
-  - floor length center back 150 cm from nape to hem, sweep 1/2 75 cm, 20 cm side slit at left leg with bar tack at slit top
-  - detachable train length 80 cm attached at center back waist with hidden magnetic closure using six pairs neodymium magnets 8 mm diameter
-  - internal 3D-knitted bodice support at bust, French seams throughout with 301 lockstitch at 14 spi seam allowance 1 cm, hand-rolled hem 3 mm at bottom and train edge, invisible zipper 55 cm center back
-  - zero-waste pattern layout 92 percent efficiency, NFC authenticity chip in right side seam, printed QR care label left side seam, main label center back neck, thread 100 percent silk size 120
-
-Styling: paired with 1970s satin strappy heels in champagne, 2025 recycled gold ear cuffs, hair in low sleek chignon.
-
-Pose: standing in contrapposto, left leg forward to show side slit, right hand lightly holding train to reveal magnetic attachment point, gaze to camera, professional runway posture.
-
-Environment: 1970s marble staircase with brass railing, updated with LED cove lighting, evening ambient light.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01828_0.jpg" width="600" alt="Retro Future Evening Gown Tech Pack - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01828_1.jpg" width="600" alt="Retro Future Evening Gown Tech Pack - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01828_2.jpg" width="600" alt="Retro Future Evening Gown Tech Pack - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01828_3.jpg" width="600" alt="Retro Future Evening Gown Tech Pack - Image 4">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 35: Classic American Diner Menu Wall
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Using the provided reference image, replace the train interior scene with a straight-on, documentary-style photograph of a classic American diner counter wall.…
-
-#### 📝 Prompt
-
-```
-Using the provided reference image, replace the train interior scene with a straight-on, documentary-style photograph of a classic American diner counter wall. Remove the person, window reflection, thermos, and book entirely. Keep the image photorealistic and naturally lit, with warm tungsten bulbs across the top and wood-paneled walls. Add a large black letter-board menu with white block letters as the main subject, framed in metal above an open kitchen pass. Include 6 menu sections with these exact headings and items: BREAKFAST with 5 items (TWO EGGS TOAST 4.95, BACON & EGGS 6.50, HAM & EGGS 6.75, OMELET 7.25, BISCUITS & GRAVY 5.50); GRIDDLE with 4 items (SHORT STACK 4.25, PANCAKES 5.25, FRENCH TOAST 5.75, WAFFLE 5.95); SANDWICHES with 5 items (BLT 5.50, TUNA MELT 6.25, GRILLED CHEESE 4.50, CLUB SANDWICH 7.50, HAMBURGER 6.00); SIDES with 5 items (HASH BROWNS 2.50, BACON 2.95, SAUSAGE 2.95, TOAST 1.50, PIE 3.25); DRINKS with 5 items (COFFEE 1.25, TEA 1.25, MILK 1.50, ORANGE JUICE 1.75, SODA 1.50); and a DAILY SPECIAL line reading CHICKEN FRIED STEAK 8.25. Below the menu, show a stainless service opening and countertop with diner details including 2 condiment bottles, 1 napkin dispenser, and 1 shaker in the foreground. Wide horizontal composition, centered, realistic textures, slightly nostalgic roadside-diner mood.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04936_0.jpg" width="600" alt="Classic American Diner Menu Wall - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 36: Mysterious Forest Ink Caps
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create an ultra-wide 3:1 cinematic macro photograph of a dense cluster of tall shaggy ink cap mushrooms growing in a dark forest floor. The mushrooms have long…
-
-#### 📝 Prompt
-
-```
-Create an ultra-wide 3:1 cinematic macro photograph of a dense cluster of tall shaggy ink cap mushrooms growing in a dark forest floor. The mushrooms have long pale gray stems and bell-shaped caps covered in rough, scaly, granular texture, with caps ranging from cream to smoky charcoal and blackened edges. Compose the cluster across the full width of the frame, cropped tightly so several mushroom caps extend beyond the top edge, with the central group brightest and most detailed. Surround them with damp soil, dead leaves, thin twigs, tangled roots, and shadowy undergrowth. Use {argument name="lighting style" default="low-key moody natural light"}, deep contrast, muted earthy colors, crisp tactile detail on the caps, dark vignetted corners, shallow depth of field, and a gritty realistic nature-documentary look. The overall mood should feel mysterious, damp, and slightly eerie, like a hidden fungal colony discovered at ground level in the woods.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10573_0.jpg" width="600" alt="Mysterious Forest Ink Caps - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 37: Modern Collaboration System UI Redesign
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Using REFERENCE_0 as the source UI, redesign the Teams-like internal/external collaboration system into a cleaner, more modern product mockup while preserving…
-
-#### 📝 Prompt
-
-```
-Using REFERENCE_0 as the source UI, redesign the Teams-like internal/external collaboration system into a cleaner, more modern product mockup while preserving the MPLUS Link brand, the dark navy left sidebar navigation, and the overall set of app functions. Create a polished 2-column by 3-row presentation showing exactly 6 redesigned screens: 1) a welcome/login landing screen with a large hero card, Japanese headline {argument name="headline text" default="社外パートナー連携を、招待制の専用ワークスペースで一元化"}, login tabs/buttons, and a realistic desktop-monitor hero image; 2) a project bridge chat screen with right-aligned chat cards, action chips, and a message composer; 3) a team list screen simplified into two clean team cards; 4) a materials/document list screen with upload controls, search/filter area, and file rows; 5) a shared collaboration room screen titled {argument name="room title" default="MPI 共同開発ルーム"} with a project overview card and compact member/status list; 6) a user management screen titled {argument name="admin title" default="ユーザー管理"} with user rows and an empty detail panel. Make the new mockups much more spacious than the reference: fewer table rows, larger margins, softer dividers, pale blue-gray backgrounds, white rounded cards, subtle shadows, and small blue/green accent buttons. Keep the Japanese enterprise SaaS feel and dummy-data nature, but remove the dense micromanaged tables and replace them with simplified, presentable mock UI suitable for a design-improvement comparison. Use brand name {argument name="brand name" default="MPLUS Link"} in the sidebar, keep the sidebar consistent on every screen, and avoid adding unrelated features, watermarks, or decorative clutter.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03965_0.jpg" width="600" alt="Modern Collaboration System UI Redesign - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 38: Nine-Grid Funny Face Collage
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A nine-grid photo collage, with the same person in every frame, each with different funny facial expressions and poses. A lady's appearance, gazing into the ca…
-
-#### 📝 Prompt
-
-```
-A nine-grid photo collage, with the same person in every frame, each with different funny facial expressions and poses. A lady's appearance, gazing into the camera. This man had a messy half-up hairstyle, wore jewelry, and a colorful short-sleeved top. Realistic portrait photography. Add some colorful doodles.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13821_0.jpg" width="600" alt="Nine-Grid Funny Face Collage - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 39: Soccer Champion Moment Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Title: "{argument name="title" default="GAME TIME."}" Use the uploaded image as the face reference. Transform this image into a powerful soccer-themed poster.…
-
-#### 📝 Prompt
-
-```
-Title: "{argument name="title" default="GAME TIME."}"
-Use the uploaded image as the face reference.
-Transform this image into a powerful soccer-themed poster. Replace clothing with a sleek professional {argument name="clothing type" default="soccer uniform"}. Set the scene at the edge of a stadium tunnel with bright lights and a roaring crowd in the background. Add subtle motion blur and cinematic lighting.
-
-Overlay bold text:
- “{argument name="main text" default="GAME TIME."}”Subtext:
- “Pressure builds champions.”Style: cinematic, Nike-ad aesthetic, high detail, dramatic and motivational.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05682_0.jpg" width="600" alt="Soccer Champion Moment Poster - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 40: Cheesy Chaos Cheetos Ad Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a cinematic, high-energy vertical advertising poster for {argument name="brand name" default="Cheetos"} titled {argument name="headline text" default="C…
-
-#### 📝 Prompt
-
-```
-Create a cinematic, high-energy vertical advertising poster for {argument name="brand name" default="Cheetos"} titled {argument name="headline text" default="CHEESY CHAOS"}. A young adult woman with a messy high bun and glasses, wearing a vivid orange bomber jacket over a black top and black tactical cargo pants with straps and zippers, is frozen mid-leap toward the camera in an extreme wide-angle action pose. Her nearest arm thrusts forward in strong perspective, holding one large flaming cheese puff between her fingers; the puff glows with sparks and small flames. Keep her face unobscured and expressive, but make the motion and hand perspective the main focus. Behind her, a massive orange cheese-dust explosion erupts down a busy downtown street, sending countless crunchy cheese puffs flying through the air. The city setting should feel like a stylized Times Square diner district at golden hour, with neon diner signs, traffic, pedestrians, storefronts, and a dramatic teal-blue sky. Include exactly 4 prominent readable sign/text areas: the giant top headline “CHEESY CHAOS” made from rough orange cheese-dust texture, a left diner marquee reading “CHEESY” with tiny menu-style text below, a right vertical neon sign reading “DINER” with a small “Cheetos” sign above and “Open” below, and the bottom tagline {argument name="tagline text" default="MORE THAN A SNACK. IT’S A MOOD."}. Add the {argument name="logo text" default="Cheetos"} logo centered at the bottom and a product bag in the lower-right corner. Use saturated orange cheese tones contrasted with deep teal shadows, explosive particles, flying snack debris, rim lighting, cinematic depth of field, motion blur, sharp commercial-photography detail, dramatic perspective, and a glossy blockbuster snack-ad aesthetic. Avoid extra brands, avoid extra slogans, avoid malformed text, and make the poster feel chaotic but professionally composed.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03975_0.jpg" width="600" alt="Cheesy Chaos Cheetos Ad Poster - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 41: Cinematic 8K Business Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a hyper-realistic 8K cinematic portrait of the uploaded person in a {argument name="lighting style" default="dramatic chiaroscuro style"}. The subject i…
-
-#### 📝 Prompt
-
-```
-Create a hyper-realistic 8K cinematic portrait of the uploaded person in a {argument name="lighting style" default="dramatic chiaroscuro style"}. The subject is seated at a three-quarter angle, leaning slightly forward with a relaxed yet commanding posture. His face is turned slightly away from the camera,not looking at the lens, with one side of the face sharply illuminated and the opposite side fading into deep, velvety black shadow. His expression is contemplative. His hands are near the chest in a natural, precise pose, with the fingers gently and correctly interlocked. One wrist clearly shows a {argument name="watch" default="luxury black chronograph watch"} with a detailed metal link bracelet, and one hand wears a subtle silver ring. He is dressed in a {argument name="suit" default="sharp black suit jacket over a white dress shirt"} with the top buttons open, showing refined fabric texture and natural folds. The background is solid seamless black. Use strong directional studio lighting with rich contrast, clean shadow falloff, and realistic skin texture. Highlight fine details such as hair strands, beard(if present) bristles, eye moisture, facial texture, the watch face, metal bracelet reflections, and the silver ring. Shot with an 85mm portrait lens look, shallow depth of field, premium commercial photography, ultra-sharp focus, smooth natural skin transitions, cinematic contrast, no artificial plastic skin, no extra fingers, no distorted hands, no messy anatomy.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01064_0.jpg" width="600" alt="Cinematic 8K Business Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 42: Masked Noblewoman Fantasy Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a vertical semi-realistic digital illustration of {argument name="character type" default="an elegant adult East Asian fantasy noblewoman"} seated indoo…
-
-#### 📝 Prompt
-
-```
-Create a vertical semi-realistic digital illustration of {argument name="character type" default="an elegant adult East Asian fantasy noblewoman"} seated indoors in a dim, luxurious ancient Chinese-inspired study or palace room. She wears a deep {argument name="main robe color" default="burgundy red"} low-cut silk dress with ornate gold embroidery, layered under a sheer glossy black outer robe with flowing translucent sleeves and black sash, giving a refined wuxia/xianxia courtesan or noble consort aesthetic. Her long {argument name="hair color" default="black"} hair is styled half-up with elaborate gold hairpins, delicate chains, small red tassels, and long dangling earrings. Compose her from mid-thigh to head in a relaxed seated pose, one arm resting on a wooden armrest and the other hand draped gracefully over her lap, with soft skin highlights, detailed fabric folds, and polished hands. The face should be completely obscured by a centered opaque {argument name="face cover color" default="muted brown"} square censor block, while the hair, ears, neck, collarbones, and clothing remain visible. Use warm cinematic lantern lighting, shallow depth of field, dark wooden furniture, blurred shelves and glowing lamps in the background, rich shadows, high-detail painterly realism, glossy silk texture, gold accents, sensual but elegant mood, portrait orientation, 2:3 aspect ratio.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07726_0.jpg" width="600" alt="Masked Noblewoman Fantasy Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 43: Boss Red Envelope Surprise
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Screenshot of WeChat chat, funny chat scene where the boss suddenly sends a red envelope in the group chat
-
-#### 📝 Prompt
-
-```
-Screenshot of WeChat chat, funny chat scene where the boss suddenly sends a red envelope in the group chat
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12024_0.jpeg" width="600" alt="Boss Red Envelope Surprise - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 44: Retro CCD Camera Night Capture
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style phot…
-
-#### 📝 Prompt
-
-```
-realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a {argument name="subject description" default="young East Asian woman with long dark wavy hair"} standing beside a wooden shelf packed tightly with colorful comic books and magazines.
-
-She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
-
-The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
-
-Camera UI overlays are visible across the LCD screen, including the {argument name="timestamp" default="8. 1. 2012 3:15 AM"}, exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
-
-The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
-
-Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03202_0.jpg" width="600" alt="Retro CCD Camera Night Capture - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03202_1.jpg" width="600" alt="Retro CCD Camera Night Capture - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 45: Girl's Champion Horse Journey
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a cinematic storyboard infographic with 16 images, showing the emotional journey of a young woman raising and training a pony to grow into a strong race…
-
-#### 📝 Prompt
-
-```
-Create a cinematic storyboard infographic with 16 images, showing the emotional journey of a young woman raising and training a pony to grow into a strong racehorse. It adopts a realistic cinematic storyboard style, with warm and natural tones, presenting rural environments, cinematic light and shadow, and emotional storytelling. The same realistic young woman appears uniformly in every frame, dressed in casual ranch clothing, riding boots, and post-production professional racing attire. It shows the process of a horse growing from a foal into a strong and beautiful racehorse. The storyboards are arranged in neat 4x4 grids, including scene numbers, bold titles, key points, and cinematic visual flows. Scenes should include: finding or caring for a foal, nursing, grooming, training foals, running in the fields, emotional connection, daily practice riding, race preparation, arriving at the track, intense races with other riders, dramatic running shots, crossing the finish line first, celebrating victory, winning the gold cup, emotional cheers from the audience, and finally, the girl proudly embracing her champion horse at sunset. It includes realistic horse movements, rural scenery, dust effects, cinematic sunshine, emotional expression, detailed arena atmosphere, dynamic camera angles, and luxurious sports storyline aesthetics. Ultra-realistic cinematography, emotional cinematic storytelling, top-tier cinematic composition, 4K detail, no animation, no cartoons, no CGI effects.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12231_0.jpg" width="600" alt="Girl's Champion Horse Journey - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12231_1.jpg" width="600" alt="Girl's Champion Horse Journey - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 46: Creative Photo Doodle Art
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Transform the uploaded image by keeping the {argument name="subject" default="subject"} exactly as they are—preserve their identity, pose, composition, and lig…
-
-#### 📝 Prompt
-
-```
-Transform the uploaded image by keeping the {argument name="subject" default="subject"} exactly as they are—preserve their identity, pose, composition, and lighting without any distortion or alteration. Build on top of the original photo by adding expressive, hand-drawn doodles that interact playfully with the subject. Let the illustrations respond to the scene, trace or exaggerate gestures, extend movement, highlight contours, or introduce imaginative elements that feel connected to what’s happening in the frame. The doodles should feel intentional, as if they were sketched directly onto the image in a spontaneous yet thoughtful way. Use a loose, imperfect drawing style with slightly uneven strokes, organic lines, and a casual, sketchbook-like vibe. Incorporate {argument name="notes" default="handwritten notes or captions"} around the image that match the mood or narrative—keep them witty, context-aware, and naturally playful rather than generic. Make sure the added elements complement the photo instead of overpowering it. Aim for a visually balanced composition with a clean, high-resolution finish and colors that blend harmoniously with the original scene.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03546_0.jpg" width="600" alt="Creative Photo Doodle Art - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 47: J.League Dynamic Soccer Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a dynamic vertical sports poster celebrating {argument name="event name" default="J.League Day"}, in a high-energy Japanese graphic design style. Use a…
-
-#### 📝 Prompt
-
-```
-Create a dynamic vertical sports poster celebrating {argument name="event name" default="J.League Day"}, in a high-energy Japanese graphic design style. Use a clean off-white canvas with an explosive abstract composition of sharp diagonal speed lines, paint splatters, halftone dots, thin technical drafting lines, and angular geometric shards in Japan-inspired colors: deep cobalt blue, vivid red, black, white, and small yellow accents. Center the scene on one male soccer player in a dark {argument name="team jersey" default="Japan national team style black kit with number 10"}, shown in dramatic black-and-white ink illustration with heavy contrast, messy dark hair, athletic build, and a powerful kicking pose angled forward toward the viewer. His face should be obscured or indistinct, keeping the action anonymous. Place exactly one black-and-white soccer ball in the lower left foreground, slightly enlarged with motion blur and speed trails, as if just kicked. Behind the player, create a huge bold black capital letter {argument name="main letter" default="J"} with a thick white outline and red shadow, overlapping a large red sun disk. Add a blue rectangular field of abstract city-like vertical line details in the upper background. Include exactly four main color accent groups: red circular sun and red paint bursts, blue diagonal bars and shards, black ink splashes and halftone patterns, and yellow thin lines plus small polygon accents. Add small printed date text at the bottom right reading {argument name="date text" default="May 15, 2026"} with a loose handwritten signature beneath reading {argument name="signature" default="Oyagi"}. The overall look should feel fast, bold, modern, poster-ready, and suitable for social media AI art; no extra logos, no readable sponsor names, no additional players, no crowd, no stadium background.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09548_0.jpg" width="600" alt="J.League Dynamic Soccer Poster - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 48: ZARA New Uniform Manifesto
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Prompt: ZARA “NEW UNIFORM” Format Ultra-high-end fashion SMM promotional poster Vertical 4:5 Instagram hero-level creativity Luxury fast fashion ads Commercial…
-
-#### 📝 Prompt
-
-```
-Prompt: ZARA
-“NEW UNIFORM” 
-
-Format
-
-Ultra-high-end fashion SMM promotional poster
-Vertical 4:5
-Instagram hero-level creativity
-Luxury fast fashion ads
-Commercial fashion graphic design
-Acting Art Director
-Behance homepage quality
-8K Ultra HD
-Hyperrealistic
-Fashion × graphic design blend
-Zero AI waste
-Zero General Fashion Campaign
-Zero is limited to editorial aesthetics
-
-Core strategy
-
-This is not a fashion campaign. 
-
-This is a fashion statement disguised as a promotional poster. 
-
-The design should feel like Zara's homepage, 
-Luxury magazine cover
-and high-end billboard campaigns
-Merged into a single visual effect. 
-
-Graphic design is just as important as fashion. 
-
-Typesetting is not decoration. 
-
-Typesetting is architecture. 
-
-Campaign philosophy
-
-“NEW UNIFORM” 
-
-Not office uniforms. 
-
-Not a school uniform. 
-
-Uniforms with modern taste. 
-
-They don't sell clothes. 
-
-What they sell is identity. 
-
-Main visual
-
-The massive oversized ZARA typography dominates the entire composition. 
-
-Words: 
-
-ZARA
-
-It occupies nearly 75% of the canvas. 
-
-Typography is integrated into the design. 
-
-The letters extend beyond the edge of the frame. 
-
-Some letters are cropped. 
-
-Some are hidden behind the models. 
-
-Some serve as compositional structures. 
-
-The layout should feel grand. 
-
-Heroes are the main subjects
-
-Female model. 
-
-Editorial face. 
-
-A strong jawline. 
-
-Minimalist makeup. 
-
-Luxury fashion energy. 
-
-Not smiling. 
-
-No dramatic poses. 
-
-Pure confidence. 
-
-Wardrobe: 
-
-Oversized ivory blazer. 
-
-Wide-leg tailored trousers. 
-
-High-end monochrome design. 
-
-Black leather accessories. 
-
-Luxury minimalism. 
-
-Posture
-
-The model wears through a massive typography. 
-
-One foot slightly forward. 
-
-Direct eye contact. 
-
-Relax your hands. 
-
-Body parts intersect with typography. 
-
-Feeling: 
-
-She owns this space. 
-
-Composition
-
-Layout accounts for 70%. 
-
-Models make up 20%. 
-
-Promotional elements account for 10%. 
-
-Visual Layers: 
-
-ZARA
-↓
-Model
-↓
-Publicity
-↓
-CTA
-
-Everything feels deliberate. 
-
-Color system
-
-Main Colors: 
-Ivory color
-Cream-colored
-Off-white
-Soft beige
-Black
-
-Accent Colors: 
-Soft golden color
-
-No bright colors. 
-
-No color chaos at fashion week. 
-
-Extravagance and restraint were observed. 
-
-Background
-
-Clean and luxurious background. 
-
-Large areas with soft gradients. 
-
-Editorial Photo Studio Environment. 
-
-Subtle texture. 
-
-No buildings. 
-
-No scenery. 
-
-No interference. 
-
-Design itself creates the environment. 
-
-Graphic design system
-
-Floating series of cards. 
-
-Luxury editorial labels. 
-
-Minimalist grid system. 
-
-Fine line. 
-
-Microtypesetting. 
-
-Visual layers inspired by magazines. 
-
-Fashion Week poster energy. 
-
-Promotional elements
-
-NEW COLLECTION
-
-AUTUMN WINTER 2026
-
-LIMITED DROP
-
-ONLINE EXCLUSIVE
-
-MEMBERS EARLY ACCESS
-
-FREE SHIPPING
-
-Naturally integrated into the layout. 
-
-Not banner spam. 
-
-Layout levels
-
-Top left corner
-ZARA
-Small luxury word trademarks
-
-The center is a huge layout
-Z
-A
-R
-A
-It occupies most of the composition
-Luxurious serif typesetting
-On a massive scale
-Partial trimming
-
-Campaign title
-NEW
-UNIFORM
-Bold and elegant layout
-
-Supporting the copy
-Tailored for those who define their own standards. 
-
-Promote the CTA section
-SHOP NOW →
-Explore the latest collection
-
-Bottom feature strip
-NEW ARRIVALS
-TAILORED ESSENTIALS
-
-PREMIUM BASICS
-LIMITED DROP
-
-Bottom right corner
-Starting From ₹1,990
-
-Bottom center
-http://zara.com
-
-Vertical edge text
-ZARA AW26
-
-Lighting
-
-Luxurious studio lighting. 
-
-Large soft light source. 
-
-Editorial contrast. 
-
-Natural skin rendering. 
-
-Premium fabric highlights. 
-
-Subtle shadows. 
-
-Luxury magazine quality. 
-
-Camera
-
-ARRI Alexa Mini LF
-
-85mm lens
-
-Editorial Fashion Photography
-
-Shallow shadows with deep depth
-
-Extremely sharp fabric rendering
-
-Ultra-high-end commercial quality
-
-Post-production
-
-Luxury European fashion campaign grading. 
-
-Rich black. 
-
-Cream-colored highlights. 
-
-Visible textile texture. 
-
-Natural skin details. 
-
-No excessive retouching. 
-
-No artificial HDR. 
-
-No false luxury effects. 
-
-The final feeling
-
-If Zara, Vogue, and a high-end graphic design studio collaborated to create a promotional social media poster. 
-
-Not fashion photography. 
-
-Not a catalog. 
-
-A modern, luxurious, and stylish advertisement
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15284_0.jpg" width="600" alt="ZARA New Uniform Manifesto - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15284_1.jpg" width="600" alt="ZARA New Uniform Manifesto - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 49: Hot Streamer Live Broadcast
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Generate an image of {argument name="character" default="beauty"} at {argument name="scene" default="livestream"}, {argument name="atmosphere" default="livestr…
-
-#### 📝 Prompt
-
-```
-Generate an image of {argument name="character" default="beauty"} at {argument name="scene" default="livestream"}, {argument name="atmosphere" default="livestream room is very active"}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10354_0.jpg" width="600" alt="Hot Streamer Live Broadcast - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 50: Cozy Café Window Korean Beauty Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Hyper-realistic photos featuring specific Asian women as the main subjects, meticulously preserving her facial identity, proportions, eye shapes, skin tone, an…
-
-#### 📝 Prompt
-
-```
-Hyper-realistic photos featuring specific Asian women as the main subjects, meticulously preserving her facial identity, proportions, eye shapes, skin tone, and natural beauty. Inspired by reference compositions, the collage captures the same cozy café window vibe, laid-back narrative mood, and cinematic lifestyle aesthetics.
-Skin: Delicate fair complexion with a healthy natural glow, visible tiny pores, realistic skin texture, subtle blush, smooth yet natural skin tone, no plastic feel, no excessive retouch.
-Makeup: Soft Korean-style makeup, naturally defined eyebrows, delicate eyeliner, long lashes, subtle brown eyeshadow, soft contours, pink shiny lips, bright skin highlighter, a feminine yet slightly sexy image.
-Hairstyle: Long dark brown hair with soft layers, naturally draped around the face, with genuine shine and texture, slightly tousled strands, creating a casual look.
-Accessories: White wired earphones connected to a smartphone that can be held casually in one hand.
-Clothing: Loose olive green pilot jacket with a fitted white top underneath, modern Korean casual fashion, relaxed and stylish.
-Posture and expression: Leaning comfortably against the window, smiling naturally, gazing slightly down to one side, with a casual and cheerful expression, as if responding to a pleasant conversation or memory.
-Location: Interior of a modern aesthetic café, featuring large floor-to-ceiling glass windows, cozy wooden furniture, soft decorative lighting, indoor plants, and a faint urban landscape visible outside, creating a comfortable contemporary atmosphere.
-Light and shadow: soft natural daylight streaming through windows combined with cozy indoor lighting, realistic reflections on glass, soft highlights on skin and hair, and cinematic contrasts.
-Camera: Professional full-frame DSLR (Canon EOS R5), 85mm f/1.4 lens, extremely sharp facial details, shallow depth of field, natural focal point blur, high dynamic range, excellent micro-contrast, professional lifestyle photography quality.
-Style: hyper-realistic editorial portrait photography, luxury lifestyle aesthetics, cinematic realism, authentic casual moments, high-end social media photography, highly detailed textures, 8K ultra-high resolution.
-Color grading matches the café's atmosphere, consistent warm neutral tones, and a coherent visual narrative.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14777_0.jpg" width="600" alt="Cozy Café Window Korean Beauty Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 51: Edgy All-Black Fashion Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Ultra-realistic editorial fashion studio photography in premium magazine campaign quality, full body. Featuring a young Asian woman with an edgy all-black styl…
-
-#### 📝 Prompt
-
-```
-Ultra-realistic editorial fashion studio photography in premium magazine campaign quality, full body. Featuring a young Asian woman with an edgy all-black style and these characteristics: slim fashionable body, {argument name="hair style" default="short platinum blonde hair above the shoulders with black roots"}, straight texture, slightly messy side part, long bangs framing the face, porcelain white skin with a naturally pale tone. Ultra-detailed makeup: neatly separated spiky eyelashes with a doll-eye effect, precise eyeliner, very clear gray irises, dark red matte lips with realistic lip texture details, black nails, and a black sport watch. Facial details must be extremely sharp and in focus, with the eyes as the main focal point. Individual eyelashes should be visible one by one, with realistic skin texture and natural micro skin texture. No blur, no soft focus, no excessive smoothing, and no heavy beauty filter. Wearing an {argument name="outfit" default="oversized black T-shirt with a “DOOM” band print, a deep black pleated long skirt, short black socks, and black Converse high-top shoes"}. Pose: sitting on a black folding studio stool with a round seat in a three-quarter profile pose. Right hand resting on the thigh, left hand hanging downward. Left leg bent and stepping on the stool support, right leg extended with the heel touching the floor. Face slightly lifted upward, looking toward the camera with a calm, empty, slightly melancholic expression, lips fully closed. Background and studio floor are {argument name="background color" default="deep dark maroon"} with dark gradient low-key studio lighting. Editorial studio lighting uses a diffused frontal flash and a soft beauty dish from the front left, creating clear catchlights in the eyes, very clean makeup details, realistic skin texture, and dramatic modern shadows in the style of a premium fashion magazine. Shot on Leica SL3, 50mm APO-Summicron-SL lens, ISO 100, f/5.6, RAW photo, ultra detailed, face-priority autofocus, tack-sharp eyes, razor-sharp makeup details, realistic skin pores, natural skin texture, micro contrast, ultra-clean details, cinematic editorial lighting, high contrast, subtle filmic depth, premium fashion photography, crystal-clear image quality, no blur, no haze, no soft focus, no low quality, no washed-out details, no artificial plastic skin, 8K.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04487_0.jpg" width="600" alt="Edgy All-Black Fashion Editorial - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 52: Midnight Idol Platform Solitude
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Realistic fashion portraits of Japanese idols, slightly close-up portrait angles, head-up to slightly low camera angles, three-quarters body to mid-body compos…
-
-#### 📝 Prompt
-
-```
-Realistic fashion portraits of Japanese idols, slightly close-up portrait angles, head-up to slightly low camera angles, three-quarters body to mid-body composition, vertical 9:16 composition. 
-
-A stunning and beautiful Chinese internet celebrity in her twenties, she has silky black long hair that is fluffy and slightly messy, with long side bangs partially covering one cheek, and she wears elegant fine-threaded gold-rimmed glasses. Her lips are bright red and glossy, with sharp upward eyeliner, exquisite eyelashes, smooth, pale, and hydrated skin, a natural blush on her cheeks, elegant collarbones, and a small cursive tattoo of the signature "BubbleBrain" near her collarbone. 
-
-She stands alone on the quiet platform of a Japanese train station late at night, captured in a calm and natural moment. The camera is slightly closer than full-body portraits, giving her face, upper body, and posture more presence, while still revealing her long legs and silver high heels. She naturally stands beside the station bench, one leg slightly extended, her body relaxed and displaying a subtly graceful curve. One hand gently touches the hair by her ear, while the other naturally hangs near her thigh or loosely grasps the edge of her large shirt. Her expression is calm, distant, and slightly introspective, as if waiting for the last train. 
-
-She wore a loose white button-down shirt that slipped slightly down to one shoulder, paired with high-waisted black shorts. The shirt was slightly wrinkled from the movement. Long legs, graceful silhouettes, silver high heels, and an elegant fashion editor style look. 
-
-Background: Late night on Japanese train station platforms, yellow tactile pavement, station benches, vending machines glowing softly, fluorescent platform lights, station signs, train tracks, and distant train lights. 
-
-Adding a strong long-exposure atmosphere: blurred commuters and moving pedestrian silhouettes weave across the platform, creating a visual contrast between sharply focused subjects and dynamic, blurred crowds. Subjects remain perfectly sharp and still, while passersby appear as soft, striped, ghostly trajectories. Subtle panning blur in the background and passing train light stripes enhance the cinematic urban atmosphere. 
-
-Ricoh GR III HDF aesthetics, with a strong soft-light effect, strong vignetting around fluorescent lights, vending machine lights, and reflective surfaces. Strong bright area halos, dreamy highlights overflow, bright mist, soft shimmer, exaggerated HDF-style halos, low contrast, muted deep color grading, cool-toned purple-gray shadows, subtle film grain, realistic skin textures, and authentic snapshot realism. 
-
-The cinematic atmosphere of Japanese idol photo albums, the loneliness of a late-night city, a static subject surrounded by flowing dynamics, natural yet exquisite, natural anatomical structure, realistic proportions, imperfect but beautiful composition, and realistic cinematography.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13137_0.jpg" width="600" alt="Midnight Idol Platform Solitude - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 53: Chicken Drumstick Construction Site
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a vertical hyper-realistic macro diorama photograph of miniature construction workers sculpting a gigantic {argument name="food item" default="crispy Mc…
-
-#### 📝 Prompt
-
-```
-Create a vertical hyper-realistic macro diorama photograph of miniature construction workers sculpting a gigantic {argument name="food item" default="crispy McDonald's fried chicken drumstick"} as if it were a construction site. The oversized golden-brown fried chicken piece sits diagonally on top of a large red-and-white branded fast-food box, with the visible front text reading “{argument name="brand name" default="McDonald's"}” and “{argument name="slogan" default="i'm lovin' it"},” plus a large yellow arches logo on the red side panel and a blurred matching sign in the warm background. Show exactly 18 tiny construction workers wearing yellow hard hats, reflective vests, work pants, and boots: 2 on a metal scaffold at left, 1 standing on top of the chicken with a tool, 1 on a suspended crane platform above the right side, 1 at the drumstick end with a long tool, 1 hammering near the front center, 1 standing beside the ladder on the right side of the chicken, 1 working against the red side panel, 2 at the base of the left ladder, 1 holding plans near the front center, 1 by the central ladder on the box, 1 red-helmet worker near the right foreground, 4 workers gathered in a small discussion group at the lower left foreground, and 1 partially visible worker at the very bottom edge. Include exactly 4 ladders, 1 left scaffold, 1 hanging crane basket with chains, 1 yellow front-loader vehicle in the lower right, 2 wheelbarrows, scattered fried crumb rubble, tiny shovels, hammers, boards, and worksite debris. Use shallow depth of field, dramatic warm studio lighting, rich orange tones, crisp crunchy texture on the chicken breading, realistic scale contrast, playful surreal advertising aesthetic, high-detail product photography, no extra text, no watermark.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02734_0.jpg" width="600" alt="Chicken Drumstick Construction Site - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 54: Hyper-Realistic 3D Instagram Sports Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a hyper-realistic, cinematic Instagram post layout where the Instagram UI exists as a physical, tangible 3D object, photographed like a premium commerci…
-
-#### 📝 Prompt
-
-```
-Create a hyper-realistic, cinematic Instagram post layout where the Instagram UI exists as a physical, tangible 3D object, photographed like a premium commercial product shot. The result should feel indistinguishable from a real studio photograph.
-Instagram Frame (UI Accuracy – Critical)
-Authentic Instagram interface rendered as a solid white physical 3D card
-Smooth matte plastic surface with subtle micro-texture
-Slight thickness visible on edges, realistic bevels
-Perfectly rounded corners (exact Instagram radius)
-Soft studio reflections and realistic edge highlights
-Top Bar (Pixel-accurate UI):
-Circular profile avatar on the left
-Username text: “June” in Instagram’s default bold UI font
-Light blue FOLLOW button with correct proportions
-Three-dot menu icon aligned to the far right
-Exact spacing, typography, and icon sizing matching the real Instagram app
-Aspect ratio 1:1, centered, balanced, premium composition.
-Main Subject (Pose – Match Reference Image Exactly)
-A photorealistic athletic woman partially emerging out of the Instagram frame into real 3D space
-Seated pose identical to the reference image:
-Both legs bent and angled to the side
-One knee slightly raised and closer to the chest
-Arms gently wrapped around the raised knee
-Hands relaxed, fingers naturally resting
-Torso leaning slightly back against the frame edge
-Expression: calm, thoughtful, self-assured
-Gaze: looking slightly to the side and upward, not engaging the camera
-Natural body proportions, relaxed posture, editorial realism
-No exaggerated curves, no artificial posing
-Clothing (Nike Only – Realistic Fit)
-Muted ivory / off-white Nike fitted short-sleeve blouse
-Soft neutral tone that contrasts beautifully with the background
-Visible white Nike swoosh
-Natural fabric stretch and tension
-Deep blue Nike athletic pants, length up to the knee
-Tailored, performance-fit silhouette
-Realistic fabric weight with subtle folds at the knee bend
-Clean stitching and breathable sports material
-Clean white Nike sneakers
-Slight wear realism
-Correct sole texture and stitching
-Premium sportswear look, real commercial styling
-No distortion, no fantasy fashion
-Background (Inside the Instagram Post Only)
-Dark indoor gym or studio environment
-Cool blue and muted purple cinematic lighting
-Soft haze in the background
-Subtle volumetric light beams barely visible
-Shallow depth of field, background softly blurred
-Subject and Instagram frame remain sharp and dominant
-Lighting & Photorealism
-Studio-grade cinematic lighting
-Soft key light illuminating the subject naturally
-Gentle rim light outlining the body and Instagram frame
-Realistic skin texture with visible pores and natural highlights
-Accurate contact shadows where the subject touches the frame
-Physically correct light falloff and reflections
-Footer UI (Engagement Section)
-Instagram action icons: like, comment, share, save (accurate icons)
-Text visible: “785 likes”
-Caption begins with June
-Caption text:
-Freedom isn’t found in comfort.
-It’s built in the quiet moments where discipline meets belief.
-Hashtags partially visible and naturally cropped
-Overall Style & Quality
-Ultra-high resolution
-Advertising-grade realism
-Clean, modern, editorial Instagram aesthetic
-Hyper-realistic blend of 3D object + real photography
-No extra elements
-No text errors
-No distortion
-Looks like a real product photoshoot, not AI art
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13005_0.jpeg" width="600" alt="Hyper-Realistic 3D Instagram Sports Editorial - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 55: Chic Skirt & Stockings Lookbook
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Please generate a high-quality Chinese fashion style proposal image with the theme of short skirts paired with stockings. The overall aspect ratio should be 4:…
-
-#### 📝 Prompt
-
-```
-Please generate a high-quality Chinese fashion style proposal image with the theme of short skirts paired with stockings. The overall aspect ratio should be 4:3, with a high-quality, clear, realistic, and photorealistic feel, but it should not be pornographic, vulgar advertising, or a cheap e-commerce product page. The main visual should feature an adult Chinese female model with a natural and attractive appearance, a fashionable, mature, and appealing demeanor, and a distinctive look and hairstyle—avoiding a clone-like appearance. The model&#39;s entire body should be visible, including her feet, and her posture should have a three-dimensional feel, with slight ground shadows to create a realistic sense of space. The camera angle can be slightly low or slightly upward to make the legs appear longer and more visually striking. The model should wear a short skirt and stockings outfit, with an overall style that is fashionable, sexy, restrained, and exudes feminine charm. The style of the short skirt can vary depending on the theme, and the stockings should also have distinct designs, such as black, gray, nude, polka dot, fishnet, or sheer stockings, but the overall look should not be overly revealing or resemble an advertisement for sex toys. The top should not overshadow the main outfit; the overall focus should be on the leg lines, the skirt silhouette, the texture of the stockings, and the overall completion of the styling. The layout should be visually appealing, not sparse. In addition to the main visual, include three smaller images below for styling inspiration, each showing only half a face to the thigh, to demonstrate different styling variations and atmospheres. The entire image should resemble a high-end fashion lookbook, a women&#39;s fashion recommendation board, or a style proposal page, possessing a magazine-like feel and social media sharing potential. Variations in the subject&#39;s posture, hand gestures, expressions, and hairstyle are required to avoid four images being too similar. Natural and fashionable actions such as turning around, turning to the side, taking a step, adjusting a skirt, slightly lifting a leg, or adjusting stockings are acceptable, but avoid exaggerated, provocative, or intimate scenes such as beds, bathrooms, or hotels. Keep the background clean and sophisticated, primarily using light or neutral sophisticated backgrounds with soft but layered lighting to highlight the texture of the stockings and the legs. Handwritten Chinese annotations, arrows, circles, subheadings, color swatches, material descriptions, and scene tags can be added to enhance the proposal and recommendation feel. The overall aesthetic should be sophisticated, refined, sexy yet restrained, authentic, and eye-catching.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12113_0.jpg" width="600" alt="Chic Skirt & Stockings Lookbook - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12113_1.jpg" width="600" alt="Chic Skirt & Stockings Lookbook - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 56: Peach Pineapple Summer Glow
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-BLOOM POP™ Peach Pineapple flavor "Tropical Protagonist Aura" Top-level giant prompt V2 Original BLOOM visual gene + dopamine health + Gen Z summer fantasy sys…
-
-#### 📝 Prompt
-
-```
-BLOOM POP™ Peach Pineapple flavor
-
-"Tropical Protagonist Aura"
-
-Top-level giant prompt V2
-
-Original BLOOM visual gene + dopamine health + Gen Z summer fantasy system
-
-This is a premium drink promotion plan designed for Bloom Pop™ Peach Pineapple Probiotic Soda, blending delicate commercial realism, fruity dopamine aesthetics, feminine health brand traits, tropical escapism, playful pop culture energy, beauty blockbuster texture, and a social media-first narrative style.
-
-Create a completely original drink promotion inspired by Bloom's vibrant female visual image—don't repeat existing Instagram posts, compositions, campaigns, props, layouts, influencer styles, or product shots.
-
-This proposal should have a realistic global beverage launch feel, with photography style references:
-Poppi x Rhode x Jacquemus x Barbie Summer Universe x Luxury Beauty Advertisement.
-
-The image should reflect:
-Playful feminine traits, dopamine aesthetics, summer escapism, trendy health culture, bright commercial realism, bright tropical happiness, social media composition, retro vacation energy, fruity sensory storytelling, modern Gen Z optimism, beauty brand texture, internet pop aesthetics, confident fun, fresh visual pleasure, vacation fantasy energy, and vibrant youthful branding.
-
-Visual feedback of the peach pineapple flavor includes:
-"Canned sunshine, tropical fruits, poolside confidence, shining happiness, and feminine summer energy."
-
----
-
-Emotional genes
-
-The emotional tone of this promotional plan should be:
-Juicy, playful, sunny, refreshing, feminine, energetic, happy, colorful, vacation-inspiring, sparkling, trendy, charming, easy to share, sweet, vibrant, youthful, nostalgic, dopamine-driven, cyber-cool, immersed in summer.
-
-The worldview you build should feel like:
-The coolest summer soda launch, trendy healthy girls' fantasy, tropical beauty ad campaigns, the internet era's women's brand universe, Pinterest dream vacations, hot girl summer soda commercials, colorful dopamine escape spaces.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12016_0.jpg" width="600" alt="Peach Pineapple Summer Glow - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 57: Subway Smartphone Moment
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A stunning {argument name="subject" default="woman"} glancing down at her {argument name="device" default="smartphone"} while riding the {argument name="locati…
-
-#### 📝 Prompt
-
-```
-A stunning {argument name="subject" default="woman"} glancing down at her {argument name="device" default="smartphone"} while riding the {argument name="location" default="subway"}, shot in a candid street photography style.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08540_0.jpg" width="600" alt="Subway Smartphone Moment - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 58: Gothic Lolita AI Cosplay Street
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a vertical 2:3 photorealistic 2.5D cosplay fashion editorial of exactly two AI ladies in elaborate gothic lolita outfits on a city sidewalk in daylight.…
-
-#### 📝 Prompt
-
-```
-Create a vertical 2:3 photorealistic 2.5D cosplay fashion editorial of exactly two AI ladies in elaborate gothic lolita outfits on a city sidewalk in daylight. The foreground woman sits low on the pavement with her legs stretched toward the camera in an extreme low-angle wide-lens perspective; she has long silver hair with pink-red streaks, red rose hair accessories, a black-and-crimson lace dress with floral embroidery, puff sleeves, a short apron-like skirt panel, black lace trim, and tall glossy burgundy lace-up platform boots dominating the lower foreground. Her pose is relaxed and dramatic, one hand extended toward the viewer and one hand near her face. The background woman stands higher on stone steps beside a black metal railing, leaning one hand on the rail; she has black hair styled in twin braids or twisted updo with black ribbons, a black gothic dress with asymmetrical lace hem, silver rose embroidery, corset details, chains, beads, puff sleeves, and black lace-up platform boots. Count exactly 2 characters: 1 seated crimson-and-black gothic lolita, 1 standing black-and-silver gothic lolita. Set the scene on a narrow urban street with modern building facades receding in perspective, a leafy green tree on the left, stone wall and railing on the right, bright natural sunlight, shallow depth of field, realistic fabric texture, glossy boots, cinematic contrast, and detailed embroidery. Obscure both faces with soft square blur blocks for an anonymous generated-photo look. Add a small white event logo in the bottom-right corner with a bracketed chibi silhouette icon above stacked text reading "AI COSPLAY EXPO", then smaller text "- INTERNATIONAL EVENT -" and "produced by AI lady collection". Use {argument name="style theme" default="gothic lolita cosplay fashion"}, {argument name="main outfit colors" default="black, crimson, silver, and burgundy"}, {argument name="location" default="sunlit urban sidewalk with stone steps and metal railing"}, {argument name="event title" default="AI COSPLAY EXPO"}, and {argument name="face treatment" default="soft square blur blocks over both faces"}.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07618_0.jpg" width="600" alt="Gothic Lolita AI Cosplay Street - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 59: Luxury Winter Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Hyperrealistic winter editorial portrait of the person from the uploaded photo, medium shot, standing beside a {argument name="car color" default="luxurious re…
-
-#### 📝 Prompt
-
-```
-Hyperrealistic winter editorial portrait of the person from the uploaded photo, medium shot, standing beside a {argument name="car color" default="luxurious red convertible"} on a snow-covered mountain road. One hand inside the shearling coat pocket, the other gently adjusting the coat lapel. Wearing an {argument name="outfit" default="off-white premium shearling jacket"} over a light gray ribbed turtleneck sweater. Expression confident, calm, composed, slightly stern. Dramatic golden sunlight shining from behind, soft rim lighting around the hair, crisp cold winter shadows, cinematic depth of field, snow-covered pine forest and majestic mountains in the background. Matte wool textures, realistic shearling fabric, glossy luxury car paint, sparkling snow crystals, natural skin texture, ultra-detailed eyes, premium fashion editorial styling, masculine luxury aesthetic, shallow depth of field, 85mm lens, slightly low camera angle, high dynamic range, photorealistic, cinematic color grading, ultra realistic, 8K quality. Keep the exact facial features, hairstyle, skin tone, and identity from the uploaded photo. Do not change the face.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21904_0.jpg" width="600" alt="Luxury Winter Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 60: Snowy Night Mystery Beam
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A moody graphic-novel style book cover illustration set in a snowy conifer forest at night, painted in deep blue tones with cinematic contrast. In the foregrou…
-
-#### 📝 Prompt
-
-```
-A moody graphic-novel style book cover illustration set in a snowy conifer forest at night, painted in deep blue tones with cinematic contrast. In the foreground, show exactly 4 human figures standing behind a low striped road barrier: 3 adults and 1 small child. The central adult is a tall broad-shouldered man in a dark winter jacket, holding the sleeping or limp child in his arms; the child wears a puffy {argument name="child coat color" default="purple"} snowsuit. To his left stands a teenage or young adult male with a backpack beside a dark parked SUV partially visible at the edge of the frame. To his right stands an adult woman in a dark hooded winter jacket, holding a flashlight that casts a warm cone of light onto the snow and the barrier. All faces should be mostly in shadow, unreadable, emphasizing mystery and danger. Place exactly 2 man-made warning elements in the foreground: 1 red-and-white striped gate blocking the path and 1 weathered warning sign on a wooden post showing a deer silhouette inside a red prohibition circle and slash. In the midground and background, fill the scene with tall black pine trees, a narrow snow-covered road or clearing, and a dead animal shape lying partly buried in the snow on the right side. In the far distance, show a rugged snow-streaked mountain under a star-filled sky. From behind the mountain, a single narrow vertical blue beam of light rises straight into the sky, acting as the focal point. Composition should be vertical, dramatic, and poster-like, suitable for a thriller or survival graphic novel cover for {argument name="book title" default="La Réserve"}. Style: detailed Franco-Belgian / realistic comic-book painting, inked outlines, textured brushwork, cold nocturnal atmosphere, subtle rim lighting, high contrast, ominous and suspenseful.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10677_0.jpg" width="600" alt="Snowy Night Mystery Beam - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 61: Discord Mod Simulator Cover
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Switch game cover: {argument name="game theme" default="Discord Mod Simulator"}
-
-#### 📝 Prompt
-
-```
-Switch game cover: {argument name="game theme" default="Discord Mod Simulator"}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16196_0.jpg" width="600" alt="Discord Mod Simulator Cover - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 62: Kids AI Art Course Cover
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Goal: Create a cinematic 16:9 PowerPoint cover slide for a children’s AI art course, blending premium Chinese aesthetics, futuristic AI education, and warm ima…
-
-#### 📝 Prompt
-
-```
-Goal: Create a cinematic 16:9 PowerPoint cover slide for a children’s AI art course, blending premium Chinese aesthetics, futuristic AI education, and warm imaginative storytelling.
-
-Canvas: Wide presentation slide, 1366×768 or 16:9 ratio. Dark black-to-burgundy background with a strong vertical glowing portal slightly right of center. Use a luxury black, deep red, ivory, and gold palette with soft haze, dust particles, and luminous light trails.
-
-Layout: Left side is the typography area; right side is the fantasy visual scene. Place a large two-line Chinese title on the left: first line “小孩AI绘图”, second line “培训版”, with elegant Song/Ming-style serif Chinese typography, ivory on top and warm gold accents below. Under the title, add one subtitle line: “让孩子用AI打开想象力 · 创造力 · 未来视觉表达”. Below that, add a small caption: “儿童AI创意绘画课程介绍”. In the top-left corner, include a tiny vertical four-line motto reading “想象力 / 表达力 / 未来力 / 创造力” with a small red seal-like square beneath it.
-
-Subject details: On the right, show one small child silhouette standing at the base of the glowing portal, facing away from the viewer and reaching one hand toward floating visual panels. The child should look about 5–7 years old, short, with a rounded head silhouette and simple clothing, rendered as a warm backlit figure. Around the child, include exactly 5 floating art panels: 2 small dark red abstract landscape panels near the upper right, 2 pale Chinese ink landscape panels stacked near the middle-right, and 1 small translucent rectangular panel near the portal. Add exactly 4 main geometric accents: 1 large translucent red moon/circle behind the portal, 1 thin outlined circle in the upper right, 1 small outlined square near it, and 1 beige sphere near the lower left. Add a red ribbon-like orbit around the child and golden wave particles sweeping from lower left toward the portal.
-
-Visual style: High-end course-presentation cover, cinematic lighting, subtle Chinese ink landscape silhouettes along the bottom left, faint bamboo silhouette on the far right, layered transparent rectangles, thin technical lines, warm golden vertical beam, glossy floor reflection, dramatic contrast, refined editorial composition, premium education brand aesthetic.
-
-Customizable text: Main title should read {argument name="main title" default="小孩AI绘图\n培训版"}. Subtitle should read {argument name="subtitle" default="让孩子用AI打开想象力 · 创造力 · 未来视觉表达"}. Small course label should read {argument name="course label" default="儿童AI创意绘画课程介绍"}. Motto should read {argument name="vertical motto" default="想象力\n表达力\n未来力\n创造力"}. Overall theme should remain {argument name="course theme" default="children’s AI creative drawing course"}.
-
-Constraints: Keep the composition uncluttered and presentation-ready. Do not add extra people, extra title text, logos, watermarks, or UI elements. Preserve the luxurious black-red-gold palette and the exact counts of 1 child, 5 floating art panels, and 4 main geometric accents.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20540_0.jpg" width="600" alt="Kids AI Art Course Cover - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20540_1.jpg" width="600" alt="Kids AI Art Course Cover - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20540_2.jpg" width="600" alt="Kids AI Art Course Cover - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20540_3.jpg" width="600" alt="Kids AI Art Course Cover - Image 4">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 63: Windows 11 UI Mockup
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{"type":"Windows 11 promotional UI mockup","style":"clean modern product marketing render, soft glassmorphism cards, subtle shadows, rounded corners, light blu…
-
-#### 📝 Prompt
-
-```
-{"type":"Windows 11 promotional UI mockup","style":"clean modern product marketing render, soft glassmorphism cards, subtle shadows, rounded corners, light blue and white palette, crisp vector-like interface, polished presentation slide aesthetic","scene":{"background":"pale icy blue gradient background with a large abstract Windows 11 blue ribbon swirl wallpaper centered behind the interface","headline":{"text":"{argument name=\"headline text\" default=\"Windows 11\"}","subtext":"{argument name=\"tagline\" default=\"Designed for focus.\"}","position":"top center"}},"layout":{"type":"desktop UI showcase","sections":[{"title":"left sidebar","position":"far left vertical dock","count":8,"labels":["Windows logo","Home","Apps","Files","Cloud","Settings","Ava profile","Power"]},{"title":"productivity widgets","position":"left column cards","count":3,"labels":["Good morning, Ava","Weather","Calendar"]},{"title":"center start menu","position":"lower center","count":3,"labels":["Search bar","Pinned","Recommended"]},{"title":"right column cards","position":"upper and middle and lower right","count":3,"labels":["Ava's Phone","Notifications","Quick settings"]},{"title":"taskbar","position":"bottom full width","count":10,"labels":["Weather summary","Start","Search","Task View","Microsoft Edge","File Explorer","Microsoft Store","Outlook","OneDrive","Teams"]}],"centerpiece":"large Windows 11 Start menu floating in front of the blue abstract wallpaper"},"widgets":{"greeting_card":{"title":"Good morning, Ava","subtitle":"Let's make today productive.","focus_block":{"label":"Focus","time":"Until 12:00 PM","timer":"45 min","button":"Focus timer"}},"weather_card":{"location":"{argument name=\"weather location\" default=\"Seattle, WA\"}","temperature":"18°","condition":"Partly cloudy","range":"H: 21°  L: 13°","forecast_count":5,"forecast_labels":["Now 18°","11AM 19°","12PM 20°","1PM 21°","2PM 21°"]},"calendar_card":{"date":"May 20, Monday","events_count":3,"event_labels":["11:00 AM Design sync, Teams Meeting","1:30 PM Lunch with Mia, Downtown","3:00 PM Project update, Conf Room 32/1B"],"button":"Open Calendar"},"phone_card":{"device_name":"{argument name=\"device name\" default=\"Ava's Phone\"}","status":"Connected","actions_count":3,"action_labels":["Messages","Calls","Photos"],"battery":"100%"},"notifications_card":{"title":"Notifications","action":"Clear all","items_count":3,"item_labels":["Teams — Design sync at 11:00 AM — 2m ago","Outlook — New email from Mia — 10m ago","Calendar — Lunch with Mia at 1:30 PM — 30m ago"]},"quick_settings_card":{"title":"Quick settings","toggles_count":6,"toggle_labels":["Wi‑Fi","Bluetooth","Airplane mode","Dark mode","Focus assist","Accessibility"],"active_toggles":["Wi‑Fi","Bluetooth"],"sliders_count":2,"slider_labels":["Brightness","Volume"],"wifi_network":"Contoso_5G"},"start_menu":{"search_placeholder":"Search for apps, files, settings...","pinned_count":18,"pinned_labels":["Edge","Word","Excel","PowerPoint","Outlook","Teams","Photos","Store","Notepad","Spotify","Figma","Clock","Calculator","Settings","Files","Movies & TV","Snipping Tool","More"],"recommended_count":4,"recommended_labels":["Project Overview","Q2 Financial Report","Brand Guidelines","My Notes"]}},"composition":"symmetrical product showcase with the Start menu centered, three stacked cards on the left, three cards on the right, generous spacing, all elements floating slightly above the background, bottom taskbar spanning edge to edge","rendering":"high-resolution UI concept art for a desktop operating system launch page, immaculate typography, Microsoft-inspired iconography without extra branding clutter"}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10451_0.jpg" width="600" alt="Windows 11 UI Mockup - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 64: Young Girl's Spicy Late-Night Feast
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Generate a poster image featuring a 19-year-old Chinese girl with long black hair, happily drinking beer and eating crayfish at a late-night food stall. The po…
-
-#### 📝 Prompt
-
-```
-Generate a poster image featuring a 19-year-old Chinese girl with long black hair, happily drinking beer and eating crayfish at a late-night food stall. The poster uses mustard yellow artistic lettering: 'Stay young, it's the most exciting thing!'
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15305_0.jpg" width="600" alt="Young Girl's Spicy Late-Night Feast - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 65: Cristiano Ronaldo Minimalist Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A clean minimalist sports poster featuring {argument name="player" default="a legendary football player"} viewed entirely from the back, standing confidently i…
-
-#### 📝 Prompt
-
-```
-A clean minimalist sports poster featuring {argument name="player" default="a legendary football player"} viewed entirely from the back, standing confidently in the center of the frame. The player wears the {argument name="kit" default="Portugal national team home kit"} with a deep red jersey, green shorts, red socks, and modern football boots. The jersey displays "RONALDO" in gold lettering with the number 7 beneath it.
-The composition is perfectly symmetrical with the player occupying the lower-middle portion of the canvas. A smooth {argument name="background color" default="sky-blue gradient"} background fills the entire scene with large negative space above the subject, creating a premium wallpaper aesthetic.
-Behind the player, enormous bold white typography spelling "RONALDO" stretches horizontally across the lower background, partially hidden by the player's body.
-A dramatic long shadow extends diagonally across the ground, adding depth and cinematic atmosphere. The lighting is soft yet directional, creating subtle highlights on the jersey fabric and realistic folds.
-Ultra-clean composition, modern sports branding style, high contrast, crisp edges, hyper-detailed fabric texture, realistic proportions, studio-quality lighting, premium poster design, centered composition, vertical smartphone wallpaper, 8K quality.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04027_0.jpg" width="600" alt="Cristiano Ronaldo Minimalist Poster - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04027_1.jpg" width="600" alt="Cristiano Ronaldo Minimalist Poster - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 66: Changsha Poem Educational Diorama Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Goal: Create a vertical Chinese educational poster that combines a miniature LEGO-like electrical components diorama with a study-note infographic about the po…
-
-#### 📝 Prompt
-
-```
-Goal: Create a vertical Chinese educational poster that combines a miniature LEGO-like electrical components diorama with a study-note infographic about the poem {argument name="poem title" default="沁园春 长沙"}.
-
-Canvas: Portrait 3:4 poster, warm beige background, premium editorial layout. Left side is a clean information panel; right and lower area is a realistic macro miniature scene made from electrical hardware parts arranged like a tiny industrial city.
-
-Layout: Large dark navy brush-calligraphy title at the upper left reading “沁园春” on the first line and “长沙” on the second line, with a small vertical red seal beside it reading “毛泽东”. Under the title, add the subtitle “相关5个这篇文章的知识点”. Beneath the subtitle, create exactly 5 stacked knowledge cards, each with a navy numbered square, a small line icon, a bold heading, and two short lines of explanatory Chinese text. The 5 cards must be labeled exactly: 01 写作背景, 02 诗歌体裁, 03 主题思想, 04 艺术特色, 05 时代意义. Use fine divider lines and a subtle circuit-trace decoration near the subtitle.
-
-Miniature electrical diorama: On the right side, build a highly detailed tabletop scene using electrical spare parts as if they were LEGO architecture: white wall sockets, circuit breakers with red toggle switches, relays, terminal blocks, capacitors, metal rails, copper pipes, black cables, transparent fuse blocks, gray platforms, and tiny bolts. Include a prominent wooden sign at the upper right mounted above circuit components reading {argument name="main sign text" default="为人民服务"}. Add a large wall socket on the right edge and another socket block toward the upper middle-left. Add exactly 10 tiny worker figurines in blue uniforms and yellow hard hats positioned around the machinery, standing on platforms, beside relay towers, and near copper pipe routes. Add small model trees around the edges to make the electrical parts feel like a miniature city.
-
-Additional visible signs: Add exactly 2 smaller wooden placards in the lower half of the diorama. One near the bottom-left foreground reads “橘子洲头” with a small arrow. One near the lower-right foreground contains several short vertical Chinese lines suggesting poem-related notes; keep it legible but secondary.
-
-Visual style: Photorealistic macro photography mixed with infographic design, shallow depth of field, warm studio lighting, crisp focus on the central electrical components, softly blurred background, realistic plastic, ceramic, copper, and metal textures. Color palette: cream beige, dark navy ink, copper orange, electrical white, gray metal, red switch accents, and small blue-yellow worker figures.
-
-Constraints: Use Chinese text exactly where specified, keep the left infographic clean and readable, maintain exactly 5 knowledge cards and exactly 10 worker figurines, avoid random extra titles or watermarks, and make the electrical spare parts look playfully modular like LEGO while still recognizable as real electrical hardware.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01721_0.jpg" width="600" alt="Changsha Poem Educational Diorama Poster - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 67: Supermodel Multi-Angle Character Profile
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a wide, horizontal, multi-angle character profile profile. The character is a {argument name="character description" default="Chinese supermodel with ni…
-
-#### 📝 Prompt
-
-```
-Create a wide, horizontal, multi-angle character profile profile. The character is a {argument name="character description" default="Chinese supermodel with nine-heads-tall proportions"}, live-action photography, wearing {argument name="clothing" default="swimsuit suit"} (no water droplets on the body), barefoot. The page should include multiple angles of the same character: frontal close-up, confident standing posture (one hand on hip), back-to-back standing, squatting with hands holding head (low-angle rear view), and kneeling with hands on both knees looking back (low-angle rear view). Every image must be displayed in its entirety. The layout should be customized according to the character's personality—visually rich yet clear and easy to read. You can include handwritten notes, small arrows, and a prominent title area designed in the style of character name titles. All text on the page should be {argument name="語言" default="中文"}.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11509_0.jpg" width="600" alt="Supermodel Multi-Angle Character Profile - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 68: Moscow Swiss Editorial Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Design a contemporary Swiss-style editorial poster for Moscow, Russia. A large bold sans-serif capital letter "M" is used as the main typographic structure. Th…
-
-#### 📝 Prompt
-
-```
-Design a contemporary Swiss-style editorial poster for Moscow, Russia. A large bold sans-serif capital letter "M" is used as the main typographic structure. The "M" must be very clear, clean, geometric, thick, and dominant, with no outlines, no borders, no projection outlines, and no decorative treatments. The silhouette of the letter "M" must remain legible at a glance. Don't let the illustration block or distort the shape of the letters. The poster should follow a precisely left-aligned Swiss grid system and leave plenty of negative space.
-
-Within the "M" section, create a flat illustration of a simple, logical, and restrained feature of Moscow's cityscape. Only a few basic visual elements are used: simplified modern skyscrapers inspired by Moscow City's business district, the calm curves of the Moscow River, subtle silhouettes of Kremlin walls and towers, the onion dome of St. Basil's Cathedral with simplified geometric shapes, a soft green park landscape inspired by Gorky Park or Zaryatiye Park, and two pedestrians on a clean riverside promenade. Keep the composition minimalist, open, and easy to understand. Do not add too many landmarks, people, signs, vehicles, monuments, statues, fountains, trains, buses, or small decorations.
-
-The illustration should hint at Moscow's identity as the capital, where imperial history, the grand scale of the Soviet Union, modern glass skyscrapers, riverside public spaces, and the vast urban rhythm coexist in a clean, modern way. Use flat vector shapes, clean silhouettes, minimalist lines, simplified architecture, and believable proportional relationships. Keep the scene slightly lively but not busy. The illustration should support the letter "M" rather than compete with it.
-
-Only extremely subtle overlaps are allowed beyond the "M" frame, and simple organic or atmospheric elements are used: a few leaves from riverside trees or soft atmospheric mist above the river can extend slightly beyond the letter edges. Keep 97% of the illustration inside the "M". Do not let people, buildings, domes, towers, vehicles, faces, paths, signs, or complex objects overlap outside the letters. The "M" must remain clear and legible and visually dominant.
-
-Place the title "Moscow" below the letters, using bold sans-serif font, with caps uppercase rather than all caps, aligned to the left of the same grid. Below the heading, add this brief body paragraph, using fine, regular sans-serif text, also left-aligned, with clean spacing and refined editing layers:
-
-“Moscow moves through grand historic layers, monumental architecture, river bends, and a dense modern skyline. Between imperial heritage, Soviet scale, and contemporary urban energy, the city holds a character that is powerful, structured, and constantly evolving.”
-
-No icons, no badges, no decorative symbols. The overall design should embody Swiss minimalism: strong grids, precise alignment, asymmetrical balance, clean typography, abundant negative spaces, restrained composition, and the aesthetics of modern cultural city posters.
-
-Palette: warm ivory background, deep navy or charcoal typography, cement gray, glass blue, pine green, Kremlin red accents, river blue-gray, light beige, and soft black accents. Matte paper effects, subtle paper textures, sharp edges, flat contemporary illustrations, the atmosphere of a modern Moscow metropolis, calm yet powerful, refined, balanced, and print-ready.
-
-Negative cues: realistic photos, 3D rendering, gloss, maximalism, crowded cities, complex illustrations, too much detail, too many landmarks.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12298_0.jpg" width="600" alt="Moscow Swiss Editorial Poster - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12298_1.jpg" width="600" alt="Moscow Swiss Editorial Poster - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 69: Original Character T-Shirt Illustration
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Draw an illustration of the character wearing an original T-shirt that matches the character's vibe while maintaining the attached character's identity. The co…
-
-#### 📝 Prompt
-
-```
-Draw an illustration of the character wearing an original T-shirt that matches the character's vibe while maintaining the attached character's identity.
-
-The composition focuses on bust enhancement, avoiding just the face, and covering from the chest to just above the waist.
-To make the front design of the T-shirt easier to see, the upper body should be angled from front to slightly diagonal.
-Gaze, facial expressions, neck angle, and poses can be arranged naturally within the character's reach, but the T-shirt print should not be hidden.
-Do not hide the design around the chest with hair, hands, accessories, outerwear, or accessories.
-Avoid full-body compositions or compositions that lean too much toward close-ups of the face.
-
-T-shirts include loose, confusing Japanese greetings and short words that embody the character.
-She doesn't make it sound like a self-introduction.
-Don't lean too much into a gag; make it a sense that the character would genuinely choose.
-The lettering should be handwritten, loose round, or a slightly rough print style, creating a natural T-shirt design.
-Keep the text easy to read, avoid overly distorted characters, and avoid typos or expressions that are too ambiguous.
-
-For the print, you can also include small, loose illustrations that match the text.
-Motifs are naturally chosen from "animals" or "mystery creatures" that match the character's appearance, personality, and atmosphere.
-Small to medium sizes, naturally placed along with the letters near the center of the chest.
-The design is not too small to read.
-
-Make the T-shirt print the star of the show.
-Text and illustrations are naturally slightly distorted to match the wrinkles of the fabric and the orientation of the body.
-The print doesn't float like stickers, but blends naturally with the fabric.
-For T-shirts, I chose a soft, somewhat familiar fabric feel.
-
-Facial expressions are based on smiling, shy, and smiling expressions, naturally selecting ones that suit the character.
-Maintain facial features, hairstyle, hair color, eyes, age, physique, and overall vibe.
-The overall design is high-quality, with a highly polished commercial anime illustration style.
-The lines are sharp, the paint is smooth, and the loose design of the T-shirt leaves a sense of laid-back while finishing the whole look beautifully.
-
-The background should be a simple and abstract white background.
-No logos, unnecessary decorations, noise, graininess, or roughness are included.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05287_0.jpg" width="600" alt="Original Character T-Shirt Illustration - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05287_1.jpg" width="600" alt="Original Character T-Shirt Illustration - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05287_2.jpg" width="600" alt="Original Character T-Shirt Illustration - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05287_3.jpg" width="600" alt="Original Character T-Shirt Illustration - Image 4">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 70: Surreal Dual Perspective Face Illusion
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "image_prompt": { "subject": { "description": "A surreal visual illusion portrait that fuses two perspectives into a single face." , "demographics": "Male, A…
-
-#### 📝 Prompt
-
-```
-{
-  "image_prompt": {
-  "subject": {
-  "description": "A surreal visual illusion portrait that fuses two perspectives into a single face." ,
-  "demographics": "Male, African American." ,
-  "hair": "Bald (shaved), with short, textured stubble left on the chin and jawline." ,
-  "expression": "Calm and restrained expression, intense gaze straight ahead, mouth kept neutral."
-  },
-  "optical_illusion_structure": {
-  "concept": "Both front and side views exist (presented as cubist concepts, but rendered with realistic photographic quality)." ,
-  "Morphology": "The right side of the face (nose, lips, forehead, chin) forms a clear and sharp profile profile against the background; The left side of the face (ears, cheeks) suggests a frontal view. The top of the head is elongated and gradually narrowed, resembling a cone to accommodate perspective changes. ",
-  "eye_placement": "Only one realistic eye is positioned on the frontal plane, looking directly at the viewer, while the nose and mouth below are rotated 90 degrees, showing a side-facing orientation."
-  },
-  "details_and_texture": {
-  "skin": "Ultra-realistic skin texture, visible pores, skin texture, and fine wrinkles around the eyes and mouth." ,
-  "facial_hair": "Highly detailed stubble texture on the chin and sideburns." ,
-  "accessories": "Wear a small silver hoop earring on the left ear."
-  },
-  "clothing": {
-  "outfit": "A minimalist dark crewneck top or sweater, only slightly visible at the lower left corner, forming a dark base for the neck." ,
-  "color": "Black or Dark Gray."
-  },
-  "style_and_medium": {
-  "art_style": "Surrealist photography, realistic digital image processing, psychological visual illusions." ,
-  "color_palette": "Black and white monochrome (grayscale)." ,
-  "aesthetic": "High contrast, sharp and avant-garde, the style reminiscent of Picasso's dual-angle composition, but presented with a realistic photographic texture."
-  },
-  "lighting_and_environment": {
-  "lighting_setup": "Studio-grade high-contrast lighting (chiaroscuro method). Bright highlights on the forehead, cheekbones, and bridge of the nose; The sides of the face and neck are immersed in deep, heavy shadows to enhance structural shaping. ",
-  "background": "Pure white or very light gray solid color background, creating a strong negative space that highlights the profile silhouette."
-  },
-  "composition": {
-  "framing": "Close-up portrait composition, overall centered, but due to the illusory structure, it appears asymmetrical. Portraits of heads and shoulders. ",
-  "text_overlay_reference": "The top leaves blank space. (Note: The top edge of the original image contains the text "Cette Photo est incroyable"). "
-  },
-  "technical_specs": {
-  "camera": "Portrait lens (e.g., 85mm) with a focus precisely aimed at the eyes." ,
-  "quality": "8K resolution, ultra-high detail, and clear, sharp, masterpiece-level visuals."
-  }
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02905_0.jpg" width="600" alt="Surreal Dual Perspective Face Illusion - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 71: Lovers Overhead Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a luxury black-and-white editorial portrait featuring {argument name="subjects" default="me and my girlfriend"} as the subjects. Photographed from direc…
-
-#### 📝 Prompt
-
-```
-Create a luxury black-and-white editorial portrait featuring {argument name="subjects" default="me and my girlfriend"} as the subjects.
-
-Photographed from directly above with a perfectly top-down overhead camera angle. We are lying on a dark seamless studio floor facing each other.
-
-The woman is positioned in the lower-right area of the frame, lying on her back, smiling naturally and looking toward me. Her expression is warm, genuine, and effortlessly elegant.
-
-I am positioned in the upper-left area of the frame with my body inverted relative to hers, creating a mirrored composition. My head appears upside down in the frame as I look toward her with a relaxed, affectionate expression.
-
-Both subjects wear simple fitted black shirts that blend subtly into the dark background.
-
-Style inspired by luxury fashion editorials, premium magazine covers, and high-end portrait photography.
-
-High-contrast monochrome photography, rich blacks, soft studio shadows, cinematic lighting, natural skin texture, realistic facial details, shallow depth perception, sophisticated visual balance.
-
-Strong negative space surrounding the subjects.
-
-Mood: intimate, romantic, timeless, elegant, modern, emotionally authentic.
-
-Composition should emphasize connection through eye contact and subtle facial expressions rather than physical interaction.
-
-Ultra-realistic photography, medium-format camera quality, fashion magazine cover aesthetic, fine-art portraiture, luxury editorial styling.
-
-Typography layout:
-Large vertical serif title on the right side:
-“{argument name="title" default="US"}”
-
-Small elegant editorial text block in the lower-left corner.
-
-Perfect typography, professional magazine design, clean layout, no distorted letters.
-
-8K resolution, ultra-detailed, award-winning fashion photography, print-ready magazine cover.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03795_0.jpg" width="600" alt="Lovers Overhead Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03795_1.jpg" width="600" alt="Lovers Overhead Portrait - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 72: Aesthetic Bookshelf Arrangement
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "type": "bookshelf arrangement", "setting": "wooden bookshelf with three shelves against a plain light wall, wooden floor", "layout": { "top_shelf": { "count…
-
-#### 📝 Prompt
-
-```
-{
-  "type": "bookshelf arrangement",
-  "setting": "wooden bookshelf with three shelves against a plain light wall, wooden floor",
+  "type": "2x2 grid of Japanese advertisement banners",
   "layout": {
-    "top_shelf": {
-      "count": 1,
-      "alignment": "centered",
-      "books": [
-        { "color": "dark blue", "title": "{argument name=\"top book title\" default=\"THE ART OF FOCUS\"}", "author": "DANIEL WALTER", "symbol": "star compass" }
-      ]
-    },
-    "middle_shelf": {
-      "count": 3,
-      "alignment": "centered",
-      "books": [
-        { "color": "green", "title": "{argument name=\"middle left book title\" default=\"THE NATURE OF THINGS\"}", "author": "KAREN HOLLOWAY", "symbol": "leaf branch" },
-        { "color": "burgundy", "title": "HISTORY OF THE WORLD", "author": "J. M. REEVES", "symbol": "ornate star" },
-        { "color": "cream", "title": "THINK BETTER, LIVE BETTER", "author": "JOEL PARKER", "symbol": "sun" }
-      ]
-    },
-    "bottom_shelf": {
-      "count": 7,
-      "alignment": "filled",
-      "books": [
-        { "color": "dark blue", "title": "{argument name=\"bottom left book title\" default=\"SAPIENS\"}", "author": "Yuval Noah Harari", "orientation": "vertical title", "symbol": "fingerprint" },
-        { "color": "cream", "title": "BECOMING", "author": "MICHELLE OBAMA", "orientation": "vertical title", "symbol": "circle logo" },
-        { "color": "teal", "title": "THE POWER OF NOW", "author": "ECKHART TOLLE", "symbol": "waves" },
-        { "color": "mustard yellow", "title": "{argument name=\"bottom middle book title\" default=\"THE HAPPINESS PROJECT\"}", "author": "GRETCHEN RUBIN", "symbol": "star" },
-        { "color": "dark grey", "title": "THE DIARY OF A CEO", "author": "STEVEN BARTLETT", "symbol": "letter D" },
-        { "color": "light blue", "title": "Atomic Habits", "author": "James Clear", "symbol": "dot circle" },
-        { "color": "orange", "title": "{argument name=\"bottom right book title\" default=\"THE SUBTLE ART OF NOT GIVING A F*CK\"}", "author": "MARK MANSON", "symbol": "splat sun" }
-      ]
-    }
+    "grid_size": "2x2",
+    "panels": [
+      {
+        "position": "top-left",
+        "industry": "skincare cosmetics",
+        "visuals": "Portrait of a young Asian woman with clear, glowing skin gently touching her face. 2 sleek silver and white cosmetic bottles/jars labeled 'SUIREN'.",
+        "typography": {
+          "badge": "6.1 NEW Debut",
+          "main_copy": "{argument name=\"skincare catchphrase\" default=\"透明感、満ちる。\"}",
+          "sub_copy": "肌が変わると、毎日が変わる。",
+          "brand_text": "新・エイジングケアライン誕生 SUIREN -スイレン-"
+        }
+      },
+      {
+        "position": "top-right",
+        "industry": "travel agency",
+        "visuals": "Back view of a woman in a straw hat and white shirt looking out over a picturesque European lake town with mountains. A small hand-drawn airplane trail.",
+        "typography": {
+          "english_script": "Find your Journey",
+          "main_copy": "{argument name=\"travel catchphrase\" default=\"心が動く旅へ。\"}",
+          "sub_copy": "まだ見ぬ景色が、あなたを待っている。",
+          "discount_badge": "yellow circle reading '今だけ! 最大 20% OFF 6.30まで'",
+          "footer_bar": "dark blue bar with '初夏のヨーロッパキャンペーン' and a button '詳しくはこちら >'"
+        }
+      },
+      {
+        "position": "bottom-left",
+        "industry": "food product",
+        "visuals": "Close-up of a bowl of fluffy white rice topped with bonito flakes and a raw egg yolk. Dark soy sauce is being poured from a small ceramic pitcher. A stand-up pouch product package with a blue wave pattern.",
+        "typography": {
+          "main_copy": "{argument name=\"food catchphrase\" default=\"毎日のごはんを、もっと美味しく。\"}",
+          "product_name": "日々のだし",
+          "sub_copy": "化学調味料・保存料 無添加 素材のうまみを、まるごと。",
+          "badge": "だしパック 30袋入"
+        }
+      },
+      {
+        "position": "bottom-right",
+        "industry": "fintech app",
+        "visuals": "A modern smartphone displaying a financial dashboard UI with a blue line chart and portfolio breakdown. Clean white and blue color scheme.",
+        "typography": {
+          "logo": "M {argument name=\"finance app name\" default=\"MoneyPath\"}",
+          "main_copy": "未来の自分のために、{argument name=\"finance catchphrase\" default=\"今はじめる資産形成\"}",
+          "sub_copy": "初心者でも安心のシンプル投資アプリ",
+          "promo_badge": "blue circle with gift icon reading '新規登録で 1,000円分のポイントプレゼント!'",
+          "footer_features": "blue bar with 4 distinct icons and text blocks detailing app benefits"
+        }
+      }
+    ]
   }
 }
 ```
@@ -2900,25 +2673,27 @@ Perfect typography, professional magazine design, clean layout, no distorted let
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04581_0.jpg" width="600" alt="Aesthetic Bookshelf Arrangement - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03438_0.jpg" width="600" alt="Japanese Ad Banner Grid Showcase - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 73: Cyberpunk Duo in Shattered City
+### No. 72: Gen-Z Streetwear Collage Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a vertical dark fantasy cyberpunk anime illustration of two full-body characters walking toward the viewer through a shattered digital city at night. Th…
+Create a modern studio fashion collage using the uploaded person as the exact face reference. Design a dynamic multi-frame poster with 5 different poses of the…
 
 #### 📝 Prompt
 
 ```
-Create a vertical dark fantasy cyberpunk anime illustration of two full-body characters walking toward the viewer through a shattered digital city at night. The scene contains exactly 2 main characters: a tall male-presenting figure on the left and a slightly shorter female-presenting figure on the right. The left character has {argument name="male hair color" default="messy black hair"}, a slim elegant build, an all-black gothic suit with a long torn feathered coat, sharp layered lapels, belts, gloves, boots, dangling chains, glossy armor-like details, and violet highlights; his left hand is raised in a graceful open gesture. The right character has {argument name="female hair color" default="long flowing platinum-blonde hair"}, a pale elegant build, a revealing black-and-lavender gothic dress with a high slit, translucent flowing sleeves and cape panels, ornate black metallic chest ornaments, thigh straps, jewelry-like accents, and pointed heels. Add exactly 2 opaque square face-obscuring blocks, one centered over each character’s face, in muted purple-gray tones. The background is a ruined futuristic megacity filled with glitch artifacts, vertical neon data streaks, cracked reality-like lightning fractures, reflective wet pavement, and floating broken architectural fragments; include exactly 7 prominent debris pieces: two large slabs at the upper right, one hovering craft-like fragment near the upper center-right, one dark platform on the left edge, one flat shard on the mid-right edge, one broken chunk near the lower left, and one dark slab near the lower right. Use a palette of deep black, violet, indigo, lavender, electric purple, and scattered chromatic RGB glitch speckles. Lighting should be dramatic and backlit, with high contrast, iridescent reflections, intricate painterly detail, torn fabric motion, and a melancholic apocalyptic atmosphere. Style: highly detailed Japanese anime key visual, gothic couture, cyberpunk ruin, painterly digital art, cinematic composition, no text, no watermark.
+Create a modern studio fashion collage using the uploaded person as the exact face reference. Design a dynamic multi-frame poster with 5 different poses of the same person arranged inside {argument name="frame shape" default="rounded-rectangle panels"} overlapping on a vibrant {argument name="background gradient" default="cyan-to-blue gradient background"}. The central figure sits confidently on a blue cube, wearing an oversized {argument name="outfit" default="royal-blue vintage hockey jersey"} with bold red-and-white typography, light-wash baggy jeans, chunky white sneakers, clear eyeglasses, and a silver dog-tag necklace. Surrounding frames show varied candid poses: adjusting glasses, crossed arms close-up, crouching with a smile, relaxed crouch pose, and a cropped sneaker-focused shot.
+
+Professional commercial photography, symmetrical layout, clean graphic design, subtle distressed print texture, soft studio lighting, ultra-sharp details, realistic skin texture, fashion editorial aesthetic, magazine cover quality, vibrant colors, premium streetwear campaign, depth and layering, high-end poster design, 8K resolution, photorealistic, perfectly matched identity across all frames, Instagram trend style, contemporary Gen-Z fashion branding.
 ```
 
 #### 🖼️ Generated Images
@@ -2926,25 +2701,25 @@ Create a vertical dark fantasy cyberpunk anime illustration of two full-body cha
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08983_0.jpg" width="600" alt="Cyberpunk Duo in Shattered City - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04262_0.jpg" width="600" alt="Gen-Z Streetwear Collage Poster - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 74: Realistic Studio Fashion Portrait
+### No. 73: Urban Graffiti Street Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A highly realistic studio portrait of a {argument name="subject gender" default="female"} in her mid-20s with a naturally fit build, framed from the chest up a…
+A bold urban artwork of {argument name="subject" default="[SUBJECT]"} posing in front of a colorful graffiti wall, spray paint textures, sharp shadows, express…
 
 #### 📝 Prompt
 
 ```
-A highly realistic studio portrait of a {argument name="subject gender" default="female"} in her mid-20s with a naturally fit build, framed from the chest up at eye level, centered against a smooth warm beige studio backdrop with no distractions. She has long, thick, dark {argument name="hair color" default="black"} hair styled in loose, slightly messy natural waves with strong volume and a soft center part, falling over both shoulders. Her pose is relaxed and confident, facing the camera straight on with a calm, neutral, self-assured expression. She wears 2 visible clothing layers: a plain white crew-neck T-shirt underneath a lightweight taupe-gray casual zip jacket worn open, with a minimal modern streetwear look in muted neutral tones. Include a small subtle earring visible on one ear. Use professional studio lighting with a soft frontal key light, gentle fill, soft natural shadows, accurate skin tones, and very light separation from the background. Shoot with an 85mm portrait lens look at f/2.8, tack-sharp on the subject with shallow depth of field, editorial fashion portrait style, natural balanced color grading, minimal retouching, ultra-detailed, no filters, no noise, no motion blur, no cartoonish features.
+A bold urban artwork of {argument name="subject" default="[SUBJECT]"} posing in front of a colorful graffiti wall, spray paint textures, sharp shadows, expressive movement, vibrant {argument name="first color" default="[COLOR1]"} and punchy {argument name="second color" default="[COLOR2]"} tones, rebellious youthful energy, street culture aesthetic.
 ```
 
 #### 🖼️ Generated Images
@@ -2952,153 +2727,92 @@ A highly realistic studio portrait of a {argument name="subject gender" default=
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04685_0.jpg" width="600" alt="Realistic Studio Fashion Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 75: World Cup Broadcast Captures Stunning Fan
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A screenshot from a FOX Sports broadcast of the 2026 FIFA World Cup, showing a viewer reaction. A telephoto lens zooms in on a spectator across the stadium: a…
-
-#### 📝 Prompt
-
-```
-A screenshot from a FOX Sports broadcast of the 2026 FIFA World Cup, showing a viewer reaction. A telephoto lens zooms in on a spectator across the stadium: a glamorous Asian woman in her twenties with long black hair, perfect features, and a stunning figure, wearing a tight-fitting low-cut top, standing in the front row. The strong compression of the telephoto lens—a blurred green edge of the stadium and LED advertising boards appear at the bottom of the frame, accompanied by the heat-shimmering effect of the telephoto lens. Around her, out-of-focus fans wave national flags. She laughs and cheers, unaware that she&#39;s in the shot. The actual FOX Sports World Cup broadcast graphics: a scoreboard with team abbreviations and a match clock in the upper left corner, the FIFA World Cup 26 logo, a small web watermark in the corner, 16:9. The image looks exactly like a paused 1080i television frame—broadcast color grading, slight motion blur on the waving flags, MPEG compression artifacts, and faint interlaced scan lines.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11721_0.jpg" width="600" alt="World Cup Broadcast Captures Stunning Fan - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 76: Korean Mint Blazer Fashion Blueprint
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A fashionable blueprint of a fashionable young woman posing beside a bright orange wall, a half-body fashion editor view, with detailed clothing notes and luxu…
-
-#### 📝 Prompt
-
-```
-A fashionable blueprint of a fashionable young woman posing beside a bright orange wall, a half-body fashion editor view, with detailed clothing notes and luxurious styling labels. Flowing dark long hair, soft and charming makeup, silver teardrop earrings, layered silver necklace, fitted dark brown cropped strapless top, oversized soft mint green blazer with structured shoulder design, matching high-waisted wide-leg pants, elegant silver chain details on the blazer, relaxed and confident posture, one hand in her pocket. Around the model are fashion infographic elements, jewelry breakdown, fabric texture descriptions, tailoring notes, pose analysis, accessory close-ups, cinematic sunlight reflections, modern Korean street fashion aesthetics, editorial photography style, ultra-detailed, professional fashion concept images, 8K, 1744x2336
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12682_0.jpg" width="600" alt="Korean Mint Blazer Fashion Blueprint - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08502_0.jpg" width="600" alt="Urban Graffiti Street Art - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12682_1.jpg" width="600" alt="Korean Mint Blazer Fashion Blueprint - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 77: Dark Fantasy Mecha Concept Sheet
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{"type":"dark fantasy mecha combination concept sheet","subject":{"theme":"a sinister combining robot made from five separate mechanical beast units, rendered…
-
-#### 📝 Prompt
-
-```
-{"type":"dark fantasy mecha combination concept sheet","subject":{"theme":"a sinister combining robot made from five separate mechanical beast units, rendered as a premium concept art lineup","design":{"overall_style":"baroque gothic biomechanical armor, blackened steel, gunmetal, obsidian, razor-edged silhouettes, dense layered plating, spikes, thorns, chains, halos, glowing crimson cores and eyes, faint silver highlights, worn metallic texture","mood":"apocalyptic, ominous, regal, demonic, highly detailed","lighting":"low-key studio lighting on a dark blue-black gradient background with subtle rim light and red emissive accents"},"combined_form":{"name":"{argument name=\"combined form name\" default=\"FINAL COMBINED FORM\"}","appearance":"towering humanoid emperor-like mech standing front-facing, composed from the component beasts, with a crown-like horned helmet, narrow glowing red eyes, massive circular halo structure behind the head and shoulders, layered feather-like black metal robes or wing-cape draping to the floor, broad armored chest with a bright pale core gem, long bladed staff or spear held diagonally downward, extremely intricate filigree and mechanical feather details"},"units":[{"label":"CORE UNIT","count":1,"appearance":"a central beast unit with a circular halo ring behind it, compact quadruped-like demonic mechanical creature, black steel armor, red glowing chest core, thorny tail and protrusions"},{"label":"LEFT-ARM UNIT","count":1,"appearance":"a dragon-like assault unit with a raised body posture, blade-shaped forelimb, wings or sharp dorsal fins, elongated neck, aggressive head, red glowing joints and vents"},{"label":"RIGHT-ARM UNIT","count":1,"appearance":"a heavy rhinoceros or ankylosaur-inspired assault beast, low and bulky, armored shell with layered circular turbine-like shoulder structures, massive horned head, reinforced forequarters"},{"label":"LEG UNIT","count":1,"appearance":"a tall horse- or stag-like mechanical walker with long legs, draped shredded black armor strands, elongated neck, angular horned head, red glowing accents embedded in the torso"},{"label":"SUPPORT/BACK UNIT","count":1,"appearance":"a floating winged support module, symmetrical circular halo core with 2 large upper wings, multiple smaller blade-like wing segments, dangling tendrils or tail cables, central red glowing orb"}]},"layout":{"orientation":"wide horizontal sheet","sections":[{"title":"{argument name=\"combined form name\" default=\"FINAL COMBINED FORM\"}","position":"far left, largest panel","count":1,"labels":["FINAL COMBINED FORM"]},{"title":"component lineup","position":"upper center to upper right","count":5,"labels":["CORE UNIT","LEFT-ARM UNIT","RIGHT-ARM UNIT","LEG UNIT","SUPPORT/BACK UNIT"]},{"title":"transformation diagrams","position":"bottom row beneath the five units","count":5,"labels":["CORE UNIT","LEFT-ARM UNIT","RIGHT-ARM UNIT","LEG UNIT","SUPPORT/BACK UNIT"]}],"bottom_diagrams":"each of the 5 lower panels shows the unit in at least 2 transformation stages with arrow indicators leading into its humanoid robot-part configuration","panel_style":"thin faint rectangular framing lines, small gold serif labels under each main unit, clean concept-sheet presentation"},"color_palette":{"primary":"blackened steel and dark gunmetal","secondary":"burnished silver and charcoal","accent":"glowing crimson red","background":"deep desaturated navy-black"},"rendering":{"quality":"ultra-detailed, sharp focus, polished AAA concept art, ornate mechanical detailing, high contrast","influences":"dark fantasy mecha, demon armor, gothic cathedral motifs, angelic halo symbolism, transforming super robot design"}}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06370_0.jpg" width="600" alt="Dark Fantasy Mecha Concept Sheet - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 78: Luxury Skincare Editorial Photography
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Studio editorial photograph of a {argument name="vessel type" default="premium skincare vessel (bottle, jar, or tube)"} in {argument name="material" default="g…
-
-#### 📝 Prompt
-
-```
-Studio editorial photograph of a {argument name="vessel type" default="premium skincare vessel (bottle, jar, or tube)"} in {argument name="material" default="glass or ceramic"}, with a colored accent detail. Set on a {argument name="surface" default="natural stone or marble slab"} resting on a round mirror, all on a soft neutral surface. Scattered droplets of serum or oil catch the light around the mirror and slab. Sprigs of lavender, eucalyptus, or rose petals drape naturally across both surfaces. Warm sunlight from the upper left casts gentle leaf shadows evoking filtered daylight. Aesthetic is minimalist and luxurious, with golden hour tones highlighting natural textures. Style: 3D realism, luxury product photography, shallow depth of field. Format: 1:1, ultra-detailed.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07937_0.jpg" width="600" alt="Luxury Skincare Editorial Photography - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07937_1.jpg" width="600" alt="Luxury Skincare Editorial Photography - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08502_1.jpg" width="600" alt="Urban Graffiti Street Art - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07937_2.jpg" width="600" alt="Luxury Skincare Editorial Photography - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08502_2.jpg" width="600" alt="Urban Graffiti Street Art - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07937_3.jpg" width="600" alt="Luxury Skincare Editorial Photography - Image 4">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_08502_3.jpg" width="600" alt="Urban Graffiti Street Art - Image 4">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 79: Realistic Portrait Photo Collage
+### No. 74: Dark Mode Pricing Page UI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Use the uploaded portrait as the only identity reference. Preserve the person’s real facial features, face shape, skin tone, hairstyle, and natural body propor…
+{ "type": "dark mode web page UI mockup", "theme": "sleek, modern, dark theme with white and light grey text", "header": { "logo": "{argument name=\"company na…
 
 #### 📝 Prompt
 
 ```
-Use the uploaded portrait as the only identity reference. Preserve the person’s real facial features, face shape, skin tone, hairstyle, and natural body proportions. Create a {argument name="photo type" default="realistic studio-style photo collage"} with {argument name="layout" default="multiple overlapping portrait frames"}: close-up face shots, side profile, half-body pose, full-body pose, hair/detail close-ups, and relaxed seated poses. Use a {argument name="background" default="clean beige-gray studio background"}, soft indoor lighting, natural skin texture, realistic phone-camera/editorial photography feel, casual modern outfit chosen to suit the person, white photo borders, slightly tilted layout, high-detail but natural. No logo, no watermark, no text.
+{
+  "type": "dark mode web page UI mockup",
+  "theme": "sleek, modern, dark theme with white and light grey text",
+  "header": {
+    "logo": "{argument name=\"company name\" default=\"OpenAI\"}",
+    "navigation": ["Research", "Products", "Safety", "Company"],
+    "actions": ["Search icon", "Log in", "Try ChatGPT button"]
+  },
+  "layout": {
+    "left_column": {
+      "label": "PRICING",
+      "headline": "{argument name=\"model name\" default=\"GPT-8\"}",
+      "subheading": "{argument name=\"main tagline\" default=\"Our most powerful model yet.\"}",
+      "description": "GPT-8 is designed for intelligence, reliability, and real-world impact. Built with multimodal reasoning, long-context understanding, and advanced tool use.",
+      "button": "GET STARTED",
+      "features": {
+        "count": 3,
+        "items": [
+          {"icon": "brain", "title": "Frontier intelligence", "desc": "State-of-the-art reasoning, coding, and problem solving."},
+          {"icon": "shield", "title": "Trusted by design", "desc": "Stronger safety, more steerability, and enterprise-grade reliability."},
+          {"icon": "lightning bolt", "title": "Built for builders", "desc": "Native tool use, structured outputs, and long-context workflows."}
+        ]
+      }
+    },
+    "right_column": {
+      "type": "pricing card",
+      "header": "PRICING - Simple, token-based pricing. No hidden fees.",
+      "toggle": ["INPUT", "CACHE READ"],
+      "token_pricing": {
+        "count": 5,
+        "rows": [
+          {"name": "Text tokens", "unit": "Per 1M tokens", "price": "{argument name=\"text token price\" default=\"$3.00\"}"},
+          {"name": "Image tokens", "unit": "Per 1M tokens", "price": "$10.00"},
+          {"name": "Audio tokens", "unit": "Per 1M tokens", "price": "$6.00"},
+          {"name": "Video tokens", "unit": "Per 1M tokens", "price": "$15.00"},
+          {"name": "Output tokens", "unit": "Per 1M tokens", "price": "{argument name=\"output token price\" default=\"$12.00\"}"}
+        ]
+      },
+      "additional_features": {
+        "count": 2,
+        "rows": [
+          {"name": "Caching", "desc": "Save on repeated inputs with caching.", "price": "$0.30 / 1M tokens"},
+          {"name": "Batch API (50% discount)", "desc": "Lower costs for asynchronous workloads.", "price": "-50%"}
+        ]
+      },
+      "footer_links": ["LEARN MORE", "Model docs", "Pricing details"]
+    }
+  },
+  "footer": "Prices are in USD. View the full pricing table in our docs."
+}
 ```
 
 #### 🖼️ Generated Images
@@ -3106,65 +2820,25 @@ Use the uploaded portrait as the only identity reference. Preserve the person’
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04829_0.jpg" width="600" alt="Realistic Portrait Photo Collage - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07374_0.jpg" width="600" alt="Dark Mode Pricing Page UI - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 80: 2026 Audi A6 Exploded Engineering Blueprint
+### No. 75: Melancholic Baseball Player Editorial Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create an ultra-high fidelity exploded technical diagram of a {argument name="car model" default="2026 Audi A6"}, presented as a premium engineering poster. Au…
+Create a wide single-panel editorial illustration on an off-white textured paper background. Show an adult Korean male baseball player seated on the floor near…
 
 #### 📝 Prompt
 
 ```
-Create an ultra-high fidelity exploded technical diagram of a {argument name="car model" default="2026 Audi A6"}, presented as a premium engineering poster. Audi A6 (2026)Maintain a true orthographic top/front hybrid view with zero perspective distortion.CORE COMPOSITION RULE
-Place the primary chassis or structural platform perfectly centered as the core spine. Position the main body shell separately (left or top), aligned parallel as a reference form while preserving accurate proportions, stance, and real-world geometry of the 2026 Audi A6.EXPLODED ENGINEERING SYSTEM (MULTI-LAYER DEPTH STRUCTURE)
-Design a multi-layered exploded system with components separated across depth (Z-axis) and planar spacing:Micro hardware (bolts, screws, washers): tightly grouped in precision clusters
-Functional assemblies: moderately spaced with clear mechanical relationships
-Major systems: widely separated for structural clarity and engineering hierarchy
-SUBSYSTEM BREAKDOWN (MODERN AUDI ARCHITECTURE)
-Organize parts into realistic automotive engineering subsystems:Front Assemblyadaptive suspension system (Audi drive select calibrated damping)
-precision steering rack with electronic assist
-advanced braking system (ventilated discs + regenerative integration if hybrid)
-sensor suite (front radar, LiDAR-ready modules, camera array)
-Rear Assemblyrear multi-link suspension system
-drivetrain assembly (quattro AWD torque distribution unit)
-rear differential system (or integrated e-axle for hybrid/EV variant)
-stability and traction control modules
-Chassis / Structurelightweight MLB Evo / next-gen Audi modular platform architecture
-reinforced aluminum and high-strength steel hybrid frame
-vibration isolation subframes
-crash-optimized energy absorption zones
-Powertrainturbocharged inline-4 / V6 hybrid-compatible engine architecture
-transmission system (dual-clutch S tronic representation)
-intake, exhaust, and thermal management routing
-optional mild-hybrid or plug-in hybrid battery integration
-partial internal exposure showing combustion or electric assist layering
-Electronics SystemECU and domain control architecture (centralized compute unit)
-wiring harness with ultra-clean routed geometry
-driver assistance systems (ADAS module cluster)
-infotainment + digital cockpit processing unit
-sensor fusion computing core
-Wheel System4 wheels symmetrically placed
-rim, tire, brake disc, hub assembly separated in exploded layers
-precise axle alignment and rotational geometry
-Audi signature aerodynamic rim design
-ENGINEERING REALISM RULE
-Maintain strict mechanical connectivity between all systems
-Align shafts, axles, and torque paths accurately
-Preserve left/right symmetry with controlled functional asymmetry only
-Group micro-components in structured clusters near their assemblies
-Avoid decorative or random placement — everything must reflect real automotive engineering logic
-VISUAL STYLE & MATERIAL LANGUAGE
-Use modern Audi design precision:brushed aluminum + matte graphite structural materials
-carbon-reinfo
+Create a wide single-panel editorial illustration on an off-white textured paper background. Show an adult Korean male baseball player seated on the floor near the right side of the canvas, cross-legged, slightly hunched, eating a triangular rice ball held in one hand. His face must be intentionally anonymized with a vertical soft-edged beige blur rectangle covering the facial features, while the rest of the head shows short dark hair and ears. He wears a vivid royal-blue professional baseball jersey with dark blue undersleeves, black pants, blue sneakers, and a wristwatch; include a large white team wordmark across the chest resembling “doyo,” the jersey number “1” on the lower front, a yellow rectangular sponsor patch on the upper chest, Korean sponsor lettering on the left chest area, and a large white number on the sleeve. Place exactly 2 small objects on the floor to his left: one upright clear plastic water bottle with a blue label and blue cap, and one small empty white paper cup. Use loose ink outlines, watercolor and marker-style shading, subtle gray cast shadows, and a melancholic sports-cartoon mood. Keep the composition minimal with a lot of blank space on the left, a thin floor line behind the objects and figure, no extra people, no extra props, and no readable text beyond jersey-like markings. The athlete’s jersey color can be customized as {argument name="jersey color" default="royal blue"}, the jersey number as {argument name="jersey number" default="1"}, the anonymizing face cover as {argument name="face anonymization style" default="soft-edged beige blur rectangle"}, the food item as {argument name="food item" default="triangular rice ball"}, and the mood as {argument name="mood" default="melancholic and lonely"}.
 ```
 
 #### 🖼️ Generated Images
@@ -3172,37 +2846,25 @@ carbon-reinfo
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00681_0.jpg" width="600" alt="2026 Audi A6 Exploded Engineering Blueprint - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05787_0.jpg" width="600" alt="Melancholic Baseball Player Editorial Illustration - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 81: Rebel Streetwear Cover Poster
+### No. 76: Epic Xianxia Sunrise Fantasy Landscape
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Goal: Create a bold vertical streetwear magazine-cover poster for {argument name="character name" default="HER19845"}, with a rebellious 1980s/1990s hip-hop fa…
+Create an epic cinematic fantasy landscape in a highly detailed painterly-realistic Chinese xianxia style. A lone {argument name="character description" defaul…
 
 #### 📝 Prompt
 
 ```
-Goal: Create a bold vertical streetwear magazine-cover poster for {argument name="character name" default="HER19845"}, with a rebellious 1980s/1990s hip-hop fashion attitude.
-
-Canvas: Portrait poster, 2:3 aspect ratio, off-white paper background with subtle grain, scratches, dust speckles, worn print texture, and slight vintage magazine distressing.
-
-Main subject: One full-body young woman centered in front of oversized typography, standing confidently with legs apart and both hands in her pants pockets. Her face is intentionally obscured by a plain square blur/censor block. She has long wavy blonde-brown hair visible around the blur. Outfit count: 5 visible main clothing pieces/accessories — 1 oversized white graphic T-shirt with pink graffiti-style artwork and “19845” on the chest, 1 loose purple windbreaker jacket with teal and hot-pink accents, 1 pair of baggy black cargo/parachute pants, 1 pair of chunky white sneakers with pink and teal details, and 1 black heart pendant necklace. The pose should feel casual, defiant, and fashion-editorial.
-
-Layout: Place giant condensed uppercase background text reading {argument name="large background text" default="HER19845"} across almost the full height of the poster, behind the model. The letters should be extremely tall, bold, and partially hidden by the figure. Use a left-to-right hot-pink to purple gradient, with distressed scuffs and print wear inside the letters. Keep the subject layered in front of the typography.
-
-Visible text elements: Include exactly 9 separate text elements on the poster: 1) top-left small bracket label “[HER19845]”; 2) top-center tiny uppercase slogan “BUILT DIFFERENT. MADE TO BREAK RULES.”; 3) giant background word “HER19845”; 4) left handwritten black phrase “Not your average.” with a pink underline stroke; 5) lower-left stacked uppercase text “CONFIDENCE IS MY FAVORITE OUTFIT.”; 6) lower-left purple bracketed stacked text “[REBELLION LOOKS GOOD ON ME]”; 7) lower-left stacked uppercase text “NO APOLOGIES. JUST ENERGY. ALL DAY.”; 8) right-side red-orange handwritten signature text {argument name="signature text" default="Her 19845"} with an underline flourish; 9) bottom-center hot-pink bracket label “[HER19845]”. Also add two decorative print marks: a small barcode at bottom left and a black-and-white “PARENTAL ADVISORY EXPLICIT CONTENT” label at bottom right.
-
-Typography and style: Combine massive condensed sans-serif type, small utilitarian editorial captions, handwritten brush-script annotations, and punk zine details. Color palette: off-white paper, hot pink, violet purple, teal accents, black ink, and red-orange marker. Use high contrast, fashion poster lighting, crisp cutout subject, subtle floor shadow, and gritty editorial print texture.
-
-Constraints: No extra characters, no extra text beyond the specified 9 text elements and the two decorative labels, keep the model full-body and centered, maintain the square face-obscuring blur, and make the final image look like a polished rebellious streetwear cover.
+Create an epic cinematic fantasy landscape in a highly detailed painterly-realistic Chinese xianxia style. A lone {argument name="character description" default="elegant ancient Chinese woman viewed from behind"} stands on a high stone terrace at the edge of a mountain cliff, gazing out over a vast mist-filled realm at sunrise. She wears layered flowing {argument name="robe color" default="teal and pale white silk robes"} with ornate gold floral embroidery, long translucent sleeves and scarves streaming dramatically in the wind; her very long black hair is half-up with delicate silver hair ornaments and loose strands blowing sideways. Around her and partly framing the foreground are two enormous unfurled painted scrolls or silk landscape paintings, one curling up on the left and one sweeping in from the lower right, their parchment surfaces decorated with faint ink-wash mountains and gold-trimmed edges, making the scene feel like a living painting. The view below shows a grand mythic valley with countless jagged karst peaks, floating layers of clouds and fog, winding rivers and lakes reflecting the sun, tiny villages or palace rooftops nestled among mountains, distant bridges of water and land, and blue-gray mountain ranges fading into atmospheric haze. The {argument name="time of day" default="golden sunrise"} breaks through dramatic clouds near the upper center, casting warm radiant light across the water while the foreground remains cool blue and shadowed. Use a wide-angle grand scale composition, the woman positioned in the lower left third facing away, strong depth, volumetric mist, soft god rays, intricate fabric detail, ancient Chinese fantasy mood, serene and awe-inspiring atmosphere, ultra-detailed environment, cinematic lighting, no modern objects, no text, no watermark.
 ```
 
 #### 🖼️ Generated Images
@@ -3210,25 +2872,25 @@ Constraints: No extra characters, no extra text beyond the specified 9 text elem
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11253_0.jpg" width="600" alt="Rebel Streetwear Cover Poster - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_11622_0.jpg" width="600" alt="Epic Xianxia Sunrise Fantasy Landscape - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 82: Shibuya Bubble Girl Dream
+### No. 77: Japanese Skincare Ad Split Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A dreamy anime-style illustration of a fashionable young woman floating through the famous Shibuya Scramble Crossing in Tokyo on a bright spring day, with a so…
+Create a side-by-side comparison image showing 2 vertical Japanese skincare advertisement banners on a dark charcoal background, each banner framed as a clean…
 
 #### 📝 Prompt
 
 ```
-A dreamy anime-style illustration of a fashionable young woman floating through the famous Shibuya Scramble Crossing in Tokyo on a bright spring day, with a soft pastel palette, glowing light, and whimsical urban fantasy mood. She is centered full-body, hovering slightly above the crosswalk while standing on a giant iridescent soap bubble. She has very long flowing dark indigo-black hair with a slight violet sheen, a pink floral headband with ribbons, and a sweet elegant outfit: a dusty pink knee-length dress with puffed long sleeves, layered ruffles, ribbon lacing at the chest, sakura flower embroidery near the hem, and a tan belt at the waist. Her expression should feel gentle and dreamy, her pose graceful and balanced, with one hand raised and pointing upward. Around her are many transparent rainbow soap bubbles of different sizes, about 16 visible bubbles total, drifting through the air. One large bubble near her raised hand contains a modern smartphone with a cherry blossom wallpaper. One medium bubble at lower left contains an open slim laptop angled toward the viewer. One large teardrop-shaped bubble hanging from her other hand contains 3 shopping items: a paper shopping bag printed with “SHIBUYA 109”, a second pastel shopping bag, and a pink bunny-shaped pouch or plush accessory. One medium bubble on the lower right contains a silver compact camera. The setting is a lively, recognizable Shibuya streetscape with the cylindrical SHIBUYA 109 building in the center background and multiple Japanese commercial billboards and signs surrounding the crossing, including visible signage such as “DHC,” “H&M,” “DMM TV,” and colorful vertical Japanese signs. Include pedestrians in the distance, crosswalk stripes, city poles, and realistic urban depth, but keep the girl as the clear focal point. The atmosphere should feel airy, magical, glossy, and slightly nostalgic, combining detailed city realism with highly polished anime character art, soft bloom lighting, shimmering reflections, translucent materials, and delicate springtime romance.
+Create a side-by-side comparison image showing 2 vertical Japanese skincare advertisement banners on a dark charcoal background, each banner framed as a clean smartphone-style ad mockup with a white and icy blue beauty aesthetic. The left banner should look elegant and visually polished but less sales-driven: a soft backlit close-up of a woman with wet-looking dark hair and luminous bare skin, her face partially obscured by a centered rectangular blur block, pale blue water textures, floating droplets, a white-and-silver sunscreen tube labeled {argument name="product name" default="VITA LUMIÈRE"} near the lower right, refined Japanese serif and sans-serif typography, and a large blue rounded CTA button at the bottom. Include the headline in Japanese: 「透明ツヤ肌をつくる ビタミンC×日焼け止めクリーム」, small supporting copy above and below, 3 circular benefit icons near the lower middle, the handwritten-style subcopy 「まるでスキンケア！つけるたび、素肌がうるおう。」, and a bottom CTA button reading 「今すぐ透明ツヤ肌を体感する」. The right banner should be a stronger direct-response version of the same product and model, with clearer hierarchy, bolder copy, and more persuasive conversion elements: a larger dramatic Japanese headline across the top reading 「紫外線も、くすみも、もう怖くない。」, the same model again with a centered rectangular blur over the face, the product tube shown larger on the right, a blue speech-bubble badge reading 「透明ツヤ肌をつくる」, the same handwritten-style subcopy angled across the chest area, 3 large glossy circular claim badges along the lower middle reading 「肌トーンアップ効果」, 「うるおい美容液成分80%」, and 「ビタミンC誘導体」, plus a pink campaign strip above the CTA reading 「初回限定・送料無料キャンペーン中」. The right CTA button should be larger and more prominent, reading 「今すぐ透明ツヤ肌を体感する」. Use a bright cool palette of white, ice blue, silver, and faint holographic highlights, realistic cosmetic product rendering, soft water splash accents, translucent bubbles, premium Japanese beauty-ad styling, high contrast between headline and CTA, and a clear visual impression that the right ad is more persuasive and conversion-optimized than the left.
 ```
 
 #### 🖼️ Generated Images
@@ -3236,25 +2898,40 @@ A dreamy anime-style illustration of a fashionable young woman floating through 
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06672_0.jpg" width="600" alt="Shibuya Bubble Girl Dream - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03531_0.jpg" width="600" alt="Japanese Skincare Ad Split Test - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 83: Luxury Beauty Perfume Ad
+### No. 78: Qing Dragon Robe Museum Guide
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a luxurious beauty ad featuring the woman in the reference image, keeping her face perfectly aligned. Her look is high-end fashion, featuring soft, glow…
+Please automatically generate a "Museum Illustrated Chinese Disassembly Infographic" based on {argument name="theme" default="Qing Dynasty Emperor Dragon Robe"…
 
 #### 📝 Prompt
 
 ```
-Create a luxurious beauty ad featuring the woman in the reference image, keeping her face perfectly aligned. Her look is high-end fashion, featuring soft, glowing skin, flawless makeup, and elegant, flowing hair. The background is minimalist with soft gradient lighting. She held a high-end perfume bottle (inspired by Dior style). Soft light reflection, glossy finishes, and high-end brand aesthetics are added. Includes text: "Timeless Beauty" and a subtle logo-style brand identity. Ultra clear, commercial photography, 8K resolution.
+Please automatically generate a "Museum Illustrated Chinese Disassembly Infographic" based on {argument name="theme" default="Qing Dynasty Emperor Dragon Robe"}.
+
+The entire drawing must include a realistic main visual effect, structural breakdown, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most suitable subject, costume system, structure, era style, key components, material craftsmanship, color scheme, and layout based on the [Qing Dynasty Emperor Dragon Robe]; users do not need to provide additional information.
+
+The overall style should be: National Museum display boards, historical costume guides, and cultural and museum special infographics, rather than ordinary posters, ancient-style photo shoots, e-commerce detail pages, or anime illustrations. The background uses off-white, white silk paper, light tea tones, and other paper textures, giving the overall look a high-end, restrained, professional, and collectible feel.
+
+The layout is fixed as follows:
+- Top: Chinese main title + subtitle + introduction
+- Left side: Structural dismantling area, with Chinese leads marking key components and close-ups
+- Top right: Material / Craft / Texture area, showcasing real texture samples with explanations
+- Center right: Pattern / Color / Meaning area, displaying the main color palette, pattern samples, and cultural explanations
+- Bottom: Wearing sequence / composition flowchart + summary of core features
+
+If the theme is suitable for the character, the real person's full-body standing posture serves as the central subject; If more suitable for the object or individual structure, it is changed to a dismantled view of the central main structure, but the overall image remains in full Chinese infographic format. All text must be in Chinese Simplified, clear, organized, and readable, with no garbled text, typos, English, or pinyin. Emphasis is placed on authentic structure, material differences, cultural explanations, and illustrated character.
+
+Avoid: poster-like, studio-like, e-commerce, anime-like, cosplay-like, messy labeling, incorrect structure, blurry text, fake materials, excessive decoration.
 ```
 
 #### 🖼️ Generated Images
@@ -3262,25 +2939,40 @@ Create a luxurious beauty ad featuring the woman in the reference image, keeping
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13393_0.jpeg" width="600" alt="Luxury Beauty Perfume Ad - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_10865_0.jpg" width="600" alt="Qing Dragon Robe Museum Guide - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 84: Candid Subway Headphone Portrait
+### No. 79: Prince Cookie Castle Quest
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{argument name="subject" default="Candid photo of a woman with Marshall headphones"} on a {argument name="location" default="subway/bus"}, looking thoughtful.…
+Design a minimalist and luxurious 3D advertising poster for Prince Biscuits. The centerpiece is a surreal giant golden cookie castle, built entirely from the i…
 
 #### 📝 Prompt
 
 ```
-{argument name="subject" default="Candid photo of a woman with Marshall headphones"} on a {argument name="location" default="subway/bus"}, looking thoughtful. Moody, cinematic film aesthetic, shallow depth of field, yellow pole foreground bokeh. Fuji film.
+Design a minimalist and luxurious 3D advertising poster for Prince Biscuits.
+
+The centerpiece is a surreal giant golden cookie castle, built entirely from the iconic Prince cookie. The cookie structure should be imaginative and unexpected, and immediately recognizable as the brand's signature product. Using authentic cookie textures, embossed details, layers of cream, and subtle crumb elements, a premium visual metaphor is created for a kingdom made up of prince cookies.
+
+Next to the huge cookie castle stands a little figure, actively exploring and climbing its tower with a small ladder. This miniature figure should create a strong sense of proportion, storytelling, and playful curiosity, while maintaining a neat and sophisticated composition.
+
+Use Prince Biscuit's signature red and golden tones as the background, with smooth gradients and plenty of blank space. Keep the composition centered and balanced.
+
+Place the Prince Cookie logo at the top of the poster. The brand slogan "The Taste of Happiness" is elegantly placed at the bottom.
+
+Style requirements:
+Minimalism, intelligence, visual impact, premium advertising design, ultra-detailed 3D renderings, realistic cookie textures, commercial event quality, luxurious product photography, soft studio lighting, subtle shadows, clean backgrounds, modern fashion advertising aesthetics, and highly shareable social media campaigns.
+
+Format: Vertical poster, 9:16 aspect ratio.
+
+Rendering style: hyper-realistic CGI, Behance-level advertising displays, premium food brand promotions, cinematic lighting, luxurious commercial artworks, and direct-to-publishable marketing visuals.
 ```
 
 #### 🖼️ Generated Images
@@ -3288,32 +2980,119 @@ Create a luxurious beauty ad featuring the woman in the reference image, keeping
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21712_0.jpg" width="600" alt="Candid Subway Headphone Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14147_0.jpg" width="600" alt="Prince Cookie Castle Quest - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 80: Korean Street Style Candid Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra realistic candid photo of a stylish young Korean woman standing casually in front of a vintage cracked beige plaster wall with dark stone textures and an…
+
+#### 📝 Prompt
+
+```
+Ultra realistic candid photo of a stylish young Korean woman standing casually in front of a vintage cracked beige plaster wall with dark stone textures and an antique black royal british emblem plaque, wearing oversized washed gray acid-wash denim jacket over a fitted white ribbed tank crop top, dark black denim jeans with brown leather belt, slim black rectangular cat-eye sunglasses, silver hoop earrings, silver chunky heart pendant necklace, black shoulder bag strap visible, sleek black hair in a low messy bun with middle part, holding a large pink and white swirled lollipop near her lips, relaxed diagonal body pose, calm cold expression, effortless cool girl aura, porcelain glass skin, with subtle freckles luminous complexion, pink peach blush across cheeks and nose, soft brown eyeshadow, defined eyeliner, manga-style curled lashes, glossy gradient cherry pink lips harsh direct flash photography in daylight, slightly overexposed highlights, cinematic composition, dreamy vibe, pinterest korean street style aesthetic shallow depth of field, 35mm lens look, high detail, realistic lighting, candid fashion editorial style ar 3:4-v.6.1 do not alter face.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02850_0.jpg" width="600" alt="Korean Street Style Candid Fashion Portrait - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21712_1.jpg" width="600" alt="Candid Subway Headphone Portrait - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02850_1.jpg" width="600" alt="Korean Street Style Candid Fashion Portrait - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 85: Optical Cubist Portrait Masterpiece
+### No. 81: Abyss Horizon SciFi Concept Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Transform the uploaded portrait into a masterpiece combining optical contour-line illustration and modern geometric cubism. Preserve the exact facial identity,…
+{ "type": "cinematic illustration and comprehensive concept art reference sheet", "overall_theme": "sci-fi deep sea exploration", "layout": { "top_half": "cine…
 
 #### 📝 Prompt
 
 ```
-Transform the uploaded portrait into a masterpiece combining optical contour-line illustration and modern geometric cubism. Preserve the exact facial identity, glasses, hairstyle, age, skin tone, and facial proportions of the original person. Build the face from hundreds of flowing vertical contour lines that bend naturally around the eyes, nose, cheeks, lips, ears, and chin. Merge these contour lines with layered polygonal planes and faceted geometric surfaces inspired by contemporary cubist sculpture.
-Surround the portrait with large curved geometric ribbons in {argument name="ribbon colors" default="navy blue, teal, ochre, amber, terracotta, and cream"}. Background contains dense {argument name="background pattern" default="vertical black-and-cream stripes"} that continue through parts of the face to create an optical illusion effect. Skin rendered using warm sandstone and ivory tones with subtle engraved textures. Clothing simplified into elegant angular geometric shapes with deep blue gradients. Fine line engraving visible across all surfaces. Sophisticated museum artwork, high detail, premium gallery illustration, dimensional shading, sculptural appearance, realistic likeness, symmetrical composition, portrait centered, 4:6 aspect ratio, masterpiece quality, 8k resolution.
+{
+  "type": "cinematic illustration and comprehensive concept art reference sheet",
+  "overall_theme": "sci-fi deep sea exploration",
+  "layout": {
+    "top_half": "cinematic key visual",
+    "bottom_half": "dense multi-panel reference sheet"
+  },
+  "top_half_details": {
+    "typography": {
+      "main_title": "{argument name=\"main title\" default=\"深淵の地平線 ABYSS HORIZON\"}",
+      "taglines": ["人類は、深海の扉を開けた。そこは、想像を超える世界だった。", "暗黒は、終わりじゃない。人類の新しい始まりだ。"]
+    },
+    "scene": "Two characters on a balcony overlooking a massive deep-sea environment.",
+    "characters": [
+      {
+        "description": "Male, dark hair, back turned, wearing dark blue jacket",
+        "jacket_text": "NEREIS-01 RESEARCH TEAM LEAD {argument name=\"male character name\" default=\"FUKAMI YOU\"}"
+      },
+      {
+        "description": "Female, brown hair in bun, profile view, wearing dark blue jacket",
+        "jacket_text": "I.D.T.O. OBSERVER {argument name=\"female character name\" default=\"A. VOLKOV\"}"
+      }
+    ],
+    "background_elements": [
+      {
+        "type": "massive submarine",
+        "label": "{argument name=\"submarine name\" default=\"NEREIS-01\"}"
+      },
+      {
+        "type": "enormous glowing biomechanical structure",
+        "label": "{argument name=\"base structure name\" default=\"ABYSS ANCHOR\"} -13,000m"
+      }
+    ]
+  },
+  "bottom_half_details": {
+    "sections": [
+      {
+        "title": "WORLD SETTING SHEET",
+        "content": "Scale comparison showing 2 characters, 2 submarines, and 1 creature."
+      },
+      {
+        "title": "アナ・ヴォルコフ ANA VOLKOV",
+        "content": "Female character reference. Includes 3 full-body turnarounds (front, back, side), 4 facial expressions, and 3 detail shots of boots and accessories."
+      },
+      {
+        "title": "深見 陽 FUKAMI YOU",
+        "content": "Male character reference. Includes 3 full-body turnarounds (front, back, side), 4 facial expressions, and 3 detail shots of gloves and wrist device."
+      },
+      {
+        "title": "ヴォイドクラウン VOID CROWN",
+        "content": "Creature design sheet. Includes 4 detailed views of a spiked, tentacled deep-sea organism."
+      },
+      {
+        "title": "超深海前線調査基地 アビス・アンカー ABYSS ANCHOR",
+        "content": "Structure schematics. Includes 3 detailed architectural views of the deep-sea base."
+      },
+      {
+        "title": "深海探査艇「ネレイス」 NEREIS",
+        "content": "Submarine schematics. Includes 4 detailed orthographic and perspective views of the main vessel."
+      }
+    ]
+  }
+}
 ```
 
 #### 🖼️ Generated Images
@@ -3321,31 +3100,167 @@ Surround the portrait with large curved geometric ribbons in {argument name="rib
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03380_0.jpg" width="600" alt="Optical Cubist Portrait Masterpiece - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03258_0.jpg" width="600" alt="Abyss Horizon SciFi Concept Art - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 82: Porcelain Doll Beach Selfie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+[Chinese] { "Camera Parameters": { "Device Type": "iPhone 15 Pro Front Selfie", "Lens": "24mm", "Composition": "High-angle POV (first-person view)", "Post-proc…
+
+#### 📝 Prompt
+
+```
+[Chinese]
+{
+  "Camera Parameters": {
+    "Device Type": "iPhone 15 Pro Front Selfie",
+    "Lens": "24mm",
+    "Composition": "High-angle POV (first-person view)",
+    "Post-processing": "Computational photography style, clear digital readout, deep depth of field"
+  },
+  "Subject description": {
+    "Features": "Ceramic doll aesthetic, flawless pale skin, huge ice-blue eyes, delicate nose, naturally upturned lips",
+    "Expression": "Expressionless, empty, wide-eyed stare",
+    "Styling": "Platinum double tight braids, bright blue manicures,"
+    "Clothing": "Light blue tight stretch cotton top, ultra-deep and ultra-wide V-neck, deep collarbone and neckline line",
+    "Action": "Look up at the camera, shield the blinding sunlight with one hand"
+  },
+  "Environment and Lighting": {
+    "Scene": "Vast sandy beach, blurred horizon in the background",
+    "Lighting": "High-profile and bright coastal daylight, 5500K color temperature, intense white sand reflection filling, uniform illumination",
+    "Texture": "Slightly dewy, porous skin, delicate reflective white sand granules"
+  },
+  "Technical constraints": {
+    "Color Science": "Soft pastel tones, linear neutral colors, high exposure",
+    "Negative cue": [
+      "Heavy Shadows,"
+      "Snow,"
+      "Winter clothing,"
+      "Red Fingernails,"
+      "Black tops,"
+      "Conservative neckline,"
+      "Film graininess"
+    ]
+  }
+}
+
+[English]
+{
+  "cameraParameters": {
+    "deviceType": "iPhone 15 Pro front selfie",
+    "lens": "24mm",
+    "composition": "High angle POV (first-person perspective)",
+    "postProcessing": "Computational photography style, clear digital readout, deep depth of field"
+  },
+  "subjectDescription": {
+    "features": "Porcelain doll aesthetic, flawless pale skin, huge ice-blue eyes, small nose, slightly upturned natural-colored lips",
+    "expression": "Expressionless, hollow, wide-eyed staring",
+    "styling": "Platinum blonde tight double braids hairstyle, vibrant blue nail polish",
+    "clothing": "Light blue tight stretch cotton top, extremely deep ultra-wide V-neck, deep collarbone and neckline",
+    "action": "Looking up at the camera, blocking the glaring sunlight with one hand"
+  },
+  "environmentAndLighting": {
+    "scene": "Vast sandy beach, blurry horizon in the background",
+    "lighting": "High-key bright coastal daylight, 5500K color temperature, strong white sand reflection fill, even lighting",
+    "texture": "Slightly dewy poreless skin, fine reflective white sand particles"
+  },
+  "technicalConstraints": {
+    "colorScience": "Soft pastel tones, linear neutral colors, high exposure",
+    "negativePrompts": [
+      "Heavy shadows",
+      "Snow",
+      "Winter clothing",
+      "Red nails",
+      "Black top",
+      "Conservative neckline",
+      "Film grain"
+    ]
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15363_0.jpg" width="600" alt="Porcelain Doll Beach Selfie - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 83: Clay Girl's Wanderlust Journey
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+[Main Subject]: A free-spirited clay animation girl, with wild clay curls and a bohemian-style clay sundress, sitting cross-legged on a vintage clay backpack.…
+
+#### 📝 Prompt
+
+```
+[Main Subject]: A free-spirited clay animation girl, with wild clay curls and a bohemian-style clay sundress, sitting cross-legged on a vintage clay backpack. A little turtle made of patterned green clay peeks out from the front pocket
+
+[Color]: earthy reddish-brown, sun-baked cream, dusty blue-green, warm sandy hue
+
+[Key Items]: Oversized vintage clay canvas backpack with clay leather shoulder straps, clay brass buckles, and hand-stitched clay patches of world landmarks on the front
+
+[Background]: Tropical train station platforms in clay animation style, featuring circular clay arches, hanging clay lanterns, swaying clay palm trees, and a colorful clay train waiting on clay tracks
+
+[Atmosphere]: Wandering, free-spirited and adventurous — Bohemian Travel Clay Animation Lifestyle Editorial, backpacker dream aesthetics, warm tropical light 
+
+[Magazine Name]: WANDER SOUL MAGAZINE
+
+[Title]: "Go Wherever Calls You"
+
+[Slogan] :P ack Light, Live Big — Adventure Travel Special Edition
+
+[Brand Name]: TERRA ROAM — Vintage Canvas Backpack Series
+
+[Clay Animation Style Notes]: The turtle shell is a clay plate with geometric raised patterns, the backpack patch is a separately carved miniature clay landmark scene, the train steam is a white, fluffy clay cloud, embodying the aesthetic of Ghibli's travel adventure clay animation
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12256_0.jpg" width="600" alt="Clay Girl's Wanderlust Journey - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03380_1.jpg" width="600" alt="Optical Cubist Portrait Masterpiece - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12256_1.jpg" width="600" alt="Clay Girl's Wanderlust Journey - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 86: 3D Girl Breaking Social Profile
+### No. 84: Rapunzel Tower Anime Fantasy Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Creative 3D photo merging social media profile interface: the protagonist is a surprised young woman with messy short yellow hair, round glasses, wide-open eye…
+A whimsical anime fairytale illustration of {argument name="character name" default="Rapunzel"} leaning out from a high stone tower window, viewed from outside…
 
 #### 📝 Prompt
 
 ```
-Creative 3D photo merging social media profile interface: the protagonist is a surprised young woman with messy short yellow hair, round glasses, wide-open eyes expressive, wearing a sleeveless yellow top. She breaks out from the screen with a torn paper effect, gripping the torn edge tightly. The tear reveals a dark background behind her, adding depth. The UI interface resembles a modern social media profile page, including avatar, username "Noor 🌸", verification badge, personal profile text, and fan statistics. The top banner shows a black-and-white close-up of a pair of eyes. Clean minimalist layout, soft shadows, realistic lighting, high detail, depth of field, hyper-realistic texture, cinematic composition, vivid color contrast, popular AI art style, 4K resolution.
+A whimsical anime fairytale illustration of {argument name="character name" default="Rapunzel"} leaning out from a high stone tower window, viewed from outside at a slightly elevated angle. She wears a soft lavender medieval-inspired princess dress with puff sleeves, white lace trim, and a fitted bodice, plus a pink-and-white bunny ear headband. Her extremely long {argument name="hair color" default="dark brown"} hair is styled into a single enormous thick braid that spills over the windowsill and drops straight down the full height of the image. A small fluffy white rabbit sits on her right shoulder, adding a cute fantasy touch. The tower is pale beige stone with a rounded balcony-like window ledge, an arched opening, deep purple interior curtains, and green ivy climbing around the walls and window frame. In the background, show a bright sunlit storybook landscape with a vivid blue sky, scattered white clouds, rolling green hills, a winding river, a stone bridge with 3 arches, and a distant European-style town with a castle or cathedral. The mood is triumphant, charming, and magical, like a polished high-end fantasy anime key visual. Detailed painterly rendering, soft natural daylight, clean linework, gentle atmospheric perspective, lush foliage, elegant composition, vertical format.
 ```
 
 #### 🖼️ Generated Images
@@ -3353,25 +3268,25 @@ Creative 3D photo merging social media profile interface: the protagonist is a s
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12043_0.jpeg" width="600" alt="3D Girl Breaking Social Profile - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07005_0.jpg" width="600" alt="Rapunzel Tower Anime Fantasy Art - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 87: Mall Fashion Night Portrait
+### No. 85: Ink Cat Portrait Scroll
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a realistic vertical smartphone photo of a fashionable young woman posing indoors at a shopping mall entrance at night, full body from a slightly high a…
+Using REFERENCE_0 as the pet base, transform the cat into a refined traditional Chinese ink-and-color painting in the style of an antique literati portrait. Ke…
 
 #### 📝 Prompt
 
 ```
-Create a realistic vertical smartphone photo of a fashionable young woman posing indoors at a shopping mall entrance at night, full body from a slightly high angle. She has {argument name="hair color" default="dark brown"} hair tied in a high side ponytail, with her face intentionally covered by a soft rectangular blur for privacy. She wears a crisp oversized {argument name="shirt color" default="white"} button-up shirt tucked into a dark gray black plaid pleated mini skirt, loose white scrunch socks, glossy black loafers, and a pale scrunchie on one wrist. She carries one large shiny black shoulder bag on her left shoulder with small dangling charms and a red ribbon accessory. Her pose is shy and casual: one hand raised near her mouth, the other resting lightly on a shiny metal handrail, legs crossed at the ankles. The setting is an upscale indoor mall corridor with reddish brown tiled flooring, stainless steel railings, glass sliding doors behind her, warm cream lighting, a potted green plant visible through the glass, store displays and signage in the background, and a blue-and-white checkered stripe running across the glass doors. Use natural candid phone-camera realism, warm ambient light, detailed reflections in glass and metal, realistic skin tones, shallow but not extreme depth of field, no studio lighting, no watermark, no extra people as the main subject.
+Using REFERENCE_0 as the pet base, transform the cat into a refined traditional Chinese ink-and-color painting in the style of an antique literati portrait. Keep the cat’s identity, silver tabby markings, round face, large eyes, and front-facing seated posture recognizable, but remove all modern indoor objects and place the cat in an elegant classical composition on stone. Add a soft aged rice-paper background, 1 pale full moon near the upper center-left, 1 bamboo cluster along the upper right, 1 ornamental scholar’s rock on the right, and 1 magnolia branch with 3 large white blossoms in the lower left. Add vertical Chinese calligraphy on the upper left with 4 large characters, a second narrower vertical inscription beneath it, and 2 red seal stamps near the inscription. Use delicate brushwork, muted beige-gray tones, subtle washes, fine fur detailing, and a serene poetic atmosphere like an old Eastern painting scroll.
 ```
 
 #### 🖼️ Generated Images
@@ -3379,25 +3294,32 @@ Create a realistic vertical smartphone photo of a fashionable young woman posing
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_00741_0.jpg" width="600" alt="Mall Fashion Night Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06017_0.jpg" width="600" alt="Ink Cat Portrait Scroll - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 88: Cute Chibi Scrapbook Portrait Collage
+### No. 86: Fantasy Tram Wrapped Dream
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{"type":"cute chibi scrapbook portrait collage","format":"vertical social media cover, 3:4 aspect ratio","main_subject":{"description":"a realistic close-up st…
+Make an illustration. Create an original Japanese {argument name="character type" default="character"}-wrapped {argument name="vehicle type" default="streetcar…
 
 #### 📝 Prompt
 
 ```
-{"type":"cute chibi scrapbook portrait collage","format":"vertical social media cover, 3:4 aspect ratio","main_subject":{"description":"a realistic close-up studio portrait of a young man centered in the image, face covered by a soft square privacy blur, thick tousled black hair, slim neck, wearing a black blazer over a black crew-neck shirt","hair_color":"{argument name=\"hair color\" default=\"black\"}","outfit":"{argument name=\"outfit\" default=\"black blazer over black shirt\"}","face_treatment":"{argument name=\"face treatment\" default=\"soft square privacy blur over the face\"}"},"background":{"color":"light warm gray","style":"clean photo backdrop filled with pastel hand-drawn doodles, white sticker outlines, pink underline strokes, hearts, sparkles, smiley faces, tiny drink cup icons, and cloud speech bubbles"},"layout":{"centerpiece":"large realistic portrait fills the middle from hair to chest, with chibi stickers arranged around the head and shoulders","chibi_stickers":{"count":8,"style":"Q-version mini-me stickers based on the same young man, oversized head, black fluffy hair, black outfit, soft blurred face, thick white cutout border, cute glossy scrapbook sticker look","items":[{"position":"upper left","description":"chibi pointing forward with one finger, wearing black shirt"},{"position":"upper right","description":"chibi holding a takeaway coffee cup, wearing a black backpack and headphones around the neck"},{"position":"middle left","description":"sleepy chibi leaning on folded arms on a small desk or ledge"},{"position":"middle right","description":"chibi reading an open dark blue book"},{"position":"lower left","description":"chibi typing on a silver laptop with a white apple-like logo"},{"position":"right center","description":"chibi holding both hands near cheeks in a shy or excited pose"},{"position":"bottom center-left","description":"standing chibi with backpack strap, waving one hand"},{"position":"bottom right","description":"chibi drinking from a small bottle or cup"}]},"handwritten_text_groups":{"count":9,"text":"{argument name=\"handwritten phrases\" default=\"保持热爱 奔赴山海; 元气满满!; 生活明朗 万物可爱; 今日份 开心; 努力成为 更好的自己; 记录 美好瞬间; 加油鸭!; nice day; 多喝水~~\"}","style":"casual white and pink handwritten marker lettering with pink underline accents and speech bubbles"}},"color_palette":"black clothing, warm gray background, white sticker borders, pastel pink highlights, pale yellow sparkle accents","rendering_style":"hybrid realistic portrait plus cute illustrated chibi stickers, soft lighting, high-resolution, playful social-media scrapbook composition, clean edges, charming and upbeat mood"}
+Make an illustration.
+Create an original Japanese {argument name="character type" default="character"}-wrapped {argument name="vehicle type" default="streetcar"} based entirely on the uploaded illustration. Design a fully fictional tram system and railway company naturally born from the artwork’s universe, never resembling any real railway operator or existing vehicle. The design must adapt to the illustration itself: cute rounded styling for soft fantasy or shrine themes, elegant luxury styling for regal worlds, futuristic styling for cyberpunk settings, mystical styling for magical worlds, retro-modern styling for nostalgic atmospheres, or heroic styling for adventure-themed characters.
+
+The tram body shape, front face, windows, headlights, roof equipment, pantograph, interior seating, floor patterns, destination displays, lighting, materials, and overall silhouette must visually reflect the uploaded illustration’s colors, motifs, fashion, architecture, symbols, magic, technology, and emotional tone. All wrapping artwork, logos, route emblems, railway insignia, typography, station signage, and decorative graphics must be fully original fictional designs inspired only by the uploaded illustration.
+
+The tram should travel through a {argument name="environment" default="realistic city, historic district, seaside boulevard, futuristic downtown, shrine town, or fantasy capital"} naturally derived from the artwork’s world. If a character exists in the illustration, place them naturally beside the tram, boarding it, waving from a platform, or riding inside while preserving their identity.
+
+Cinematic transportation photography, dramatic low-angle composition, ultra detailed, anime-inspired masterpiece, premium railway advertisement quality, no watermark.
 ```
 
 #### 🖼️ Generated Images
@@ -3405,31 +3327,57 @@ Create a realistic vertical smartphone photo of a fashionable young woman posing
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09553_0.jpg" width="600" alt="Cute Chibi Scrapbook Portrait Collage - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01612_0.jpg" width="600" alt="Fantasy Tram Wrapped Dream - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09553_1.jpg" width="600" alt="Cute Chibi Scrapbook Portrait Collage - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01612_1.jpg" width="600" alt="Fantasy Tram Wrapped Dream - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01612_2.jpg" width="600" alt="Fantasy Tram Wrapped Dream - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01612_3.jpg" width="600" alt="Fantasy Tram Wrapped Dream - Image 4">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 89: Douyin Beauty Live Stream Interface
+### No. 87: Hermes Agent Daily Automation Infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Generate a Douyin live streaming interface showing a {argument name="subject" default="Beauty"} currently in progress {argument name="activity" default="Live"}
+Goal: Create a vertical hand-drawn graphic recording infographic in Japanese about {argument name="main topic" default="VPS @ Hetznerで動く Hermes Agentの全貌"}, wit…
 
 #### 📝 Prompt
 
 ```
-Generate a Douyin live streaming interface showing a {argument name="subject" default="Beauty"} currently in progress {argument name="activity" default="Live"}
+Goal: Create a vertical hand-drawn graphic recording infographic in Japanese about {argument name="main topic" default="VPS @ Hetznerで動く Hermes Agentの全貌"}, with a friendly automation-kingdom theme and a central mascot robot.
+
+Canvas: Portrait 2:3 poster, warm cream paper background, watercolor marker texture, dark navy handwritten lettering, loose sketch lines, pastel accent colors, small sparkles, arrows, doodles, and imperfect hand-drawn boxes.
+
+Header: At the very top, draw a sunrise/cloud doodle on the left and a small castle on a hill on the right. Large title text reads “VPS @ Hetznerで動く Hermes Agentの全貌”. Under it, add the subtitle “— 佐藤さんの自動化王国” with a small crown icon.
+
+Central subject: In the middle, draw a cute Hermes-themed robot mascot wearing a winged helmet, headphones, white rounded armor, small wing decorations on boots, and a teal cape. The robot smiles through a dark glass face screen and holds a clipboard labeled “TASK”. Around it, place circular time arrows and labels “0:00”, “6:00”, “12:00”, and “18:00”. Beneath the robot, add a nameplate reading “Hermes Agent ⚚” and a dark teal stats plaque reading “265 skills / 50 jobs / 24/7 running on Hetzner VPS”.
+
+Main schedule layout: Use exactly 3 large schedule panels around the mascot. Left panel is orange and titled “朝（早朝・午前）JST”; it contains exactly 4 task rows with icons: 1) newspaper icon, “16:30 — ai-news-morning / 新聞 → Slack #実験”; 2) clipboard icon, “17:00 — meeting-briefing / MTG準備（平日のみ）→ Slack”; 3) rising chart icon, “17:07 — market-intel-morning / 株価グラフ → Slack”; 4) blue bird icon, “18:07 — x-engagement-daily / X バズ分析 → Slack”. Upper right panel is green and titled “日中 JST”; it contains exactly 1 task card with checklist icon: “9–21時 / 2h — Slack-task-detector / Slack→Linear 自動タスク化（平日）”. Right panel is blue and titled “夕方・夜 JST”; it contains exactly 6 task rows with icons: 1) moon and chart, “03:00 — market-intel-evening / 市場夜レポ”; 2) pink brain, “03:00 — metacognition-daily / メタ認知振り返り”; 3) envelope alert, “04:07 — slack-unanswered / 未返信 Slack 督促”; 4) candlestick chart, “06:00 — kaichi-trader-daily / 米株 paper trade / ← 今日NEW!!（平日）”; 5) calendar, “06:07 — calendar-preview / 今日の予定プレビュー”; 6) bar chart, “日曜 05:07 — x-weekly-growth / X 週次成長レポ”.
+
+Background services section: Across the lower third, add a ribbon title “Background Services（常駐24/7）” with a crossed-tools icon and stars. Below it, create exactly 5 vertical service cards, each with a logo-style icon, service list, down arrow, and destination box. Card 1: “Slack:” with multicolor Slack-like dots, services “Conversation Hub / Bridge / MCP Server / Approval Listener”, destination “→Slack DM / 佐藤への日次レポ” with a small face doodle. Card 2: “Discord:” with purple gamepad logo, services “Rate Limit / Reaction Listener”, destination “→Discord / チャンネル”. Card 3: “LINE:” with green LINE icon and small bear/family doodle, services “Log Bot / Webhook Relay / Cloudflare Tunnel”, destination “→LINE / グループログ”. Card 4: “X/Twitter:” with yellow X badge, blue bird holding a pencil, service “Draftflow”, destination “→GitHub / Private repos” with a lock icon. Card 5: “ビジネス:” with red target icon, services “AIFluence / RepoSwipe / AI Office Worker / OwnTracks / ngrok / SSH Portfolio TUI”, destination “→Linear / タスク自動登録” with checklist icon.
+
+Visual style: Japanese sketchnote, analog marker and colored pencil, playful but information-dense, clean enough to read, charming imperfect typography, cream background, navy ink, orange/green/blue/purple/red outlined boxes, small decorative arrows and sparkles. Keep all visible text handwritten and preserve the Japanese/English mixed labels exactly where specified.
+
+Constraints: Use exactly 3 main schedule panels, exactly 11 scheduled task rows total, exactly 5 background service cards, and exactly 5 destination boxes. Do not add extra brands, watermarks, QR codes, photorealism, or typed sans-serif UI styling.
 ```
 
 #### 🖼️ Generated Images
@@ -3437,31 +3385,180 @@ Generate a Douyin live streaming interface showing a {argument name="subject" de
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15684_0.jpg" width="600" alt="Douyin Beauty Live Stream Interface - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09314_0.jpg" width="600" alt="Hermes Agent Daily Automation Infographic - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 88: Vertical City Promo Poster Design
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Please generate a vertical city promotional poster for [City Name]. Don't use fixed templates; first extract the city's most unique cultural background, geogra…
+
+#### 📝 Prompt
+
+```
+Please generate a vertical city promotional poster for [City Name]. Don't use fixed templates; first extract the city's most unique cultural background, geographical environment, industrial development, and city philosophy, then design the visual structure accordingly. 
+
+The composition must be instantly recognizable as a [city name]: select the city's most recognizable historical and cultural symbols, natural geographic symbols, modern landmarks, industrial features, lifestyle, and future vision. The composition is not fixed; the foreground, middle view, distant view, and dynamic elements can be freely arranged according to the city's characteristics. 
+
+Requirements reflect: 
+Historical and Cultural: The city's traditional architecture, regional culture, folklore, historical memories, or spiritual symbols. 
+Current developments: modern skyline, industrial features, transportation, commerce, technology, finance, ports, ecology, etc. 
+City Philosophy: Use visual metaphors to express the city's spirit, such as openness, innovation, vibrant life, internationalization, natural and cultural landscapes, and future technology. 
+Poster texture: vertical 9:16, high-end national trend city promotional poster, realistic digital scenery blending ink and light and shadow, cinematic light and shadow, high detail, commercial poster layout. 
+
+Text: The city name "[City Name]" can serve as the main calligraphy title, plus a slogan that matches the city's character; Avoid excessive small text and garbled text. 
+
+Don't use generic city collages, don't use wrong landmarks, don't feel like cheap travel ads, don't use flashy styles, don't use watermarks.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_13073_0.jpeg" width="600" alt="Vertical City Promo Poster Design - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 89: Hanfu Collage Fashion Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Use case: Identity retention style conversion Asset type: Vertical portrait collage poster for social posts Main request: Use the uploaded portrait photo as a…
+
+#### 📝 Prompt
+
+```
+Use case: Identity retention style conversion  
+Asset type: Vertical portrait collage poster for social posts  
+Main request: Use the uploaded portrait photo as a reference for the person's appearance to create a refined multi-panel portrait collage poster in a charming AI fashion editing style  
+Scene/Background: Traditional Chinese palace complex under warm lighting at night, golden architectural lights, dark sky, reflective stone floor, cinematic bokeh effects, shallow depth of field  
+Subject: The same young woman in the uploaded portrait photo, elegant and noble, with long, glossy black hair, a finely styled semi-updo, classical bun accompanied by soft, loose strands, adorned with a magnificent golden phoenix crown adorned with pearls and delicate hanging tassels  
+Central panel costume: The central full-body panel must show the character wearing a modern, simple white sleeveless short top, high-waisted white shorts, white ankle socks, and chunky white sneakers; Casual and fashionable style, fresh and minimalist, standing confidently with visible long legs  
+Peripheral panel clothing: All peripheral portrait panels display optimized elegant pink ivory Hanfu, multi-layered semi-transparent silk robe with embroidered lace decorations, refined Song/Ming style silhouettes, elegant neckline design, and details in soft rose pink, pearl white, and light gold fabrics, luxurious and historically inspired  
+Composition/Frame: Vertical 9:16 aspect ratio poster, composed of irregular diagonal comic panel collage frames with bold white borders; A tall central full-body modern fashion portrait panel; Peripheral panels include close-up of eyes, smiling half-body Hanfu portraits, fan gesture close-ups, hair crown details, and Hanfu portraits above the waist; Dynamically slanted panel layout, with a refined social media poster look  
+Posture/expression: gentle smile, occasionally closing eyes in some panels, elegant hand posture, holding a delicate round silk fan in a Hanfu panel, calm and graceful  
+Lighting/Atmosphere: Face and skin use high-splare beauty lighting, balanced with warm palace backlighting, presenting natural skin like luminous porcelain, shiny hair highlights, and a romantic festive nighttime atmosphere  
+Color palette: black hair, porcelain skin, central white modern clothing, soft pink Hanfu, ivory silk, warm amber palace lighting, gold jewelry embellishments, pure white collage frame  
+Texture/Retouching: High-end AI fashion retouching with smooth glowing effects, preserving believable facial structures, fine embroidery, translucent silk layers, clear jewelry details, and high-resolution poster clarity  
+Constraint: Retains the recognizable appearance of the person in the uploaded portrait photo; Modern white cropped tops and shorts are limited to the central full-body panel; The surrounding panels maintain a Hanfu style; No watermark; No markings; No writing; Untitled; A clean final image
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15042_0.jpeg" width="600" alt="Hanfu Collage Fashion Poster - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 90: Gourmet Food Poster Design
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Please create a highly completed "Chinese-Led Catering Commercial Food Poster." [Theme Categories] [Main Title in Chinese] [English Auxiliary Subtitle] (Option…
+
+#### 📝 Prompt
+
+```
+Please create a highly completed "Chinese-Led Catering Commercial Food Poster."
+
+[Theme Categories]
+[Main Title in Chinese]
+[English Auxiliary Subtitle] (Optional, small print assistance)
+[Main Visual Food]
+[Ingredient Labeling] (4-6 items, mainly in Chinese)
+[Bottom Selling Point Copy] (4 short sentences in Chinese)
+
+Overall requirements:
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01920_0.jpg" width="600" alt="Gourmet Food Poster Design - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15684_1.jpg" width="600" alt="Douyin Beauty Live Stream Interface - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01920_1.jpg" width="600" alt="Gourmet Food Poster Design - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01920_2.jpg" width="600" alt="Gourmet Food Poster Design - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01920_3.jpg" width="600" alt="Gourmet Food Poster Design - Image 4">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 90: Spring Secret Whispers
+### No. 91: Candid Luxury SUV Backseat Fashion Snap
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A vibrant, highly detailed, surreal realist photographic image depicting a playful spring scene. A beautiful young woman stands outside a house with smooth bei…
+{ "prompt": { "subject": "{argument name="subject" default="young woman seated in luxury SUV backseat, one arm raised behind head, holding smartphone, relaxed…
 
 #### 📝 Prompt
 
 ```
-A vibrant, highly detailed, surreal realist photographic image depicting a playful spring scene. A beautiful young woman stands outside a house with smooth beige walls, pressing her finger to her lips in a secret "shh" gesture, while playfully hiding a bouquet of pink flowers behind her back. She sports long black wavy hair, wears a light pink long-sleeved shirt with a blue bow, a high-waisted pleated blue midi skirt with white pinstripes, and blue canvas sneakers. Beside her, a furry orange tabby cat patiently sits on the windowsill outside the blue window frame. Inside the window, a smiling young man with short black hair, a light beard, and a teal jacket was happily looking outside. The scene is bathed in bright, clear sunlight, casting clear, beautiful branch silhouettes on the walls of the house. Soft, overburned pink branches outline the foreground at the bottom, adding a warm sense of depth. Clean, bright, romantic, cinematic lighting effects, hyper-realistic.
+{
+  "prompt": {
+    "subject": "{argument name="subject" default="young woman seated in luxury SUV backseat, one arm raised behind head, holding smartphone, relaxed confident pose"}",
+    "styling": {
+      "top": "{argument name="clothing" default="red varsity knit sweater with white stripe detailing and script lettering"}",
+      "bottom": "black pants with Burberry plaid skirt or scarf draped over lap",
+      "headwear": "navy blue Lacoste dad cap, slightly forward",
+      "accessories": [
+        "lanyard badge around neck",
+        "AirPods Max headphones on floor",
+        "red tote bag with embroidered detail"
+      ]
+    },
+    "setting": {
+      "location": "luxury SUV backseat interior",
+      "interior": "black leather seats with cream contrast stitching, panoramic sunroof, wood trim accents",
+      "background": "urban street visible through rain-speckled car window, brick buildings"
+    },
+    "mood": "effortlessly cool, candid, off-duty model energy",
+    "lighting": "natural daylight through car windows, soft overcast light",
+    "camera": {
+      "angle": "slight low angle, 3/4 view",
+      "style": "candid iPhone snapshot, realistic, not staged"
+    },
+    "color_palette": ["crimson red", "navy blue", "cream white", "camel plaid", "black"]
+  }
+}
 ```
 
 #### 🖼️ Generated Images
@@ -3469,25 +3566,29 @@ A vibrant, highly detailed, surreal realist photographic image depicting a playf
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15052_0.jpg" width="600" alt="Spring Secret Whispers - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02027_0.jpg" width="600" alt="Candid Luxury SUV Backseat Fashion Snap - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 91: Y2K Korean Fashion Editorial
+### No. 92: Yoga Pants Livestream Showcase
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A high-end fashion Y2K-style editorial artwork, with the center of the image featuring a confident, fashionable young East Asian woman. She has radiant, dewy s…
+[Chinese] On a vertical phone screen, styled like a short video live streaming platform, a young Asian female streamer is livestreaming from home selling produ…
 
 #### 📝 Prompt
 
 ```
-A high-end fashion Y2K-style editorial artwork, with the center of the image featuring a confident, fashionable young East Asian woman. She has radiant, dewy skin, delicate and elegant makeup, flowing dark long hair, and light, airy bangs. The clothing blends modern Korean street fashion aesthetics with multi-layered trendy accessories. The background is filled with bold experimental layouts, rich magazine-style graphics, retro pop visuals, chrome textured elements, playful icons, stickers, hearts, stars, dialog boxes, UI overlays, and barcode elements. The design style presents a nostalgic blend of early 2000s fashion magazine covers with contemporary Korean Wave visual marketing. It features well-arranged Japanese-Korean style text details, dynamic layered composition, vibrant commercial poster atmosphere, refreshing studio flash lighting, and strong contrast, perfectly blending realistic editorial photography with graphic design aesthetics. The details are extremely rich, the focus is clear, and it has a luxury-grade print-quality texture with strong visual immersion, presenting an ultra-high-end fashion event visual effect, cinematic composition, and 8K resolution.
+[Chinese]
+On a vertical phone screen, styled like a short video live streaming platform, a young Asian female streamer is livestreaming from home selling products. The host wears fitted yoga pants and a simple top, her figure naturally curved, showing off the lines and elasticity of her pants from the side, with movements that are natural and not exaggerated;
+
+[English]
+Mobile vertical screen interface, short video live streaming platform style, a young Asian female streamer selling goods through live streaming at home, the streamer is wearing tight yoga pants and a simple top, natural body curves, turning sideways to show the lines and elasticity of the pants, natural movements without exaggeration;
 ```
 
 #### 🖼️ Generated Images
@@ -3495,31 +3596,270 @@ A high-end fashion Y2K-style editorial artwork, with the center of the image fea
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15217_0.jpg" width="600" alt="Y2K Korean Fashion Editorial - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15418_0.jpg" width="600" alt="Yoga Pants Livestream Showcase - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 93: Futuristic Mirror Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Using uploaded face 100 percent same & realistic. A hyper-realistic, cinematic portrait of a {argument name="subject" default="handsome young man with thick st…
+
+#### 📝 Prompt
+
+```
+Using uploaded face 100 percent same & realistic. A hyper-realistic, cinematic portrait of a {argument name="subject" default="handsome young man with thick styled dark hair, a mustache, and a beard"}. He is confidently walking forward, looking slightly off-camera with a subtle smile. He is wearing a {argument name="outfit" default="tailored light beige suit jacket and matching trousers"}, a plain white t-shirt underneath, and clean white sneakers. One hand is casually resting in his trouser pocket. The setting is {argument name="setting" default="ethereal and futuristic"}, featuring a highly reflective, glossy floor with low-lying white mist or fog rolling across it. Behind him stand four tall, vertical rectangular mirrors or glass panels. Each panel displays a slightly different reflection or alternate version of the same man in various poses and different outfits (such as a black blazer and a pink textured sweater). Bright, clean studio lighting with a mix of cool and neutral tones, highly detailed, photorealistic, editorial fashion photography style. Keep original face and hairstyle 100% reference
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_21519_0.jpg" width="600" alt="Futuristic Mirror Fashion Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 94: Crimson Dragon & Knight Queen
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A cinematic high-fantasy illustration of a gigantic crimson dragon and a regal female dragon knight standing together on a rocky mountain ridge under a bright…
+
+#### 📝 Prompt
+
+```
+A cinematic high-fantasy illustration of a gigantic crimson dragon and a regal female dragon knight standing together on a rocky mountain ridge under a bright pale-blue daytime sky. The dragon dominates the frame, coiled behind and around the warrior, with 2 long sweeping golden-brown horns, a dense windswept mane of fiery red and copper hair, layered red scales with metallic sheen, a long snarling snout, sharp exposed teeth, 2 thin whiskers curling outward from the muzzle, and a fierce intelligent eye staring toward the viewer. Its back is lined with a row of sharp dorsal spines, and its massive body curves across the entire background, emphasizing scale and power. In front of the dragon stands {argument name="character name" default="a dragon knight queen"}, a tall armored woman in ornate red, black, and gold battle attire, facing forward in a heroic stance. She has {argument name="hair color" default="red"} hair styled long and flowing, partially tied up, and wears elaborate engraved plate armor with decorated pauldrons, gauntlets, a fitted breastplate, and a long layered gown-like armored skirt with intricate gold filigree. A rich crimson cape drapes behind her and catches the wind. She holds 1 unsheathed sword lowered at her side, while a second blade or dagger is visible at her waist, giving the composition exactly 2 visible weapons. The palette is dominated by scarlet, burgundy, copper, and antique gold, with dramatic sunlight, detailed textures, ultra-fine scales, polished metal, and flowing fabric. Composition is epic and centered, low-angle, full-body warrior in the foreground with the dragon’s head filling the left side and its coiled body arcing across the upper and right background. Style: ultra-detailed fantasy concept art, majestic, heroic, painterly realism, sharp focus, high contrast, volumetric light, premium game key art quality.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_05174_0.jpg" width="600" alt="Crimson Dragon & Knight Queen - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 95: $578 Price Revealed
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+$578
+
+#### 📝 Prompt
+
+```
+$578
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16613_0.jpg" width="600" alt="$578 Price Revealed - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 96: Dreamy Celestial Ice Princess Design
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A full-body anime character design of a dreamy celestial ice princess standing centered against a clean white background with faint glowing cyan swirls and spa…
+
+#### 📝 Prompt
+
+```
+A full-body anime character design of a dreamy celestial ice princess standing centered against a clean white background with faint glowing cyan swirls and sparkles. She has very long, flowing {argument name="hair color" default="icy gradient blue"} hair that reaches past her knees, with soft volume, glossy strands, a braided side section, and star-shaped hair ornaments. Add a delicate silver crescent-moon headpiece above her head, plus tiny dangling star accessories near the ears. Her face is mostly soft and pretty in shoujo style, but keep it simple and elegant. She wears a short fantasy dress in {argument name="dress color" default="light sky blue and white"}, with a fitted bodice, sweetheart neckline, translucent puff sleeves, lace trim, tiny floral accents at the sleeves, and a sparkling star-shaped ornament at the chest with hanging jewel chains. Around her neck is a moon-and-star choker necklace. The skirt has 2 layers: a short front skirt and a long high-low overskirt draping down on both sides and back. Decorate the dress with celestial motifs including 3 crescent moons on the hem of the short skirt, 1 large central starburst motif, white filigree patterns, glitter, and tiny star-like lights throughout. Add small dangling charms under the skirt hem and overskirt, including stars and teardrop crystals. She wears white thigh-high stockings, with 3 visible star decorations on the upper thigh area of one stocking, and glossy blue high heels with ankle straps, bows, and star ornaments on the toes. Pose her front-facing with one leg slightly forward, arms relaxed naturally, and hair spreading outward in elegant flowing curves. Surround her with 4 larger glowing star sparkles and 2 small snowflake-like motifs. The image should feel ethereal, refined, luminous, pastel, magical-girl inspired, ultra-clean, highly polished, and delicately detailed, with soft gradients, crisp line art, subtle glitter effects, and a premium character-sheet illustration aesthetic.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06043_0.jpg" width="600" alt="Dreamy Celestial Ice Princess Design - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 97: Cinematic Blue Night Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-realistic cinematic night portrait, standing in a {argument name="location" default="dark urban alley or industrial concrete street"}. The subject is wea…
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic night portrait, standing in a {argument name="location" default="dark urban alley or industrial concrete street"}. The subject is wearing a {argument name="outfit" default="glossy black leather bomber jacket and loose oversized white trousers with white sneakers"}. Hands casually in pockets, body slightly turned, face looking sideways (profile view) with a calm, mysterious expression.
+Lighting is deep blue cinematic low-key lighting, high contrast shadows, with a strong cold blue color grade dominating the entire scene. A soft directional light hits the face from the side, creating sharp highlights and deep shadows.
+Add a motion-blurred {argument name="blur element" default="human silhouette"} passing beside the subject (left side), captured with long exposure effect, creating streaked blur while the main subject remains perfectly sharp and in focus. Background is a dark, empty concrete wall or alley with minimal texture, slightly out of focus. Atmosphere is moody, mysterious, luxury editorial style.
+Shot on 50mm lens, shallow depth of field, ultra-detailed skin texture
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03363_0.jpg" width="600" alt="Cinematic Blue Night Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 98: Rich Chocolate Healing Biscuit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+"Rich. Chocolate. Healing. ” High-end modern biscuit advertising prompts Roles: Senior Global FMCG Creative Director, premium cookie sports designer, luxury fo…
+
+#### 📝 Prompt
+
+```
+"Rich. Chocolate. Healing. ”
+High-end modern biscuit advertising prompts
+
+Roles:
+Senior Global FMCG Creative Director, premium cookie sports designer, luxury food stylist, and commercial product photographer created a top-tier milk chocolate digestible biscuit campaign.
+
+Visual style integration:
+— High-end FMCG Instagram promotional style
+— Modern chocolate cookie commercial
+— Pure luxury food photography
+— Apple-style product minimalism
+— Contemporary healing snack brand design
+
+Poster Atmosphere:
+High-end, warm, rich, minimalist, healing, mouthwatering, and commercial.
+Rejection: cinematic fantasy style, dark and oppressive luxury, chaotic collage art, excessive dramatization. This should look like a real international digestive biscuit commercial campaign.
+
+Core Concepts:
+A group of hyper-realistic milk, chocolate, digestive biscuits is elegantly placed at the center of the composition. One cookie is bitten and slightly raised, revealing: a smooth, glossy milk chocolate coating and the crispy wheat cookie texture underneath.
+
+Authentic visual details:
+— Rich milk chocolate coating
+— Crispy digestive biscuit texture
+— Golden wheat biscuit edges
+— Real cookie pores
+— Fine fragments
+— Exquisite chocolate shine
+Add light, floating crumbs and tiny chocolate particles to enhance a premium sense of dynamism and freshness.
+Biscuits should present a texture that is healing, indulgent, premium, satisfying, and worth sharing. Treat cookies as core hero products.
+
+Visual direction:
+Inspired by: McVitie's high-end promotional videos, luxury fast-moving consumer goods ads, modern Instagram snack ads, minimalist high-end product photography, and contemporary supermarket brand design. The visual effect should be rich, warm, sharp, commercial, and globally recognizable.
+
+Background:
+Minimalist high-end studio background. Use the following gradients: deep milk chocolate brown, warm caramel beige, subtle golden highlights, rich cocoa shadows, and soft creamy halos. There is soft light behind the biscuit, and a minimalist glossy reflection underneath the product. The visuals are tidy, with no cluttered props. The background can optionally incorporate a soft, flowing chocolate swirl texture to enhance richness.
+
+Lighting:
+Professional commercial food lighting. Silky chocolate highlights, premium reflections, softly balanced shadows, enticing warm color contrasts, and pure studio realism. The chocolate coating should look silky luxurious, and the cookie texture should feel crispy and freshly baked.
+
+Composition:
+The central protagonist's composition. Strong visual layering. Balanced negative space. Minimalist dynamic effects: floating crumbs, fine chocolate powder, tiny cocoa granules, and gentle chocolate splashes for decoration. Fast-moving consumer goods ad layout adapted to Instagram. Modern high-end snack advertising aesthetics.
+
+Layout suggestions:
+Large bold title: "RICH. SMOOTH. SATISFYING.”
+Subtitle: "The chocolate digestive everyone loves."
+Supporting text: REAL MILK CHOCOLATE, GOLDEN WHEAT BISCUITS, PERFECT TEA-TIME TREAT.
+Layout style: bold, modern sans-serif fonts, minimalist, high-end FMCG brand aesthetics, with placement and layout conforming to authentic global cookie advertising standards.
+
+Packaging:
+At the bottom of the composition, a realistic milk chocolate digestible biscuit packaging is added. Packaging should look glossy and authentic, maintain the signature blue and chocolate tone of the brand, maintain balance in composition, and complement the core product rather than overshadow the main product.
+
+Tone:
+Milk chocolate brown, caramel beige, golden wheat color, deep royal blue, creamy highlighter, subtle cocoa shading. Bright high-end commercial color grading.
+
+Emotional Resonance:
+The poster should evoke: "I need a drink with tea or coffee right now." " Emotion: healing, high-end, warm, modern, indulgent, and a sense of everyday luxury.
+
+Quality Requirements:
+Hyper-realistic, top-tier commercial food photography, realistic feel for formal FMCG events, modern cookie ad quality, compatible with Instagram and billboards. Aspect ratio 4:5, ultra HD, 8K.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14110_0.jpg" width="600" alt="Rich Chocolate Healing Biscuit - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_15217_1.jpg" width="600" alt="Y2K Korean Fashion Editorial - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_14110_1.jpg" width="600" alt="Rich Chocolate Healing Biscuit - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 92: Twenty Four Dollars Price
+### No. 99: Bilingual Prompt Comparison Panel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-$24e
+Goal: Create a wide screenshot-style comparison panel showing image-generation results for the same prompt in two languages. Canvas: Use a horizontal 1199×461…
 
 #### 📝 Prompt
 
 ```
-$24e
+Goal: Create a wide screenshot-style comparison panel showing image-generation results for the same prompt in two languages.
+
+Canvas: Use a horizontal 1199×461 px composition on a very light gray/off-white background, like a social media screenshot or web gallery capture.
+
+Layout: Arrange the left 75% as a 2-row by 4-column gallery of exactly 8 rounded-corner photo cards, with narrow white gutters between cards. Each card is a square-ish portrait photograph of two women sitting close together, facing each other or angled inward, each placing one index finger on the other person's lips in a mutual “shh” gesture. On the right 25%, place two stacked prompt description blocks aligned with the two gallery rows.
+
+Gallery details: Include exactly 8 distinct generated-photo cards:
+1. Top-left: two women seated on the floor against a blue studio backdrop, one in a floral dress, one in an orange outfit.
+2. Top-second: two women in casual sweaters, one dark-haired and one blonde, seated close together against a pale gray background.
+3. Top-third: warm cinematic dark teal/orange image, both women wearing hats, faces partially obscured by large soft blur rectangles.
+4. Top-fourth: two women on a white background, one in white clothing and one in a mustard cardigan with striped shirt.
+5. Bottom-left: two young women seated indoors near a window, soft casual snapshot lighting.
+6. Bottom-second: two young women in black and pale pink tops, close-up casual indoor portrait.
+7. Bottom-third: two young women seated on chairs, one in a dark dress and one in a light cardigan, against a plain wall.
+8. Bottom-fourth: two young women in white and gray sweaters, seated indoors against a light wall.
+
+Face treatment: All visible faces in the 8 cards should be anonymized with soft rectangular mosaic/blur blocks over the face area, matching the screenshot-like privacy masking.
+
+Right-side text content: At the top right, show the English prompt text: “{argument name="English prompt text" default="Two women are sitting facing each other. They are each placing their index finger on the other's lips."}” Under it, place two small rounded gray tags reading “raw” and “v 8.1”. Below, aligned with the second row, show the Japanese prompt text: “{argument name="Japanese prompt text" default="二人の女性が向かい合って座っている。お互い相手の唇に人差し指をあてている"}” Under it, place two matching gray tags reading “raw” and “v 8.1”.
+
+Visual style: Photorealistic generated-image thumbnails, varied lighting and wardrobes, clean UI spacing, rounded image corners, sans-serif interface text in dark gray, small pale-gray pill tags. The overall image should look like a captured comparison grid demonstrating prompt-following consistency, not a polished poster.
+
+Constraints: Use exactly 8 photo cards, exactly 2 text blocks, and exactly 4 pill tags total. Do not add logos, watermarks, browser chrome, captions inside the photo cards, or extra UI elements.
 ```
 
 #### 🖼️ Generated Images
@@ -3527,25 +3867,25 @@ $24e
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/3/GI2_16078_0.jpg" width="600" alt="Twenty Four Dollars Price - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_09549_0.jpg" width="600" alt="Bilingual Prompt Comparison Panel - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 93: Waiting on Night Bridge
+### No. 100: Inside Starbucks Frappuccino Cup View
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-[Subject] {argument name="Identity" default="East Asian woman around 22 years old"}, {argument name="Scene" default="Night city pedestrian bridge"}, Boyfriend'…
+View from inside a {argument name="drink type" default="Starbucks strawberry frappuccino"} cup looking up, fisheye lens extreme distortion, worm's eye perspect…
 
 #### 📝 Prompt
 
 ```
-[Subject] {argument name="Identity" default="East Asian woman around 22 years old"}, {argument name="Scene" default="Night city pedestrian bridge"}, Boyfriend's perspective mobile night portrait snapshot [Core Pose] - Woman standing near the pedestrian bridge handrail, as if quietly waiting at the agreed spot - Noticing her boyfriend's arrival, she naturally looks up, showing a reassured, happy but not exaggerated smile - One hand naturally reaches toward the camera, as if saying "Come over here" or "Hold your hand" - hand is closer to the camera because the phone's wide-angle perspective is slightly larger, fingertips are slightly soft-focused - Shoulders relaxed, posture natural, no deliberate posing or emphasizing body curves - Gentle and approachable expression, just like a relaxed smile to a familiar person - Hair is medium length from dark brown to black, influenced by night wind and humidity, with slightly messy ends and bangs, giving a natural tie feel. [Environment] Night urban pedestrian bridge, preserving the bridge structure shown in the reference image Handrails, tiled floors, streetlights, high-rise buildings, blue glowing buildings, distant roads, car lights, and street trees. The background features real city nighttime dark noise and lighting layers; avoid overly clean or set design. [Clothing/Details] {argument name="clothing" default="white or light-colored sleeveless knit top"}, black long skirt or loose pants, a casual urban night look for before and after a date. Wearing a small necklace, understated earrings, and carrying a black shoulder bag. The overall look is clean and natural, without excessive embellishment. [Composition Requirements] Portrait 3:4, with the woman positioned slightly below center of the frame. Composition layers: Hands reaching out nearby→ Natural smiles and gentle gazes→ Overpass handrails→ Night city streets and high-rise lights. The composition should be slightly tilted, like a real photo your boyfriend casually took with his phone after arriving at the agreed location. Don't aim for perfect symmetry or commercial blockbuster composition. [Camera/Technical Specifications] Realistic smartphone night snapshot texture, boyfriend's view, close-up shots, approx. 24mm phone wide-angle, slightly lower than line of sight. The phone uses HDR processing, with the face roughly focused and the fingertips slightly soft-focused. Mild nighttime noise, mild motion blur, social media compression, and natural halo from the background headlights. [Ambience/Light] The warm top light of street lamps at night blends with window lights, road lights, and blue-glowing buildings to create mixed light. There are slight color differences on the skin and clothing, and natural highlights and slight overexposure on the cheeks and nose tips caused by streetlights and HDR from the phone. Overall, it has a damp night, hazy air, streetlight glare, and a quiet urban atmosphere before and after the last train. [Style] Daily phone snapshots, realistic Japanese urban night portraits, like casual photos posted on social media. Natural, intimate, and life-oriented—not like studio photography or commercial blockbusters, so don't overdo AI beautification.
+View from inside a {argument name="drink type" default="Starbucks strawberry frappuccino"} cup looking up, fisheye lens extreme distortion, worm's eye perspective, crushed strawberry ice macro foreground with glistening bokeh highlights, one single continuous green straw passing through the entire frame from top to bottom connecting lips to ice, uploaded {argument name="subject" default="girl"} peering down from above through cup opening with wide-eyed excited expression lips pursed on straw top, whipped cream layer, Starbucks logo visible on cup wall, clear blue sky background through opening, high saturation red strawberry vs green straw complementary colors, bright summer daylight, hyper-realistic commercial photography
 ```
 
 #### 🖼️ Generated Images
@@ -3553,221 +3893,7 @@ $24e
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_03261_0.jpg" width="600" alt="Waiting on Night Bridge - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 94: Premium Sporty Creator Portrait Generation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Based on the uploaded personal photo, generate a realistic premium studio {argument name="portrait style" default="sporty creator"} portrait of the same person…
-
-#### 📝 Prompt
-
-```
-Based on the uploaded personal photo, generate a realistic premium studio {argument name="portrait style" default="sporty creator"} portrait of the same person. Preserve the person’s real identity above all else. Strictly keep the face recognizable, including face shape, facial proportions, eyes, nose, lips, skin tone, and overall likeness. The result must clearly look like the same person, not a different person and not a synthetic AI face. Do not preserve the original facial expression if it looks like an ID photo, a stiff neutral face, an awkward smile, or weak eye contact. Replace it with a refined sporty portrait expression: calm, confident, softly serious, self-possessed, and quietly strong. The eyes should have direct eye contact with the camera, with a steady focused gaze and subtle intensity. The mouth should remain relaxed and closed, without a smile. The overall facial expression should project confidence through restraint, discipline, and composure. Create a clean, healthy, feminine, athletic, premium sporty creator portrait. Hair and grooming: Keep the hairstyle believable for the person. Preserve recognizable hair length, hairline, fringe or bangs if present, overall hair color, and facial framing. If the person has short hair, keep it short in a polished sporty way. If the person has longer hair, light styling or a neat sporty arrangement is allowed. A few soft natural strands around the face are welcome if suitable. Use a natural no-makeup makeup look, fresh healthy skin, subtly defined eyes, natural brows, and soft neutral lips. Outfit: A fitted {argument name="outfit color" default="burgundy"} sporty top or fitted short-sleeve crop top, paired with high-waisted black fitted pants or sleek black athletic-casual trousers. Keep the styling clean, minimal, sporty-feminine, tasteful, and not exaggerated. Show realistic fabric texture and natural folds. No distracting accessories. Pose: Standing naturally and confidently, with the upper body slightly angled rather than perfectly flat to the camera. One hand lightly touching or resting near the waistband, the other relaxed naturally or near a pocket. Relaxed shoulders, elegant posture, natural sporty portrait body language. Lighting and photography: Use realistic professional studio portrait photography. Soft frontal key light slightly above eye level, subtle shaping on the face and upper body, gentle contour through light rather than harsh shadows, visible catchlights in the eyes, realistic skin texture, refined tonal contrast, gentle subject separation from the background, and a premium polished studio finish. The lighting should feel dimensional and elevated, not flat like an ID photo and not overly dramatic like a fashion campaign. Background: {argument name="background style" default="dark charcoal gray"} seamless studio background with a subtle soft gradient and slight vignette. Clean, minimal, premium studio atmosphere. Composition: Vertical portrait, half-body to three-quarter-body compositio
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_07921_0.jpg" width="600" alt="Premium Sporty Creator Portrait Generation - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 95: Runaway Vacuum Chaos in Living Room
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Ultra-realistic surreal cinematic photography, 8K. A young woman wearing {argument name="clothing" default="a bright turquoise oversized T-shirt, purple sweatp…
-
-#### 📝 Prompt
-
-```
-Ultra-realistic surreal cinematic photography, 8K.
-
-A young woman wearing {argument name="clothing" default="a bright turquoise oversized T-shirt, purple sweatpants, and colorful sneakers"}, accidentally being pulled across the living room by an {argument name="object" default="enormous runaway vacuum cleaner"}.
-
-Gesture: both hands desperately gripping the vacuum hose, body leaning backward, one foot sliding across the floor, face showing exaggerated surprise mixed with uncontrollable laughter.
-
-Environment: surreal living room disaster, enormous vacuum cleaner racing across the floor, rugs flying upward, cushions spinning through the air, books floating, curtains swirling dramatically, colorful household objects suspended in mid-air, a glowing wall sign saying "{argument name="sign text" default="Challenge Trouble"}".
-
-Mood: cheerful, chaotic, absurd, hilarious, goofy, ridiculous, full-color.
-
-Camera angle: dynamic side-angle tracking composition, capturing the woman's entire body and the runaway vacuum cleaner.
-
-Ultra-realistic photography, cinematic lighting, vibrant colors, realistic motion implied through composition, highly detailed textures, exaggerated comedic energy.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20683_0.jpg" width="600" alt="Runaway Vacuum Chaos in Living Room - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/4/GI2_20683_1.jpg" width="600" alt="Runaway Vacuum Chaos in Living Room - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 96: Miniature Planet Soccer Star
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a hyper-realistic miniature planet fisheye scene featuring a young person happily standing at the center of a miniature 3D world. Use uploaded reference…
-
-#### 📝 Prompt
-
-```
-Create a hyper-realistic miniature planet fisheye scene featuring a young person happily standing at the center of a miniature 3D world. Use uploaded reference images to achieve accurate facial similarity while preserving natural facial identity, expressions, hairstyle, and overall appearance. Keep the face highly consistent and distorted from the reference image. Characters wear dark green sweatshirts, sweatpants, and white sneakers. A vibrant nostalgic universe surrounds the miniature planet, inspired by iconic 2000s animated shows and classic cartoon aesthetics. Includes brightly colored, playful, and stylized characters inspired by famous childhood cartoon heroes and anime adventurers from classic TV shows like Cartoon Network, Disney Channel, Jetix, Pogo, Hungama, and Nickelodeon. The surrounding characters should be dynamically distributed around the planet like cheerful animated companions, creating a fun crossover celebration atmosphere. Environmental features include dense green grass, cinematic shallow depth of field, soft sunlight, warm natural tones, vibrant fantasy lighting, and highly detailed textures. Blends realistic cinematography with stylized 3D animation aesthetics. Visual style: hyper-realistic miniature planet composition, ultra-detailed 3D animation rendering, playful nostalgic childhood atmosphere, cinematic DSLR photography look, realistic skin textures and detailed costumes, soft atmospheric lighting and smooth bokeh, vibrant and colorful cartoon-inspired universe, professional composition and balanced framing, joyful adventure mood, high-detail fantasy realism, 8K ultra-high quality. Create this prompt based on football players and their official World Cup jerseys.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12758_0.jpg" width="600" alt="Miniature Planet Soccer Star - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12758_1.jpg" width="600" alt="Miniature Planet Soccer Star - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 97: Forbes Style Professional Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a hyper-realistic {argument name="magazine name" default="Forbes "30 Under 30""} magazine-style portrait of the same woman from the reference image (pre…
-
-#### 📝 Prompt
-
-```
-Create a hyper-realistic {argument name="magazine name" default="Forbes "30 Under 30""} magazine-style portrait of the same woman from the reference image (preserve her exact facial features, identity, and expression 100%). She is sitting confidently on a modern luxury sofa in a high-end office or studio environment.
-She has a radiant, glowing skin tone with soft, natural makeup, subtle highlights on cheekbones, and bright, sharp eyes behind elegant glasses. Her expression is calm, confident, and successful.
-Outfit: {argument name="outfit style" default="smart professional attire (minimalist black or neutral tones)"}, clean and modern.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_02221_0.jpg" width="600" alt="Forbes Style Professional Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 98: Cyberpunk Store Human Robot Encounter
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A cinematic digital painting of a {argument name="setting" default="cyberpunk store"}. On the left, a {argument name="person description" default="person in da…
-
-#### 📝 Prompt
-
-```
-A cinematic digital painting of a {argument name="setting" default="cyberpunk store"}. On the left, a {argument name="person description" default="person in dark clothing"} sits facing a massive, intricate robot standing on the right. The robot features dark mechanical armor and a glowing {argument name="robot face color" default="bright orange"} square monitor for a face displaying a white symbol. The background consists of shelves packed with brightly colored neon items. The atmosphere is moody and slightly hazy, illuminated by contrasting {argument name="ambient lighting" default="teal and cyan"} ambient light against the robot's warm glow.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_01115_0.jpg" width="600" alt="Cyberpunk Store Human Robot Encounter - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 99: Pear Blossom Cool Beauty Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Realistic portrait photography in traditional Chinese style. Classical soft-focus film aesthetics, with a cool and melancholic atmosphere. Close-up with a slig…
-
-#### 📝 Prompt
-
-```
-Realistic portrait photography in traditional Chinese style. Classical soft-focus film aesthetics, with a cool and melancholic atmosphere. Close-up with a slight overhead view, shallow depth. A refined and elegant young woman with cool fair skin and a soft highlight. She lowered her head slightly, her gaze distant, and with one hand's slender fingers, gently stroked her chin, her elegant and slender manicure styled. Dressed in silver-white silk costumes with finely detailed bright patterns, the fabric shows a natural slight sheen and draping pleats. Her forehead is adorned with red floral hairpins, and her black hair is slightly loose. In the dark background, faint white pear blossoms can be seen. Local spotlights fall from above, with cool blue and silver-white main colors accompanied by soft shadows, a film texture, and delicate image quality
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/2/GI2_12860_0.jpg" width="600" alt="Pear Blossom Cool Beauty Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 100: Pixar-Style Cute Cartoon Girl Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-3D animated Pixar-style cartoon girl, warm cinematic lighting, soft brown gradient background with large empty negative space above, centered composition, cute…
-
-#### 📝 Prompt
-
-```
-3D animated Pixar-style cartoon girl, warm cinematic lighting, soft brown gradient background with large empty negative space above, centered composition, cute {argument name="subject" default="young girl"} with {argument name="hair style" default="short fluffy curly ginger hair"}, oversized expressive eyes, tiny nose, soft smile, dreamy upward gaze, {argument name="clothing" default="cozy cream knitted oversized cardigan with textured wool detail"}, white inner top, blue denim jeans, hands inside pockets, soft glowing skin, realistic hair strands, detailed fabric texture, warm golden-hour tones, shallow depth of field, ultra aesthetic, wholesome mood, high detail, clean render, studio-quality lighting, subtle shadows, vertical portrait composition, minimal background, Disney/Pixar inspired character design, ultra sharp, 4k render, soft ambient light, adorable expression, cinematic color grading, highly detailed 3D illustration.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04574_0.jpg" width="600" alt="Pixar-Style Cute Cartoon Girl Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/0/GI2_04574_1.jpg" width="600" alt="Pixar-Style Cute Cartoon Girl Portrait - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets/resolve/main/gpt-image-2/images/1/GI2_06526_0.jpg" width="600" alt="Inside Starbucks Frappuccino Cup View - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
@@ -3802,6 +3928,6 @@ Licensed under CC BY 4.0.
 
 **[🌐 View in Web Gallery](https://prompthub.gokuscraper.com)** • **[⭐ Star this repo](https://github.com/goku-open/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: Wednesday, September 2, 2026 at 1:41:49 AM UTC</sub>
+<sub>🤖 This README is automatically generated. Last updated: Thursday, September 3, 2026 at 1:47:27 AM UTC</sub>
 
 </div>
