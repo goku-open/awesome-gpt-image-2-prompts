@@ -50,7 +50,7 @@
 | 指标 | 数量 |
 |--------|-------|
 | 📝 提示词总数 | **undefined** |
-| 🔄 最后更新 | **2026年9月25日星期五 UTC 02:11:55** |
+| 🔄 最后更新 | **2026年9月26日星期六 UTC 02:17:21** |
 
 </div>
 
@@ -3021,6 +3021,6 @@
 
 **[🌐 在网页图库中查看](https://prompthub.gokuscraper.com)** • **[⭐ 给仓库点星](https://github.com/goku-open/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026年9月25日星期五 UTC 02:11:55</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026年9月26日星期六 UTC 02:17:21</sub>
 
 </div>
